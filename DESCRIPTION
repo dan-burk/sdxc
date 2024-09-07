@@ -1,0 +1,40 @@
+Package: sdxc
+Title: South Dakota XC Shiny App
+Version: 0.0.0.1
+Authors@R: 
+    person(given = "Daniel",
+           family = "Burkhalter",
+           role = c("aut", "cre"),
+           email = "dburkhalter1500@gmail.com")
+Description: This package analyzes South Dakota XC Data.
+License: MIT + file LICENSE
+Imports: 
+    config,
+    golem,
+    tippy,
+    gridExtra,
+    openai,
+    DT,
+    shinybusy,
+    shinyjs,
+    plotly,
+    summarytools,
+    DataExplorer,
+    corrplot,
+    tableone,
+    GGally,
+    janitor,
+    RSQLite,
+    canvasXpress,
+    moments
+Depends:
+    tidyverse
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.2
+Suggests: 
+    knitr,
+    rmarkdown,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
