@@ -19,7 +19,7 @@ run_app()
 if(0){
 remove.packages("sdxc")
 
-remotes::install_github("gexijin/sdxc", upgrade = "never")
+remotes::install_github("dan-burk/sdxc", upgrade = "never")
 
 .rs.restartR()
 
