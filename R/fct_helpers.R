@@ -6,6 +6,7 @@
 ###################################################
 
 
+df_boys <- read.csv("C:/Users/Daniel Burkhalter/OneDrive - South Dakota State University - SDSU/Documents/School/STAT 651/XC Ranking/Simulation/df_points_boys.csv")
 
 ###################################################
 # Global variables
@@ -1547,4 +1548,32 @@ create_chat_completion_rtutor <- function(
 
     parsed
 
+}
+
+
+
+
+#' Convert seconds to minute:second.hundredths format
+#'
+#' Converts a given time in seconds to a string formatted as minutes, seconds, and hundredths of a second.
+#'
+#' @param total_seconds A numeric value representing time in seconds
+#' @return A string in the format minute:second.hundredths
+#' @examples
+#' convert_seconds_to_min_sec_hundredths(980.9)
+convert_seconds_to_min_sec_hundredths <- function(total_seconds) {
+  # Calculate minutes
+  minutes <- floor(total_seconds / 60)
+  
+  # Calculate remaining seconds
+  seconds <- total_seconds %% 60
+  
+  # Split seconds into seconds and hundredths
+  seconds_whole <- floor(seconds)
+  hundredths <- round((seconds - seconds_whole) * 100)
+  
+  # Format the output
+  formatted_time <- sprintf("%d:%02d.%02d", minutes, seconds_whole, hundredths)
+  
+  return(formatted_time)
 }

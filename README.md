@@ -22,6 +22,6 @@ library(sdxc)
 run_app()
 ```
 ## License
-(MIT) Use however you want.
+(CC BY-NC 3.0) Non-commercial use. Use however you want for person use.
 
 
