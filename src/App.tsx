@@ -1,5 +1,6 @@
-import React, { useState } from 'react'
-import { sampleRunners, schools, formatTime } from './data/sampleData'
+import React, { useState, useEffect } from 'react'
+import { formatTime } from './data/sampleData'
+import { loadData, loadSchools } from './services/dataService'
 import type { 
   ClassFilter, 
   GenderFilter, 
@@ -16,23 +17,89 @@ function App(): JSX.Element {
   const [selectedWeek, setSelectedWeek] = useState<WeekFilter>('week7')
   const [selectedYear, setSelectedYear] = useState<YearFilter>('2023')
   const [selectedTeams, setSelectedTeams] = useState<string[]>([])
+  
+  // Data state
+  const [currentData, setCurrentData] = useState<Runner[]>([])
+  const [teamDataBoys, setTeamDataBoys] = useState<Runner[]>([])
+  const [teamDataGirls, setTeamDataGirls] = useState<Runner[]>([])
+  const [schools, setSchools] = useState<string[]>([])
+  const [loading, setLoading] = useState<boolean>(true)
+  const [error, setError] = useState<string | null>(null)
 
-  const getCurrentData = (): Runner[] => {
-    const genderKey = selectedGender === 'M' ? 'boys' : 'girls'
-    const data = sampleRunners[genderKey]?.[selectedYear]?.[selectedWeek] || []
-    
-    if (selectedClass === 'classall') {
-      return data
+  // Load schools on component mount
+  useEffect(() => {
+    const fetchSchools = async () => {
+      try {
+        const schoolsData = await loadSchools()
+        setSchools(schoolsData)
+      } catch (err) {
+        console.error('Failed to load schools:', err)
+        // Will fallback to default schools in the service
+      }
     }
-    return data.filter(runner => runner.schoolClass === selectedClass)
-  }
-
-  const getTeamData = (gender: GenderFilter): Runner[] => {
-    const genderKey = gender === 'M' ? 'boys' : 'girls'
-    const data = sampleRunners[genderKey]?.[selectedYear]?.week7 || []
     
-    if (selectedTeams.length === 0) return []
-    return data.filter(runner => selectedTeams.includes(runner.school))
+    fetchSchools()
+  }, [])
+
+  // Load rankings data when filters change
+  useEffect(() => {
+    const fetchRankingsData = async () => {
+      if (activeTab !== 'rankings') return
+      
+      setLoading(true)
+      setError(null)
+      
+      try {
+        const genderKey = selectedGender === 'M' ? 'boys' : 'girls'
+        const data = await loadData(genderKey, selectedYear, selectedWeek)
+        setCurrentData(data)
+      } catch (err) {
+        setError('Failed to load rankings data. Please try again.')
+        console.error('Error loading rankings:', err)
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchRankingsData()
+  }, [selectedGender, selectedYear, selectedWeek, activeTab])
+
+  // Load team data when teams are selected
+  useEffect(() => {
+    const fetchTeamData = async () => {
+      if (activeTab !== 'teams' || selectedTeams.length === 0) {
+        setTeamDataBoys([])
+        setTeamDataGirls([])
+        return
+      }
+      
+      setLoading(true)
+      setError(null)
+      
+      try {
+        const [boysData, girlsData] = await Promise.all([
+          loadData('boys', selectedYear, 'week7'),
+          loadData('girls', selectedYear, 'week7')
+        ])
+        
+        setTeamDataBoys(boysData.filter(runner => selectedTeams.includes(runner.school)))
+        setTeamDataGirls(girlsData.filter(runner => selectedTeams.includes(runner.school)))
+      } catch (err) {
+        setError('Failed to load team data. Please try again.')
+        console.error('Error loading teams:', err)
+      } finally {
+        setLoading(false)
+      }
+    }
+
+    fetchTeamData()
+  }, [selectedTeams, selectedYear, activeTab])
+
+  const getFilteredData = (): Runner[] => {
+    if (selectedClass === 'classall') {
+      return currentData
+    }
+    return currentData.filter(runner => runner.schoolClass === selectedClass)
   }
 
   const handleTeamSelectChange = (event: React.ChangeEvent<HTMLSelectElement>): void => {
@@ -155,56 +222,66 @@ function App(): JSX.Element {
       {/* Main Content */}
       <div className="flex-1">
         <div className="card">
-          <div className="overflow-x-auto">
-            <table className="min-w-full divide-y divide-gray-200">
-              <thead className="bg-gray-50">
-                <tr>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Rank
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Name
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    School
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Points
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Season PR
-                  </th>
-                  <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                    Class
-                  </th>
-                </tr>
-              </thead>
-              <tbody className="bg-white divide-y divide-gray-200">
-                {getCurrentData().map((runner, index) => (
-                  <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                      {runner.blendedRank}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {runner.name}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {runner.school}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {runner.points.toFixed(2)}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {formatTime(runner.timeMin)}
-                    </td>
-                    <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                      {runner.schoolClass}
-                    </td>
+          {loading ? (
+            <div className="flex justify-center items-center py-8">
+              <div className="text-lg text-gray-600">Loading rankings...</div>
+            </div>
+          ) : error ? (
+            <div className="flex justify-center items-center py-8">
+              <div className="text-lg text-red-600">{error}</div>
+            </div>
+          ) : (
+            <div className="overflow-x-auto">
+              <table className="min-w-full divide-y divide-gray-200">
+                <thead className="bg-gray-50">
+                  <tr>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Rank
+                    </th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Name
+                    </th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      School
+                    </th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Points
+                    </th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Season PR
+                    </th>
+                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                      Class
+                    </th>
                   </tr>
-                ))}
-              </tbody>
-            </table>
-          </div>
+                </thead>
+                <tbody className="bg-white divide-y divide-gray-200">
+                  {getFilteredData().map((runner, index) => (
+                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                        {runner.blendedRank}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {runner.name}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {runner.school}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {runner.points.toFixed(2)}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {formatTime(runner.timeMin)}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                        {runner.schoolClass}
+                      </td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          )}
         </div>
       </div>
     </div>
