@@ -1,0 +1,53 @@
+│── surgepoc/                          # Folder
+│   │── .cache/                         # Folder
+│   │── .config/                        # Folder
+│   │── .upm/                           # Folder
+│   │── node_modules/                   # Folder
+│   │── public/                         # Folder
+│   │── src/                            # Folder
+│   │   │── api/                        # Folder
+│   │   │   │── indeed.js                # JavaScript Source File (1 KB)
+│   │   │   │── linkedin.js              # JavaScript Source File (1 KB)
+│   │   │── components/                  # Folder
+│   │   │   │── AddPost_copy.tsx         # TSX File (4 KB)
+│   │   │   │── AddPost.tsx              # TSX File (4 KB)
+│   │   │   │── BottomTabBar_copy.tsx    # TSX File (1 KB)
+│   │   │   │── BottomTabBar.tsx         # TSX File (2 KB)
+│   │   │   │── ChangePassword_copy.tsx  # TSX File (4 KB)
+│   │   │   │── ChangePassword.tsx       # TSX File (4 KB)
+│   │   │   │── EmailVerification.tsx    # TSX File (2 KB)
+│   │   │   │── Home_copy.tsx            # TSX File (5 KB)
+│   │   │   │── Home.tsx                 # TSX File (6 KB)
+│   │   │   │── IndeedJobs.tsx           # TSX File (3 KB)
+│   │   │   │── LinkedInJobs_copy.tsx    # TSX File (2 KB)
+│   │   │   │── LinkedInJobs.tsx         # TSX File (2 KB)
+│   │   │   │── Profile_copy.tsx         # TSX File (3 KB)
+│   │   │   │── Profile.tsx              # TSX File (2 KB)
+│   │   │   │── Qualifications_copy.tsx  # TSX File (6 KB)
+│   │   │   │── Qualifications.tsx       # TSX File (7 KB)
+│   │   │   │── SettingsDropdown.tsx     # TSX File (3 KB)
+│   │   │   │── SignIn_Copy.tsx          # TSX File (8 KB)
+│   │   │   │── SignIn_copy.tsx          # TSX File (7 KB)
+│   │   │   │── SignIn.tsx               # TSX File (8 KB)
+│   │   │   │── TopNavBar_copy.tsx       # TSX File (2 KB)
+│   │   │   │── TopNavBar.tsx            # TSX File (3 KB)
+│   │   │   │── WelcomeScreen.tsx        # TSX File (1 KB)
+│   │   │── App_copy.tsx                 # TSX File (3 KB)
+│   │   │── App.css                      # CSS File (1 KB)
+│   │   │── App.tsx                      # TSX File (3 KB)
+│   │   │── firebase.ts                   # TypeScript File (1 KB)
+│   │   │── index.css                    # CSS File (1 KB)
+│   │   │── index.tsx                    # TSX File (1 KB)
+│   │── .gitignore                      # Git Ignore Source File (2 KB)
+│   │── .replit                         # REPLIT File (1 KB)
+│   │── index.html                      # HTML File (1 KB)
+│   │── package.json                    # JSON Source File (1 KB)
+│   │── package-lock.json                # JSON Source File (311 KB)
+│   │── postcss.config.js               # JavaScript Source File (1 KB)
+│   │── README.md                       # Markdown Source File (1 KB)
+│   │── replit_zip_error_log.txt        # Text Document (5 KB)
+│   │── tailwind.config.js              # JavaScript Source File (1 KB)
+│   │── tsconfig.json                   # JSON Source File (1 KB)
+│   │── tsconfig.node.json              # JSON Source File (1 KB)
+│   │── vite.config.js                  # JavaScript Source File (1 KB)
+│   │── vite.config.js.timestamp-*      # MJS File (Unknown KB)
