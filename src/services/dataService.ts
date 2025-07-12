@@ -38,7 +38,11 @@ export const loadSchools = async (): Promise<string[]> => {
     }
     
     const data = await response.json();
-    return data;
+    
+    // Extract just the school names from the array of objects
+    const schoolNames = data.map((school: { School: string; school_class: string }) => school.School);
+    
+    return schoolNames.sort();
   } catch (error) {
     console.error('Error loading schools:', error);
     // Fallback to the existing schools list if GitHub fetch fails
