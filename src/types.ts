@@ -2,12 +2,12 @@
 
 export interface Runner {
   id: number;
-  name: string;
-  school: string;
-  timeMin: number;
+  Name: string;  // Capital N to match your JSON
+  School: string; // Capital S to match your JSON
+  time_min: number; // underscore format to match your JSON
   points: number;
-  schoolClass: 'A' | 'AA' | 'B';
-  blendedRank: number;
+  school_class: 'A' | 'AA' | 'B'; // underscore format to match your JSON
+  rnk_blnd: number; // underscore format to match your JSON
 }
 
 export interface WeekData {

@@ -82,8 +82,8 @@ function App(): JSX.Element {
           loadData('girls', selectedYear, 'week7')
         ])
         
-        setTeamDataBoys(boysData.filter(runner => selectedTeams.includes(runner.school)))
-        setTeamDataGirls(girlsData.filter(runner => selectedTeams.includes(runner.school)))
+        setTeamDataBoys(boysData.filter(runner => selectedTeams.includes(runner.School)))
+        setTeamDataGirls(girlsData.filter(runner => selectedTeams.includes(runner.School)))
       } catch (err) {
         setError('Failed to load team data. Please try again.')
         console.error('Error loading teams:', err)
@@ -99,7 +99,7 @@ function App(): JSX.Element {
     if (selectedClass === 'classall') {
       return currentData
     }
-    return currentData.filter(runner => runner.schoolClass === selectedClass)
+    return currentData.filter(runner => runner.school_class === selectedClass)
   }
 
   const getTeamData = (gender: GenderFilter): Runner[] => {
@@ -267,22 +267,22 @@ function App(): JSX.Element {
                   {getFilteredData().map((runner, index) => (
                     <tr key={`${runner.id}-${index}`} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                        {runner.blendedRank}
+                        {runner.rnk_blnd}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.name}
+                        {runner.Name}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.school}
+                        {runner.School}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
                         {runner.points.toFixed(2)}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {formatTime(runner.timeMin)}
+                        {formatTime(runner.time_min)}
                       </td>
                       <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.schoolClass}
+                        {runner.school_class}
                       </td>
                     </tr>
                   ))}
@@ -335,10 +335,10 @@ function App(): JSX.Element {
                 <tbody className="bg-white divide-y divide-gray-200">
                   {getTeamData('M').map((runner, index) => (
                     <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.name}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.schoolClass}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.blendedRank}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.Name}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.School}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school_class}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.rnk_blnd}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -362,10 +362,10 @@ function App(): JSX.Element {
                 <tbody className="bg-white divide-y divide-gray-200">
                   {getTeamData('F').map((runner, index) => (
                     <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.name}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.schoolClass}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.blendedRank}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.Name}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.School}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school_class}</td>
+                      <td className="px-4 py-2 text-sm text-gray-900">{runner.rnk_blnd}</td>
                     </tr>
                   ))}
                 </tbody>
