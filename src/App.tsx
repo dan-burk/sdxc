@@ -265,7 +265,7 @@ function App(): JSX.Element {
                 </thead>
                 <tbody className="bg-white divide-y divide-gray-200">
                   {getFilteredData().map((runner, index) => (
-                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                    <tr key={`${runner.id}-${index}`} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
                       <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
                         {runner.blendedRank}
                       </td>

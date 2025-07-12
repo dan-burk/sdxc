@@ -3,7 +3,7 @@ import type { Runner } from '../types';
 // Configuration - Update these with your GitHub details
 const GITHUB_USERNAME = 'dan-burk';
 const REPO_NAME = 'sdxc';
-const BRANCH = 'master'; // or 'master' depending on your default branch
+const BRANCH = 'master'; // Changed from 'main' to 'master'
 
 export const loadData = async (
   gender: 'boys' | 'girls', 
