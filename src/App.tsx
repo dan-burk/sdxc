@@ -102,6 +102,14 @@ function App(): JSX.Element {
     return currentData.filter(runner => runner.schoolClass === selectedClass)
   }
 
+  const getTeamData = (gender: GenderFilter): Runner[] => {
+    if (gender === 'M') {
+      return teamDataBoys
+    } else {
+      return teamDataGirls
+    }
+  }
+
   const handleTeamSelectChange = (event: React.ChangeEvent<HTMLSelectElement>): void => {
     const options = event.target.options
     const selectedValues: string[] = []
