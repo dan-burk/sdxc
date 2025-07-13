@@ -636,34 +636,30 @@ function App(): JSX.Element {
     <div className="min-h-screen bg-background">
       {/* Header */}
       <header className="bg-surface border-b border-border shadow-sm">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-6">
-            <div className="flex items-center space-x-4">
-              <div className="text-3xl font-bold text-primary">SD XC</div>
-            </div>
-            <nav className="flex space-x-2">
-              <button
-                onClick={() => setActiveTab('rankings')}
-                className={`nav-button ${
-                  activeTab === 'rankings'
-                    ? 'nav-button-active'
-                    : 'nav-button-inactive'
-                }`}
-              >
-                Rankings
-              </button>
-              <button
-                onClick={() => setActiveTab('teams')}
-                className={`nav-button ${
-                  activeTab === 'teams'
-                    ? 'nav-button-active'
-                    : 'nav-button-inactive'
-                }`}
-              >
-                Teams
-              </button>
-            </nav>
-          </div>
+        <div className="flex justify-between items-center py-6 px-4">
+          <div className="text-3xl font-bold text-primary">SD XC</div>
+          <nav className="flex space-x-2">
+            <button
+              onClick={() => setActiveTab('rankings')}
+              className={`nav-button ${
+                activeTab === 'rankings'
+                  ? 'nav-button-active'
+                  : 'nav-button-inactive'
+              }`}
+            >
+              Rankings
+            </button>
+            <button
+              onClick={() => setActiveTab('teams')}
+              className={`nav-button ${
+                activeTab === 'teams'
+                  ? 'nav-button-active'
+                  : 'nav-button-inactive'
+              }`}
+            >
+              Teams
+            </button>
+          </nav>
         </div>
       </header>
 
