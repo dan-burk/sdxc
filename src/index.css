@@ -4,24 +4,68 @@
 
 @layer base {
   body {
-    @apply font-sans antialiased;
+    @apply font-sans antialiased bg-background text-text-primary;
   }
 }
 
 @layer components {
   .btn-primary {
-    @apply bg-sdxc-teal hover:bg-sdxc-dark-teal text-gray-800 font-medium py-2 px-4 rounded transition-colors duration-200;
+    @apply bg-primary hover:bg-primary-dark text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 shadow-sm hover:shadow-md;
   }
   
   .btn-secondary {
-    @apply bg-sdxc-green hover:bg-sdxc-dark-teal text-gray-800 font-medium py-2 px-4 rounded transition-colors duration-200;
+    @apply bg-secondary hover:bg-secondary-light text-white font-medium py-2 px-4 rounded-lg transition-all duration-200 shadow-sm hover:shadow-md;
+  }
+  
+  .btn-outline {
+    @apply border border-primary text-primary hover:bg-primary hover:text-white font-medium py-2 px-4 rounded-lg transition-all duration-200;
   }
   
   .card {
-    @apply bg-white rounded-lg shadow-md p-6 border border-gray-200;
+    @apply bg-surface rounded-xl shadow-sm border border-border p-6 hover:shadow-md transition-shadow duration-200;
   }
   
   .table-header {
-    @apply bg-gray-50 text-gray-700 font-medium text-sm uppercase tracking-wider;
+    @apply bg-background text-text-secondary font-medium text-sm uppercase tracking-wider;
+  }
+  
+  .filter-group {
+    @apply space-y-4 p-4 bg-primary-lighter rounded-lg border border-primary/20;
+  }
+  
+  .filter-label {
+    @apply text-sm font-semibold text-text-primary mb-2 block;
+  }
+  
+  .radio-group {
+    @apply space-y-2;
+  }
+  
+  .radio-option {
+    @apply flex items-center space-x-3 p-2 rounded-lg hover:bg-white/50 transition-colors cursor-pointer;
+  }
+  
+  .radio-option-selected {
+    @apply bg-white/80;
+  }
+  
+  .radio-input {
+    @apply h-4 w-4 text-primary focus:ring-primary border-gray-300;
+  }
+  
+  .radio-text {
+    @apply text-text-secondary font-medium;
+  }
+  
+  .nav-button {
+    @apply px-4 py-2 rounded-lg font-medium transition-all duration-200;
+  }
+  
+  .nav-button-active {
+    @apply bg-primary text-white shadow-md;
+  }
+  
+  .nav-button-inactive {
+    @apply text-text-secondary hover:text-text-primary hover:bg-primary-lighter;
   }
 }

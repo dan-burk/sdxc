@@ -246,101 +246,107 @@ function App(): JSX.Element {
   }
 
   const RankingsTab = (): JSX.Element => (
-    <div className="flex flex-col lg:flex-row gap-6">
-      {/* Sidebar */}
-      <div className="lg:w-1/3 xl:w-1/4">
-        <div className="card bg-sdxc-teal">
-          <h2 className="text-xl font-bold text-center mb-6 text-gray-800">
-            SD High School XC Rankings
-          </h2>
+    <div className="flex flex-col lg:flex-row gap-8">
+      {/* Modern Sidebar */}
+      <div className="w-80 min-w-80 max-w-80">
+        <div className="card">
+          <div className="text-center mb-6">
+            <h2 className="text-2xl font-bold text-text-primary mb-2">
+              SD XC Rankings
+            </h2>
+            <p className="text-text-secondary text-sm">
+              Filter and explore cross country data
+            </p>
+          </div>
           
           <div className="space-y-6">
-            {/* Class Selection */}
-            <div>
-              <h3 className="font-semibold mb-3 text-gray-700">Select Class</h3>
-              <div className="space-y-2">
+            {/* Gender Selection - Most Important */}
+            <div className="filter-group">
+              <label className="filter-label">Gender</label>
+              <div className="radio-group">
                 {[
-                  { value: 'B' as ClassFilter, label: 'Class B' },
-                  { value: 'A' as ClassFilter, label: 'Class A' },
-                  { value: 'AA' as ClassFilter, label: 'Class AA' },
-                  { value: 'classall' as ClassFilter, label: 'All Classes' }
+                  { value: 'M' as GenderFilter, label: 'Boys', icon: '🏃‍♂️' },
+                  { value: 'F' as GenderFilter, label: 'Girls', icon: '🏃‍♀️' }
                 ].map(option => (
-                  <label key={option.value} className="flex items-center space-x-2">
-                    <input
-                      type="radio"
-                      name="class"
-                      value={option.value}
-                      checked={selectedClass === option.value}
-                      onChange={(e) => setSelectedClass(e.target.value as ClassFilter)}
-                      className="text-sdxc-green focus:ring-sdxc-green"
-                    />
-                    <span className="text-gray-700">{option.label}</span>
-                  </label>
-                ))}
-              </div>
-            </div>
-
-            {/* Gender Selection */}
-            <div>
-              <h3 className="font-semibold mb-3 text-gray-700">Select Gender</h3>
-              <div className="space-y-2">
-                {[
-                  { value: 'M' as GenderFilter, label: 'Male' },
-                  { value: 'F' as GenderFilter, label: 'Female' }
-                ].map(option => (
-                  <label key={option.value} className="flex items-center space-x-2">
+                  <label key={option.value} className={`radio-option ${selectedGender === option.value ? 'radio-option-selected' : ''}`}>
                     <input
                       type="radio"
                       name="gender"
                       value={option.value}
                       checked={selectedGender === option.value}
                       onChange={(e) => setSelectedGender(e.target.value as GenderFilter)}
-                      className="text-sdxc-green focus:ring-sdxc-green"
+                      className="radio-input"
                     />
-                    <span className="text-gray-700">{option.label}</span>
+                    <span className="text-lg">{option.icon}</span>
+                    <span className="radio-text">{option.label}</span>
+                  </label>
+                ))}
+              </div>
+            </div>
+
+            {/* Class Selection */}
+            <div className="filter-group">
+              <label className="filter-label">Class</label>
+              <div className="radio-group">
+                {[
+                  { value: 'classall' as ClassFilter, label: 'All Classes' },
+                  { value: 'B' as ClassFilter, label: 'Class B' },
+                  { value: 'A' as ClassFilter, label: 'Class A' },
+                  { value: 'AA' as ClassFilter, label: 'Class AA' }
+                ].map(option => (
+                  <label key={option.value} className={`radio-option ${selectedClass === option.value ? 'radio-option-selected' : ''}`}>
+                    <input
+                      type="radio"
+                      name="class"
+                      value={option.value}
+                      checked={selectedClass === option.value}
+                      onChange={(e) => setSelectedClass(e.target.value as ClassFilter)}
+                      className="radio-input"
+                    />
+                    <span className="radio-text">{option.label}</span>
                   </label>
                 ))}
               </div>
             </div>
 
             {/* Week Selection */}
-            <div>
-              <h3 className="font-semibold mb-3 text-gray-700">Select Week</h3>
-              <div className="space-y-2">
+            <div className="filter-group">
+              <label className="filter-label">Week</label>
+              <div className="grid grid-cols-2 gap-2">
                 {Array.from({ length: 7 }, (_, i) => {
                   const weekValue = `week${i + 1}` as WeekFilter
                   return (
-                    <label key={i + 1} className="flex items-center space-x-2">
+                    <label key={i + 1} className={`radio-option ${selectedWeek === weekValue ? 'radio-option-selected' : ''}`}>
                       <input
                         type="radio"
                         name="week"
                         value={weekValue}
                         checked={selectedWeek === weekValue}
                         onChange={(e) => setSelectedWeek(e.target.value as WeekFilter)}
-                        className="text-sdxc-green focus:ring-sdxc-green"
+                        className="radio-input"
                       />
-                      <span className="text-gray-700">Week {i + 1}</span>
+                      <span className="radio-text">W{i + 1}</span>
                     </label>
                   )
                 })}
               </div>
             </div>
 
-            {/* Year Selection */}
-            <div>
-              <h3 className="font-semibold mb-3 text-gray-700">Year</h3>
-              <div className="flex space-x-4">
+            {/* Year Selection - Least Important, at bottom */}
+            <div className="filter-group">
+              <label className="filter-label">Year</label>
+              <div className="grid grid-cols-2 gap-2">
                 {(['2023', '2024'] as YearFilter[]).map(year => (
-                  <label key={year} className="flex items-center space-x-2">
+                  <label key={year} className={`radio-option ${selectedYear === year ? 'radio-option-selected' : ''}`}>
                     <input
                       type="radio"
                       name="year"
                       value={year}
                       checked={selectedYear === year}
                       onChange={(e) => setSelectedYear(e.target.value as YearFilter)}
-                      className="text-sdxc-green focus:ring-sdxc-green"
+                      className="radio-input"
                     />
-                    <span className="text-gray-700">{year}</span>
+                    <span className="radio-text">{year}</span>
                   </label>
                 ))}
               </div>
@@ -352,132 +358,142 @@ function App(): JSX.Element {
       {/* Main Content */}
       <div className="flex-1">
         <div className="card">
-          {loading ? (
-            <div className="flex justify-center items-center py-8">
-              <div className="text-lg text-gray-600">Loading rankings...</div>
+          <div className="mb-6 space-y-4">
+            <div className="relative">
+              <input
+                type="text"
+                placeholder="Search by name or school..."
+                value={rankingsSearchTerm}
+                onChange={(e) => setRankingsSearchTerm(e.target.value)}
+                className="w-full p-4 pl-12 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-background"
+              />
+              <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+                <svg className="h-5 w-5 text-text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                  <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                </svg>
+              </div>
             </div>
-          ) : error ? (
-            <div className="flex justify-center items-center py-8">
-              <div className="text-lg text-red-600">{error}</div>
-            </div>
-          ) : (
-            <>
-              {/* Search and Sort Controls */}
-              <div className="mb-4 space-y-3">
-                <input
-                  type="text"
-                  placeholder="Search by name or school..."
-                  value={rankingsSearchTerm}
-                  onChange={(e) => setRankingsSearchTerm(e.target.value)}
-                  className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
-                />
-                
-                {sortState.column && (
-                  <div className="flex items-center justify-between">
-                    <div className="flex items-center space-x-2">
-                      <span className="text-sm text-gray-600">
-                        Sorted by: <span className="font-medium">{sortState.column}</span> 
-                        ({sortState.direction === 'asc' ? 'ascending' : 'descending'})
-                      </span>
+            {sortState.column && (
+              <div className="flex items-center justify-between p-3 bg-primary-lighter rounded-lg">
+                <div className="flex items-center space-x-2">
+                  <span className="text-sm text-text-secondary">
+                    Sorted by: <span className="font-medium text-text-primary">{sortState.column}</span> 
+                    ({sortState.direction === 'asc' ? 'ascending' : 'descending'})
+                  </span>
+                </div>
+                <button
+                  onClick={() => setSortState({ column: null, direction: null })}
+                  className="text-sm text-red-600 hover:text-red-800 font-medium"
+                >
+                  Clear Sort
+                </button>
+              </div>
+            )}
+          </div>
+          <div className="overflow-x-auto w-full">
+            <table className="min-w-full w-full divide-y divide-border">
+              <thead className="bg-background">
+                <tr>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-20"
+                    onClick={() => handleSort('rank')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>Rank</span>
+                      <span className="text-primary">{getSortIndicator('rank')}</span>
                     </div>
-                    <button
-                      onClick={() => setSortState({ column: null, direction: null })}
-                      className="text-sm text-red-600 hover:text-red-800 font-medium"
-                    >
-                      Clear Sort
-                    </button>
-                  </div>
-                )}
-              </div>
-              
-                            <div className="overflow-x-auto">
-                <table className="min-w-full divide-y divide-gray-200">
-                  <thead className="bg-gray-50">
-                    <tr>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('rank')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>Rank</span>
-                          <span className="text-xs font-bold">{getSortIndicator('rank')}</span>
-                        </div>
-                      </th>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('name')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>Name</span>
-                          <span className="text-xs font-bold">{getSortIndicator('name')}</span>
-                        </div>
-                      </th>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('school')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>School</span>
-                          <span className="text-xs font-bold">{getSortIndicator('school')}</span>
-                        </div>
-                      </th>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('points')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>Points</span>
-                          <span className="text-xs font-bold">{getSortIndicator('points')}</span>
-                        </div>
-                      </th>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('time')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>Season PR</span>
-                          <span className="text-xs font-bold">{getSortIndicator('time')}</span>
-                        </div>
-                      </th>
-                      <th 
-                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
-                        onClick={() => handleSort('class')}
-                      >
-                        <div className="flex items-center space-x-1">
-                          <span>Class</span>
-                          <span className="text-xs font-bold">{getSortIndicator('class')}</span>
-                        </div>
-                      </th>
+                  </th>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-48"
+                    onClick={() => handleSort('name')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>Name</span>
+                      <span className="text-primary">{getSortIndicator('name')}</span>
+                    </div>
+                  </th>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-48"
+                    onClick={() => handleSort('school')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>School</span>
+                      <span className="text-primary">{getSortIndicator('school')}</span>
+                    </div>
+                  </th>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-24"
+                    onClick={() => handleSort('points')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>Points</span>
+                      <span className="text-primary">{getSortIndicator('points')}</span>
+                    </div>
+                  </th>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-24"
+                    onClick={() => handleSort('time')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>Time</span>
+                      <span className="text-primary">{getSortIndicator('time')}</span>
+                    </div>
+                  </th>
+                  <th 
+                    className="px-6 py-4 text-left text-xs font-medium text-text-secondary uppercase tracking-wider cursor-pointer hover:bg-primary-lighter transition-colors w-20"
+                    onClick={() => handleSort('class')}
+                  >
+                    <div className="flex items-center space-x-1">
+                      <span>Class</span>
+                      <span className="text-primary">{getSortIndicator('class')}</span>
+                    </div>
+                  </th>
+                </tr>
+              </thead>
+              <tbody className="bg-surface divide-y divide-border">
+                {loading ? (
+                  <tr>
+                    <td colSpan={6} className="px-6 py-12 text-center">
+                      <div className="flex items-center justify-center space-x-3">
+                        <div className="animate-spin rounded-full h-6 w-6 border-b-2 border-primary"></div>
+                        <div className="text-text-secondary">Loading rankings...</div>
+                      </div>
+                    </td>
+                  </tr>
+                ) : error ? (
+                  // Render no data rows when error
+                  null
+                ) : (
+                  getFilteredData().map((runner, index) => (
+                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-surface' : 'bg-background'}>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-text-primary w-20">
+                        {runner.rnk_blnd}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-text-primary w-48">
+                        {runner.Name}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-text-primary w-48">
+                        {runner.School}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-text-primary w-24">
+                        {runner.points.toFixed(2)}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-text-primary w-24">
+                        {formatTime(runner.time_min)}
+                      </td>
+                      <td className="px-6 py-4 whitespace-nowrap text-sm text-text-primary w-20">
+                        {runner.school_class}
+                      </td>
                     </tr>
-                  </thead>
-                  <tbody className="bg-white divide-y divide-gray-200">
-                    {getFilteredData().map((runner, index) => (
-                      <tr key={`${runner.id}-${index}`} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                          {runner.rnk_blnd}
-                        </td>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {runner.Name}
-                        </td>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {runner.School}
-                        </td>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {runner.points.toFixed(2)}
-                        </td>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {formatTime(runner.time_min)}
-                        </td>
-                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                          {runner.school_class}
-                        </td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </div>
-            </>
-          )}
+                  ))
+                )}
+              </tbody>
+            </table>
+            {/* Show error message below the table */}
+            {error && (
+              <div className="text-lg text-red-600 text-center mt-4">{error}</div>
+            )}
+          </div>
         </div>
       </div>
     </div>
@@ -489,29 +505,36 @@ function App(): JSX.Element {
   const renderTeamsTab = (): JSX.Element => (
     <div className="space-y-6">
       <div className="card">
-        <h2 className="text-xl font-bold mb-4 text-gray-800">Select Teams</h2>
+        <h2 className="text-xl font-bold mb-6 text-text-primary">Select Teams</h2>
         
         {/* Search and Select All Controls */}
-        <div className="mb-4 space-y-3">
-          <input
-            type="text"
-            placeholder="Search schools..."
-            value={searchTerm}
-            onChange={(e) => setSearchTerm(e.target.value)}
-            className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
-          />
+        <div className="mb-6 space-y-4">
+          <div className="relative">
+            <input
+              type="text"
+              placeholder="Search schools..."
+              value={searchTerm}
+              onChange={(e) => setSearchTerm(e.target.value)}
+              className="w-full p-4 pl-12 border border-border rounded-lg focus:ring-2 focus:ring-primary focus:border-transparent bg-background"
+            />
+            <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
+              <svg className="h-5 w-5 text-text-secondary" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+              </svg>
+            </div>
+          </div>
           
           <div className="flex items-center justify-between">
             <button
               onClick={handleSelectAll}
-              className="btn-secondary text-sm"
+              className="btn-outline text-sm"
             >
               {allSchoolsSelected ? 'Deselect All' : 'Select All'}
             </button>
             
             {selectedTeams.length > 0 && (
               <div className="flex items-center space-x-3">
-                <span className="text-sm text-gray-600">
+                <span className="text-sm text-text-secondary">
                   {selectedTeams.length} team{selectedTeams.length !== 1 ? 's' : ''} selected
                 </span>
                 <button
@@ -526,22 +549,22 @@ function App(): JSX.Element {
         </div>
 
         {/* School Checkboxes */}
-        <div className="border border-gray-300 rounded-md max-h-64 overflow-y-auto">
-          <div className="p-3 space-y-2">
+        <div className="border border-border rounded-lg max-h-64 overflow-y-auto bg-background">
+          <div className="p-4 space-y-2">
             {filteredSchools.map(school => (
-              <label key={school} className="flex items-center space-x-3 p-2 hover:bg-gray-50 rounded cursor-pointer">
+              <label key={school} className="flex items-center space-x-3 p-3 hover:bg-white rounded-lg cursor-pointer transition-colors">
                 <input
                   type="checkbox"
                   checked={selectedTeams.includes(school)}
                   onChange={() => handleTeamToggle(school)}
-                  className="h-4 w-4 text-sdxc-green focus:ring-sdxc-green border-gray-300 rounded"
+                  className="h-4 w-4 text-primary focus:ring-primary border-gray-300 rounded"
                 />
-                <span className="text-gray-700 select-none">{school}</span>
+                <span className="text-text-primary select-none">{school}</span>
               </label>
             ))}
             
             {filteredSchools.length === 0 && searchTerm && (
-              <div className="text-gray-500 text-center py-4">
+              <div className="text-text-secondary text-center py-4">
                 No schools found matching "{searchTerm}"
               </div>
             )}
@@ -553,24 +576,24 @@ function App(): JSX.Element {
         <div className="grid grid-cols-1 lg:grid-cols-2 gap-6">
           {/* Boys Team */}
           <div className="card">
-            <h3 className="text-lg font-semibold mb-4 text-gray-800">Boys</h3>
+            <h3 className="text-lg font-semibold mb-4 text-text-primary">Boys</h3>
             <div className="overflow-x-auto">
-              <table className="min-w-full divide-y divide-gray-200">
-                <thead className="bg-gray-50">
+              <table className="min-w-full divide-y divide-border">
+                <thead className="bg-background">
                   <tr>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Name</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">School</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Class</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Rank</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-48">Name</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-48">School</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-20">Class</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-20">Rank</th>
                   </tr>
                 </thead>
-                <tbody className="bg-white divide-y divide-gray-200">
+                <tbody className="bg-surface divide-y divide-border">
                   {getTeamData('M').map((runner, index) => (
-                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.Name}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.School}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school_class}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.rnk_blnd}</td>
+                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-surface' : 'bg-background'}>
+                      <td className="px-4 py-3 text-sm text-text-primary w-48">{runner.Name}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-48">{runner.School}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-20">{runner.school_class}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-20">{runner.rnk_blnd}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -580,24 +603,24 @@ function App(): JSX.Element {
 
           {/* Girls Team */}
           <div className="card">
-            <h3 className="text-lg font-semibold mb-4 text-gray-800">Girls</h3>
+            <h3 className="text-lg font-semibold mb-4 text-text-primary">Girls</h3>
             <div className="overflow-x-auto">
-              <table className="min-w-full divide-y divide-gray-200">
-                <thead className="bg-gray-50">
+              <table className="min-w-full divide-y divide-border">
+                <thead className="bg-background">
                   <tr>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Name</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">School</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Class</th>
-                    <th className="px-4 py-2 text-left text-xs font-medium text-gray-500 uppercase">Rank</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-48">Name</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-48">School</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-20">Class</th>
+                    <th className="px-4 py-3 text-left text-xs font-medium text-text-secondary uppercase w-20">Rank</th>
                   </tr>
                 </thead>
-                <tbody className="bg-white divide-y divide-gray-200">
+                <tbody className="bg-surface divide-y divide-border">
                   {getTeamData('F').map((runner, index) => (
-                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.Name}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.School}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.school_class}</td>
-                      <td className="px-4 py-2 text-sm text-gray-900">{runner.rnk_blnd}</td>
+                    <tr key={runner.id} className={index % 2 === 0 ? 'bg-surface' : 'bg-background'}>
+                      <td className="px-4 py-3 text-sm text-text-primary w-48">{runner.Name}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-48">{runner.School}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-20">{runner.school_class}</td>
+                      <td className="px-4 py-3 text-sm text-text-primary w-20">{runner.rnk_blnd}</td>
                     </tr>
                   ))}
                 </tbody>
@@ -610,31 +633,31 @@ function App(): JSX.Element {
   )
 
   return (
-    <div className="min-h-screen bg-gray-50">
+    <div className="min-h-screen bg-background">
       {/* Header */}
-      <header className="bg-sdxc-teal border-b border-gray-200 shadow-sm">
+      <header className="bg-surface border-b border-border shadow-sm">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-          <div className="flex justify-between items-center py-4">
+          <div className="flex justify-between items-center py-6">
             <div className="flex items-center space-x-4">
-              <div className="text-2xl font-bold text-gray-800">SD XC</div>
+              <div className="text-3xl font-bold text-primary">SD XC</div>
             </div>
-            <nav className="flex space-x-8">
+            <nav className="flex space-x-2">
               <button
                 onClick={() => setActiveTab('rankings')}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                className={`nav-button ${
                   activeTab === 'rankings'
-                    ? 'bg-sdxc-dark-teal text-gray-800'
-                    : 'text-gray-600 hover:text-gray-800 hover:bg-sdxc-light'
+                    ? 'nav-button-active'
+                    : 'nav-button-inactive'
                 }`}
               >
                 Rankings
               </button>
               <button
                 onClick={() => setActiveTab('teams')}
-                className={`px-4 py-2 rounded-md font-medium transition-colors ${
+                className={`nav-button ${
                   activeTab === 'teams'
-                    ? 'bg-sdxc-dark-teal text-gray-800'
-                    : 'text-gray-600 hover:text-gray-800 hover:bg-sdxc-light'
+                    ? 'nav-button-active'
+                    : 'nav-button-inactive'
                 }`}
               >
                 Teams
