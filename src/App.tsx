@@ -17,6 +17,7 @@ function App(): JSX.Element {
   const [selectedWeek, setSelectedWeek] = useState<WeekFilter>('week7')
   const [selectedYear, setSelectedYear] = useState<YearFilter>('2023')
   const [selectedTeams, setSelectedTeams] = useState<string[]>([])
+  const [searchTerm, setSearchTerm] = useState<string>('')
   
   // Data state
   const [currentData, setCurrentData] = useState<Runner[]>([])
@@ -110,17 +111,31 @@ function App(): JSX.Element {
     }
   }
 
-  const handleTeamSelectChange = (event: React.ChangeEvent<HTMLSelectElement>): void => {
-    const options = event.target.options
-    const selectedValues: string[] = []
-    
-    for (let i = 0; i < options.length; i++) {
-      if (options[i].selected) {
-        selectedValues.push(options[i].value)
+  const handleTeamToggle = (school: string): void => {
+    setSelectedTeams(prev => {
+      if (prev.includes(school)) {
+        return prev.filter(team => team !== school)
+      } else {
+        return [...prev, school]
       }
+    })
+  }
+
+  const handleSelectAll = (): void => {
+    if (selectedTeams.length === schools.length) {
+      // If all schools are selected, deselect all
+      setSelectedTeams([])
+    } else {
+      // Select all schools
+      setSelectedTeams(schools)
     }
-    
-    setSelectedTeams(selectedValues)
+  }
+
+  const getFilteredSchools = (): string[] => {
+    if (!searchTerm) return schools
+    return schools.filter(school => 
+      school.toLowerCase().includes(searchTerm.toLowerCase())
+    )
   }
 
   const RankingsTab = (): JSX.Element => (
@@ -295,26 +310,70 @@ function App(): JSX.Element {
     </div>
   )
 
-  const TeamsTab = (): JSX.Element => (
+  const filteredSchools = getFilteredSchools()
+  const allSchoolsSelected = schools.length > 0 && selectedTeams.length === schools.length
+  
+  const renderTeamsTab = (): JSX.Element => (
     <div className="space-y-6">
       <div className="card">
         <h2 className="text-xl font-bold mb-4 text-gray-800">Select Teams</h2>
-        <select
-          multiple
-          value={selectedTeams}
-          onChange={handleTeamSelectChange}
-          className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
-          size={8}
-        >
-          {schools.map(school => (
-            <option key={school} value={school} className="py-1">
-              {school}
-            </option>
-          ))}
-        </select>
-        <p className="text-sm text-gray-600 mt-2">
-          Hold Ctrl (or Cmd on Mac) to select multiple teams
-        </p>
+        
+        {/* Search and Select All Controls */}
+        <div className="mb-4 space-y-3">
+          <input
+            type="text"
+            placeholder="Search schools..."
+            value={searchTerm}
+            onChange={(e) => setSearchTerm(e.target.value)}
+            className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
+          />
+          
+          <div className="flex items-center justify-between">
+            <button
+              onClick={handleSelectAll}
+              className="btn-secondary text-sm"
+            >
+              {allSchoolsSelected ? 'Deselect All' : 'Select All'}
+            </button>
+            
+            {selectedTeams.length > 0 && (
+              <div className="flex items-center space-x-3">
+                <span className="text-sm text-gray-600">
+                  {selectedTeams.length} team{selectedTeams.length !== 1 ? 's' : ''} selected
+                </span>
+                <button
+                  onClick={() => setSelectedTeams([])}
+                  className="text-sm text-red-600 hover:text-red-800 font-medium"
+                >
+                  Clear
+                </button>
+              </div>
+            )}
+          </div>
+        </div>
+
+        {/* School Checkboxes */}
+        <div className="border border-gray-300 rounded-md max-h-64 overflow-y-auto">
+          <div className="p-3 space-y-2">
+            {filteredSchools.map(school => (
+              <label key={school} className="flex items-center space-x-3 p-2 hover:bg-gray-50 rounded cursor-pointer">
+                <input
+                  type="checkbox"
+                  checked={selectedTeams.includes(school)}
+                  onChange={() => handleTeamToggle(school)}
+                  className="h-4 w-4 text-sdxc-green focus:ring-sdxc-green border-gray-300 rounded"
+                />
+                <span className="text-gray-700 select-none">{school}</span>
+              </label>
+            ))}
+            
+            {filteredSchools.length === 0 && searchTerm && (
+              <div className="text-gray-500 text-center py-4">
+                No schools found matching "{searchTerm}"
+              </div>
+            )}
+          </div>
+        </div>
       </div>
 
       {selectedTeams.length > 0 && (
@@ -414,7 +473,7 @@ function App(): JSX.Element {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {activeTab === 'rankings' ? <RankingsTab /> : <TeamsTab />}
+        {activeTab === 'rankings' ? <RankingsTab /> : renderTeamsTab()}
       </main>
     </div>
   )

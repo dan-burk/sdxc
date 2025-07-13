@@ -1,0 +1,26 @@
+│── sdxc/                          # Folder
+│   │── data/                         # Folder
+│   │   │── boys_2023_week1.json
+│   │   │── boys_2023_week2.json
+│   │   │── ...
+│   │   │── girls_2023_week1.json
+│   │   │── girls_2023_week2.json
+│   │   │── schools.json
+│   │── node_modules/                   # Folder
+│   │── src/                            # Folder
+│   │   │── services/                        # Folder
+│   │   │   │── dataService.ts                # 
+│   │   │── App.tsx                      # TSX File (3 KB)
+│   │   │── index.css                    # CSS File (1 KB)
+│   │   │── main.tsx                    # TSX File (1 KB)
+│   │   │── types.ts                    # CSS File (1 KB)
+│   │── .gitignore                      # Git Ignore Source File (2 KB)
+│   │── index.html                      # HTML File (1 KB)
+│   │── package.json                    # JSON Source File (1 KB)
+│   │── package-lock.json                # JSON Source File (311 KB)
+│   │── postcss.config.js               # JavaScript Source File (1 KB)
+│   │── README.md                       # Markdown Source File (1 KB)
+│   │── tailwind.config.js              # JavaScript Source File (1 KB)
+│   │── tsconfig.json                   # JSON Source File (1 KB)
+│   │── tsconfig.node.json              # JSON Source File (1 KB)
+│   │── vite.config.js                  # JavaScript Source File (1 KB)
