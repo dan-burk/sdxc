@@ -18,6 +18,7 @@ function App(): JSX.Element {
   const [selectedYear, setSelectedYear] = useState<YearFilter>('2023')
   const [selectedTeams, setSelectedTeams] = useState<string[]>([])
   const [searchTerm, setSearchTerm] = useState<string>('')
+  const [rankingsSearchTerm, setRankingsSearchTerm] = useState<string>('')
   
   // Data state
   const [currentData, setCurrentData] = useState<Runner[]>([])
@@ -97,10 +98,22 @@ function App(): JSX.Element {
   }, [selectedTeams, selectedYear, activeTab])
 
   const getFilteredData = (): Runner[] => {
-    if (selectedClass === 'classall') {
-      return currentData
+    let filteredData = currentData
+    
+    // Filter by class
+    if (selectedClass !== 'classall') {
+      filteredData = filteredData.filter(runner => runner.school_class === selectedClass)
     }
-    return currentData.filter(runner => runner.school_class === selectedClass)
+    
+    // Filter by search term
+    if (rankingsSearchTerm) {
+      filteredData = filteredData.filter(runner => 
+        runner.Name.toLowerCase().includes(rankingsSearchTerm.toLowerCase()) ||
+        runner.School.toLowerCase().includes(rankingsSearchTerm.toLowerCase())
+      )
+    }
+    
+    return filteredData
   }
 
   const getTeamData = (gender: GenderFilter): Runner[] => {
@@ -254,56 +267,69 @@ function App(): JSX.Element {
               <div className="text-lg text-red-600">{error}</div>
             </div>
           ) : (
-            <div className="overflow-x-auto">
-              <table className="min-w-full divide-y divide-gray-200">
-                <thead className="bg-gray-50">
-                  <tr>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Rank
-                    </th>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Name
-                    </th>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      School
-                    </th>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Points
-                    </th>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Season PR
-                    </th>
-                    <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                      Class
-                    </th>
-                  </tr>
-                </thead>
-                <tbody className="bg-white divide-y divide-gray-200">
-                  {getFilteredData().map((runner, index) => (
-                    <tr key={`${runner.id}-${index}`} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
-                        {runner.rnk_blnd}
-                      </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.Name}
-                      </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.School}
-                      </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.points.toFixed(2)}
-                      </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {formatTime(runner.time_min)}
-                      </td>
-                      <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
-                        {runner.school_class}
-                      </td>
+            <>
+              {/* Search Bar */}
+              <div className="mb-4">
+                <input
+                  type="text"
+                  placeholder="Search by name or school..."
+                  value={rankingsSearchTerm}
+                  onChange={(e) => setRankingsSearchTerm(e.target.value)}
+                  className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
+                />
+              </div>
+              
+                            <div className="overflow-x-auto">
+                <table className="min-w-full divide-y divide-gray-200">
+                  <thead className="bg-gray-50">
+                    <tr>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        Rank
+                      </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        Name
+                      </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        School
+                      </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        Points
+                      </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        Season PR
+                      </th>
+                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
+                        Class
+                      </th>
                     </tr>
-                  ))}
-                </tbody>
-              </table>
-            </div>
+                  </thead>
+                  <tbody className="bg-white divide-y divide-gray-200">
+                    {getFilteredData().map((runner, index) => (
+                      <tr key={`${runner.id}-${index}`} className={index % 2 === 0 ? 'bg-white' : 'bg-gray-50'}>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm font-medium text-gray-900">
+                          {runner.rnk_blnd}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                          {runner.Name}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                          {runner.School}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                          {runner.points.toFixed(2)}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                          {formatTime(runner.time_min)}
+                        </td>
+                        <td className="px-6 py-4 whitespace-nowrap text-sm text-gray-900">
+                          {runner.school_class}
+                        </td>
+                      </tr>
+                    ))}
+                  </tbody>
+                </table>
+              </div>
+            </>
           )}
         </div>
       </div>
@@ -473,7 +499,7 @@ function App(): JSX.Element {
 
       {/* Main Content */}
       <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        {activeTab === 'rankings' ? <RankingsTab /> : renderTeamsTab()}
+        {activeTab === 'rankings' ? RankingsTab() : renderTeamsTab()}
       </main>
     </div>
   )
