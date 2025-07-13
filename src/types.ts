@@ -28,3 +28,12 @@ export type GenderFilter = 'M' | 'F';
 export type WeekFilter = 'week1' | 'week2' | 'week3' | 'week4' | 'week5' | 'week6' | 'week7';
 export type YearFilter = '2023' | '2024';
 export type TabType = 'rankings' | 'teams';
+
+// Sorting types
+export type SortDirection = 'asc' | 'desc' | null;
+export type SortableColumn = 'rank' | 'name' | 'school' | 'points' | 'time' | 'class';
+
+export interface SortState {
+  column: SortableColumn | null;
+  direction: SortDirection;
+}

@@ -7,7 +7,10 @@ import type {
   WeekFilter, 
   YearFilter, 
   TabType, 
-  Runner 
+  Runner,
+  SortState,
+  SortableColumn,
+  SortDirection
 } from './types'
 
 function App(): JSX.Element {
@@ -19,6 +22,12 @@ function App(): JSX.Element {
   const [selectedTeams, setSelectedTeams] = useState<string[]>([])
   const [searchTerm, setSearchTerm] = useState<string>('')
   const [rankingsSearchTerm, setRankingsSearchTerm] = useState<string>('')
+  
+  // Sorting state
+  const [sortState, setSortState] = useState<SortState>({
+    column: null,
+    direction: null
+  })
   
   // Data state
   const [currentData, setCurrentData] = useState<Runner[]>([])
@@ -97,6 +106,86 @@ function App(): JSX.Element {
     fetchTeamData()
   }, [selectedTeams, selectedYear, activeTab])
 
+  // Sorting utility function
+  const sortData = (data: Runner[], column: SortableColumn, direction: SortDirection): Runner[] => {
+    if (!direction) return data
+
+    return [...data].sort((a, b) => {
+      let aValue: string | number
+      let bValue: string | number
+
+      switch (column) {
+        case 'rank':
+          aValue = a.rnk_blnd
+          bValue = b.rnk_blnd
+          break
+        case 'name':
+          aValue = a.Name.toLowerCase()
+          bValue = b.Name.toLowerCase()
+          break
+        case 'school':
+          aValue = a.School.toLowerCase()
+          bValue = b.School.toLowerCase()
+          break
+        case 'points':
+          aValue = a.points
+          bValue = b.points
+          break
+        case 'time':
+          aValue = a.time_min
+          bValue = b.time_min
+          break
+        case 'class':
+          aValue = a.school_class
+          bValue = b.school_class
+          break
+        default:
+          return 0
+      }
+
+      if (typeof aValue === 'string' && typeof bValue === 'string') {
+        if (direction === 'asc') {
+          return aValue.localeCompare(bValue)
+        } else {
+          return bValue.localeCompare(aValue)
+        }
+      } else {
+        if (direction === 'asc') {
+          return (aValue as number) - (bValue as number)
+        } else {
+          return (bValue as number) - (aValue as number)
+        }
+      }
+    })
+  }
+
+  // Handle sort column click
+  const handleSort = (column: SortableColumn): void => {
+    setSortState(prev => {
+      if (prev.column === column) {
+        // Cycle through: asc -> desc -> null
+        if (prev.direction === 'asc') {
+          return { column, direction: 'desc' }
+        } else if (prev.direction === 'desc') {
+          return { column: null, direction: null }
+        } else {
+          return { column, direction: 'asc' }
+        }
+      } else {
+        // New column, start with asc
+        return { column, direction: 'asc' }
+      }
+    })
+  }
+
+  // Get sort indicator
+  const getSortIndicator = (column: SortableColumn): string => {
+    if (sortState.column !== column) return '↕'
+    if (sortState.direction === 'asc') return '↑'
+    if (sortState.direction === 'desc') return '↓'
+    return '↕'
+  }
+
   const getFilteredData = (): Runner[] => {
     let filteredData = currentData
     
@@ -111,6 +200,11 @@ function App(): JSX.Element {
         runner.Name.toLowerCase().includes(rankingsSearchTerm.toLowerCase()) ||
         runner.School.toLowerCase().includes(rankingsSearchTerm.toLowerCase())
       )
+    }
+    
+    // Apply sorting
+    if (sortState.column && sortState.direction) {
+      filteredData = sortData(filteredData, sortState.column, sortState.direction)
     }
     
     return filteredData
@@ -268,8 +362,8 @@ function App(): JSX.Element {
             </div>
           ) : (
             <>
-              {/* Search Bar */}
-              <div className="mb-4">
+              {/* Search and Sort Controls */}
+              <div className="mb-4 space-y-3">
                 <input
                   type="text"
                   placeholder="Search by name or school..."
@@ -277,29 +371,82 @@ function App(): JSX.Element {
                   onChange={(e) => setRankingsSearchTerm(e.target.value)}
                   className="w-full p-3 border border-gray-300 rounded-md focus:ring-2 focus:ring-sdxc-green focus:border-transparent"
                 />
+                
+                {sortState.column && (
+                  <div className="flex items-center justify-between">
+                    <div className="flex items-center space-x-2">
+                      <span className="text-sm text-gray-600">
+                        Sorted by: <span className="font-medium">{sortState.column}</span> 
+                        ({sortState.direction === 'asc' ? 'ascending' : 'descending'})
+                      </span>
+                    </div>
+                    <button
+                      onClick={() => setSortState({ column: null, direction: null })}
+                      className="text-sm text-red-600 hover:text-red-800 font-medium"
+                    >
+                      Clear Sort
+                    </button>
+                  </div>
+                )}
               </div>
               
                             <div className="overflow-x-auto">
                 <table className="min-w-full divide-y divide-gray-200">
                   <thead className="bg-gray-50">
                     <tr>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        Rank
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('rank')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>Rank</span>
+                          <span className="text-xs font-bold">{getSortIndicator('rank')}</span>
+                        </div>
                       </th>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        Name
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('name')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>Name</span>
+                          <span className="text-xs font-bold">{getSortIndicator('name')}</span>
+                        </div>
                       </th>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        School
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('school')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>School</span>
+                          <span className="text-xs font-bold">{getSortIndicator('school')}</span>
+                        </div>
                       </th>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        Points
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('points')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>Points</span>
+                          <span className="text-xs font-bold">{getSortIndicator('points')}</span>
+                        </div>
                       </th>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        Season PR
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('time')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>Season PR</span>
+                          <span className="text-xs font-bold">{getSortIndicator('time')}</span>
+                        </div>
                       </th>
-                      <th className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider">
-                        Class
+                      <th 
+                        className="px-6 py-3 text-left text-xs font-medium text-gray-500 uppercase tracking-wider cursor-pointer hover:bg-gray-100 transition-colors"
+                        onClick={() => handleSort('class')}
+                      >
+                        <div className="flex items-center space-x-1">
+                          <span>Class</span>
+                          <span className="text-xs font-bold">{getSortIndicator('class')}</span>
+                        </div>
                       </th>
                     </tr>
                   </thead>
