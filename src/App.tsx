@@ -635,8 +635,8 @@ function App(): JSX.Element {
   return (
     <div className="min-h-screen bg-background">
       {/* Header */}
-      <header className="bg-surface border-b border-border shadow-sm">
-        <div className="flex justify-between items-center py-6 px-4">
+      <header className="fixed top-0 left-0 right-0 z-50 bg-surface border-b border-border shadow-sm">
+        <div className="flex justify-between items-center py-6 px-8">
           <div className="text-3xl font-bold text-primary">SD XC</div>
           <nav className="flex space-x-2">
             <button
@@ -664,7 +664,7 @@ function App(): JSX.Element {
       </header>
 
       {/* Main Content */}
-      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 mt-24">
         {activeTab === 'rankings' ? RankingsTab() : renderTeamsTab()}
       </main>
     </div>
