@@ -61,6 +61,16 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
     [gender, year, week],
   )
 
+  // Rank within class = position among that class's runners in the overall order
+  const classRanks = useMemo(() => {
+    const counts = { AA: 0, A: 0, B: 0 }
+    const ranks = new Map<number, number>()
+    for (const r of [...(data?.[0] ?? [])].sort((a, b) => a.rnk_blnd - b.rnk_blnd)) {
+      ranks.set(r.rnk_blnd, ++counts[r.school_class])
+    }
+    return ranks
+  }, [data])
+
   const moves = useMemo(() => {
     const prev = data?.[1] && new Map(data[1].map(r => [r.id, r.rnk_blnd]))
     return (r: Runner): Move => {
@@ -157,6 +167,14 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
                     <span className="w-9 text-right font-display text-lg font-semibold tabular-nums">{r.rnk_blnd}</span>
                     <span className="w-9"><Movement move={moves(r)} prevWeek={week - 1} /></span>
                   </div>
+                  {cls !== 'All' && (
+                    <div className="flex gap-2">
+                      <span className="w-1.5 shrink-0" />
+                      <span className="w-9 whitespace-nowrap text-right text-[10px] leading-none text-muted tabular-nums">
+                        {cls} #{classRanks.get(r.rnk_blnd)}
+                      </span>
+                    </div>
+                  )}
                 </td>
                 <td className="px-3 py-2.5 sm:px-4">
                   <div className="font-medium">{titleCase(r.Name)}</div>
