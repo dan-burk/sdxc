@@ -16,6 +16,7 @@ export interface Runner {
 export interface School {
   School: string
   school_class: SchoolClass
+  region?: string | null // "1A"–"5A" or "1B"–"5B"; AA has no regions
 }
 
 export interface Manifest {

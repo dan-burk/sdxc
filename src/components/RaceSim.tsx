@@ -49,6 +49,13 @@ export function RaceSim({ gender, year, week, selected, onSelected }: Props) {
   const options = schools.filter(s => !active.includes(s.School) && s.School.toLowerCase().includes(q))
   const add = (names: string[]) => onSelected([...active, ...names.filter(n => !active.includes(n))])
   const remove = (name: string) => onSelected(active.filter(s => s !== name))
+  // 1A–5A then 1B–5B; empty until schools_{year}.json carries regions
+  const regions = [...new Set(schools.map(s => s.region).filter((r): r is string => !!r))]
+    .sort((a, b) => a.slice(-1).localeCompare(b.slice(-1)) || a.localeCompare(b))
+  const loadRegion = (region: string) => {
+    onSelected(schools.filter(s => s.region === region).map(s => s.School))
+    setOverride(null) // the auto-picked class matches the region's class
+  }
   const genderLabel = gender === 'boys' ? 'Boys' : 'Girls'
 
   return (
@@ -115,6 +122,22 @@ export function RaceSim({ gender, year, week, selected, onSelected }: Props) {
               </button>
             ))}
           </div>
+          {regions.length > 0 && (
+            <div className="relative">
+              <select
+                aria-label="Simulate a region"
+                value=""
+                onChange={e => loadRegion(e.target.value)}
+                className="w-full cursor-pointer appearance-none rounded bg-surface-2 py-2 pl-3 pr-8 text-sm font-semibold text-text outline-none focus:ring-2 focus:ring-accent/30"
+              >
+                <option value="" disabled>Simulate a region…</option>
+                {regions.map(r => <option key={r} value={r}>Region {r}</option>)}
+              </select>
+              <svg className="pointer-events-none absolute right-2.5 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5}>
+                <path d="m6 9 6 6 6-6" />
+              </svg>
+            </div>
+          )}
         </div>
 
         <div className="space-y-2">
