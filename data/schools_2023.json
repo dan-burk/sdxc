@@ -1,0 +1,614 @@
+[
+  {
+    "School": "Aberdeen Central",
+    "school_class": "AA"
+  },
+  {
+    "School": "Aberdeen Roncalli",
+    "school_class": "A"
+  },
+  {
+    "School": "Arlington",
+    "school_class": "B"
+  },
+  {
+    "School": "Avon",
+    "school_class": "B"
+  },
+  {
+    "School": "Baltic",
+    "school_class": "A"
+  },
+  {
+    "School": "Belle Fourche",
+    "school_class": "A"
+  },
+  {
+    "School": "Beresford",
+    "school_class": "A"
+  },
+  {
+    "School": "Bison",
+    "school_class": "B"
+  },
+  {
+    "School": "Brandon Valley",
+    "school_class": "AA"
+  },
+  {
+    "School": "Brookings",
+    "school_class": "AA"
+  },
+  {
+    "School": "Canistota",
+    "school_class": "B"
+  },
+  {
+    "School": "Castlewood",
+    "school_class": "B"
+  },
+  {
+    "School": "Centerville",
+    "school_class": "B"
+  },
+  {
+    "School": "Chamberlain",
+    "school_class": "A"
+  },
+  {
+    "School": "Chester",
+    "school_class": "B"
+  },
+  {
+    "School": "Clark/Willow Lake",
+    "school_class": "A"
+  },
+  {
+    "School": "Corsica-Stickney",
+    "school_class": "B"
+  },
+  {
+    "School": "Crazy Horse",
+    "school_class": "B"
+  },
+  {
+    "School": "Crow Creek",
+    "school_class": "A"
+  },
+  {
+    "School": "Custer",
+    "school_class": "A"
+  },
+  {
+    "School": "DR St. Mary",
+    "school_class": "B"
+  },
+  {
+    "School": "Dakota Valley",
+    "school_class": "A"
+  },
+  {
+    "School": "De Smet",
+    "school_class": "B"
+  },
+  {
+    "School": "Deubrook Area",
+    "school_class": "B"
+  },
+  {
+    "School": "Deuel",
+    "school_class": "A"
+  },
+  {
+    "School": "Douglas",
+    "school_class": "AA"
+  },
+  {
+    "School": "Dupree",
+    "school_class": "A"
+  },
+  {
+    "School": "Edgemont",
+    "school_class": "B"
+  },
+  {
+    "School": "Estelline/Hendricks",
+    "school_class": "A"
+  },
+  {
+    "School": "Ethan/Parkston",
+    "school_class": "A"
+  },
+  {
+    "School": "Faulkton Area",
+    "school_class": "B"
+  },
+  {
+    "School": "Flandreau",
+    "school_class": "A"
+  },
+  {
+    "School": "Flandreau Indian",
+    "school_class": "B"
+  },
+  {
+    "School": "Florence/Henry",
+    "school_class": "A"
+  },
+  {
+    "School": "Frederick Area",
+    "school_class": "B"
+  },
+  {
+    "School": "Freeman",
+    "school_class": "B"
+  },
+  {
+    "School": "Freeman Acad/Mar",
+    "school_class": "B"
+  },
+  {
+    "School": "Gayville-Volin",
+    "school_class": "B"
+  },
+  {
+    "School": "Great Plains Lut",
+    "school_class": "A"
+  },
+  {
+    "School": "Gregory",
+    "school_class": "B"
+  },
+  {
+    "School": "Harrisburg",
+    "school_class": "AA"
+  },
+  {
+    "School": "Herreid/Selby Area",
+    "school_class": "B"
+  },
+  {
+    "School": "Highmore-Harrold",
+    "school_class": "B"
+  },
+  {
+    "School": "Hill City",
+    "school_class": "A"
+  },
+  {
+    "School": "Hitchcock-Tulare",
+    "school_class": "B"
+  },
+  {
+    "School": "Howard",
+    "school_class": "B"
+  },
+  {
+    "School": "Huron",
+    "school_class": "AA"
+  },
+  {
+    "School": "Ipswich",
+    "school_class": "B"
+  },
+  {
+    "School": "Irene-Wakonda",
+    "school_class": "B"
+  },
+  {
+    "School": "James Valley Chr",
+    "school_class": "B"
+  },
+  {
+    "School": "Kimball/White Lake",
+    "school_class": "A"
+  },
+  {
+    "School": "Lemmon",
+    "school_class": "B"
+  },
+  {
+    "School": "Lennox",
+    "school_class": "A"
+  },
+  {
+    "School": "Leola",
+    "school_class": "B"
+  },
+  {
+    "School": "Lower Brule",
+    "school_class": "B"
+  },
+  {
+    "School": "Lyman",
+    "school_class": "B"
+  },
+  {
+    "School": "Madison",
+    "school_class": "A"
+  },
+  {
+    "School": "McCrossan",
+    "school_class": "B"
+  },
+  {
+    "School": "McLaughlin",
+    "school_class": "A"
+  },
+  {
+    "School": "Milbank",
+    "school_class": "A"
+  },
+  {
+    "School": "Miller",
+    "school_class": "A"
+  },
+  {
+    "School": "Mitchell",
+    "school_class": "AA"
+  },
+  {
+    "School": "Mitchell Christian",
+    "school_class": "B"
+  },
+  {
+    "School": "Mobridge-Pollock",
+    "school_class": "A"
+  },
+  {
+    "School": "Mount Vernon/Pla",
+    "school_class": "A"
+  },
+  {
+    "School": "New Underwood",
+    "school_class": "B"
+  },
+  {
+    "School": "Newell",
+    "school_class": "B"
+  },
+  {
+    "School": "North Central",
+    "school_class": "A"
+  },
+  {
+    "School": "Northwestern",
+    "school_class": "B"
+  },
+  {
+    "School": "O'Gorman",
+    "school_class": "AA"
+  },
+  {
+    "School": "Philip",
+    "school_class": "B"
+  },
+  {
+    "School": "Pierre T.F. Riggs",
+    "school_class": "AA"
+  },
+  {
+    "School": "Platte-Geddes",
+    "school_class": "A"
+  },
+  {
+    "School": "Potter County",
+    "school_class": "B"
+  },
+  {
+    "School": "RC Christian",
+    "school_class": "A"
+  },
+  {
+    "School": "Rapid City Central",
+    "school_class": "AA"
+  },
+  {
+    "School": "Rapid City Stevens",
+    "school_class": "AA"
+  },
+  {
+    "School": "Red Cloud",
+    "school_class": "A"
+  },
+  {
+    "School": "Redfield",
+    "school_class": "A"
+  },
+  {
+    "School": "SF Christian",
+    "school_class": "A"
+  },
+  {
+    "School": "SF Jefferson",
+    "school_class": "AA"
+  },
+  {
+    "School": "SF Roosevelt",
+    "school_class": "AA"
+  },
+  {
+    "School": "SF Washington",
+    "school_class": "AA"
+  },
+  {
+    "School": "Sanborn Cent/Woo",
+    "school_class": "A"
+  },
+  {
+    "School": "Sioux Falls Lincoln",
+    "school_class": "AA"
+  },
+  {
+    "School": "Sioux Valley",
+    "school_class": "A"
+  },
+  {
+    "School": "Sisseton",
+    "school_class": "A"
+  },
+  {
+    "School": "Spearfish",
+    "school_class": "AA"
+  },
+  {
+    "School": "St. Thomas More",
+    "school_class": "A"
+  },
+  {
+    "School": "Stanley County",
+    "school_class": "A"
+  },
+  {
+    "School": "Sturgis Brown",
+    "school_class": "AA"
+  },
+  {
+    "School": "Sully Buttes",
+    "school_class": "B"
+  },
+  {
+    "School": "Sunshine Bible A",
+    "school_class": "B"
+  },
+  {
+    "School": "Tea Area",
+    "school_class": "A"
+  },
+  {
+    "School": "Timber Lake",
+    "school_class": "B"
+  },
+  {
+    "School": "Tri-State",
+    "school_class": "A"
+  },
+  {
+    "School": "Vermillion",
+    "school_class": "A"
+  },
+  {
+    "School": "Viborg-Hurley",
+    "school_class": "B"
+  },
+  {
+    "School": "Wakpala",
+    "school_class": "B"
+  },
+  {
+    "School": "Wall",
+    "school_class": "B"
+  },
+  {
+    "School": "Warner",
+    "school_class": "B"
+  },
+  {
+    "School": "Watertown",
+    "school_class": "AA"
+  },
+  {
+    "School": "Waubay/Summit",
+    "school_class": "A"
+  },
+  {
+    "School": "Wessington Springs",
+    "school_class": "B"
+  },
+  {
+    "School": "West Central",
+    "school_class": "A"
+  },
+  {
+    "School": "White River",
+    "school_class": "B"
+  },
+  {
+    "School": "Winner",
+    "school_class": "A"
+  },
+  {
+    "School": "Wolsey-Wessington",
+    "school_class": "B"
+  },
+  {
+    "School": "Yankton",
+    "school_class": "AA"
+  },
+  {
+    "School": "Andes Cen/Dak Ch",
+    "school_class": "B"
+  },
+  {
+    "School": "Black Hills Chri",
+    "school_class": "B"
+  },
+  {
+    "School": "Bon Homme",
+    "school_class": "A"
+  },
+  {
+    "School": "Burke",
+    "school_class": "B"
+  },
+  {
+    "School": "Canton",
+    "school_class": "A"
+  },
+  {
+    "School": "Dell Rapids",
+    "school_class": "A"
+  },
+  {
+    "School": "Groton Area",
+    "school_class": "A"
+  },
+  {
+    "School": "Hanson",
+    "school_class": "A"
+  },
+  {
+    "School": "Harding County",
+    "school_class": "B"
+  },
+  {
+    "School": "Hot Springs",
+    "school_class": "A"
+  },
+  {
+    "School": "Jones County",
+    "school_class": "B"
+  },
+  {
+    "School": "Lead-Deadwood",
+    "school_class": "A"
+  },
+  {
+    "School": "Menno",
+    "school_class": "B"
+  },
+  {
+    "School": "Scotland",
+    "school_class": "B"
+  },
+  {
+    "School": "Todd County",
+    "school_class": "A"
+  },
+  {
+    "School": "Tripp-Delmont/Ar",
+    "school_class": "B"
+  },
+  {
+    "School": "Webster Area",
+    "school_class": "A"
+  },
+  {
+    "School": "Alcester-Hudson",
+    "school_class": "B"
+  },
+  {
+    "School": "Elk Point-Jefferson",
+    "school_class": "A"
+  },
+  {
+    "School": "McCook-Central",
+    "school_class": "A"
+  },
+  {
+    "School": "Parker",
+    "school_class": "A"
+  },
+  {
+    "School": "Wagner",
+    "school_class": "A"
+  },
+  {
+    "School": "Iroquois/Lak",
+    "school_class": "B"
+  },
+  {
+    "School": "Tri-Valley",
+    "school_class": "A"
+  },
+  {
+    "School": "CEB",
+    "school_class": "A"
+  },
+  {
+    "School": "Garretson",
+    "school_class": "A"
+  },
+  {
+    "School": "Kadoka",
+    "school_class": "B"
+  },
+  {
+    "School": "Colman-Egan",
+    "school_class": "B"
+  },
+  {
+    "School": "Elkton-Lake Benton",
+    "school_class": "A"
+  },
+  {
+    "School": "Oldham-Ramona-Rutland",
+    "school_class": "B"
+  },
+  {
+    "School": "McIntosh",
+    "school_class": "B"
+  },
+  {
+    "School": "Tiospaye Topa",
+    "school_class": "B"
+  },
+  {
+    "School": "St. Francis Indian",
+    "school_class": "A"
+  },
+  {
+    "School": "Bennett County",
+    "school_class": "B"
+  },
+  {
+    "School": "Little Wound",
+    "school_class": "A"
+  },
+  {
+    "School": "Marty",
+    "school_class": "B"
+  },
+  {
+    "School": "Lakota Tech",
+    "school_class": "A"
+  },
+  {
+    "School": "Pine Ridge",
+    "school_class": "A"
+  },
+  {
+    "School": "Langford Area",
+    "school_class": "B"
+  },
+  {
+    "School": "Tiospa Zina",
+    "school_class": "B"
+  },
+  {
+    "School": "Aberdeen Christian",
+    "school_class": "B"
+  },
+  {
+    "School": "Bridgewater-Emery",
+    "school_class": "B"
+  },
+  {
+    "School": "Mahpiya Luta",
+    "school_class": "A"
+  },
+  {
+    "School": "Britton-Hecla",
+    "school_class": "B"
+  }
+]

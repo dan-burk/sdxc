@@ -13,12 +13,22 @@ import type {
   SortDirection
 } from './types'
 
+// Latest available week per year. Update this each week as new data lands.
+const YEAR_LATEST_WEEK: Record<YearFilter, number> = {
+  '2023': 7,
+  '2025': 8,
+  '2026': 4
+}
+
+const YEARS: YearFilter[] = ['2023', '2025', '2026']
+const LATEST_YEAR: YearFilter = '2026'
+
 function App(): JSX.Element {
   const [activeTab, setActiveTab] = useState<TabType>('rankings')
   const [selectedClass, setSelectedClass] = useState<ClassFilter>('classall')
   const [selectedGender, setSelectedGender] = useState<GenderFilter>('M')
-  const [selectedWeek, setSelectedWeek] = useState<WeekFilter>('week7')
-  const [selectedYear, setSelectedYear] = useState<YearFilter>('2023')
+  const [selectedWeek, setSelectedWeek] = useState<WeekFilter>(`week${YEAR_LATEST_WEEK[LATEST_YEAR]}` as WeekFilter)
+  const [selectedYear, setSelectedYear] = useState<YearFilter>(LATEST_YEAR)
   const [selectedTeams, setSelectedTeams] = useState<string[]>([])
   const [searchTerm, setSearchTerm] = useState<string>('')
   const [rankingsSearchTerm, setRankingsSearchTerm] = useState<string>('')
@@ -37,20 +47,20 @@ function App(): JSX.Element {
   const [loading, setLoading] = useState<boolean>(true)
   const [error, setError] = useState<string | null>(null)
 
-  // Load schools on component mount
+  // Load schools whenever the selected year changes (classes/co-ops change year to year)
   useEffect(() => {
     const fetchSchools = async () => {
       try {
-        const schoolsData = await loadSchools()
+        const schoolsData = await loadSchools(selectedYear)
         setSchools(schoolsData)
       } catch (err) {
         console.error('Failed to load schools:', err)
         // Will fallback to default schools in the service
       }
     }
-    
+
     fetchSchools()
-  }, [])
+  }, [selectedYear])
 
   // Load rankings data when filters change
   useEffect(() => {
@@ -88,9 +98,10 @@ function App(): JSX.Element {
       setError(null)
       
       try {
+        const latestWeek = `week${YEAR_LATEST_WEEK[selectedYear]}` as WeekFilter
         const [boysData, girlsData] = await Promise.all([
-          loadData('boys', selectedYear, 'week7'),
-          loadData('girls', selectedYear, 'week7')
+          loadData('boys', selectedYear, latestWeek),
+          loadData('girls', selectedYear, latestWeek)
         ])
         
         setTeamDataBoys(boysData.filter(runner => selectedTeams.includes(runner.School)))
@@ -111,6 +122,13 @@ function App(): JSX.Element {
     if (!direction) return data
 
     return [...data].sort((a, b) => {
+      // Null times always sort last, regardless of direction
+      if (column === 'time') {
+        if (a.time_min === null && b.time_min === null) return 0
+        if (a.time_min === null) return 1
+        if (b.time_min === null) return -1
+      }
+
       let aValue: string | number
       let bValue: string | number
 
@@ -132,8 +150,8 @@ function App(): JSX.Element {
           bValue = b.points
           break
         case 'time':
-          aValue = a.time_min
-          bValue = b.time_min
+          aValue = a.time_min as number
+          bValue = b.time_min as number
           break
         case 'class':
           aValue = a.school_class
@@ -184,6 +202,16 @@ function App(): JSX.Element {
     if (sortState.direction === 'asc') return '↑'
     if (sortState.direction === 'desc') return '↓'
     return '↕'
+  }
+
+  // Changing years can shrink the available weeks; clamp the selection down if needed
+  const handleYearChange = (year: YearFilter): void => {
+    setSelectedYear(year)
+    const maxWeek = YEAR_LATEST_WEEK[year]
+    const currentWeekNum = parseInt(selectedWeek.replace('week', ''), 10)
+    if (currentWeekNum > maxWeek) {
+      setSelectedWeek(`week${maxWeek}` as WeekFilter)
+    }
   }
 
   const getFilteredData = (): Runner[] => {
@@ -313,7 +341,7 @@ function App(): JSX.Element {
             <div className="filter-group">
               <label className="filter-label">Week</label>
               <div className="grid grid-cols-2 gap-2">
-                {Array.from({ length: 7 }, (_, i) => {
+                {Array.from({ length: YEAR_LATEST_WEEK[selectedYear] }, (_, i) => {
                   const weekValue = `week${i + 1}` as WeekFilter
                   return (
                     <label key={i + 1} className={`radio-option ${selectedWeek === weekValue ? 'radio-option-selected' : ''}`}>
@@ -336,14 +364,14 @@ function App(): JSX.Element {
             <div className="filter-group">
               <label className="filter-label">Year</label>
               <div className="grid grid-cols-2 gap-2">
-                {(['2023', '2024'] as YearFilter[]).map(year => (
+                {YEARS.map(year => (
                   <label key={year} className={`radio-option ${selectedYear === year ? 'radio-option-selected' : ''}`}>
                     <input
                       type="radio"
                       name="year"
                       value={year}
                       checked={selectedYear === year}
-                      onChange={(e) => setSelectedYear(e.target.value as YearFilter)}
+                      onChange={(e) => handleYearChange(e.target.value as YearFilter)}
                       className="radio-input"
                     />
                     <span className="radio-text">{year}</span>

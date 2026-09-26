@@ -1,0 +1,6068 @@
+[
+  {
+    "Name": "COLE REILLY",
+    "School": "SF Washington",
+    "id": 162,
+    "points": 31975.8636,
+    "time_min": 893.8,
+    "rnk_blnd": 1,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TYRUS NEEDLES",
+    "School": "SF Lincoln",
+    "id": 706,
+    "points": 20078.0763,
+    "time_min": 895,
+    "rnk_blnd": 2,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BEN PARSONS",
+    "School": "SF Washington",
+    "id": 65,
+    "points": 19439.0285,
+    "time_min": 946.3,
+    "rnk_blnd": 3,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TATE DEVRIES",
+    "School": "Aberdeen Central",
+    "id": 673,
+    "points": 17199.6879,
+    "time_min": 935.6,
+    "rnk_blnd": 4,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DYLAN HAAR",
+    "School": "Brookings",
+    "id": 222,
+    "points": 19122.9498,
+    "time_min": 953.2,
+    "rnk_blnd": 5,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ERIC ERREA",
+    "School": "Rapid City Central",
+    "id": 247,
+    "points": 15901.885,
+    "time_min": 929.6,
+    "rnk_blnd": 6,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DANE STARK",
+    "School": "Watertown",
+    "id": 191,
+    "points": 16189.6147,
+    "time_min": 940.7,
+    "rnk_blnd": 7,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LEVI VANDER LEEST",
+    "School": "SF Christian",
+    "id": 482,
+    "points": 18515.6916,
+    "time_min": 957.8,
+    "rnk_blnd": 8,
+    "school_class": "A"
+  },
+  {
+    "Name": "ETHAN KYTE",
+    "School": "Brandon Valley",
+    "id": 254,
+    "points": 16162.6437,
+    "time_min": 956.3,
+    "rnk_blnd": 9,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WYATT BALLIEW",
+    "School": "Douglas",
+    "id": 727,
+    "points": 15107.3571,
+    "time_min": 955.3,
+    "rnk_blnd": 10,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HENRY SAYLER",
+    "School": "SF Lincoln",
+    "id": 318,
+    "points": 15763.1642,
+    "time_min": 955.8,
+    "rnk_blnd": 11,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BEN DIRKS",
+    "School": "Harrisburg",
+    "id": 63,
+    "points": 10848.996,
+    "time_min": 958.8,
+    "rnk_blnd": 12,
+    "school_class": "AA"
+  },
+  {
+    "Name": "REID GROHER",
+    "School": "SF Lincoln",
+    "id": 611,
+    "points": 12520.8578,
+    "time_min": 960.9,
+    "rnk_blnd": 13,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GRIFFIN MILLER",
+    "School": "SF Washington",
+    "id": 303,
+    "points": 13679.3024,
+    "time_min": 965.2,
+    "rnk_blnd": 14,
+    "school_class": "AA"
+  },
+  {
+    "Name": "FRANK VANDY",
+    "School": "SF Lincoln",
+    "id": 268,
+    "points": 9914.227,
+    "time_min": 969.2,
+    "rnk_blnd": 15,
+    "school_class": "AA"
+  },
+  {
+    "Name": "PEYTON TETZLAFF",
+    "School": "West Central",
+    "id": 600,
+    "points": 7978.9839,
+    "time_min": 972.5,
+    "rnk_blnd": 16,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYLAN VANDEEST",
+    "School": "Spearfish",
+    "id": 633,
+    "points": 6580.3641,
+    "time_min": 967.4,
+    "rnk_blnd": 17,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LUKE FEIMER",
+    "School": "Yankton",
+    "id": 504,
+    "points": 7993.9862,
+    "time_min": 977.7,
+    "rnk_blnd": 18,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SAWYER PETTENGILL",
+    "School": "SF Christian",
+    "id": 652,
+    "points": 7334.765,
+    "time_min": 977.1,
+    "rnk_blnd": 19,
+    "school_class": "A"
+  },
+  {
+    "Name": "HENA ABREHAM",
+    "School": "SF Washington",
+    "id": 313,
+    "points": 6194.454,
+    "time_min": 974.9,
+    "rnk_blnd": 20,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RIDDICK ISEMINGER",
+    "School": "SF Lincoln",
+    "id": 616,
+    "points": 7690.3747,
+    "time_min": 977.8,
+    "rnk_blnd": 21,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RUBEN BOKEGARD",
+    "School": "Sturgis Brown",
+    "id": 625,
+    "points": 4849.3052,
+    "time_min": 966.3,
+    "rnk_blnd": 22,
+    "school_class": "AA"
+  },
+  {
+    "Name": "EVAN PERRIGO",
+    "School": "Rapid City Stevens",
+    "id": 260,
+    "points": 5905.9496,
+    "time_min": 975.9,
+    "rnk_blnd": 23,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SILAS HOLDEMAN",
+    "School": "Mitchell Christian",
+    "id": 662,
+    "points": 5158.9151,
+    "time_min": 973.2,
+    "rnk_blnd": 24,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACKSON SCHEMA",
+    "School": "O'Gorman",
+    "id": 359,
+    "points": 6219.2999,
+    "time_min": 978.8,
+    "rnk_blnd": 25,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ASHER SELNESS",
+    "School": "Brandon Valley",
+    "id": 48,
+    "points": 6428.25,
+    "time_min": 982,
+    "rnk_blnd": 26,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DAYTON HILL",
+    "School": "SF Washington",
+    "id": 200,
+    "points": 5542.5497,
+    "time_min": 976.9,
+    "rnk_blnd": 27,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KADEN OBER",
+    "School": "James Valley Christian",
+    "id": 439,
+    "points": 8807.8223,
+    "time_min": 997.1,
+    "rnk_blnd": 28,
+    "school_class": "B"
+  },
+  {
+    "Name": "GAGE BEVERLY",
+    "School": "Vermillion",
+    "id": 274,
+    "points": 4193.8348,
+    "time_min": 976.4,
+    "rnk_blnd": 29,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAMISON GOULD",
+    "School": "Dakota Valley",
+    "id": 375,
+    "points": 4343.3802,
+    "time_min": 978.1,
+    "rnk_blnd": 30,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAMUEL MISCHKE",
+    "School": "Brandon Valley",
+    "id": 648,
+    "points": 5653.2757,
+    "time_min": 988.9,
+    "rnk_blnd": 31,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LENNON CLARKSON",
+    "School": "Belle Fourche",
+    "id": 472,
+    "points": 4660.6181,
+    "time_min": 984.2,
+    "rnk_blnd": 32,
+    "school_class": "A"
+  },
+  {
+    "Name": "MARCUS MUNSCH",
+    "School": "Brandon Valley",
+    "id": 517,
+    "points": 5720.6507,
+    "time_min": 992.1,
+    "rnk_blnd": 33,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ALEX QUINN",
+    "School": "SF Roosevelt",
+    "id": 28,
+    "points": 4089.2282,
+    "time_min": 981.8,
+    "rnk_blnd": 34,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AUSTIN DITTMER",
+    "School": "SF Roosevelt",
+    "id": 51,
+    "points": 4499.0511,
+    "time_min": 986.2,
+    "rnk_blnd": 35,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JETER SCOULAR",
+    "School": "Milbank",
+    "id": 401,
+    "points": 3436.0737,
+    "time_min": 981,
+    "rnk_blnd": 36,
+    "school_class": "A"
+  },
+  {
+    "Name": "MASON GILL",
+    "School": "Spearfish",
+    "id": 525,
+    "points": 3830.6601,
+    "time_min": 985.5,
+    "rnk_blnd": 37,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARTER SIEMONSMA",
+    "School": "Garretson",
+    "id": 132,
+    "points": 6255.8774,
+    "time_min": 1004.9,
+    "rnk_blnd": 38,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACKSON TAKEN ALIVE",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 362,
+    "points": 3503.0811,
+    "time_min": 987,
+    "rnk_blnd": 39,
+    "school_class": "A"
+  },
+  {
+    "Name": "ALEX JOHNIKIN",
+    "School": "SF Lincoln",
+    "id": 25,
+    "points": 3765.322,
+    "time_min": 999.2,
+    "rnk_blnd": 40,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MICHAEL MATHERLY",
+    "School": "SF Christian",
+    "id": 546,
+    "points": 2915.0242,
+    "time_min": 991.5,
+    "rnk_blnd": 41,
+    "school_class": "A"
+  },
+  {
+    "Name": "WESLEY LYON",
+    "School": "SF Christian",
+    "id": 717,
+    "points": 2782.5873,
+    "time_min": 998,
+    "rnk_blnd": 42,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAXTON RINEHART",
+    "School": "Tri-Valley",
+    "id": 390,
+    "points": 2430.9635,
+    "time_min": 992.4,
+    "rnk_blnd": 43,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAM GUSSO",
+    "School": "SF Lincoln",
+    "id": 641,
+    "points": 3115.7641,
+    "time_min": 1003.8,
+    "rnk_blnd": 44,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JUSTIN BURKHALTER",
+    "School": "Bison",
+    "id": 433,
+    "points": 2701.8013,
+    "time_min": 1002.6,
+    "rnk_blnd": 45,
+    "school_class": "B"
+  },
+  {
+    "Name": "MAX NELSON",
+    "School": "Aberdeen Central",
+    "id": 536,
+    "points": 3174.7153,
+    "time_min": 1006.9,
+    "rnk_blnd": 46,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JACKSON STORM",
+    "School": "SF Washington",
+    "id": 361,
+    "points": 2412.9207,
+    "time_min": 998.7,
+    "rnk_blnd": 47,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC LARRINGTON",
+    "School": "Yankton",
+    "id": 334,
+    "points": 2319.1097,
+    "time_min": 1009.4,
+    "rnk_blnd": 48,
+    "school_class": "AA"
+  },
+  {
+    "Name": "QUINNTIN MISCHKE",
+    "School": "Brandon Valley",
+    "id": 605,
+    "points": 2154.1605,
+    "time_min": 1004.2,
+    "rnk_blnd": 49,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JACKSON BOLTJES",
+    "School": "SF Washington",
+    "id": 355,
+    "points": 1965.6837,
+    "time_min": 1000.5,
+    "rnk_blnd": 50,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOLAN EIDSON",
+    "School": "Castlewood",
+    "id": 577,
+    "points": 1743.3086,
+    "time_min": 1001,
+    "rnk_blnd": 51,
+    "school_class": "B"
+  },
+  {
+    "Name": "OSCAR EDELEN",
+    "School": "Vermillion",
+    "id": 588,
+    "points": 1931.2148,
+    "time_min": 1004.4,
+    "rnk_blnd": 52,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYDER GRAFF",
+    "School": "Sisseton",
+    "id": 630,
+    "points": 2059.9159,
+    "time_min": 1014,
+    "rnk_blnd": 53,
+    "school_class": "A"
+  },
+  {
+    "Name": "LUKE MENTELE",
+    "School": "Mitchell Christian",
+    "id": 507,
+    "points": 1364.1399,
+    "time_min": 996.7,
+    "rnk_blnd": 54,
+    "school_class": "B"
+  },
+  {
+    "Name": "REID HAMMERQUIST",
+    "School": "Tea Area",
+    "id": 612,
+    "points": 1521.6596,
+    "time_min": 1001,
+    "rnk_blnd": 55,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DREW ARBACH",
+    "School": "North Central",
+    "id": 217,
+    "points": 5351.7372,
+    "time_min": 1057,
+    "rnk_blnd": 56,
+    "school_class": "B"
+  },
+  {
+    "Name": "CARTER THOMPSON",
+    "School": "Spearfish",
+    "id": 134,
+    "points": 1561.5007,
+    "time_min": 1002.7,
+    "rnk_blnd": 57,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRAEDEN RAGA",
+    "School": "SF Lincoln",
+    "id": 87,
+    "points": 2262.0442,
+    "time_min": 1032.5,
+    "rnk_blnd": 58,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JACE BENDER",
+    "School": "Leola/Frederick Area",
+    "id": 347,
+    "points": 6128.2122,
+    "time_min": 1066.4,
+    "rnk_blnd": 59,
+    "school_class": "B"
+  },
+  {
+    "Name": "LUKE JACOBSON",
+    "School": "Yankton",
+    "id": 505,
+    "points": 1878.8112,
+    "time_min": 1015.4,
+    "rnk_blnd": 60,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TEEGAN GROSZ",
+    "School": "Rapid City Central",
+    "id": 684,
+    "points": 1760.7013,
+    "time_min": 1019.4,
+    "rnk_blnd": 61,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WESTON ADAMS",
+    "School": "Rapid City Stevens",
+    "id": 718,
+    "points": 1392.1314,
+    "time_min": 1008.2,
+    "rnk_blnd": 62,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JACKSON WOLTER",
+    "School": "Sanborn Central/Woonsocket",
+    "id": 363,
+    "points": 4272.1653,
+    "time_min": 1064,
+    "rnk_blnd": 63,
+    "school_class": "B"
+  },
+  {
+    "Name": "ALEX SPANOS",
+    "School": "SF Lincoln",
+    "id": 29,
+    "points": 1993.877,
+    "time_min": 1039.2,
+    "rnk_blnd": 64,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOSH MERRIMAN",
+    "School": "Beresford",
+    "id": 425,
+    "points": 1626.204,
+    "time_min": 1026.9,
+    "rnk_blnd": 65,
+    "school_class": "A"
+  },
+  {
+    "Name": "TITUS HOFINGA",
+    "School": "Great Plains Lutheran",
+    "id": 691,
+    "points": 1857.0742,
+    "time_min": null,
+    "rnk_blnd": 66,
+    "school_class": "A"
+  },
+  {
+    "Name": "HAYDEN JANSEN",
+    "School": "Freeman",
+    "id": 311,
+    "points": 1511.2625,
+    "time_min": 1021.9,
+    "rnk_blnd": 67,
+    "school_class": "B"
+  },
+  {
+    "Name": "AARON INGERSON",
+    "School": "North Central",
+    "id": 1,
+    "points": 3208.7489,
+    "time_min": 1067,
+    "rnk_blnd": 68,
+    "school_class": "B"
+  },
+  {
+    "Name": "MYLAN MCDANIEL",
+    "School": "Rapid City Central",
+    "id": 554,
+    "points": 1429.9002,
+    "time_min": 1024.2,
+    "rnk_blnd": 69,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ARGO GRAFF",
+    "School": "Rapid City Stevens",
+    "id": 41,
+    "points": 1710.9264,
+    "time_min": null,
+    "rnk_blnd": 70,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOAH HANSEN",
+    "School": "Rapid City Stevens",
+    "id": 567,
+    "points": 1152.2836,
+    "time_min": 1011.8,
+    "rnk_blnd": 71,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MICAH REEDE",
+    "School": "Lemmon",
+    "id": 542,
+    "points": 2315.9893,
+    "time_min": 1058.5,
+    "rnk_blnd": 72,
+    "school_class": "B"
+  },
+  {
+    "Name": "LANDON STRASSER",
+    "School": "Lennox",
+    "id": 467,
+    "points": 1030.1922,
+    "time_min": 1011.1,
+    "rnk_blnd": 73,
+    "school_class": "A"
+  },
+  {
+    "Name": "LEVI CRANDALL",
+    "School": "James Valley Christian",
+    "id": 479,
+    "points": 3409.4229,
+    "time_min": 1075.9,
+    "rnk_blnd": 74,
+    "school_class": "B"
+  },
+  {
+    "Name": "EDRIK SAEGER",
+    "School": "SF Lincoln",
+    "id": 228,
+    "points": 1117.9706,
+    "time_min": 1029.1,
+    "rnk_blnd": 75,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CADEN HOURIGAN",
+    "School": "Deuel",
+    "id": 112,
+    "points": 1601.5984,
+    "time_min": 1046.4,
+    "rnk_blnd": 76,
+    "school_class": "A"
+  },
+  {
+    "Name": "TATE VAN BEEK",
+    "School": "Rapid City Stevens",
+    "id": 678,
+    "points": 1007.8861,
+    "time_min": 1015.3,
+    "rnk_blnd": 77,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KORBIN STARK",
+    "School": "Faulkton Area",
+    "id": 457,
+    "points": 5923.2298,
+    "time_min": 1092.4,
+    "rnk_blnd": 78,
+    "school_class": "B"
+  },
+  {
+    "Name": "ISAAC PAULSON",
+    "School": "Yankton",
+    "id": 335,
+    "points": 1209.231,
+    "time_min": 1041.9,
+    "rnk_blnd": 79,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HENRY SMITH",
+    "School": "O'Gorman",
+    "id": 319,
+    "points": 831.0672,
+    "time_min": 1011.9,
+    "rnk_blnd": 80,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DAWSON LOWERY",
+    "School": "Harrisburg",
+    "id": 199,
+    "points": 833.4222,
+    "time_min": 1015.1,
+    "rnk_blnd": 81,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOHN TOATES",
+    "School": "Brandon Valley",
+    "id": 413,
+    "points": 1110.113,
+    "time_min": 1042,
+    "rnk_blnd": 82,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LOGAN KONTZ",
+    "School": "Flandreau",
+    "id": 494,
+    "points": 1047.7065,
+    "time_min": 1039.3,
+    "rnk_blnd": 83,
+    "school_class": "A"
+  },
+  {
+    "Name": "CARSON MCDOWELL",
+    "School": "Rapid City Stevens",
+    "id": 124,
+    "points": 1279.8002,
+    "time_min": null,
+    "rnk_blnd": 84,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LIAM GILL",
+    "School": "Chamberlain",
+    "id": 485,
+    "points": 956.988,
+    "time_min": 1033.1,
+    "rnk_blnd": 85,
+    "school_class": "A"
+  },
+  {
+    "Name": "DANIEL MASON",
+    "School": "Pierre T.F. Riggs",
+    "id": 192,
+    "points": 1069.0755,
+    "time_min": 1042.5,
+    "rnk_blnd": 86,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARTER COOPER",
+    "School": "Custer",
+    "id": 127,
+    "points": 936.0764,
+    "time_min": 1034.6,
+    "rnk_blnd": 87,
+    "school_class": "A"
+  },
+  {
+    "Name": "SUTTON BENCK",
+    "School": "Deuel",
+    "id": 667,
+    "points": 2426.7176,
+    "time_min": 1084.3,
+    "rnk_blnd": 88,
+    "school_class": "A"
+  },
+  {
+    "Name": "GAVIN JOHNSON",
+    "School": "SF Jefferson",
+    "id": 282,
+    "points": 735.5108,
+    "time_min": 1012.3,
+    "rnk_blnd": 89,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JIM NEDDO",
+    "School": "Pierre T.F. Riggs",
+    "id": 403,
+    "points": 1062.9769,
+    "time_min": 1043.8,
+    "rnk_blnd": 90,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CHRISTIAN OYLEAR",
+    "School": "Rapid City Stevens",
+    "id": 150,
+    "points": 1188.7922,
+    "time_min": null,
+    "rnk_blnd": 91,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOHN TITUS ISAKSON",
+    "School": "Hill City",
+    "id": 412,
+    "points": 742.6416,
+    "time_min": 1020.7,
+    "rnk_blnd": 92,
+    "school_class": "A"
+  },
+  {
+    "Name": "CAMDEN TEBAY",
+    "School": "Dell Rapids",
+    "id": 119,
+    "points": 2531.198,
+    "time_min": 1091.4,
+    "rnk_blnd": 93,
+    "school_class": "A"
+  },
+  {
+    "Name": "ETHAN MCGREGOR",
+    "School": "Garretson",
+    "id": 255,
+    "points": 2587.9786,
+    "time_min": 1092.6,
+    "rnk_blnd": 94,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAM ERNST",
+    "School": "Herreid/Selby Area",
+    "id": 640,
+    "points": 2296.1458,
+    "time_min": 1088,
+    "rnk_blnd": 95,
+    "school_class": "B"
+  },
+  {
+    "Name": "ADAM KINNER",
+    "School": "Elkton-Lake Benton",
+    "id": 8,
+    "points": 3160.4479,
+    "time_min": 1099.6,
+    "rnk_blnd": 96,
+    "school_class": "A"
+  },
+  {
+    "Name": "BLAKE PETERSON",
+    "School": "Rapid City Stevens",
+    "id": 75,
+    "points": 1103.6855,
+    "time_min": null,
+    "rnk_blnd": 97,
+    "school_class": "AA"
+  },
+  {
+    "Name": "XAVIER SANCHEZ-GONZALEZ",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 739,
+    "points": 1629.9265,
+    "time_min": 1081.7,
+    "rnk_blnd": 98,
+    "school_class": "A"
+  },
+  {
+    "Name": "DAWSON DEERING",
+    "School": "Sturgis Brown",
+    "id": 198,
+    "points": 1996.898,
+    "time_min": 1090.1,
+    "rnk_blnd": 99,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BROOKS MCPEAK",
+    "School": "Highmore-Harrold",
+    "id": 101,
+    "points": 2202.8271,
+    "time_min": 1093,
+    "rnk_blnd": 100,
+    "school_class": "B"
+  },
+  {
+    "Name": "ANDREW KOOLE",
+    "School": "SF Christian",
+    "id": 31,
+    "points": 1358.8409,
+    "time_min": 1076.3,
+    "rnk_blnd": 101,
+    "school_class": "A"
+  },
+  {
+    "Name": "OLIVER MIKEL",
+    "School": "SF Lincoln",
+    "id": 585,
+    "points": 1229.5472,
+    "time_min": 1076.2,
+    "rnk_blnd": 102,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAXON HANSON",
+    "School": "Rapid City Stevens",
+    "id": 383,
+    "points": 1024.1175,
+    "time_min": null,
+    "rnk_blnd": 103,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DEMETRIUS SANCHEZ-GONZALEZ",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 206,
+    "points": 1451.4978,
+    "time_min": 1083.6,
+    "rnk_blnd": 104,
+    "school_class": "A"
+  },
+  {
+    "Name": "LANDON DOYLE",
+    "School": "SF Washington",
+    "id": 464,
+    "points": 602.3032,
+    "time_min": 1021.7,
+    "rnk_blnd": 105,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BENNETT GRAHAM",
+    "School": "Milbank",
+    "id": 69,
+    "points": 950.9662,
+    "time_min": null,
+    "rnk_blnd": 106,
+    "school_class": "A"
+  },
+  {
+    "Name": "ELIJAH HAUKAAS",
+    "School": "White River",
+    "id": 237,
+    "points": 630.6415,
+    "time_min": 1034.4,
+    "rnk_blnd": 107,
+    "school_class": "B"
+  },
+  {
+    "Name": "DARRON MOELLER",
+    "School": "Kimball/White Lake",
+    "id": 195,
+    "points": 763.7064,
+    "time_min": 1063,
+    "rnk_blnd": 108,
+    "school_class": "B"
+  },
+  {
+    "Name": "WYATT BOERGER",
+    "School": "Rapid City Stevens",
+    "id": 728,
+    "points": 949.747,
+    "time_min": null,
+    "rnk_blnd": 109,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARSON CLEMENTS",
+    "School": "Wessington Springs",
+    "id": 122,
+    "points": 1250.2464,
+    "time_min": 1085.9,
+    "rnk_blnd": 110,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACK LAFERRIER",
+    "School": "Elk Point-Jefferson",
+    "id": 350,
+    "points": 636.8779,
+    "time_min": 1042.9,
+    "rnk_blnd": 111,
+    "school_class": "A"
+  },
+  {
+    "Name": "ETHAN GREEN",
+    "School": "Rapid City Stevens",
+    "id": 251,
+    "points": 880.2533,
+    "time_min": null,
+    "rnk_blnd": 112,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AYDEN BERNDT",
+    "School": "Rapid City Central",
+    "id": 54,
+    "points": 637.3671,
+    "time_min": 1043.5,
+    "rnk_blnd": 113,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CASE CARLSON",
+    "School": "Iroquois/Lake Preston",
+    "id": 136,
+    "points": 2150.1729,
+    "time_min": 1112.7,
+    "rnk_blnd": 114,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOSEPH RICHARDS",
+    "School": "Aberdeen Christian",
+    "id": 424,
+    "points": 2091.3023,
+    "time_min": 1114,
+    "rnk_blnd": 115,
+    "school_class": "B"
+  },
+  {
+    "Name": "ISAAC SPAHR",
+    "School": "Brandon Valley",
+    "id": 337,
+    "points": 648.1835,
+    "time_min": 1061.3,
+    "rnk_blnd": 116,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WILLOW FISCHER",
+    "School": "McCrossan",
+    "id": 725,
+    "points": 1690.5806,
+    "time_min": 1112.6,
+    "rnk_blnd": 117,
+    "school_class": "B"
+  },
+  {
+    "Name": "HOWARD SUMPTION",
+    "School": "Leola/Frederick Area",
+    "id": 323,
+    "points": 2813.3997,
+    "time_min": 1128.3,
+    "rnk_blnd": 118,
+    "school_class": "B"
+  },
+  {
+    "Name": "ZACH NIELSEN",
+    "School": "West Central",
+    "id": 740,
+    "points": 633.7278,
+    "time_min": 1063.6,
+    "rnk_blnd": 119,
+    "school_class": "A"
+  },
+  {
+    "Name": "TY BOEKELHEIDE",
+    "School": "Northwestern",
+    "id": 704,
+    "points": 2679.0401,
+    "time_min": 1126.4,
+    "rnk_blnd": 120,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH KETEL",
+    "School": "Rapid City Stevens",
+    "id": 569,
+    "points": 754.7072,
+    "time_min": null,
+    "rnk_blnd": 121,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAK BOOKER",
+    "School": "Lennox",
+    "id": 340,
+    "points": 476.2524,
+    "time_min": 1029.9,
+    "rnk_blnd": 122,
+    "school_class": "A"
+  },
+  {
+    "Name": "GRADY WAGNER",
+    "School": "Webster Area",
+    "id": 295,
+    "points": 752.6166,
+    "time_min": null,
+    "rnk_blnd": 123,
+    "school_class": "A"
+  },
+  {
+    "Name": "ROMAN JEFFERY",
+    "School": "Spearfish",
+    "id": 622,
+    "points": 476.4274,
+    "time_min": 1034.1,
+    "rnk_blnd": 124,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BROOKS ORDWAY",
+    "School": "Harrisburg",
+    "id": 102,
+    "points": 430.3528,
+    "time_min": 1032.1,
+    "rnk_blnd": 125,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LOUIS KILLS CROW INDIAN",
+    "School": "Little Wound",
+    "id": 497,
+    "points": 2347.2862,
+    "time_min": 1134,
+    "rnk_blnd": 126,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYLAN CUNY",
+    "School": "Mahpiya Luta",
+    "id": 632,
+    "points": 1991.4243,
+    "time_min": 1128.3,
+    "rnk_blnd": 127,
+    "school_class": "A"
+  },
+  {
+    "Name": "WILL TIBBETTS",
+    "School": "SF Lincoln",
+    "id": 723,
+    "points": 628.9552,
+    "time_min": 1075.3,
+    "rnk_blnd": 128,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CHARLES MEYER",
+    "School": "Madison",
+    "id": 142,
+    "points": 1312.0084,
+    "time_min": 1117.5,
+    "rnk_blnd": 129,
+    "school_class": "A"
+  },
+  {
+    "Name": "NOAH BAUMBACH",
+    "School": "SF Lutheran",
+    "id": 562,
+    "points": 417.4372,
+    "time_min": 1030.5,
+    "rnk_blnd": 130,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOHN FOSTER",
+    "School": "Rapid City Central",
+    "id": 409,
+    "points": 698.1042,
+    "time_min": null,
+    "rnk_blnd": 131,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AUSTIN KELLER",
+    "School": "Florence/Henry",
+    "id": 53,
+    "points": 1609.5145,
+    "time_min": 1128.5,
+    "rnk_blnd": 132,
+    "school_class": "A"
+  },
+  {
+    "Name": "TAYTE JOACHIMS",
+    "School": "Flandreau",
+    "id": 680,
+    "points": 606.6397,
+    "time_min": 1078.3,
+    "rnk_blnd": 133,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAYCE FIRE THUNDER",
+    "School": "Little Wound",
+    "id": 391,
+    "points": 2010.5594,
+    "time_min": 1139.7,
+    "rnk_blnd": 134,
+    "school_class": "A"
+  },
+  {
+    "Name": "HAISTYN HUSS",
+    "School": "Miller",
+    "id": 307,
+    "points": 663.4204,
+    "time_min": null,
+    "rnk_blnd": 135,
+    "school_class": "A"
+  },
+  {
+    "Name": "RANCE KUHLMAN",
+    "School": "Avon",
+    "id": 606,
+    "points": 868.5392,
+    "time_min": 1113.5,
+    "rnk_blnd": 136,
+    "school_class": "B"
+  },
+  {
+    "Name": "TYSON HAGBERG",
+    "School": "Deuel",
+    "id": 708,
+    "points": 549.3624,
+    "time_min": 1079.6,
+    "rnk_blnd": 137,
+    "school_class": "A"
+  },
+  {
+    "Name": "CORBIN DODSON",
+    "School": "Sturgis Brown",
+    "id": 178,
+    "points": 820.3447,
+    "time_min": 1112,
+    "rnk_blnd": 138,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SAM VANRAALTE",
+    "School": "SF Christian",
+    "id": 645,
+    "points": 331.8469,
+    "time_min": 1019.6,
+    "rnk_blnd": 139,
+    "school_class": "A"
+  },
+  {
+    "Name": "COOPER LIBIS",
+    "School": "St. Mary's",
+    "id": 174,
+    "points": 1163.2909,
+    "time_min": 1125.2,
+    "rnk_blnd": 140,
+    "school_class": "B"
+  },
+  {
+    "Name": "MICHAEL PRUE",
+    "School": "Todd County",
+    "id": 547,
+    "points": 1447.5707,
+    "time_min": 1133,
+    "rnk_blnd": 141,
+    "school_class": "A"
+  },
+  {
+    "Name": "MARLIN SCARBOROUGH",
+    "School": "Rapid City Stevens",
+    "id": 520,
+    "points": 645.2747,
+    "time_min": null,
+    "rnk_blnd": 142,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOSHUA MITCHELL",
+    "School": "Deubrook Area",
+    "id": 427,
+    "points": 2208.9873,
+    "time_min": 1150,
+    "rnk_blnd": 143,
+    "school_class": "B"
+  },
+  {
+    "Name": "ANDREW SCHWAB",
+    "School": "Aberdeen Christian",
+    "id": 34,
+    "points": 854.7374,
+    "time_min": 1117,
+    "rnk_blnd": 144,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRACEN GILL",
+    "School": "Timber Lake",
+    "id": 292,
+    "points": 978.7259,
+    "time_min": 1123,
+    "rnk_blnd": 145,
+    "school_class": "B"
+  },
+  {
+    "Name": "ADAM HOHN",
+    "School": "Custer",
+    "id": 7,
+    "points": 393.2538,
+    "time_min": 1048,
+    "rnk_blnd": 146,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAWYER HOLDEMAN",
+    "School": "Mitchell Christian",
+    "id": 651,
+    "points": 319.418,
+    "time_min": 1029.1,
+    "rnk_blnd": 147,
+    "school_class": "B"
+  },
+  {
+    "Name": "WYATT GAETA",
+    "School": "Rapid City Stevens",
+    "id": 733,
+    "points": 344.6088,
+    "time_min": 1041.1,
+    "rnk_blnd": 148,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COLLIN RANDALL",
+    "School": "Freeman",
+    "id": 166,
+    "points": 453.8581,
+    "time_min": 1073.7,
+    "rnk_blnd": 149,
+    "school_class": "B"
+  },
+  {
+    "Name": "RHETT MUNGER",
+    "School": "Miller",
+    "id": 614,
+    "points": 909.8079,
+    "time_min": 1123,
+    "rnk_blnd": 150,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRIAR HORN",
+    "School": "West Central",
+    "id": 96,
+    "points": 533.1678,
+    "time_min": 1087.5,
+    "rnk_blnd": 151,
+    "school_class": "A"
+  },
+  {
+    "Name": "THOMAS HOLZER",
+    "School": "Mobridge-Pollock",
+    "id": 688,
+    "points": 1336.1533,
+    "time_min": 1141.1,
+    "rnk_blnd": 152,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRADLEY WALDEN",
+    "School": "Brandon Valley",
+    "id": 80,
+    "points": 478.0081,
+    "time_min": 1079.9,
+    "rnk_blnd": 153,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JADEN SCHEMPP",
+    "School": "SF Lincoln",
+    "id": 368,
+    "points": 727.0508,
+    "time_min": 1116.5,
+    "rnk_blnd": 154,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRADY ZIRBEL",
+    "School": "Brandon Valley",
+    "id": 85,
+    "points": 613.177,
+    "time_min": null,
+    "rnk_blnd": 155,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ADAM ROBLES JR.",
+    "School": "SF Lincoln",
+    "id": 9,
+    "points": 740.0782,
+    "time_min": 1117.7,
+    "rnk_blnd": 156,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARTER PEPPEL",
+    "School": "Winner/Colome",
+    "id": 131,
+    "points": 1105.429,
+    "time_min": 1135,
+    "rnk_blnd": 157,
+    "school_class": "A"
+  },
+  {
+    "Name": "JOSIAH STIEGELMEIER",
+    "School": "Sunshine Bible Academy",
+    "id": 429,
+    "points": 994.2404,
+    "time_min": 1133,
+    "rnk_blnd": 158,
+    "school_class": "B"
+  },
+  {
+    "Name": "DAMIEN TWO EAGLE",
+    "School": "St. Francis Indian",
+    "id": 189,
+    "points": 1277.3401,
+    "time_min": 1145,
+    "rnk_blnd": 159,
+    "school_class": "A"
+  },
+  {
+    "Name": "CHANNING DEBOER",
+    "School": "Watertown",
+    "id": 140,
+    "points": 558.6075,
+    "time_min": 1100.6,
+    "rnk_blnd": 160,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KARSTEN MCPEAK",
+    "School": "Highmore-Harrold",
+    "id": 445,
+    "points": 688.9106,
+    "time_min": 1119,
+    "rnk_blnd": 161,
+    "school_class": "B"
+  },
+  {
+    "Name": "ELI SCHEIBE",
+    "School": "Pierre T.F. Riggs",
+    "id": 232,
+    "points": 1016.5555,
+    "time_min": 1137.6,
+    "rnk_blnd": 162,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAVIN FRIEND",
+    "School": "Rapid City Stevens",
+    "id": 280,
+    "points": 595.9828,
+    "time_min": null,
+    "rnk_blnd": 163,
+    "school_class": "AA"
+  },
+  {
+    "Name": "PEYTON KRUEGER",
+    "School": "Custer",
+    "id": 599,
+    "points": 312.5024,
+    "time_min": 1050.4,
+    "rnk_blnd": 164,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAMESON PEARSON",
+    "School": "Deubrook Area",
+    "id": 374,
+    "points": 675.7337,
+    "time_min": 1120.9,
+    "rnk_blnd": 165,
+    "school_class": "B"
+  },
+  {
+    "Name": "ADAM BAKER",
+    "School": "Rapid City Stevens",
+    "id": 5,
+    "points": 550.007,
+    "time_min": null,
+    "rnk_blnd": 166,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SUTTON PETERSON",
+    "School": "Lemmon",
+    "id": 669,
+    "points": 829.8369,
+    "time_min": 1134,
+    "rnk_blnd": 167,
+    "school_class": "B"
+  },
+  {
+    "Name": "KYLER HANIGAN",
+    "School": "Aberdeen Central",
+    "id": 462,
+    "points": 937.2878,
+    "time_min": 1141.6,
+    "rnk_blnd": 168,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JETT KIRSCHENMANN",
+    "School": "Pierre T.F. Riggs",
+    "id": 402,
+    "points": 491.2809,
+    "time_min": 1099.1,
+    "rnk_blnd": 169,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRAYDEN BRAVE HEART",
+    "School": "Pierre T.F. Riggs",
+    "id": 88,
+    "points": 863.4054,
+    "time_min": 1142.1,
+    "rnk_blnd": 170,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC CLEMENT",
+    "School": "Douglas",
+    "id": 331,
+    "points": 231.0768,
+    "time_min": 1040.8,
+    "rnk_blnd": 171,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ANSON GRIFFIN",
+    "School": "Rapid City Central",
+    "id": 35,
+    "points": 507.1388,
+    "time_min": null,
+    "rnk_blnd": 172,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JEREMIAH WHITE",
+    "School": "Hill City",
+    "id": 399,
+    "points": 258.0375,
+    "time_min": 1061.2,
+    "rnk_blnd": 173,
+    "school_class": "A"
+  },
+  {
+    "Name": "TITUS KIPPLEY",
+    "School": "Leola/Frederick Area",
+    "id": 692,
+    "points": 1147.6194,
+    "time_min": 1160.9,
+    "rnk_blnd": 174,
+    "school_class": "B"
+  },
+  {
+    "Name": "KEATON FOPMA",
+    "School": "SF Christian",
+    "id": 447,
+    "points": 231.0571,
+    "time_min": 1043.2,
+    "rnk_blnd": 175,
+    "school_class": "A"
+  },
+  {
+    "Name": "ALEX EKSTRUM",
+    "School": "Kimball/White Lake",
+    "id": 23,
+    "points": 451.755,
+    "time_min": 1111.2,
+    "rnk_blnd": 176,
+    "school_class": "B"
+  },
+  {
+    "Name": "NASH FISCHER",
+    "School": "Gettysburg",
+    "id": 555,
+    "points": 1596.3373,
+    "time_min": 1181,
+    "rnk_blnd": 177,
+    "school_class": "B"
+  },
+  {
+    "Name": "XADIAN WAYSMAN",
+    "School": "Brandon Valley",
+    "id": 738,
+    "points": 512.4643,
+    "time_min": 1120.6,
+    "rnk_blnd": 178,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ROWAN SOPER",
+    "School": "SF Washington",
+    "id": 623,
+    "points": 697.576,
+    "time_min": 1144.4,
+    "rnk_blnd": 179,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BEN QUAIL",
+    "School": "Vermillion",
+    "id": 66,
+    "points": 212.2418,
+    "time_min": 1046.7,
+    "rnk_blnd": 180,
+    "school_class": "A"
+  },
+  {
+    "Name": "ZADEN CRANE",
+    "School": "Pierre T.F. Riggs",
+    "id": 743,
+    "points": 746.1386,
+    "time_min": 1150.9,
+    "rnk_blnd": 181,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ZACHARY COOPER",
+    "School": "Custer",
+    "id": 741,
+    "points": 183.1092,
+    "time_min": 1040.3,
+    "rnk_blnd": 182,
+    "school_class": "A"
+  },
+  {
+    "Name": "ISAIAH SKOGEN",
+    "School": "Deubrook Area",
+    "id": 342,
+    "points": 882.2962,
+    "time_min": 1161.6,
+    "rnk_blnd": 183,
+    "school_class": "B"
+  },
+  {
+    "Name": "LOGAN BECKER",
+    "School": "Watertown",
+    "id": 492,
+    "points": 524.1148,
+    "time_min": 1129.2,
+    "rnk_blnd": 184,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOAH HALVORSON",
+    "School": "Beresford",
+    "id": 566,
+    "points": 495.3336,
+    "time_min": 1125.3,
+    "rnk_blnd": 185,
+    "school_class": "A"
+  },
+  {
+    "Name": "DANIEL SAMLASKA",
+    "School": "SF Washington",
+    "id": 193,
+    "points": 652.5018,
+    "time_min": 1148,
+    "rnk_blnd": 186,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LEE DECKER",
+    "School": "Rapid City Stevens",
+    "id": 471,
+    "points": 467.1824,
+    "time_min": null,
+    "rnk_blnd": 187,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ANTOINE GARNIER",
+    "School": "Mahpiya Luta",
+    "id": 38,
+    "points": 1107.1056,
+    "time_min": 1181,
+    "rnk_blnd": 188,
+    "school_class": "A"
+  },
+  {
+    "Name": "CJ BJORUM",
+    "School": "Scotland",
+    "id": 152,
+    "points": 687.9043,
+    "time_min": 1151,
+    "rnk_blnd": 189,
+    "school_class": "B"
+  },
+  {
+    "Name": "NATHAN FLANAGAN",
+    "School": "Harrisburg",
+    "id": 556,
+    "points": 182.9061,
+    "time_min": 1050.7,
+    "rnk_blnd": 190,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BYRON CONDON",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 108,
+    "points": 541.9163,
+    "time_min": 1139.2,
+    "rnk_blnd": 191,
+    "school_class": "A"
+  },
+  {
+    "Name": "JOHN JACOBSON",
+    "School": "Yankton",
+    "id": 410,
+    "points": 600.3939,
+    "time_min": 1143,
+    "rnk_blnd": 192,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BEN WEIGEL",
+    "School": "Aberdeen Roncalli",
+    "id": 67,
+    "points": 502.7895,
+    "time_min": 1131.4,
+    "rnk_blnd": 193,
+    "school_class": "A"
+  },
+  {
+    "Name": "MATTHEW HEINEMANN",
+    "School": "St. Mary's",
+    "id": 533,
+    "points": 625.1844,
+    "time_min": 1147.5,
+    "rnk_blnd": 194,
+    "school_class": "B"
+  },
+  {
+    "Name": "GIDEON OKKEN",
+    "School": "Harrisburg",
+    "id": 288,
+    "points": 173.1566,
+    "time_min": 1047.1,
+    "rnk_blnd": 195,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOSEPH O'BRIEN",
+    "School": "Britton-Hecla",
+    "id": 423,
+    "points": 1211.9475,
+    "time_min": 1195.1,
+    "rnk_blnd": 196,
+    "school_class": "A"
+  },
+  {
+    "Name": "DAVID LETHLEAN",
+    "School": "Rapid City Central",
+    "id": 196,
+    "points": 429.9538,
+    "time_min": null,
+    "rnk_blnd": 197,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WYATT COOLEY",
+    "School": "Brookings",
+    "id": 729,
+    "points": 170.5404,
+    "time_min": 1055.2,
+    "rnk_blnd": 198,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DREW CHAVEZ",
+    "School": "Rapid City Central",
+    "id": 218,
+    "points": 190.2619,
+    "time_min": 1067.3,
+    "rnk_blnd": 199,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC HAICH",
+    "School": "Irene-Wakonda",
+    "id": 332,
+    "points": 423.174,
+    "time_min": 1123.5,
+    "rnk_blnd": 200,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRADY BARTUNEK",
+    "School": "Wagner",
+    "id": 293,
+    "points": 403.1297,
+    "time_min": 1123,
+    "rnk_blnd": 201,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRADY SCHWAB",
+    "School": "SF Lincoln",
+    "id": 84,
+    "points": 470.0476,
+    "time_min": 1134,
+    "rnk_blnd": 202,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MASON ROYER",
+    "School": "Warner",
+    "id": 530,
+    "points": 425.585,
+    "time_min": null,
+    "rnk_blnd": 203,
+    "school_class": "B"
+  },
+  {
+    "Name": "GAGE LANDMARK",
+    "School": "Deubrook Area",
+    "id": 277,
+    "points": 860.3175,
+    "time_min": 1183,
+    "rnk_blnd": 204,
+    "school_class": "B"
+  },
+  {
+    "Name": "IAN CHO",
+    "School": "Spearfish",
+    "id": 329,
+    "points": 712.4443,
+    "time_min": 1172,
+    "rnk_blnd": 205,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAGE HUETHER",
+    "School": "New Underwood",
+    "id": 276,
+    "points": 681.1233,
+    "time_min": 1168.9,
+    "rnk_blnd": 206,
+    "school_class": "B"
+  },
+  {
+    "Name": "BASTIAN GONZALES",
+    "School": "Spearfish",
+    "id": 57,
+    "points": 166.3542,
+    "time_min": 1064.4,
+    "rnk_blnd": 207,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WALTER GRAESSER",
+    "School": "Platte-Geddes",
+    "id": 716,
+    "points": 154.1495,
+    "time_min": 1055.9,
+    "rnk_blnd": 208,
+    "school_class": "A"
+  },
+  {
+    "Name": "TEAGAN LIEN",
+    "School": "Huron",
+    "id": 681,
+    "points": 622.9693,
+    "time_min": 1160.1,
+    "rnk_blnd": 209,
+    "school_class": "AA"
+  },
+  {
+    "Name": "REAGAN SANDNESS",
+    "School": "Sunshine Bible Academy",
+    "id": 607,
+    "points": 707.6483,
+    "time_min": 1179,
+    "rnk_blnd": 210,
+    "school_class": "B"
+  },
+  {
+    "Name": "CALE COOPER",
+    "School": "Avon",
+    "id": 116,
+    "points": 505.8239,
+    "time_min": 1149.7,
+    "rnk_blnd": 211,
+    "school_class": "B"
+  },
+  {
+    "Name": "KAISER LUNDE",
+    "School": "Watertown",
+    "id": 442,
+    "points": 480.9135,
+    "time_min": 1146.8,
+    "rnk_blnd": 212,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOLAN KATZER",
+    "School": "Dell Rapids",
+    "id": 578,
+    "points": 539.644,
+    "time_min": 1156.3,
+    "rnk_blnd": 213,
+    "school_class": "A"
+  },
+  {
+    "Name": "WYATT FERINGA",
+    "School": "Rapid City Stevens",
+    "id": 731,
+    "points": 395.2801,
+    "time_min": null,
+    "rnk_blnd": 214,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MAX MCDONALD",
+    "School": "SF Christian",
+    "id": 535,
+    "points": 118.8139,
+    "time_min": 1042,
+    "rnk_blnd": 215,
+    "school_class": "A"
+  },
+  {
+    "Name": "BENNETT FARLEY",
+    "School": "Beresford",
+    "id": 68,
+    "points": 519.5805,
+    "time_min": 1155.8,
+    "rnk_blnd": 216,
+    "school_class": "A"
+  },
+  {
+    "Name": "HENRY CLAYTON",
+    "School": "Pierre T.F. Riggs",
+    "id": 314,
+    "points": 599.3205,
+    "time_min": 1166.8,
+    "rnk_blnd": 217,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LUKE MILLER",
+    "School": "Freeman",
+    "id": 508,
+    "points": 343.5549,
+    "time_min": 1128.2,
+    "rnk_blnd": 218,
+    "school_class": "B"
+  },
+  {
+    "Name": "WESTON HIEB",
+    "School": "Brandon Valley",
+    "id": 720,
+    "points": 319.264,
+    "time_min": 1121.6,
+    "rnk_blnd": 219,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JOSEPH HORNBECK-LUSH",
+    "School": "Brandon Valley",
+    "id": 422,
+    "points": 490.4382,
+    "time_min": 1157.6,
+    "rnk_blnd": 220,
+    "school_class": "AA"
+  },
+  {
+    "Name": "REECE CHRISTIAN",
+    "School": "Tea Area",
+    "id": 608,
+    "points": 127.5312,
+    "time_min": 1063,
+    "rnk_blnd": 221,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LIAM NIELSEN",
+    "School": "SF Roosevelt",
+    "id": 487,
+    "points": 127.1379,
+    "time_min": 1061.6,
+    "rnk_blnd": 222,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOLAN RADKE",
+    "School": "Rapid City Central",
+    "id": 579,
+    "points": 362.9989,
+    "time_min": null,
+    "rnk_blnd": 223,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TRAEDYN WEBB",
+    "School": "SF Lincoln",
+    "id": 695,
+    "points": 380.4431,
+    "time_min": 1144.2,
+    "rnk_blnd": 224,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ANTHONY STEVENS",
+    "School": "Spearfish",
+    "id": 36,
+    "points": 129.4516,
+    "time_min": 1069.7,
+    "rnk_blnd": 225,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRETT HANSEN",
+    "School": "Sisseton",
+    "id": 93,
+    "points": 143.0204,
+    "time_min": 1075.3,
+    "rnk_blnd": 226,
+    "school_class": "A"
+  },
+  {
+    "Name": "GAVIN MATTSON",
+    "School": "Deuel",
+    "id": 284,
+    "points": 377.4608,
+    "time_min": 1145.2,
+    "rnk_blnd": 227,
+    "school_class": "A"
+  },
+  {
+    "Name": "JEFFERY WEAVER",
+    "School": "Yankton",
+    "id": 397,
+    "points": 452.0468,
+    "time_min": 1157.7,
+    "rnk_blnd": 228,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOAH LOVE",
+    "School": "Deuel",
+    "id": 572,
+    "points": 686.664,
+    "time_min": 1197.1,
+    "rnk_blnd": 229,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAM MANIAN",
+    "School": "Great Plains Lutheran",
+    "id": 642,
+    "points": 733.8788,
+    "time_min": 1201,
+    "rnk_blnd": 230,
+    "school_class": "A"
+  },
+  {
+    "Name": "AIDAN CRAVEN",
+    "School": "Philip",
+    "id": 13,
+    "points": 127.3524,
+    "time_min": 1069.3,
+    "rnk_blnd": 231,
+    "school_class": "B"
+  },
+  {
+    "Name": "OLIVER MERRIMAN",
+    "School": "Beresford",
+    "id": 583,
+    "points": 423.2695,
+    "time_min": 1152.6,
+    "rnk_blnd": 232,
+    "school_class": "A"
+  },
+  {
+    "Name": "HOKSILA SHARPFISH",
+    "School": "Mahpiya Luta",
+    "id": 321,
+    "points": 785.1217,
+    "time_min": 1206,
+    "rnk_blnd": 233,
+    "school_class": "A"
+  },
+  {
+    "Name": "COOPER GREGERSON",
+    "School": "Webster Area",
+    "id": 172,
+    "points": 355.7521,
+    "time_min": null,
+    "rnk_blnd": 234,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAKE MALCHOW",
+    "School": "SF Washington",
+    "id": 369,
+    "points": 106.6443,
+    "time_min": 1065.6,
+    "rnk_blnd": 235,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CONNER LUNDY",
+    "School": "Custer",
+    "id": 168,
+    "points": 744.346,
+    "time_min": 1207.2,
+    "rnk_blnd": 236,
+    "school_class": "A"
+  },
+  {
+    "Name": "GABE FRIAS",
+    "School": "Flandreau",
+    "id": 270,
+    "points": 401.9851,
+    "time_min": 1154.8,
+    "rnk_blnd": 237,
+    "school_class": "A"
+  },
+  {
+    "Name": "LUKE MINOR",
+    "School": "O'Gorman",
+    "id": 509,
+    "points": 108.8166,
+    "time_min": 1071.9,
+    "rnk_blnd": 238,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LUCAS UNDERWOOD",
+    "School": "Brookings",
+    "id": 502,
+    "points": 102.5465,
+    "time_min": 1067.9,
+    "rnk_blnd": 239,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MAXWELL RADKE",
+    "School": "Huron",
+    "id": 539,
+    "points": 651.8655,
+    "time_min": 1202,
+    "rnk_blnd": 240,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TRIGG ODENBACH",
+    "School": "Lemmon",
+    "id": 697,
+    "points": 342.1575,
+    "time_min": 1147.4,
+    "rnk_blnd": 241,
+    "school_class": "B"
+  },
+  {
+    "Name": "COEN HALVORSON",
+    "School": "Webster Area",
+    "id": 157,
+    "points": 863.81,
+    "time_min": 1222.5,
+    "rnk_blnd": 242,
+    "school_class": "A"
+  },
+  {
+    "Name": "OWEN FRONK",
+    "School": "Rapid City Central",
+    "id": 592,
+    "points": 332.9576,
+    "time_min": null,
+    "rnk_blnd": 243,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DEVELYN TALKS",
+    "School": "Tiospaye Topa",
+    "id": 210,
+    "points": 332.6901,
+    "time_min": null,
+    "rnk_blnd": 244,
+    "school_class": "B"
+  },
+  {
+    "Name": "BRYGHTON FRANKS",
+    "School": "Mahpiya Luta",
+    "id": 106,
+    "points": 624.513,
+    "time_min": 1200,
+    "rnk_blnd": 245,
+    "school_class": "A"
+  },
+  {
+    "Name": "RILEY SHELLENBERGER",
+    "School": "Groton Area",
+    "id": 618,
+    "points": 1904.6123,
+    "time_min": 1257.7,
+    "rnk_blnd": 246,
+    "school_class": "A"
+  },
+  {
+    "Name": "MILES KORNEGAY",
+    "School": "Sturgis Brown",
+    "id": 550,
+    "points": 481.0387,
+    "time_min": 1182.1,
+    "rnk_blnd": 247,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RYAN HELDENBRAND",
+    "School": "O'Gorman",
+    "id": 627,
+    "points": 101.4996,
+    "time_min": 1073.5,
+    "rnk_blnd": 248,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WESTON FOSTER",
+    "School": "Winner/Colome",
+    "id": 719,
+    "points": 433.938,
+    "time_min": 1175,
+    "rnk_blnd": 249,
+    "school_class": "A"
+  },
+  {
+    "Name": "DAYTON SANDO",
+    "School": "Tri-State",
+    "id": 202,
+    "points": 325.4473,
+    "time_min": null,
+    "rnk_blnd": 250,
+    "school_class": "A"
+  },
+  {
+    "Name": "PAXTON PETERSON",
+    "School": "Beresford",
+    "id": 595,
+    "points": 534.5475,
+    "time_min": 1196.4,
+    "rnk_blnd": 251,
+    "school_class": "A"
+  },
+  {
+    "Name": "BECKETT VARGAS",
+    "School": "Madison",
+    "id": 60,
+    "points": 369.471,
+    "time_min": 1162.2,
+    "rnk_blnd": 252,
+    "school_class": "A"
+  },
+  {
+    "Name": "BECKETT FENNEL",
+    "School": "Elk Point-Jefferson",
+    "id": 59,
+    "points": 86.3903,
+    "time_min": 1074.1,
+    "rnk_blnd": 253,
+    "school_class": "A"
+  },
+  {
+    "Name": "NATHANIEL HOBBIE",
+    "School": "Flandreau",
+    "id": 559,
+    "points": 220.0968,
+    "time_min": 1128.7,
+    "rnk_blnd": 254,
+    "school_class": "A"
+  },
+  {
+    "Name": "GRANT CURTIS",
+    "School": "Tea Area",
+    "id": 297,
+    "points": 75.4006,
+    "time_min": 1070,
+    "rnk_blnd": 255,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOLAN CARSTENSEN",
+    "School": "Dell Rapids",
+    "id": 576,
+    "points": 325.6032,
+    "time_min": 1156.3,
+    "rnk_blnd": 256,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAM SCHMIDT",
+    "School": "Flandreau",
+    "id": 643,
+    "points": 224.8091,
+    "time_min": 1131.9,
+    "rnk_blnd": 257,
+    "school_class": "A"
+  },
+  {
+    "Name": "ELI LADEAUX",
+    "School": "SF Lincoln",
+    "id": 231,
+    "points": 295.3986,
+    "time_min": 1150.9,
+    "rnk_blnd": 258,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JEREMY BOCKELMAN",
+    "School": "Canton",
+    "id": 400,
+    "points": 111.8046,
+    "time_min": 1090.7,
+    "rnk_blnd": 259,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAMES WEIR",
+    "School": "Huron",
+    "id": 373,
+    "points": 395.431,
+    "time_min": 1177,
+    "rnk_blnd": 260,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAYDEN MARTINEZ",
+    "School": "Rapid City Stevens",
+    "id": 394,
+    "points": 305.013,
+    "time_min": null,
+    "rnk_blnd": 261,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DOMINIC KLUCKMAN",
+    "School": "Deuel",
+    "id": 213,
+    "points": 156.1182,
+    "time_min": 1113.8,
+    "rnk_blnd": 262,
+    "school_class": "A"
+  },
+  {
+    "Name": "MAX PETERSON",
+    "School": "Brandon Valley",
+    "id": 537,
+    "points": 367.563,
+    "time_min": 1172.8,
+    "rnk_blnd": 263,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GIDDEON WALDNER",
+    "School": "James Valley Christian",
+    "id": 287,
+    "points": 435.8976,
+    "time_min": 1190.8,
+    "rnk_blnd": 264,
+    "school_class": "B"
+  },
+  {
+    "Name": "BRUX HARTMAN",
+    "School": "Belle Fourche",
+    "id": 104,
+    "points": 73.8715,
+    "time_min": 1073.8,
+    "rnk_blnd": 265,
+    "school_class": "A"
+  },
+  {
+    "Name": "TATE KOESTER",
+    "School": "Wolsey-Wessington",
+    "id": 676,
+    "points": 537.4502,
+    "time_min": 1206.8,
+    "rnk_blnd": 266,
+    "school_class": "B"
+  },
+  {
+    "Name": "CHRISTOFFE LEE",
+    "School": "Douglas",
+    "id": 151,
+    "points": 537.8745,
+    "time_min": 1208.9,
+    "rnk_blnd": 267,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CASKE EAGLE HEART",
+    "School": "Rapid City Stevens",
+    "id": 138,
+    "points": 279.0304,
+    "time_min": null,
+    "rnk_blnd": 268,
+    "school_class": "AA"
+  },
+  {
+    "Name": "OTTO WINTERS",
+    "School": "Brandon Valley",
+    "id": 589,
+    "points": 80.122,
+    "time_min": 1081.3,
+    "rnk_blnd": 269,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LANE MCCUNE",
+    "School": "Freeman",
+    "id": 469,
+    "points": 61.7669,
+    "time_min": 1073.4,
+    "rnk_blnd": 270,
+    "school_class": "B"
+  },
+  {
+    "Name": "VANCE TOLIFSON",
+    "School": "Webster Area",
+    "id": 713,
+    "points": 271.1226,
+    "time_min": null,
+    "rnk_blnd": 271,
+    "school_class": "A"
+  },
+  {
+    "Name": "MALACHI PETERSON",
+    "School": "Deuel",
+    "id": 514,
+    "points": 429.4339,
+    "time_min": 1198.5,
+    "rnk_blnd": 272,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAXSON BENDER",
+    "School": "Leola/Frederick Area",
+    "id": 388,
+    "points": 492.8154,
+    "time_min": 1209.2,
+    "rnk_blnd": 273,
+    "school_class": "B"
+  },
+  {
+    "Name": "LOGAN NIEDERBAUMER",
+    "School": "Faulkton Area",
+    "id": 495,
+    "points": 394.8828,
+    "time_min": 1192.2,
+    "rnk_blnd": 274,
+    "school_class": "B"
+  },
+  {
+    "Name": "GAGE FRERICHS",
+    "School": "Douglas",
+    "id": 275,
+    "points": 496.3813,
+    "time_min": 1213.1,
+    "rnk_blnd": 275,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CALEB SCHROEDER",
+    "School": "Canistota",
+    "id": 118,
+    "points": 215.0397,
+    "time_min": 1147,
+    "rnk_blnd": 276,
+    "school_class": "B"
+  },
+  {
+    "Name": "PETER QUINLIVAN",
+    "School": "SF Roosevelt",
+    "id": 597,
+    "points": 57.8502,
+    "time_min": 1075,
+    "rnk_blnd": 277,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KADEN CHRISTIAN",
+    "School": "Tea Area",
+    "id": 438,
+    "points": 57.7049,
+    "time_min": 1075.1,
+    "rnk_blnd": 278,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RILEY TOPLE",
+    "School": "Aberdeen Central",
+    "id": 619,
+    "points": 245.7147,
+    "time_min": 1156.5,
+    "rnk_blnd": 279,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RYLAND MAGEE",
+    "School": "Stanley County",
+    "id": 635,
+    "points": 584.4471,
+    "time_min": 1232.3,
+    "rnk_blnd": 280,
+    "school_class": "A"
+  },
+  {
+    "Name": "JASON ARBACH",
+    "School": "North Central",
+    "id": 378,
+    "points": 269.6374,
+    "time_min": 1170,
+    "rnk_blnd": 281,
+    "school_class": "B"
+  },
+  {
+    "Name": "HEZAKIAH VALDEZ",
+    "School": "Rapid City Central",
+    "id": 320,
+    "points": 254.8835,
+    "time_min": null,
+    "rnk_blnd": 282,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DECLAN HUBER",
+    "School": "Dakota Valley",
+    "id": 205,
+    "points": 53.4942,
+    "time_min": 1076.2,
+    "rnk_blnd": 283,
+    "school_class": "A"
+  },
+  {
+    "Name": "ESPN MAGELKY",
+    "School": "Rapid City Central",
+    "id": 248,
+    "points": 70.1425,
+    "time_min": 1089.9,
+    "rnk_blnd": 284,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ELLIOT HANSON",
+    "School": "SF Lincoln",
+    "id": 242,
+    "points": 265.6038,
+    "time_min": 1171.9,
+    "rnk_blnd": 285,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WALKER FARLEE",
+    "School": "Dupree",
+    "id": 715,
+    "points": 355.872,
+    "time_min": 1198,
+    "rnk_blnd": 286,
+    "school_class": "B"
+  },
+  {
+    "Name": "COOPER SMITH",
+    "School": "Garretson",
+    "id": 176,
+    "points": 235.0025,
+    "time_min": 1168.2,
+    "rnk_blnd": 287,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRETT BISHOP",
+    "School": "SF Washington",
+    "id": 91,
+    "points": 405.8279,
+    "time_min": 1208,
+    "rnk_blnd": 288,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ELI SMITH",
+    "School": "SF Christian",
+    "id": 233,
+    "points": 49.2451,
+    "time_min": 1076.5,
+    "rnk_blnd": 289,
+    "school_class": "A"
+  },
+  {
+    "Name": "ZAYNE HARTWIG",
+    "School": "Watertown",
+    "id": 747,
+    "points": 425.1374,
+    "time_min": 1214.3,
+    "rnk_blnd": 290,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAVIN CHIARONI",
+    "School": "Douglas",
+    "id": 279,
+    "points": 48.5799,
+    "time_min": 1078,
+    "rnk_blnd": 291,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TUCKER STEFFENS",
+    "School": "Tri-State",
+    "id": 703,
+    "points": 421.8146,
+    "time_min": 1214.5,
+    "rnk_blnd": 292,
+    "school_class": "A"
+  },
+  {
+    "Name": "AYDEN VAN LAECKEN",
+    "School": "Brandon Valley",
+    "id": 55,
+    "points": 220.3343,
+    "time_min": 1165.2,
+    "rnk_blnd": 293,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CYRUS SUNDBERG",
+    "School": "Sturgis Brown",
+    "id": 186,
+    "points": 329.8062,
+    "time_min": 1198.4,
+    "rnk_blnd": 294,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MASON MAKI",
+    "School": "Rapid City Central",
+    "id": 529,
+    "points": 232.4538,
+    "time_min": null,
+    "rnk_blnd": 295,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SEAN MAY",
+    "School": "Vermillion",
+    "id": 655,
+    "points": 46.5066,
+    "time_min": 1080.4,
+    "rnk_blnd": 296,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACKSON HARE",
+    "School": "Rapid City Central",
+    "id": 357,
+    "points": 55.1945,
+    "time_min": 1092.7,
+    "rnk_blnd": 297,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BENSON BRYANT",
+    "School": "Harrisburg",
+    "id": 72,
+    "points": 41.5217,
+    "time_min": 1080.4,
+    "rnk_blnd": 298,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAYDEN ERFMAN",
+    "School": "Highmore-Harrold",
+    "id": 393,
+    "points": 278.6968,
+    "time_min": 1193,
+    "rnk_blnd": 299,
+    "school_class": "B"
+  },
+  {
+    "Name": "RYAN BRYSON",
+    "School": "Canton",
+    "id": 626,
+    "points": 87.8464,
+    "time_min": 1121.3,
+    "rnk_blnd": 300,
+    "school_class": "A"
+  },
+  {
+    "Name": "ABRAHAM YEARY",
+    "School": "Winner/Colome",
+    "id": 3,
+    "points": 437.1989,
+    "time_min": 1233,
+    "rnk_blnd": 301,
+    "school_class": "A"
+  },
+  {
+    "Name": "DERRICK FLUTE",
+    "School": "Sisseton",
+    "id": 208,
+    "points": 224.2975,
+    "time_min": null,
+    "rnk_blnd": 302,
+    "school_class": "A"
+  },
+  {
+    "Name": "BROCK KOTH",
+    "School": "Beresford",
+    "id": 97,
+    "points": 204.3996,
+    "time_min": 1172.4,
+    "rnk_blnd": 303,
+    "school_class": "A"
+  },
+  {
+    "Name": "DONTAE DAVIS",
+    "School": "Todd County",
+    "id": 214,
+    "points": 603.5087,
+    "time_min": 1263,
+    "rnk_blnd": 304,
+    "school_class": "A"
+  },
+  {
+    "Name": "TADEN JACOBS",
+    "School": "Harrisburg",
+    "id": 670,
+    "points": 40.1697,
+    "time_min": 1081.1,
+    "rnk_blnd": 305,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MAXWELL LEUENHAGEN",
+    "School": "Elk Point-Jefferson",
+    "id": 538,
+    "points": 302.0606,
+    "time_min": 1202.6,
+    "rnk_blnd": 306,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAM SORENSEN",
+    "School": "Vermillion",
+    "id": 644,
+    "points": 41.5025,
+    "time_min": 1086.1,
+    "rnk_blnd": 307,
+    "school_class": "A"
+  },
+  {
+    "Name": "ZIGMUNDS COLEMAN",
+    "School": "Rapid City Stevens",
+    "id": 748,
+    "points": 211.6298,
+    "time_min": null,
+    "rnk_blnd": 308,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LEO AESOPH",
+    "School": "Lennox",
+    "id": 473,
+    "points": 37.7303,
+    "time_min": 1082.6,
+    "rnk_blnd": 309,
+    "school_class": "A"
+  },
+  {
+    "Name": "TOMMY KURTZ",
+    "School": "Madison",
+    "id": 694,
+    "points": 168.1825,
+    "time_min": 1161.4,
+    "rnk_blnd": 310,
+    "school_class": "A"
+  },
+  {
+    "Name": "MAX BAUER",
+    "School": "SF Lincoln",
+    "id": 534,
+    "points": 204.5486,
+    "time_min": 1181.2,
+    "rnk_blnd": 311,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MICAH ROUNDS",
+    "School": "Pierre T.F. Riggs",
+    "id": 543,
+    "points": 389.2811,
+    "time_min": 1232.1,
+    "rnk_blnd": 312,
+    "school_class": "AA"
+  },
+  {
+    "Name": "OWEN ANDERSON",
+    "School": "De Smet",
+    "id": 590,
+    "points": 337.5983,
+    "time_min": 1220.3,
+    "rnk_blnd": 313,
+    "school_class": "B"
+  },
+  {
+    "Name": "ASHER OXFORD",
+    "School": "Pierre T.F. Riggs",
+    "id": 47,
+    "points": 172.5003,
+    "time_min": 1169.6,
+    "rnk_blnd": 314,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KADEN RUNNING HORSE",
+    "School": "White River",
+    "id": 440,
+    "points": 42.3147,
+    "time_min": 1097.3,
+    "rnk_blnd": 315,
+    "school_class": "B"
+  },
+  {
+    "Name": "MICAH BENNETT",
+    "School": "Mitchell",
+    "id": 540,
+    "points": 10.7455,
+    "time_min": 1042.4,
+    "rnk_blnd": 316,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SHAW HOWARD",
+    "School": "Flandreau Indian",
+    "id": 658,
+    "points": 264.3772,
+    "time_min": 1202.4,
+    "rnk_blnd": 317,
+    "school_class": "B"
+  },
+  {
+    "Name": "EVAN HUNTER",
+    "School": "SF Roosevelt",
+    "id": 258,
+    "points": 35.9507,
+    "time_min": 1084.5,
+    "rnk_blnd": 318,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DAESON MONCUR",
+    "School": "Harding County",
+    "id": 187,
+    "points": 519.8688,
+    "time_min": 1266,
+    "rnk_blnd": 319,
+    "school_class": "B"
+  },
+  {
+    "Name": "LUKE ATNIP",
+    "School": "Mitchell Christian",
+    "id": 503,
+    "points": 40.2951,
+    "time_min": 1097,
+    "rnk_blnd": 320,
+    "school_class": "B"
+  },
+  {
+    "Name": "LINCOLN BERANEK",
+    "School": "Miller",
+    "id": 490,
+    "points": 521.0649,
+    "time_min": 1271,
+    "rnk_blnd": 321,
+    "school_class": "A"
+  },
+  {
+    "Name": "JOSUE GUTIERREZ-ESCUTIA",
+    "School": "SF Roosevelt",
+    "id": 430,
+    "points": 329.6337,
+    "time_min": 1224.6,
+    "rnk_blnd": 322,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HUDSON SCHMIDT",
+    "School": "Mount Vernon/Plankinton",
+    "id": 325,
+    "points": 41.5199,
+    "time_min": 1098.9,
+    "rnk_blnd": 323,
+    "school_class": "A"
+  },
+  {
+    "Name": "ETHAN HEISINGER",
+    "School": "Rapid City Stevens",
+    "id": 252,
+    "points": 192.3071,
+    "time_min": null,
+    "rnk_blnd": 324,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LANDON QUIMBY",
+    "School": "Douglas",
+    "id": 466,
+    "points": 33.7136,
+    "time_min": 1084.7,
+    "rnk_blnd": 325,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAMES STOLLEY",
+    "School": "Pierre T.F. Riggs",
+    "id": 372,
+    "points": 163.5429,
+    "time_min": 1173.5,
+    "rnk_blnd": 326,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WILL DUNLAP",
+    "School": "Brandon Valley",
+    "id": 721,
+    "points": 242.4171,
+    "time_min": 1202.7,
+    "rnk_blnd": 327,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TRYTON PARMELY",
+    "School": "Pierre T.F. Riggs",
+    "id": 702,
+    "points": 140.5851,
+    "time_min": 1159.8,
+    "rnk_blnd": 328,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MILES SIEVERS",
+    "School": "Garretson",
+    "id": 551,
+    "points": 146.4622,
+    "time_min": 1169.3,
+    "rnk_blnd": 329,
+    "school_class": "A"
+  },
+  {
+    "Name": "ALEEUS WALL",
+    "School": "Parker/Marion",
+    "id": 21,
+    "points": 162.9476,
+    "time_min": 1175.5,
+    "rnk_blnd": 330,
+    "school_class": "A"
+  },
+  {
+    "Name": "LUKE SCHAEFFER",
+    "School": "Great Plains Lutheran",
+    "id": 510,
+    "points": 312.3636,
+    "time_min": 1227.8,
+    "rnk_blnd": 331,
+    "school_class": "A"
+  },
+  {
+    "Name": "KUDDYER BAUGHER",
+    "School": "Brookings",
+    "id": 459,
+    "points": 30.4148,
+    "time_min": 1087.2,
+    "rnk_blnd": 332,
+    "school_class": "AA"
+  },
+  {
+    "Name": "EVAN MACK",
+    "School": "Watertown",
+    "id": 259,
+    "points": 147.8058,
+    "time_min": 1170.7,
+    "rnk_blnd": 333,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARTER STURGEON",
+    "School": "Brandon Valley",
+    "id": 133,
+    "points": 170.0585,
+    "time_min": 1183,
+    "rnk_blnd": 334,
+    "school_class": "AA"
+  },
+  {
+    "Name": "EMMANUEL MUTHIANI",
+    "School": "Freeman",
+    "id": 246,
+    "points": 36.151,
+    "time_min": 1098.4,
+    "rnk_blnd": 335,
+    "school_class": "B"
+  },
+  {
+    "Name": "BENTON NELSON",
+    "School": "SF Roosevelt",
+    "id": 73,
+    "points": 307.3529,
+    "time_min": 1228.4,
+    "rnk_blnd": 336,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DEAN QUIETT",
+    "School": "Gettysburg",
+    "id": 203,
+    "points": 179.8683,
+    "time_min": null,
+    "rnk_blnd": 337,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH INGERSON",
+    "School": "North Central",
+    "id": 568,
+    "points": 227.2326,
+    "time_min": 1206.3,
+    "rnk_blnd": 338,
+    "school_class": "B"
+  },
+  {
+    "Name": "BRADYN BLACKBEAR",
+    "School": "Todd County",
+    "id": 86,
+    "points": 598.9291,
+    "time_min": 1302.5,
+    "rnk_blnd": 339,
+    "school_class": "A"
+  },
+  {
+    "Name": "OWEN HOLSTEIN",
+    "School": "Yankton",
+    "id": 593,
+    "points": 163.338,
+    "time_min": 1185.4,
+    "rnk_blnd": 340,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ADAM WRIGHT",
+    "School": "Rapid City Central",
+    "id": 10,
+    "points": 174.3876,
+    "time_min": null,
+    "rnk_blnd": 341,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LUKE LYNGSTAD",
+    "School": "Brandon Valley",
+    "id": 506,
+    "points": 210.7581,
+    "time_min": 1204.6,
+    "rnk_blnd": 342,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BENNIE OLSEN",
+    "School": "Douglas",
+    "id": 71,
+    "points": 9.8619,
+    "time_min": 1073,
+    "rnk_blnd": 343,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAVIN GREENFIELD",
+    "School": "O'Gorman",
+    "id": 281,
+    "points": 28.3983,
+    "time_min": 1094.2,
+    "rnk_blnd": 344,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JUDE THORSON",
+    "School": "SF Christian",
+    "id": 432,
+    "points": 31.3244,
+    "time_min": 1098.6,
+    "rnk_blnd": 345,
+    "school_class": "A"
+  },
+  {
+    "Name": "JARED COOPER",
+    "School": "Custer",
+    "id": 376,
+    "points": 476.6572,
+    "time_min": 1282.5,
+    "rnk_blnd": 346,
+    "school_class": "A"
+  },
+  {
+    "Name": "KEAGAN GERLICK",
+    "School": "St. Thomas More",
+    "id": 446,
+    "points": 270.4215,
+    "time_min": 1229.5,
+    "rnk_blnd": 347,
+    "school_class": "A"
+  },
+  {
+    "Name": "DAYTON RED OWL",
+    "School": "Little Wound",
+    "id": 201,
+    "points": 360.6631,
+    "time_min": 1248.6,
+    "rnk_blnd": 348,
+    "school_class": "A"
+  },
+  {
+    "Name": "COOPER SLABA",
+    "School": "Wagner",
+    "id": 175,
+    "points": 139.1602,
+    "time_min": 1174,
+    "rnk_blnd": 349,
+    "school_class": "A"
+  },
+  {
+    "Name": "ZANE ENSZ",
+    "School": "Dakota Valley",
+    "id": 744,
+    "points": 27.0106,
+    "time_min": 1096,
+    "rnk_blnd": 350,
+    "school_class": "A"
+  },
+  {
+    "Name": "SOREN FARRAR",
+    "School": "Hill City",
+    "id": 664,
+    "points": 29.1512,
+    "time_min": 1098.7,
+    "rnk_blnd": 351,
+    "school_class": "A"
+  },
+  {
+    "Name": "ALEX OPLAND",
+    "School": "Canton",
+    "id": 27,
+    "points": 65.1877,
+    "time_min": 1141,
+    "rnk_blnd": 352,
+    "school_class": "A"
+  },
+  {
+    "Name": "KENTON JAMES",
+    "School": "Flandreau Indian",
+    "id": 451,
+    "points": 192.7257,
+    "time_min": 1205.8,
+    "rnk_blnd": 353,
+    "school_class": "B"
+  },
+  {
+    "Name": "CHASE GUSTAFSON",
+    "School": "Hamlin",
+    "id": 147,
+    "points": 413.6234,
+    "time_min": 1273.7,
+    "rnk_blnd": 354,
+    "school_class": "A"
+  },
+  {
+    "Name": "COLE FEICKERT",
+    "School": "Aberdeen Roncalli",
+    "id": 159,
+    "points": 155.4024,
+    "time_min": 1189.1,
+    "rnk_blnd": 355,
+    "school_class": "A"
+  },
+  {
+    "Name": "FRANCO FLORES",
+    "School": "Milbank",
+    "id": 266,
+    "points": 79.639,
+    "time_min": 1151.4,
+    "rnk_blnd": 356,
+    "school_class": "A"
+  },
+  {
+    "Name": "THADDAEUS MCKENNEY",
+    "School": "Belle Fourche",
+    "id": 686,
+    "points": 23.7337,
+    "time_min": 1098.1,
+    "rnk_blnd": 357,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAMUEL JACOBSEN",
+    "School": "SF Roosevelt",
+    "id": 647,
+    "points": 266.9186,
+    "time_min": 1234.2,
+    "rnk_blnd": 358,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AKSEL GJERDE",
+    "School": "Clark/Willow Lake",
+    "id": 19,
+    "points": 190.6672,
+    "time_min": 1210.5,
+    "rnk_blnd": 359,
+    "school_class": "A"
+  },
+  {
+    "Name": "CASHTON RAUSCH",
+    "School": "Gettysburg",
+    "id": 137,
+    "points": 372.5981,
+    "time_min": 1270.6,
+    "rnk_blnd": 360,
+    "school_class": "B"
+  },
+  {
+    "Name": "COOPER THOMPSON",
+    "School": "Tea Area",
+    "id": 177,
+    "points": 21.8429,
+    "time_min": 1097.8,
+    "rnk_blnd": 361,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NATHAN HUDSON",
+    "School": "Belle Fourche",
+    "id": 557,
+    "points": 3.5618,
+    "time_min": 1072.5,
+    "rnk_blnd": 362,
+    "school_class": "A"
+  },
+  {
+    "Name": "CHARLIE PERSON",
+    "School": "Dell Rapids",
+    "id": 146,
+    "points": 169.619,
+    "time_min": 1203.7,
+    "rnk_blnd": 363,
+    "school_class": "A"
+  },
+  {
+    "Name": "DREW VANSTRYLAND",
+    "School": "SF Christian",
+    "id": 220,
+    "points": 22.9852,
+    "time_min": 1103,
+    "rnk_blnd": 364,
+    "school_class": "A"
+  },
+  {
+    "Name": "KEEGAN LOEWEN",
+    "School": "James Valley Christian",
+    "id": 448,
+    "points": 244.4412,
+    "time_min": 1235.4,
+    "rnk_blnd": 365,
+    "school_class": "B"
+  },
+  {
+    "Name": "CAIUS DUBRAY",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 115,
+    "points": 274.2054,
+    "time_min": 1244.6,
+    "rnk_blnd": 366,
+    "school_class": "A"
+  },
+  {
+    "Name": "KOEN MCDOWELL",
+    "School": "Rapid City Stevens",
+    "id": 455,
+    "points": 157.7792,
+    "time_min": null,
+    "rnk_blnd": 367,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HUDSON SCHMUCK",
+    "School": "SF Washington",
+    "id": 326,
+    "points": 248.6006,
+    "time_min": 1239.2,
+    "rnk_blnd": 368,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ANTON CONDON",
+    "School": "Takini",
+    "id": 39,
+    "points": 815.6211,
+    "time_min": 1458,
+    "rnk_blnd": 369,
+    "school_class": "B"
+  },
+  {
+    "Name": "TYRUS SCHULZ",
+    "School": "Sioux Valley",
+    "id": 707,
+    "points": 19.1831,
+    "time_min": 1101.6,
+    "rnk_blnd": 370,
+    "school_class": "A"
+  },
+  {
+    "Name": "COLLIN GOOSMANN",
+    "School": "Dakota Valley",
+    "id": 165,
+    "points": 16.8463,
+    "time_min": 1099.4,
+    "rnk_blnd": 371,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYDER ANDERSEN",
+    "School": "Viborg-Hurley",
+    "id": 629,
+    "points": 246.2187,
+    "time_min": 1240.5,
+    "rnk_blnd": 372,
+    "school_class": "B"
+  },
+  {
+    "Name": "ZANE GUNNELL",
+    "School": "Custer",
+    "id": 745,
+    "points": 3.007,
+    "time_min": 1078.1,
+    "rnk_blnd": 373,
+    "school_class": "A"
+  },
+  {
+    "Name": "ARJUN AGRAWAL",
+    "School": "SF Lincoln",
+    "id": 43,
+    "points": 135.9889,
+    "time_min": 1198.4,
+    "rnk_blnd": 374,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LIAM ANDERSON",
+    "School": "SF Roosevelt",
+    "id": 483,
+    "points": 15.352,
+    "time_min": 1100.5,
+    "rnk_blnd": 375,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SEAN KING",
+    "School": "Tri-Valley",
+    "id": 654,
+    "points": 14.2689,
+    "time_min": 1104.6,
+    "rnk_blnd": 376,
+    "school_class": "A"
+  },
+  {
+    "Name": "LINDY COSGROVE",
+    "School": "Chamberlain",
+    "id": 491,
+    "points": 14.7414,
+    "time_min": 1105,
+    "rnk_blnd": 377,
+    "school_class": "A"
+  },
+  {
+    "Name": "CHARLESTON WACHTER",
+    "School": "Huron",
+    "id": 144,
+    "points": 268.6267,
+    "time_min": 1255.7,
+    "rnk_blnd": 378,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GRANT FISCHER",
+    "School": "SF Roosevelt",
+    "id": 298,
+    "points": 12.4461,
+    "time_min": 1103.7,
+    "rnk_blnd": 379,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CUTLER DAVIS",
+    "School": "De Smet",
+    "id": 185,
+    "points": 199.7307,
+    "time_min": 1236.4,
+    "rnk_blnd": 380,
+    "school_class": "B"
+  },
+  {
+    "Name": "MADDEN BUISKER",
+    "School": "Warner",
+    "id": 511,
+    "points": 243.7989,
+    "time_min": 1252,
+    "rnk_blnd": 381,
+    "school_class": "B"
+  },
+  {
+    "Name": "TATE VANLAECKEN",
+    "School": "Tea Area",
+    "id": 679,
+    "points": 9.9439,
+    "time_min": 1108.1,
+    "rnk_blnd": 382,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JORDAN STOCKLAND",
+    "School": "Irene-Wakonda",
+    "id": 419,
+    "points": 440.1589,
+    "time_min": 1341.3,
+    "rnk_blnd": 383,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACOBIE DEMARCE",
+    "School": "Todd County",
+    "id": 367,
+    "points": 505.9616,
+    "time_min": 1376.5,
+    "rnk_blnd": 384,
+    "school_class": "A"
+  },
+  {
+    "Name": "PEYTON KALLSTROM",
+    "School": "Douglas",
+    "id": 598,
+    "points": 9.371,
+    "time_min": 1109.4,
+    "rnk_blnd": 385,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KINGSTON DE'SERSA",
+    "School": "White River",
+    "id": 453,
+    "points": 17.4117,
+    "time_min": 1117,
+    "rnk_blnd": 386,
+    "school_class": "B"
+  },
+  {
+    "Name": "HAYDEN SPRAGUE",
+    "School": "North Central",
+    "id": 312,
+    "points": 166.1605,
+    "time_min": 1229.9,
+    "rnk_blnd": 387,
+    "school_class": "B"
+  },
+  {
+    "Name": "JAXON BACH",
+    "School": "Belle Fourche",
+    "id": 382,
+    "points": 9.4602,
+    "time_min": 1111.3,
+    "rnk_blnd": 388,
+    "school_class": "A"
+  },
+  {
+    "Name": "ROWDY ISAKSON",
+    "School": "Hill City",
+    "id": 624,
+    "points": 13.1282,
+    "time_min": 1115.4,
+    "rnk_blnd": 389,
+    "school_class": "A"
+  },
+  {
+    "Name": "TRISTAN DAY",
+    "School": "St. Thomas More",
+    "id": 699,
+    "points": 179.0108,
+    "time_min": 1237.9,
+    "rnk_blnd": 390,
+    "school_class": "A"
+  },
+  {
+    "Name": "JONAH KLEMISCH",
+    "School": "Tea Area",
+    "id": 414,
+    "points": 6.1984,
+    "time_min": 1112,
+    "rnk_blnd": 391,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DEVON ANDERSEN",
+    "School": "Dell Rapids",
+    "id": 211,
+    "points": 234.5894,
+    "time_min": 1265.9,
+    "rnk_blnd": 392,
+    "school_class": "A"
+  },
+  {
+    "Name": "CARTER HAWKS",
+    "School": "Deubrook Area",
+    "id": 128,
+    "points": 186.5269,
+    "time_min": 1245.5,
+    "rnk_blnd": 393,
+    "school_class": "B"
+  },
+  {
+    "Name": "JUDE MILLER",
+    "School": "Lyman",
+    "id": 431,
+    "points": 282.9338,
+    "time_min": 1288,
+    "rnk_blnd": 394,
+    "school_class": "B"
+  },
+  {
+    "Name": "JAKE WOLF",
+    "School": "North Central",
+    "id": 370,
+    "points": 113.9356,
+    "time_min": 1212,
+    "rnk_blnd": 395,
+    "school_class": "B"
+  },
+  {
+    "Name": "CRUZ NITCHALS",
+    "School": "Harrisburg",
+    "id": 184,
+    "points": 7.9278,
+    "time_min": 1114.1,
+    "rnk_blnd": 396,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TATE JOHNSON",
+    "School": "Groton Area",
+    "id": 675,
+    "points": 637.8781,
+    "time_min": 1516.1,
+    "rnk_blnd": 397,
+    "school_class": "A"
+  },
+  {
+    "Name": "CADYN BRAVE HEART",
+    "School": "White River",
+    "id": 114,
+    "points": 5.9486,
+    "time_min": 1113,
+    "rnk_blnd": 398,
+    "school_class": "B"
+  },
+  {
+    "Name": "TAITE OLSON",
+    "School": "Tripp-Delmont/Armour",
+    "id": 671,
+    "points": 279.6709,
+    "time_min": 1290,
+    "rnk_blnd": 399,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACKSON SCHMIDT",
+    "School": "Lennox",
+    "id": 360,
+    "points": 6.8579,
+    "time_min": 1116.9,
+    "rnk_blnd": 400,
+    "school_class": "A"
+  },
+  {
+    "Name": "ETHAN ZEMLICKA",
+    "School": "Clark/Willow Lake",
+    "id": 256,
+    "points": 146.9764,
+    "time_min": 1232.2,
+    "rnk_blnd": 401,
+    "school_class": "A"
+  },
+  {
+    "Name": "NOAH VANDERWALKER",
+    "School": "White River",
+    "id": 575,
+    "points": 11.2155,
+    "time_min": 1121,
+    "rnk_blnd": 402,
+    "school_class": "B"
+  },
+  {
+    "Name": "KELSEN WALTERS",
+    "School": "New Underwood",
+    "id": 450,
+    "points": 349.4541,
+    "time_min": 1317,
+    "rnk_blnd": 403,
+    "school_class": "B"
+  },
+  {
+    "Name": "BRADY ASBENSON",
+    "School": "Mitchell Christian",
+    "id": 82,
+    "points": 6.6434,
+    "time_min": 1117.1,
+    "rnk_blnd": 404,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOSIAH NEWELL",
+    "School": "SF Lutheran",
+    "id": 428,
+    "points": 3.6866,
+    "time_min": 1112.3,
+    "rnk_blnd": 405,
+    "school_class": "B"
+  },
+  {
+    "Name": "BECKHAM BERRY",
+    "School": "Milbank",
+    "id": 61,
+    "points": 55.9014,
+    "time_min": 1177.3,
+    "rnk_blnd": 406,
+    "school_class": "A"
+  },
+  {
+    "Name": "SPENCER ANTONEN",
+    "School": "Arlington",
+    "id": 665,
+    "points": 206.9885,
+    "time_min": 1265.8,
+    "rnk_blnd": 407,
+    "school_class": "B"
+  },
+  {
+    "Name": "URIAS HOLLOW HORN",
+    "School": "Takini",
+    "id": 710,
+    "points": 696.5915,
+    "time_min": 2114,
+    "rnk_blnd": 408,
+    "school_class": "B"
+  },
+  {
+    "Name": "BEN BEESLEY",
+    "School": "SF Roosevelt",
+    "id": 62,
+    "points": 2.6404,
+    "time_min": 1110.6,
+    "rnk_blnd": 409,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JACK LEWIS",
+    "School": "Northwestern",
+    "id": 352,
+    "points": 257.6812,
+    "time_min": 1289.6,
+    "rnk_blnd": 410,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACK LARSEN",
+    "School": "SF Roosevelt",
+    "id": 351,
+    "points": 5.8642,
+    "time_min": 1119.6,
+    "rnk_blnd": 411,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAXON VANDE VEGTE",
+    "School": "Elk Point-Jefferson",
+    "id": 387,
+    "points": 15.1886,
+    "time_min": 1129.9,
+    "rnk_blnd": 412,
+    "school_class": "A"
+  },
+  {
+    "Name": "CHARLES WHITE TAIL",
+    "School": "McLaughlin",
+    "id": 143,
+    "points": 193.8555,
+    "time_min": 1267,
+    "rnk_blnd": 413,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH KINNER",
+    "School": "Elkton-Lake Benton",
+    "id": 570,
+    "points": 225.9425,
+    "time_min": 1282.4,
+    "rnk_blnd": 414,
+    "school_class": "A"
+  },
+  {
+    "Name": "SHANE JONES",
+    "School": "Pierre T.F. Riggs",
+    "id": 657,
+    "points": 72.7012,
+    "time_min": 1200.6,
+    "rnk_blnd": 415,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JONATHON GOULD",
+    "School": "Dakota Valley",
+    "id": 417,
+    "points": 89.5858,
+    "time_min": 1212.8,
+    "rnk_blnd": 416,
+    "school_class": "A"
+  },
+  {
+    "Name": "MALACHI KAISER",
+    "School": "Tea Area",
+    "id": 513,
+    "points": 4.1415,
+    "time_min": 1121.6,
+    "rnk_blnd": 417,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LOGAN ROBINSON",
+    "School": "St. Mary's",
+    "id": 496,
+    "points": 95.86,
+    "time_min": 1217.7,
+    "rnk_blnd": 418,
+    "school_class": "B"
+  },
+  {
+    "Name": "KYPTON EIDSON",
+    "School": "Castlewood",
+    "id": 463,
+    "points": 127.622,
+    "time_min": 1232.9,
+    "rnk_blnd": 419,
+    "school_class": "B"
+  },
+  {
+    "Name": "CARTER LEIBEG",
+    "School": "Chester",
+    "id": 129,
+    "points": 262.3079,
+    "time_min": 1301,
+    "rnk_blnd": 420,
+    "school_class": "B"
+  },
+  {
+    "Name": "THOMAS CHRISTENSEN",
+    "School": "Dell Rapids",
+    "id": 687,
+    "points": 142.6464,
+    "time_min": 1238.7,
+    "rnk_blnd": 421,
+    "school_class": "A"
+  },
+  {
+    "Name": "COREY CONDON",
+    "School": "Takini",
+    "id": 180,
+    "points": 630.2494,
+    "time_min": 2115,
+    "rnk_blnd": 422,
+    "school_class": "B"
+  },
+  {
+    "Name": "HUDSON METZ",
+    "School": "Chamberlain",
+    "id": 324,
+    "points": 5.6806,
+    "time_min": 1123.6,
+    "rnk_blnd": 423,
+    "school_class": "A"
+  },
+  {
+    "Name": "JOHN CLOUD VI",
+    "School": "Little Wound",
+    "id": 408,
+    "points": 357.0029,
+    "time_min": 1365.6,
+    "rnk_blnd": 424,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACE MOORE",
+    "School": "Harrisburg",
+    "id": 349,
+    "points": 4.7633,
+    "time_min": 1123.9,
+    "rnk_blnd": 425,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BENNETT KINSLEY",
+    "School": "Jones County",
+    "id": 70,
+    "points": 399.608,
+    "time_min": 1409.5,
+    "rnk_blnd": 426,
+    "school_class": "B"
+  },
+  {
+    "Name": "REED JOHNSON",
+    "School": "Brandon Valley",
+    "id": 609,
+    "points": 104.4123,
+    "time_min": null,
+    "rnk_blnd": 427,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HENRY HUETHER",
+    "School": "Beresford",
+    "id": 316,
+    "points": 4.0355,
+    "time_min": 1123.8,
+    "rnk_blnd": 428,
+    "school_class": "A"
+  },
+  {
+    "Name": "SAMUEL SPISAK",
+    "School": "West Central",
+    "id": 650,
+    "points": 66.9004,
+    "time_min": 1203.4,
+    "rnk_blnd": 429,
+    "school_class": "A"
+  },
+  {
+    "Name": "WILLIAM LABERGE",
+    "School": "Great Plains Lutheran",
+    "id": 724,
+    "points": 154.6604,
+    "time_min": 1250.1,
+    "rnk_blnd": 430,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACE MASHBURN",
+    "School": "Watertown",
+    "id": 348,
+    "points": 229.3765,
+    "time_min": 1296.4,
+    "rnk_blnd": 431,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WINCHESTER TEMME",
+    "School": "De Smet",
+    "id": 726,
+    "points": 429.4611,
+    "time_min": 1443.9,
+    "rnk_blnd": 432,
+    "school_class": "B"
+  },
+  {
+    "Name": "RYLAN WENDLAND",
+    "School": "Milbank",
+    "id": 634,
+    "points": 53.0522,
+    "time_min": 1192.5,
+    "rnk_blnd": 433,
+    "school_class": "A"
+  },
+  {
+    "Name": "LUCA NEIMAN",
+    "School": "Spearfish",
+    "id": 499,
+    "points": 229.9501,
+    "time_min": 1298,
+    "rnk_blnd": 434,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ANDREW PETERSON",
+    "School": "Douglas",
+    "id": 33,
+    "points": 300.4943,
+    "time_min": 1338.5,
+    "rnk_blnd": 435,
+    "school_class": "AA"
+  },
+  {
+    "Name": "EASTON SCHUMAN",
+    "School": "Platte-Geddes",
+    "id": 226,
+    "points": 5.7721,
+    "time_min": 1131.1,
+    "rnk_blnd": 436,
+    "school_class": "A"
+  },
+  {
+    "Name": "MATTHEW BURKHART",
+    "School": "SF Washington",
+    "id": 532,
+    "points": 173.1262,
+    "time_min": 1274.5,
+    "rnk_blnd": 437,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KORBIN JENSEN",
+    "School": "Freeman",
+    "id": 456,
+    "points": 132.1413,
+    "time_min": 1242.5,
+    "rnk_blnd": 438,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRADY LINDGREN",
+    "School": "Watertown",
+    "id": 294,
+    "points": 56.8598,
+    "time_min": 1201.6,
+    "rnk_blnd": 439,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CLAYTON HILES",
+    "School": "Wolsey-Wessington",
+    "id": 153,
+    "points": 192.8809,
+    "time_min": 1291.1,
+    "rnk_blnd": 440,
+    "school_class": "B"
+  },
+  {
+    "Name": "CONNER PARRISH",
+    "School": "Highmore-Harrold",
+    "id": 169,
+    "points": 72.7401,
+    "time_min": 1215.7,
+    "rnk_blnd": 441,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRIFFIN MILLER",
+    "School": "Harrisburg",
+    "id": 302,
+    "points": 3.2248,
+    "time_min": 1129.4,
+    "rnk_blnd": 442,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LOUKAS MICHAILIDIS",
+    "School": "Brandon Valley",
+    "id": 498,
+    "points": 94.4682,
+    "time_min": null,
+    "rnk_blnd": 443,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC SANDHOLM",
+    "School": "Brandon Valley",
+    "id": 336,
+    "points": 72.7093,
+    "time_min": 1219.7,
+    "rnk_blnd": 444,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AARON KIPPLEY",
+    "School": "Leola/Frederick Area",
+    "id": 2,
+    "points": 228.6239,
+    "time_min": 1312.8,
+    "rnk_blnd": 445,
+    "school_class": "B"
+  },
+  {
+    "Name": "CLIFFORD TORBERSON",
+    "School": "Belle Fourche",
+    "id": 154,
+    "points": 0.8982,
+    "time_min": 1122.8,
+    "rnk_blnd": 446,
+    "school_class": "A"
+  },
+  {
+    "Name": "QUENTIN MILLER",
+    "School": "Douglas",
+    "id": 603,
+    "points": 275.2742,
+    "time_min": 1351.3,
+    "rnk_blnd": 447,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GUNNER FOWLER",
+    "School": "Dakota Valley",
+    "id": 305,
+    "points": 41.9785,
+    "time_min": 1197.5,
+    "rnk_blnd": 448,
+    "school_class": "A"
+  },
+  {
+    "Name": "EVAN HENRIE",
+    "School": "Philip",
+    "id": 257,
+    "points": 3.4772,
+    "time_min": 1136.5,
+    "rnk_blnd": 449,
+    "school_class": "B"
+  },
+  {
+    "Name": "AIDEN WARREN",
+    "School": "Deuel",
+    "id": 17,
+    "points": 389.1204,
+    "time_min": 1482,
+    "rnk_blnd": 450,
+    "school_class": "A"
+  },
+  {
+    "Name": "OWEN FERGUSON JR",
+    "School": "Little Wound",
+    "id": 591,
+    "points": 394.3345,
+    "time_min": 1490.1,
+    "rnk_blnd": 451,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAYDEN SCOTT",
+    "School": "Dupree",
+    "id": 395,
+    "points": 140.9225,
+    "time_min": 1271,
+    "rnk_blnd": 452,
+    "school_class": "B"
+  },
+  {
+    "Name": "ZACHARY ENSZ",
+    "School": "Dakota Valley",
+    "id": 742,
+    "points": 335.7874,
+    "time_min": 1430.1,
+    "rnk_blnd": 453,
+    "school_class": "A"
+  },
+  {
+    "Name": "ELIJAH SCHAAP",
+    "School": "Beresford",
+    "id": 239,
+    "points": 89.9041,
+    "time_min": 1238.8,
+    "rnk_blnd": 454,
+    "school_class": "A"
+  },
+  {
+    "Name": "GRAY HOLDEN",
+    "School": "Deuel",
+    "id": 300,
+    "points": 101.0831,
+    "time_min": 1246.4,
+    "rnk_blnd": 455,
+    "school_class": "A"
+  },
+  {
+    "Name": "MICHAEL SMITH",
+    "School": "Arlington",
+    "id": 548,
+    "points": 144.4351,
+    "time_min": 1276.5,
+    "rnk_blnd": 456,
+    "school_class": "B"
+  },
+  {
+    "Name": "AIDEN JOHNSON",
+    "School": "SF Washington",
+    "id": 15,
+    "points": 2.4657,
+    "time_min": 1134.9,
+    "rnk_blnd": 457,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LUCAS SUOMALA",
+    "School": "Rapid City Christian",
+    "id": 501,
+    "points": 309.1223,
+    "time_min": 1414.7,
+    "rnk_blnd": 458,
+    "school_class": "A"
+  },
+  {
+    "Name": "SHEA SMIDT",
+    "School": "Garretson",
+    "id": 661,
+    "points": 58.3424,
+    "time_min": 1222.3,
+    "rnk_blnd": 459,
+    "school_class": "A"
+  },
+  {
+    "Name": "CALEB RHOADES",
+    "School": "SF Roosevelt",
+    "id": 117,
+    "points": 2.3411,
+    "time_min": 1135.3,
+    "rnk_blnd": 460,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC TOLLY",
+    "School": "SF Lincoln",
+    "id": 338,
+    "points": 59.6659,
+    "time_min": 1225.6,
+    "rnk_blnd": 461,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COREY SCHNEIDER",
+    "School": "SF Washington",
+    "id": 181,
+    "points": 149.3021,
+    "time_min": 1284.7,
+    "rnk_blnd": 462,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MUZYK GRAY EAGLE",
+    "School": "Tiospaye Topa",
+    "id": 553,
+    "points": 3.6399,
+    "time_min": 1145.4,
+    "rnk_blnd": 463,
+    "school_class": "B"
+  },
+  {
+    "Name": "ALEX ALBRECHT",
+    "School": "Spearfish",
+    "id": 22,
+    "points": 2.5785,
+    "time_min": 1142.6,
+    "rnk_blnd": 464,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JUSTIN ST. JOHN",
+    "School": "Crow Creek",
+    "id": 435,
+    "points": 1.0928,
+    "time_min": 1136.2,
+    "rnk_blnd": 465,
+    "school_class": "A"
+  },
+  {
+    "Name": "JASHER DIXON",
+    "School": "Canton",
+    "id": 377,
+    "points": 14.1146,
+    "time_min": 1164.2,
+    "rnk_blnd": 466,
+    "school_class": "A"
+  },
+  {
+    "Name": "TYLER ROEBUCK",
+    "School": "Mobridge-Pollock",
+    "id": 705,
+    "points": 103.3553,
+    "time_min": 1258.1,
+    "rnk_blnd": 467,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAXON PUETZ",
+    "School": "Canistota",
+    "id": 385,
+    "points": 94.4535,
+    "time_min": 1253.5,
+    "rnk_blnd": 468,
+    "school_class": "B"
+  },
+  {
+    "Name": "DAVID PETERSON",
+    "School": "Watertown",
+    "id": 197,
+    "points": 186.2661,
+    "time_min": 1324.3,
+    "rnk_blnd": 469,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RILEY TWO EAGLES",
+    "School": "Mahpiya Luta",
+    "id": 620,
+    "points": 246.3542,
+    "time_min": 1391.4,
+    "rnk_blnd": 470,
+    "school_class": "A"
+  },
+  {
+    "Name": "MARTY STADEL",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 521,
+    "points": 279.7967,
+    "time_min": 1441.9,
+    "rnk_blnd": 471,
+    "school_class": "A"
+  },
+  {
+    "Name": "ASHTON LUTTER",
+    "School": "West Central",
+    "id": 49,
+    "points": 100.9507,
+    "time_min": 1258.7,
+    "rnk_blnd": 472,
+    "school_class": "A"
+  },
+  {
+    "Name": "HAYDEN HAND",
+    "School": "White River",
+    "id": 310,
+    "points": 3.1493,
+    "time_min": 1151.9,
+    "rnk_blnd": 473,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOE TRUMBAUER",
+    "School": "St. Mary's",
+    "id": 406,
+    "points": 159.8854,
+    "time_min": 1309.9,
+    "rnk_blnd": 474,
+    "school_class": "B"
+  },
+  {
+    "Name": "CADEN SCHNEIDER",
+    "School": "SF Washington",
+    "id": 113,
+    "points": 128.4779,
+    "time_min": 1287.7,
+    "rnk_blnd": 475,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NATHAN ROSS",
+    "School": "Flandreau",
+    "id": 558,
+    "points": 340.6984,
+    "time_min": 1543.1,
+    "rnk_blnd": 476,
+    "school_class": "A"
+  },
+  {
+    "Name": "LOGAN BORNS",
+    "School": "Clark/Willow Lake",
+    "id": 493,
+    "points": 84.5403,
+    "time_min": 1255.1,
+    "rnk_blnd": 477,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACKSON BOLLINGER",
+    "School": "Chamberlain",
+    "id": 354,
+    "points": 2.2412,
+    "time_min": 1148.4,
+    "rnk_blnd": 478,
+    "school_class": "A"
+  },
+  {
+    "Name": "DUSTIN GRASSROPE",
+    "School": "Lower Brule",
+    "id": 221,
+    "points": 179.8961,
+    "time_min": 1341,
+    "rnk_blnd": 479,
+    "school_class": "B"
+  },
+  {
+    "Name": "ROBBY RING",
+    "School": "Gregory",
+    "id": 621,
+    "points": 182.33,
+    "time_min": 1342,
+    "rnk_blnd": 480,
+    "school_class": "B"
+  },
+  {
+    "Name": "ANDREW LUTT",
+    "School": "Gregory",
+    "id": 32,
+    "points": 358.4859,
+    "time_min": 1639,
+    "rnk_blnd": 481,
+    "school_class": "B"
+  },
+  {
+    "Name": "BEAU MILLER",
+    "School": "Freeman",
+    "id": 58,
+    "points": 2.2202,
+    "time_min": 1149.6,
+    "rnk_blnd": 482,
+    "school_class": "B"
+  },
+  {
+    "Name": "FRANCISCO RICHARDS",
+    "School": "Little Wound",
+    "id": 265,
+    "points": 182.0687,
+    "time_min": 1343,
+    "rnk_blnd": 483,
+    "school_class": "A"
+  },
+  {
+    "Name": "BLAKE SCHIERHOLZ",
+    "School": "Harrisburg",
+    "id": 76,
+    "points": 0.7547,
+    "time_min": 1146.3,
+    "rnk_blnd": 484,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JONAH VERMULM",
+    "School": "SF Christian",
+    "id": 415,
+    "points": 2.7391,
+    "time_min": 1152.9,
+    "rnk_blnd": 485,
+    "school_class": "A"
+  },
+  {
+    "Name": "BROXTON NOUR",
+    "School": "SF Lincoln",
+    "id": 103,
+    "points": 46.0328,
+    "time_min": 1227.8,
+    "rnk_blnd": 486,
+    "school_class": "AA"
+  },
+  {
+    "Name": "EZRA BEUKELMAN",
+    "School": "SF Lincoln",
+    "id": 263,
+    "points": 50.4461,
+    "time_min": 1232.6,
+    "rnk_blnd": 487,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ELI GAUTHIER",
+    "School": "Dell Rapids",
+    "id": 230,
+    "points": 78.6663,
+    "time_min": 1254,
+    "rnk_blnd": 488,
+    "school_class": "A"
+  },
+  {
+    "Name": "GABRIEL GATILOGO",
+    "School": "St. Francis Indian",
+    "id": 272,
+    "points": 323.5335,
+    "time_min": 1523.7,
+    "rnk_blnd": 489,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAKON COMES FLYING",
+    "School": "Lower Brule",
+    "id": 371,
+    "points": 178.0211,
+    "time_min": 1350,
+    "rnk_blnd": 490,
+    "school_class": "B"
+  },
+  {
+    "Name": "JORGEN JOHNSON",
+    "School": "Brookings",
+    "id": 420,
+    "points": 1.7914,
+    "time_min": 1151.5,
+    "rnk_blnd": 491,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COLIN OLIVA",
+    "School": "Dakota Valley",
+    "id": 164,
+    "points": 1.5046,
+    "time_min": 1152.7,
+    "rnk_blnd": 492,
+    "school_class": "A"
+  },
+  {
+    "Name": "TEAGEN TEEL",
+    "School": "Tri-Valley",
+    "id": 682,
+    "points": 1.8849,
+    "time_min": 1153.4,
+    "rnk_blnd": 493,
+    "school_class": "A"
+  },
+  {
+    "Name": "MICHAEL HANISCH",
+    "School": "Garretson",
+    "id": 545,
+    "points": 52.3357,
+    "time_min": 1236.5,
+    "rnk_blnd": 494,
+    "school_class": "A"
+  },
+  {
+    "Name": "IVER POSPISIL",
+    "School": "Watertown",
+    "id": 344,
+    "points": 158.8437,
+    "time_min": 1326,
+    "rnk_blnd": 495,
+    "school_class": "AA"
+  },
+  {
+    "Name": "IZAYA VELASQUEZ",
+    "School": "Gettysburg",
+    "id": 346,
+    "points": 158.8963,
+    "time_min": 1334.3,
+    "rnk_blnd": 496,
+    "school_class": "B"
+  },
+  {
+    "Name": "DRAYDEN DEFFENBAUGH",
+    "School": "West Central",
+    "id": 216,
+    "points": 37.059,
+    "time_min": 1220.7,
+    "rnk_blnd": 497,
+    "school_class": "A"
+  },
+  {
+    "Name": "WYATT SLACK",
+    "School": "Viborg-Hurley",
+    "id": 735,
+    "points": 111.2027,
+    "time_min": 1296,
+    "rnk_blnd": 498,
+    "school_class": "B"
+  },
+  {
+    "Name": "MARCUS AASHEIM",
+    "School": "Beresford",
+    "id": 516,
+    "points": 145.4656,
+    "time_min": 1315.9,
+    "rnk_blnd": 499,
+    "school_class": "A"
+  },
+  {
+    "Name": "DALTON LEE",
+    "School": "Warner",
+    "id": 188,
+    "points": 97.8302,
+    "time_min": 1285.2,
+    "rnk_blnd": 500,
+    "school_class": "B"
+  },
+  {
+    "Name": "HUNTER WOODS",
+    "School": "Irene-Wakonda",
+    "id": 328,
+    "points": 103.6731,
+    "time_min": 1290.1,
+    "rnk_blnd": 501,
+    "school_class": "B"
+  },
+  {
+    "Name": "GEORGE TIMANUS",
+    "School": "Gregory",
+    "id": 286,
+    "points": 33.808,
+    "time_min": 1215,
+    "rnk_blnd": 502,
+    "school_class": "B"
+  },
+  {
+    "Name": "TRISTIN LLEWELYN",
+    "School": "Irene-Wakonda",
+    "id": 700,
+    "points": 307.3569,
+    "time_min": 1635.2,
+    "rnk_blnd": 503,
+    "school_class": "B"
+  },
+  {
+    "Name": "TANNER GOTTLOB",
+    "School": "Spearfish",
+    "id": 672,
+    "points": 1.3854,
+    "time_min": 1157.4,
+    "rnk_blnd": 504,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COLE NOON",
+    "School": "Faulkton Area",
+    "id": 161,
+    "points": 82.6096,
+    "time_min": 1278.8,
+    "rnk_blnd": 505,
+    "school_class": "B"
+  },
+  {
+    "Name": "ADAM HEUMILLER",
+    "School": "McCook Central/Montrose",
+    "id": 6,
+    "points": 75.0431,
+    "time_min": 1272.9,
+    "rnk_blnd": 506,
+    "school_class": "A"
+  },
+  {
+    "Name": "KAIDEN COLOMB",
+    "School": "Mitchell",
+    "id": 441,
+    "points": 0.1147,
+    "time_min": 1139.9,
+    "rnk_blnd": 507,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WILL HELLING",
+    "School": "Northwestern",
+    "id": 722,
+    "points": 165.4971,
+    "time_min": 1356.2,
+    "rnk_blnd": 508,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOSH OLESON",
+    "School": "Freeman",
+    "id": 426,
+    "points": 58.0709,
+    "time_min": 1249.1,
+    "rnk_blnd": 509,
+    "school_class": "B"
+  },
+  {
+    "Name": "THOMAS VAN ZEE",
+    "School": "Mount Vernon/Plankinton",
+    "id": 689,
+    "points": 141.1854,
+    "time_min": 1322.1,
+    "rnk_blnd": 510,
+    "school_class": "A"
+  },
+  {
+    "Name": "LEVI LINDSTROM",
+    "School": "SF Lincoln",
+    "id": 480,
+    "points": 110.2952,
+    "time_min": 1304.5,
+    "rnk_blnd": 511,
+    "school_class": "AA"
+  },
+  {
+    "Name": "OLIVER MEYER",
+    "School": "Madison",
+    "id": 584,
+    "points": 37.616,
+    "time_min": 1231.8,
+    "rnk_blnd": 512,
+    "school_class": "A"
+  },
+  {
+    "Name": "KARSTEN LERWICK",
+    "School": "Arlington",
+    "id": 444,
+    "points": 25.6411,
+    "time_min": 1212,
+    "rnk_blnd": 513,
+    "school_class": "B"
+  },
+  {
+    "Name": "BLOOM BROWN",
+    "School": "Spearfish",
+    "id": 77,
+    "points": 1.1671,
+    "time_min": 1170.2,
+    "rnk_blnd": 514,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOAH CHICOINE",
+    "School": "Brandon Valley",
+    "id": 564,
+    "points": 39.8679,
+    "time_min": 1238.3,
+    "rnk_blnd": 515,
+    "school_class": "AA"
+  },
+  {
+    "Name": "LEO TAKEN CARE OF",
+    "School": "Castlewood",
+    "id": 477,
+    "points": 80.6639,
+    "time_min": 1294.6,
+    "rnk_blnd": 516,
+    "school_class": "B"
+  },
+  {
+    "Name": "ALEX KOVALENKO",
+    "School": "SF Roosevelt",
+    "id": 26,
+    "points": 102.0937,
+    "time_min": 1313.1,
+    "rnk_blnd": 517,
+    "school_class": "AA"
+  },
+  {
+    "Name": "KOVAUGHN THUNDERHAWK",
+    "School": "Lower Brule",
+    "id": 458,
+    "points": 134.2669,
+    "time_min": 1351,
+    "rnk_blnd": 518,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOE KIRKEBY",
+    "School": "Brandon Valley",
+    "id": 405,
+    "points": 38.4512,
+    "time_min": 1241.7,
+    "rnk_blnd": 519,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAVON CHASING HAWK",
+    "School": "McLaughlin",
+    "id": 380,
+    "points": 127.6312,
+    "time_min": 1348.7,
+    "rnk_blnd": 520,
+    "school_class": "B"
+  },
+  {
+    "Name": "EYOSIYAS TAREKEGN",
+    "School": "SF Jefferson",
+    "id": 262,
+    "points": 0.7089,
+    "time_min": 1173.2,
+    "rnk_blnd": 521,
+    "school_class": "AA"
+  },
+  {
+    "Name": "SJ SCHLICHT",
+    "School": "Sanborn Central/Woonsocket",
+    "id": 663,
+    "points": 43.2118,
+    "time_min": 1252,
+    "rnk_blnd": 522,
+    "school_class": "B"
+  },
+  {
+    "Name": "ALEX HEINEMANN",
+    "School": "Dell Rapids",
+    "id": 24,
+    "points": 29.5044,
+    "time_min": 1232.9,
+    "rnk_blnd": 523,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACKSON CRAIG",
+    "School": "Brookings",
+    "id": 356,
+    "points": 0.2033,
+    "time_min": 1160.7,
+    "rnk_blnd": 524,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WYATT WOLFNAME",
+    "School": "SF Washington",
+    "id": 736,
+    "points": 94.4367,
+    "time_min": 1315.4,
+    "rnk_blnd": 525,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JEFERSON MONTEPEQUE",
+    "School": "Irene-Wakonda",
+    "id": 396,
+    "points": 139.989,
+    "time_min": 1376.5,
+    "rnk_blnd": 526,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRAYDEN ZECK",
+    "School": "Groton Area",
+    "id": 301,
+    "points": 132.2427,
+    "time_min": 1369.9,
+    "rnk_blnd": 527,
+    "school_class": "A"
+  },
+  {
+    "Name": "LIAM NORRIS",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 488,
+    "points": 145.6195,
+    "time_min": 1396,
+    "rnk_blnd": 528,
+    "school_class": "A"
+  },
+  {
+    "Name": "WYATT FONTAINE",
+    "School": "SF Roosevelt",
+    "id": 732,
+    "points": 87.2901,
+    "time_min": 1319.5,
+    "rnk_blnd": 529,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BLAKE CAMPBELL SCHLOTMAN",
+    "School": "Dakota Valley",
+    "id": 74,
+    "points": 0.7213,
+    "time_min": 1185.4,
+    "rnk_blnd": 530,
+    "school_class": "A"
+  },
+  {
+    "Name": "ISAIAH SAYLER",
+    "School": "Lennox",
+    "id": 341,
+    "points": 0.6009,
+    "time_min": 1183.8,
+    "rnk_blnd": 531,
+    "school_class": "A"
+  },
+  {
+    "Name": "JACKSON HESTERMANN",
+    "School": "Sioux Valley",
+    "id": 358,
+    "points": 0.6108,
+    "time_min": 1184.2,
+    "rnk_blnd": 532,
+    "school_class": "A"
+  },
+  {
+    "Name": "CHRIS WRIGHT",
+    "School": "Yankton",
+    "id": 149,
+    "points": 27.4004,
+    "time_min": 1237.2,
+    "rnk_blnd": 533,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ALEC GARRETT",
+    "School": "Webster Area",
+    "id": 20,
+    "points": 109.77,
+    "time_min": 1366.1,
+    "rnk_blnd": 534,
+    "school_class": "A"
+  },
+  {
+    "Name": "HARLEY GRONE",
+    "School": "Freeman",
+    "id": 308,
+    "points": 0.4234,
+    "time_min": 1179.3,
+    "rnk_blnd": 535,
+    "school_class": "B"
+  },
+  {
+    "Name": "LUCAS JOHNSON",
+    "School": "SF Jefferson",
+    "id": 500,
+    "points": 0.5402,
+    "time_min": 1184.6,
+    "rnk_blnd": 536,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ISAAC HULL",
+    "School": "Gregory",
+    "id": 333,
+    "points": 152.4625,
+    "time_min": 1456,
+    "rnk_blnd": 537,
+    "school_class": "B"
+  },
+  {
+    "Name": "KARSTEN HERGES",
+    "School": "Mitchell",
+    "id": 443,
+    "points": 0.5133,
+    "time_min": 1185.2,
+    "rnk_blnd": 538,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ELI BROWN",
+    "School": "Rapid City Central",
+    "id": 229,
+    "points": 0.3262,
+    "time_min": 1182.5,
+    "rnk_blnd": 539,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DANE ROBERTS",
+    "School": "Vermillion",
+    "id": 190,
+    "points": 0.4935,
+    "time_min": 1185.8,
+    "rnk_blnd": 540,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAXEN KINDELSPIRE",
+    "School": "Tri-Valley",
+    "id": 381,
+    "points": 0.5336,
+    "time_min": 1188.2,
+    "rnk_blnd": 541,
+    "school_class": "A"
+  },
+  {
+    "Name": "MICHAEL ABERLE",
+    "School": "Spearfish",
+    "id": 544,
+    "points": 0.6513,
+    "time_min": 1192.5,
+    "rnk_blnd": 542,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COLE KAPPENMAN",
+    "School": "SF Washington",
+    "id": 160,
+    "points": 80.6221,
+    "time_min": 1344.9,
+    "rnk_blnd": 543,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HENRY KRUSE",
+    "School": "Huron",
+    "id": 317,
+    "points": 59.0202,
+    "time_min": 1307,
+    "rnk_blnd": 544,
+    "school_class": "AA"
+  },
+  {
+    "Name": "JAXON JOHANNESON",
+    "School": "Tea Area",
+    "id": 384,
+    "points": 0.4268,
+    "time_min": 1185.9,
+    "rnk_blnd": 545,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRAYDEN BROWN",
+    "School": "Mobridge-Pollock",
+    "id": 89,
+    "points": 87.6382,
+    "time_min": 1362.2,
+    "rnk_blnd": 546,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYLIE BARKER",
+    "School": "Chamberlain",
+    "id": 638,
+    "points": 112.181,
+    "time_min": 1415,
+    "rnk_blnd": 547,
+    "school_class": "A"
+  },
+  {
+    "Name": "DEYONDRE FICK",
+    "School": "SF Jefferson",
+    "id": 212,
+    "points": 0.4054,
+    "time_min": 1188.2,
+    "rnk_blnd": 548,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GIOBBE MEYER",
+    "School": "Madison",
+    "id": 289,
+    "points": 59.9968,
+    "time_min": 1313.9,
+    "rnk_blnd": 549,
+    "school_class": "A"
+  },
+  {
+    "Name": "JAXSON TOLLEFSON",
+    "School": "Mount Vernon/Plankinton",
+    "id": 389,
+    "points": 0.4279,
+    "time_min": 1191.6,
+    "rnk_blnd": 550,
+    "school_class": "A"
+  },
+  {
+    "Name": "MADEN BROWN",
+    "School": "Platte-Geddes",
+    "id": 512,
+    "points": 0.6703,
+    "time_min": 1199.3,
+    "rnk_blnd": 551,
+    "school_class": "A"
+  },
+  {
+    "Name": "SHAYDEN SMITH",
+    "School": "McCrossan",
+    "id": 660,
+    "points": 39.5497,
+    "time_min": 1282.2,
+    "rnk_blnd": 552,
+    "school_class": "B"
+  },
+  {
+    "Name": "LEVI AXTELL",
+    "School": "Sioux Valley",
+    "id": 478,
+    "points": 0.4931,
+    "time_min": 1196.6,
+    "rnk_blnd": 553,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRODY LOUT",
+    "School": "Hot Springs",
+    "id": 98,
+    "points": 111.7381,
+    "time_min": 1429.6,
+    "rnk_blnd": 554,
+    "school_class": "A"
+  },
+  {
+    "Name": "MASON JANSEN",
+    "School": "Freeman",
+    "id": 526,
+    "points": 0.2468,
+    "time_min": 1188.5,
+    "rnk_blnd": 555,
+    "school_class": "B"
+  },
+  {
+    "Name": "ISAAC TWA",
+    "School": "SF Lincoln",
+    "id": 339,
+    "points": 74.4027,
+    "time_min": 1350.6,
+    "rnk_blnd": 556,
+    "school_class": "AA"
+  },
+  {
+    "Name": "IVAN KRAJEWSKI",
+    "School": "Yankton",
+    "id": 343,
+    "points": 22.1135,
+    "time_min": 1247.8,
+    "rnk_blnd": 557,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ASHER JOHNSON",
+    "School": "McCook Central/Montrose",
+    "id": 45,
+    "points": 91.6835,
+    "time_min": 1395.4,
+    "rnk_blnd": 558,
+    "school_class": "A"
+  },
+  {
+    "Name": "DORIAN KAUFMAN",
+    "School": "Arlington",
+    "id": 215,
+    "points": 24.3093,
+    "time_min": 1255.1,
+    "rnk_blnd": 559,
+    "school_class": "B"
+  },
+  {
+    "Name": "MATHIAS LINDGREN",
+    "School": "Sanborn Central/Woonsocket",
+    "id": 531,
+    "points": 46.8478,
+    "time_min": 1304.9,
+    "rnk_blnd": 560,
+    "school_class": "B"
+  },
+  {
+    "Name": "BEN KELLER",
+    "School": "Aberdeen Roncalli",
+    "id": 64,
+    "points": 21.2498,
+    "time_min": 1248,
+    "rnk_blnd": 561,
+    "school_class": "A"
+  },
+  {
+    "Name": "CORBIN SORENSON",
+    "School": "Brandon Valley",
+    "id": 179,
+    "points": 30.2478,
+    "time_min": 1271.7,
+    "rnk_blnd": 562,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BRADY KYTE",
+    "School": "Brandon Valley",
+    "id": 83,
+    "points": 72.5678,
+    "time_min": 1351.9,
+    "rnk_blnd": 563,
+    "school_class": "AA"
+  },
+  {
+    "Name": "HENRY GRAESSER",
+    "School": "Platte-Geddes",
+    "id": 315,
+    "points": 0.5751,
+    "time_min": 1205.2,
+    "rnk_blnd": 564,
+    "school_class": "A"
+  },
+  {
+    "Name": "COOP BIRRITTIER",
+    "School": "Clark/Willow Lake",
+    "id": 170,
+    "points": 41.5766,
+    "time_min": 1308.2,
+    "rnk_blnd": 565,
+    "school_class": "A"
+  },
+  {
+    "Name": "TIMMY FELIX",
+    "School": "Madison",
+    "id": 690,
+    "points": 36.2553,
+    "time_min": 1293.6,
+    "rnk_blnd": 566,
+    "school_class": "A"
+  },
+  {
+    "Name": "KLAYTON KEMLER",
+    "School": "Colman-Egan",
+    "id": 454,
+    "points": 37.7229,
+    "time_min": 1297.1,
+    "rnk_blnd": 567,
+    "school_class": "B"
+  },
+  {
+    "Name": "BRETT BOLL",
+    "School": "West Central",
+    "id": 92,
+    "points": 21.0071,
+    "time_min": 1256.6,
+    "rnk_blnd": 568,
+    "school_class": "A"
+  },
+  {
+    "Name": "DESTIN DRAPEAU",
+    "School": "Crow Creek",
+    "id": 209,
+    "points": 0.3002,
+    "time_min": 1203.9,
+    "rnk_blnd": 569,
+    "school_class": "A"
+  },
+  {
+    "Name": "NOAH SMITH",
+    "School": "SF Lincoln",
+    "id": 574,
+    "points": 25.1513,
+    "time_min": 1277.1,
+    "rnk_blnd": 570,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CADE HOFFMAN",
+    "School": "McCook Central/Montrose",
+    "id": 110,
+    "points": 78.9069,
+    "time_min": 1425.3,
+    "rnk_blnd": 571,
+    "school_class": "A"
+  },
+  {
+    "Name": "CARTER WEBB",
+    "School": "Highmore-Harrold",
+    "id": 135,
+    "points": 35.7325,
+    "time_min": 1300,
+    "rnk_blnd": 572,
+    "school_class": "B"
+  },
+  {
+    "Name": "EMIL KRAMME",
+    "School": "SF Lincoln",
+    "id": 245,
+    "points": 68.6037,
+    "time_min": 1397.3,
+    "rnk_blnd": 573,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAVIN MA",
+    "School": "Vermillion",
+    "id": 283,
+    "points": 2.7081,
+    "time_min": 1236.1,
+    "rnk_blnd": 574,
+    "school_class": "A"
+  },
+  {
+    "Name": "HUNTER SINNER",
+    "School": "Webster Area",
+    "id": 327,
+    "points": 76.3652,
+    "time_min": 1444.5,
+    "rnk_blnd": 575,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYLAND MOORE",
+    "School": "Spearfish",
+    "id": 637,
+    "points": 0.3578,
+    "time_min": 1215.6,
+    "rnk_blnd": 576,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GAVIN BARTZ",
+    "School": "SF Lincoln",
+    "id": 278,
+    "points": 21.759,
+    "time_min": 1279.3,
+    "rnk_blnd": 577,
+    "school_class": "AA"
+  },
+  {
+    "Name": "DYLAN KIRCHNER",
+    "School": "Yankton",
+    "id": 223,
+    "points": 6.268,
+    "time_min": 1248.7,
+    "rnk_blnd": 578,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CODY HANSON",
+    "School": "McCrossan",
+    "id": 156,
+    "points": 31.6827,
+    "time_min": 1302.9,
+    "rnk_blnd": 579,
+    "school_class": "B"
+  },
+  {
+    "Name": "HARPER LUNDGREN",
+    "School": "SF Lincoln",
+    "id": 309,
+    "points": 63.1986,
+    "time_min": 1424.6,
+    "rnk_blnd": 580,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MILO CARLSON",
+    "School": "Tri-Valley",
+    "id": 552,
+    "points": 22.2977,
+    "time_min": 1285.3,
+    "rnk_blnd": 581,
+    "school_class": "A"
+  },
+  {
+    "Name": "PETER LABERGE",
+    "School": "Great Plains Lutheran",
+    "id": 596,
+    "points": 61.8296,
+    "time_min": 1416.9,
+    "rnk_blnd": 582,
+    "school_class": "A"
+  },
+  {
+    "Name": "OLIVER PEDERSON",
+    "School": "Spearfish",
+    "id": 586,
+    "points": 0.5903,
+    "time_min": 1231.7,
+    "rnk_blnd": 583,
+    "school_class": "AA"
+  },
+  {
+    "Name": "TATE DOSCH",
+    "School": "Leola/Frederick Area",
+    "id": 674,
+    "points": 37.2078,
+    "time_min": 1317.7,
+    "rnk_blnd": 584,
+    "school_class": "B"
+  },
+  {
+    "Name": "EMERSON SARVIS",
+    "School": "Huron",
+    "id": 244,
+    "points": 38.3188,
+    "time_min": 1324.9,
+    "rnk_blnd": 585,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NICK CARPENTER",
+    "School": "St. Thomas More",
+    "id": 560,
+    "points": 59.1404,
+    "time_min": 1412.2,
+    "rnk_blnd": 586,
+    "school_class": "A"
+  },
+  {
+    "Name": "CARTER MULLER",
+    "School": "Centerville",
+    "id": 130,
+    "points": 23.8816,
+    "time_min": 1290.8,
+    "rnk_blnd": 587,
+    "school_class": "B"
+  },
+  {
+    "Name": "MALACHI WHITACRE",
+    "School": "Newell",
+    "id": 515,
+    "points": 73.1237,
+    "time_min": 1466,
+    "rnk_blnd": 588,
+    "school_class": "B"
+  },
+  {
+    "Name": "COBIN RAGUSE",
+    "School": "Tri-State",
+    "id": 155,
+    "points": 104.674,
+    "time_min": 1785.2,
+    "rnk_blnd": 589,
+    "school_class": "A"
+  },
+  {
+    "Name": "GABE EDMINSON",
+    "School": "Elk Point-Jefferson",
+    "id": 269,
+    "points": 2.5705,
+    "time_min": 1241.4,
+    "rnk_blnd": 590,
+    "school_class": "A"
+  },
+  {
+    "Name": "FAREN NELSON",
+    "School": "Herreid/Selby Area",
+    "id": 264,
+    "points": 33.7517,
+    "time_min": 1314,
+    "rnk_blnd": 591,
+    "school_class": "B"
+  },
+  {
+    "Name": "ELIJAH STAKE",
+    "School": "Centerville",
+    "id": 240,
+    "points": 17.7199,
+    "time_min": 1283.6,
+    "rnk_blnd": 592,
+    "school_class": "B"
+  },
+  {
+    "Name": "TEEGAN ARPAN",
+    "School": "Gettysburg",
+    "id": 683,
+    "points": 49.5813,
+    "time_min": 1387.5,
+    "rnk_blnd": 593,
+    "school_class": "B"
+  },
+  {
+    "Name": "DREW MELLEGAARD",
+    "School": "Ethan/Parkston",
+    "id": 219,
+    "points": 0.1745,
+    "time_min": 1222.2,
+    "rnk_blnd": 594,
+    "school_class": "A"
+  },
+  {
+    "Name": "JOHN AINSLIE",
+    "School": "Bennett County",
+    "id": 407,
+    "points": 65.7146,
+    "time_min": 1459.7,
+    "rnk_blnd": 595,
+    "school_class": "B"
+  },
+  {
+    "Name": "JOHN PATE",
+    "School": "SF Lincoln",
+    "id": 411,
+    "points": 58.1624,
+    "time_min": 1426,
+    "rnk_blnd": 596,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CADE AASHEIM",
+    "School": "Lennox",
+    "id": 109,
+    "points": 0.1658,
+    "time_min": 1225.6,
+    "rnk_blnd": 597,
+    "school_class": "A"
+  },
+  {
+    "Name": "OWEN NELSON",
+    "School": "Waubay/Summit",
+    "id": 594,
+    "points": 43.1403,
+    "time_min": 1379,
+    "rnk_blnd": 598,
+    "school_class": "B"
+  },
+  {
+    "Name": "QUINLIN BENDER",
+    "School": "Newell",
+    "id": 604,
+    "points": 74.4232,
+    "time_min": 1516.8,
+    "rnk_blnd": 599,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH KORVER",
+    "School": "Tea Area",
+    "id": 571,
+    "points": 0.0649,
+    "time_min": 1219.3,
+    "rnk_blnd": 600,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GORDON OLSON",
+    "School": "Madison",
+    "id": 291,
+    "points": 26.4335,
+    "time_min": 1313.4,
+    "rnk_blnd": 601,
+    "school_class": "A"
+  },
+  {
+    "Name": "ZANE ORTH",
+    "School": "SF Roosevelt",
+    "id": 746,
+    "points": 53.4719,
+    "time_min": 1432.7,
+    "rnk_blnd": 602,
+    "school_class": "AA"
+  },
+  {
+    "Name": "NOAH ESTWICK",
+    "School": "Sisseton",
+    "id": 565,
+    "points": 0.1025,
+    "time_min": 1226.2,
+    "rnk_blnd": 603,
+    "school_class": "A"
+  },
+  {
+    "Name": "AUSTIN BRAY",
+    "School": "Brandon Valley",
+    "id": 50,
+    "points": 23.0983,
+    "time_min": 1309.5,
+    "rnk_blnd": 604,
+    "school_class": "AA"
+  },
+  {
+    "Name": "PHOENIX POULIN",
+    "School": "Deubrook Area",
+    "id": 601,
+    "points": 33.9872,
+    "time_min": 1347.3,
+    "rnk_blnd": 605,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH LUETHMERS",
+    "School": "De Smet",
+    "id": 573,
+    "points": 63.0215,
+    "time_min": 1526.2,
+    "rnk_blnd": 606,
+    "school_class": "B"
+  },
+  {
+    "Name": "MASON FREDRICH",
+    "School": "Hanson",
+    "id": 524,
+    "points": 0.12,
+    "time_min": 1233.8,
+    "rnk_blnd": 607,
+    "school_class": "A"
+  },
+  {
+    "Name": "TITUS WEEMAN",
+    "School": "SF Lutheran",
+    "id": 693,
+    "points": 0.0047,
+    "time_min": 1225.5,
+    "rnk_blnd": 608,
+    "school_class": "B"
+  },
+  {
+    "Name": "CHARLEY BITTNER",
+    "School": "Lennox",
+    "id": 145,
+    "points": 0.128,
+    "time_min": 1234.6,
+    "rnk_blnd": 609,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRECKEN JORGENSEN",
+    "School": "SF Lutheran",
+    "id": 90,
+    "points": 0.1381,
+    "time_min": 1235.9,
+    "rnk_blnd": 610,
+    "school_class": "B"
+  },
+  {
+    "Name": "JACOB HANISCH",
+    "School": "SF Lincoln",
+    "id": 365,
+    "points": 45.0412,
+    "time_min": 1457.9,
+    "rnk_blnd": 611,
+    "school_class": "AA"
+  },
+  {
+    "Name": "AIDYN CYRUS",
+    "School": "Webster Area",
+    "id": 18,
+    "points": 48.2904,
+    "time_min": 1472,
+    "rnk_blnd": 612,
+    "school_class": "A"
+  },
+  {
+    "Name": "ASA CAVANAUGH",
+    "School": "Flandreau Indian",
+    "id": 44,
+    "points": 62.5155,
+    "time_min": 1583.5,
+    "rnk_blnd": 613,
+    "school_class": "B"
+  },
+  {
+    "Name": "RILEY CLARK",
+    "School": "Tea Area",
+    "id": 617,
+    "points": 0.4372,
+    "time_min": 1248,
+    "rnk_blnd": 614,
+    "school_class": "AA"
+  },
+  {
+    "Name": "WYATT YOUNG",
+    "School": "Freeman",
+    "id": 737,
+    "points": 0.0718,
+    "time_min": 1234.3,
+    "rnk_blnd": 615,
+    "school_class": "B"
+  },
+  {
+    "Name": "MILES BELT-HANSON",
+    "School": "Canistota",
+    "id": 549,
+    "points": 27.2553,
+    "time_min": 1351.8,
+    "rnk_blnd": 616,
+    "school_class": "B"
+  },
+  {
+    "Name": "NOAH BUHIAN",
+    "School": "Elk Point-Jefferson",
+    "id": 563,
+    "points": 2.4342,
+    "time_min": 1278.6,
+    "rnk_blnd": 617,
+    "school_class": "A"
+  },
+  {
+    "Name": "GUNNAR SMITH",
+    "School": "SF Washington",
+    "id": 304,
+    "points": 41.2609,
+    "time_min": 1462.6,
+    "rnk_blnd": 618,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ARIC ARNELL",
+    "School": "Flandreau Indian",
+    "id": 42,
+    "points": 56.5616,
+    "time_min": 1610.2,
+    "rnk_blnd": 619,
+    "school_class": "B"
+  },
+  {
+    "Name": "ELIAS BUMGARDNER",
+    "School": "Hanson",
+    "id": 234,
+    "points": 0.1328,
+    "time_min": 1246.8,
+    "rnk_blnd": 620,
+    "school_class": "A"
+  },
+  {
+    "Name": "GODWIL MUTHIANI",
+    "School": "Freeman",
+    "id": 290,
+    "points": 0.0496,
+    "time_min": 1239.9,
+    "rnk_blnd": 621,
+    "school_class": "B"
+  },
+  {
+    "Name": "GRANT GRIFFITH",
+    "School": "De Smet",
+    "id": 299,
+    "points": 36.7209,
+    "time_min": 1442.6,
+    "rnk_blnd": 622,
+    "school_class": "B"
+  },
+  {
+    "Name": "LAWRENCE BIG EAGLE",
+    "School": "Tiospaye Topa",
+    "id": 470,
+    "points": 56.5616,
+    "time_min": 1855.3,
+    "rnk_blnd": 623,
+    "school_class": "B"
+  },
+  {
+    "Name": "IAN PRAMOV",
+    "School": "SF Roosevelt",
+    "id": 330,
+    "points": 37.7461,
+    "time_min": 1479,
+    "rnk_blnd": 624,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CAMERON CONAWAY",
+    "School": "Hill City",
+    "id": 120,
+    "points": 45.7358,
+    "time_min": 1547.1,
+    "rnk_blnd": 625,
+    "school_class": "A"
+  },
+  {
+    "Name": "GUY MESSLER",
+    "School": "Gayville-Volin",
+    "id": 306,
+    "points": 0.032,
+    "time_min": 1246.6,
+    "rnk_blnd": 626,
+    "school_class": "B"
+  },
+  {
+    "Name": "AIDEN STRONG",
+    "School": "Britton-Hecla",
+    "id": 16,
+    "points": 40.2715,
+    "time_min": 1503.9,
+    "rnk_blnd": 627,
+    "school_class": "A"
+  },
+  {
+    "Name": "LEO SCHUMACHER",
+    "School": "Great Plains Lutheran",
+    "id": 476,
+    "points": 21.6854,
+    "time_min": 1374,
+    "rnk_blnd": 628,
+    "school_class": "A"
+  },
+  {
+    "Name": "JUSTIN POOR BEAR",
+    "School": "Bennett County",
+    "id": 434,
+    "points": 48.3733,
+    "time_min": 1708.5,
+    "rnk_blnd": 629,
+    "school_class": "B"
+  },
+  {
+    "Name": "CEDRIC HORST",
+    "School": "Canton",
+    "id": 139,
+    "points": 0.0126,
+    "time_min": 1248.4,
+    "rnk_blnd": 630,
+    "school_class": "A"
+  },
+  {
+    "Name": "LEO MADSEN",
+    "School": "Aberdeen Roncalli",
+    "id": 475,
+    "points": 34.8414,
+    "time_min": 1485.9,
+    "rnk_blnd": 631,
+    "school_class": "A"
+  },
+  {
+    "Name": "MASON BUI",
+    "School": "Aberdeen Roncalli",
+    "id": 523,
+    "points": 44.7516,
+    "time_min": 1684.4,
+    "rnk_blnd": 632,
+    "school_class": "A"
+  },
+  {
+    "Name": "TRISTAN BROWN",
+    "School": "Madison",
+    "id": 698,
+    "points": 20.7492,
+    "time_min": 1386.2,
+    "rnk_blnd": 633,
+    "school_class": "A"
+  },
+  {
+    "Name": "SPENCER SECREST",
+    "School": "SF Washington",
+    "id": 666,
+    "points": 34.4796,
+    "time_min": 1491.5,
+    "rnk_blnd": 634,
+    "school_class": "AA"
+  },
+  {
+    "Name": "MICAH MENNING",
+    "School": "Mitchell Christian",
+    "id": 541,
+    "points": 0.0669,
+    "time_min": 1262.8,
+    "rnk_blnd": 635,
+    "school_class": "B"
+  },
+  {
+    "Name": "MASON ANDERSON",
+    "School": "Sanborn Central/Woonsocket",
+    "id": 522,
+    "points": 18.9184,
+    "time_min": 1392,
+    "rnk_blnd": 636,
+    "school_class": "B"
+  },
+  {
+    "Name": "JIMMY TEN FINGERS",
+    "School": "Crazy Horse",
+    "id": 404,
+    "points": 33.5847,
+    "time_min": 1500.4,
+    "rnk_blnd": 637,
+    "school_class": "B"
+  },
+  {
+    "Name": "SAM ATNIP",
+    "School": "Mitchell Christian",
+    "id": 639,
+    "points": 0.3224,
+    "time_min": 1286.4,
+    "rnk_blnd": 638,
+    "school_class": "B"
+  },
+  {
+    "Name": "LIAM TERKILDSEN",
+    "School": "Sanborn Central/Woonsocket",
+    "id": 489,
+    "points": 13.8053,
+    "time_min": 1386,
+    "rnk_blnd": 639,
+    "school_class": "B"
+  },
+  {
+    "Name": "OLIVER LARSEN",
+    "School": "Sioux Valley",
+    "id": 582,
+    "points": 0.0803,
+    "time_min": 1276.3,
+    "rnk_blnd": 640,
+    "school_class": "A"
+  },
+  {
+    "Name": "BRADEN ROEMMICH",
+    "School": "SF Roosevelt",
+    "id": 78,
+    "points": 31.4454,
+    "time_min": 1502.6,
+    "rnk_blnd": 641,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GRANT CLELLAND",
+    "School": "Arlington",
+    "id": 296,
+    "points": 28.825,
+    "time_min": 1495,
+    "rnk_blnd": 642,
+    "school_class": "B"
+  },
+  {
+    "Name": "LANDYN RHOADES",
+    "School": "Mitchell",
+    "id": 468,
+    "points": 0.2933,
+    "time_min": 1288.5,
+    "rnk_blnd": 643,
+    "school_class": "AA"
+  },
+  {
+    "Name": "COLBY CHAUSSEE",
+    "School": "Viborg-Hurley",
+    "id": 158,
+    "points": 34.5381,
+    "time_min": 1578.6,
+    "rnk_blnd": 644,
+    "school_class": "B"
+  },
+  {
+    "Name": "ELIJAH IVERSON",
+    "School": "SF Lutheran",
+    "id": 238,
+    "points": 0.0766,
+    "time_min": 1279.1,
+    "rnk_blnd": 645,
+    "school_class": "B"
+  },
+  {
+    "Name": "MASON JOLLEY",
+    "School": "Avon",
+    "id": 527,
+    "points": 14.7971,
+    "time_min": 1411.7,
+    "rnk_blnd": 646,
+    "school_class": "B"
+  },
+  {
+    "Name": "LIAM MASTERS",
+    "School": "Parker/Marion",
+    "id": 486,
+    "points": 6.6378,
+    "time_min": 1371.1,
+    "rnk_blnd": 647,
+    "school_class": "A"
+  },
+  {
+    "Name": "ELLIOT KELLER",
+    "School": "Mobridge-Pollock",
+    "id": 243,
+    "points": 5.0441,
+    "time_min": 1364.5,
+    "rnk_blnd": 648,
+    "school_class": "A"
+  },
+  {
+    "Name": "KADE LUTT",
+    "School": "St. Mary's",
+    "id": 437,
+    "points": 8.4108,
+    "time_min": 1387.1,
+    "rnk_blnd": 649,
+    "school_class": "B"
+  },
+  {
+    "Name": "LIAM ARCHER",
+    "School": "SF Lincoln",
+    "id": 484,
+    "points": 28.6284,
+    "time_min": 1520.3,
+    "rnk_blnd": 650,
+    "school_class": "AA"
+  },
+  {
+    "Name": "GABRIEL AUGHENBAUGH",
+    "School": "De Smet",
+    "id": 271,
+    "points": 3.8434,
+    "time_min": 1363.6,
+    "rnk_blnd": 651,
+    "school_class": "B"
+  },
+  {
+    "Name": "JAXON STEINBRECHER",
+    "School": "Elk Point-Jefferson",
+    "id": 386,
+    "points": 0.0151,
+    "time_min": 1279.5,
+    "rnk_blnd": 652,
+    "school_class": "A"
+  },
+  {
+    "Name": "EVERETT SMITH",
+    "School": "SF Lincoln",
+    "id": 261,
+    "points": 26.0145,
+    "time_min": 1553.4,
+    "rnk_blnd": 653,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RICHARD KILLS CROW",
+    "School": "Tiospaye Topa",
+    "id": 615,
+    "points": 0.1585,
+    "time_min": 1299.7,
+    "rnk_blnd": 654,
+    "school_class": "B"
+  },
+  {
+    "Name": "GAVIN TAYLOR",
+    "School": "Madison",
+    "id": 285,
+    "points": 18.1948,
+    "time_min": 1486,
+    "rnk_blnd": 655,
+    "school_class": "A"
+  },
+  {
+    "Name": "TEIGAN MCKOWN",
+    "School": "Warner",
+    "id": 685,
+    "points": 20.2259,
+    "time_min": 1497.7,
+    "rnk_blnd": 656,
+    "school_class": "B"
+  },
+  {
+    "Name": "SAMUEL SOPER",
+    "School": "SF Washington",
+    "id": 649,
+    "points": 23.5904,
+    "time_min": 1577.4,
+    "rnk_blnd": 657,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARTER BUSCHBACH",
+    "School": "Mitchell",
+    "id": 126,
+    "points": 0.0325,
+    "time_min": 1296.9,
+    "rnk_blnd": 658,
+    "school_class": "AA"
+  },
+  {
+    "Name": "VANDER SORENSON",
+    "School": "SF Washington",
+    "id": 714,
+    "points": 21.3437,
+    "time_min": 1578.2,
+    "rnk_blnd": 659,
+    "school_class": "AA"
+  },
+  {
+    "Name": "BREVIN KOEHLER",
+    "School": "Spearfish",
+    "id": 94,
+    "points": 0.234,
+    "time_min": 1316.2,
+    "rnk_blnd": 660,
+    "school_class": "AA"
+  },
+  {
+    "Name": "RYLAND MCKEE",
+    "School": "Elk Point-Jefferson",
+    "id": 636,
+    "points": 0.0108,
+    "time_min": 1298.8,
+    "rnk_blnd": 661,
+    "school_class": "A"
+  },
+  {
+    "Name": "RYAN KELLER",
+    "School": "Spearfish",
+    "id": 628,
+    "points": 0.201,
+    "time_min": 1330.6,
+    "rnk_blnd": 662,
+    "school_class": "AA"
+  },
+  {
+    "Name": "ETHAN GONSOR",
+    "School": "Aberdeen Roncalli",
+    "id": 250,
+    "points": 0.0071,
+    "time_min": 1305.9,
+    "rnk_blnd": 663,
+    "school_class": "A"
+  },
+  {
+    "Name": "KYLE YOUNG",
+    "School": "Freeman",
+    "id": 461,
+    "points": 0.0079,
+    "time_min": 1313,
+    "rnk_blnd": 664,
+    "school_class": "B"
+  },
+  {
+    "Name": "TRUETT ELLENDORF",
+    "School": "Howard",
+    "id": 701,
+    "points": 3.9939,
+    "time_min": 1485.1,
+    "rnk_blnd": 665,
+    "school_class": "B"
+  },
+  {
+    "Name": "COOPER JARDING",
+    "School": "Hanson",
+    "id": 173,
+    "points": 12.7793,
+    "time_min": 1621.9,
+    "rnk_blnd": 666,
+    "school_class": "A"
+  },
+  {
+    "Name": "ONYX NIEHOFF",
+    "School": "Hanson",
+    "id": 587,
+    "points": 0.0139,
+    "time_min": 1321.7,
+    "rnk_blnd": 667,
+    "school_class": "A"
+  },
+  {
+    "Name": "LANDON JUNGEMANN",
+    "School": "Wolsey-Wessington",
+    "id": 465,
+    "points": 2.7947,
+    "time_min": 1527,
+    "rnk_blnd": 668,
+    "school_class": "B"
+  },
+  {
+    "Name": "HOUSTON BRYANT",
+    "School": "Madison",
+    "id": 322,
+    "points": 0.4863,
+    "time_min": 1479,
+    "rnk_blnd": 669,
+    "school_class": "A"
+  },
+  {
+    "Name": "ADRIAN REDDOG",
+    "School": "SF Jefferson",
+    "id": 12,
+    "points": 0.0094,
+    "time_min": 1385,
+    "rnk_blnd": 670,
+    "school_class": "AA"
+  },
+  {
+    "Name": "CARSYN GREBNER",
+    "School": "Waubay/Summit",
+    "id": 125,
+    "points": 2.5993,
+    "time_min": 1651.4,
+    "rnk_blnd": 671,
+    "school_class": "B"
+  },
+  {
+    "Name": "RYKER JOHNSON",
+    "School": "Elk Point-Jefferson",
+    "id": 631,
+    "points": 0.005,
+    "time_min": 1408.4,
+    "rnk_blnd": 672,
+    "school_class": "A"
+  },
+  {
+    "Name": "CORWIN LAFFEY",
+    "School": "Ethan/Parkston",
+    "id": 183,
+    "points": 0.0045,
+    "time_min": 1425.4,
+    "rnk_blnd": 673,
+    "school_class": "A"
+  },
+  {
+    "Name": "WYATT DORN",
+    "School": "Freeman",
+    "id": 730,
+    "points": 0.0041,
+    "time_min": 1655.9,
+    "rnk_blnd": 674,
+    "school_class": "B"
+  }
+]

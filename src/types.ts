@@ -4,7 +4,7 @@ export interface Runner {
   id: number;
   Name: string;  // Capital N to match your JSON
   School: string; // Capital S to match your JSON
-  time_min: number; // underscore format to match your JSON
+  time_min: number | null; // underscore format to match your JSON; seconds, null if no 5K time yet
   points: number;
   school_class: 'A' | 'AA' | 'B'; // underscore format to match your JSON
   rnk_blnd: number; // underscore format to match your JSON
@@ -25,8 +25,8 @@ export interface GenderData {
 
 export type ClassFilter = 'A' | 'AA' | 'B' | 'classall';
 export type GenderFilter = 'M' | 'F';
-export type WeekFilter = 'week1' | 'week2' | 'week3' | 'week4' | 'week5' | 'week6' | 'week7';
-export type YearFilter = '2023' | '2024';
+export type WeekFilter = 'week1' | 'week2' | 'week3' | 'week4' | 'week5' | 'week6' | 'week7' | 'week8';
+export type YearFilter = '2023' | '2025' | '2026';
 export type TabType = 'rankings' | 'teams';
 
 // Sorting types

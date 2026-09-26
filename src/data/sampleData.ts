@@ -62,7 +62,9 @@ export const schools: string[] = [
 ];
 
 // Helper function to convert seconds to MM:SS.SS format
-export const formatTime = (totalSeconds: number): string => {
+export const formatTime = (totalSeconds: number | null): string => {
+  if (totalSeconds === null) return '—';
+
   const minutes = Math.floor(totalSeconds / 60);
   const seconds = totalSeconds % 60;
   const secondsWhole = Math.floor(seconds);

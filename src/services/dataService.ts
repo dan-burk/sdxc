@@ -1,4 +1,4 @@
-import type { Runner } from '../types';
+import type { Runner, YearFilter } from '../types';
 
 // Configuration - Update these with your GitHub details
 const GITHUB_USERNAME = 'dan-burk';
@@ -27,8 +27,8 @@ export const loadData = async (
   }
 };
 
-export const loadSchools = async (): Promise<string[]> => {
-  const url = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/${BRANCH}/data/schools.json`;
+export const loadSchools = async (year: YearFilter): Promise<string[]> => {
+  const url = `https://raw.githubusercontent.com/${GITHUB_USERNAME}/${REPO_NAME}/${BRANCH}/data/schools_${year}.json`;
   
   try {
     const response = await fetch(url);
