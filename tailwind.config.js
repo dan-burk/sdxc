@@ -1,26 +1,21 @@
+const tokens = [
+  'bg', 'surface', 'surface-2', 'border', 'text', 'muted', 'accent', 'accent-fg', 'accent-soft',
+  'gold', 'silver', 'bronze', 'aa', 'a', 'b', 'up', 'down',
+]
+
 /** @type {import('tailwindcss').Config} */
 export default {
-  content: [
-    "./index.html",
-    "./src/**/*.{js,ts,jsx,tsx}",
-  ],
+  content: ['./index.html', './src/**/*.{ts,tsx}'],
+  darkMode: 'class',
   theme: {
     extend: {
-      colors: {
-        'primary': '#2563eb', // Blue-600
-        'primary-light': '#3b82f6', // Blue-500
-        'primary-dark': '#1d4ed8', // Blue-700
-        'primary-lighter': '#dbeafe', // Blue-100
-        'secondary': '#64748b', // Slate-500
-        'secondary-light': '#94a3b8', // Slate-400
-        'accent': '#0ea5e9', // Sky-500
-        'accent-light': '#38bdf8', // Sky-400
-        'background': '#f8fafc', // Slate-50
-        'surface': '#ffffff',
-        'text-primary': '#1e293b', // Slate-800
-        'text-secondary': '#475569', // Slate-600
-        'border': '#e2e8f0', // Slate-200
-      }
+      colors: Object.fromEntries(tokens.map(t => [t, `rgb(var(--${t}) / <alpha-value>)`])),
+      fontFamily: {
+        display: ['"Barlow Condensed"', '"Arial Narrow"', 'sans-serif'],
+        sans: ['"Public Sans"', 'system-ui', 'sans-serif'],
+      },
+      borderRadius: { DEFAULT: '8px', lg: '12px' },
+      boxShadow: { card: '0 1px 2px rgb(0 0 0 / .04), 0 4px 16px rgb(0 0 0 / .04)' },
     },
   },
   plugins: [],

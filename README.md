@@ -1,69 +1,30 @@
-# React + TypeScript + Vite
+# SD XC
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+South Dakota high school cross country rankings and race simulator.
 
-Currently, two official plugins are available:
+**Live:** https://dan-burk.github.io/sdxc/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Rankings** — weekly blended rankings by year, week, gender and class, with rank movement from the previous week.
+- **Race Simulator** — pick schools and a scoring class to get a projected finish order and team scores. SD scores 3 of up to 5 runners in Class B, 4 of 6 in A, and 5 of 7 in AA; teams without enough runners don't score.
 
-## Expanding the ESLint configuration
+## Data
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+The rankings are produced by the sister repo **sdxc-data**, whose `export.r` writes into `data/` here:
 
-```js
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+| File | Contents |
+|---|---|
+| `manifest.json` | Current season and the latest scored week per year. The app reads this to decide which years and weeks to show. |
+| `{boys,girls}_{year}_week{n}.json` | One ranking snapshot per week. |
+| `schools_{year}.json` | Schools and their class for that season. |
 
-      // Remove tseslint.configs.recommended and replace with this
-      ...tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      ...tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      ...tseslint.configs.stylisticTypeChecked,
+Don't edit these by hand; `export.r` overwrites them. The deployed site fetches them live from `raw.githubusercontent.com`, so a data push goes live without a redeploy.
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+## Development
+
+```sh
+npm install
+npm run dev     # http://localhost:3000, reads the local data/ folder
+npm run build   # type check + production build
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default tseslint.config([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+Pushes to `master` that touch the app deploy to GitHub Pages via `.github/workflows/deploy.yml`.

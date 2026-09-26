@@ -1,0 +1,176 @@
+import { useMemo, useState } from 'react'
+import { getRankings } from '../data'
+import { formatPoints, formatTime, titleCase } from '../format'
+import { useAsync } from '../hooks'
+import type { Gender, Runner } from '../types'
+import type { ClassFilter } from './FilterBar'
+import { ClassBadge, ErrorCard } from './ui'
+
+type SortKey = 'rank' | 'name' | 'school' | 'class' | 'time' | 'points'
+type Move = number | 'new' | null // null when there's no previous week to compare
+
+const CLASS_ORDER = { AA: 0, A: 1, B: 2 }
+const COMPARE: Record<SortKey, (a: Runner, b: Runner) => number> = {
+  rank: (a, b) => a.rnk_blnd - b.rnk_blnd,
+  name: (a, b) => a.Name.localeCompare(b.Name),
+  school: (a, b) => a.School.localeCompare(b.School),
+  class: (a, b) => CLASS_ORDER[a.school_class] - CLASS_ORDER[b.school_class],
+  time: (a, b) => (a.time_min ?? 0) - (b.time_min ?? 0),
+  points: (a, b) => a.points - b.points,
+}
+const COLUMNS: { key: SortKey; label: string; className?: string }[] = [
+  { key: 'rank', label: 'Rank', className: 'w-24 sm:w-28' },
+  { key: 'name', label: 'Runner' },
+  { key: 'school', label: 'School', className: 'hidden sm:table-cell' },
+  { key: 'class', label: 'Class', className: 'hidden sm:table-cell' },
+  { key: 'time', label: '5K' },
+  { key: 'points', label: 'Points', className: 'hidden md:table-cell text-right' },
+]
+const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
+
+function Movement({ move, prevWeek }: { move: Move; prevWeek: number }) {
+  if (move === null) return null
+  if (move === 'new') return <span className="text-[10px] font-semibold tracking-wide text-accent">NEW</span>
+  if (move === 0) return <span className="text-xs text-muted/60" title={`No change from week ${prevWeek}`}>–</span>
+  const up = move > 0
+  return (
+    <span
+      className={`text-xs font-semibold tabular-nums ${up ? 'text-up' : 'text-down'}`}
+      title={`${up ? 'Up' : 'Down'} ${Math.abs(move)} from week ${prevWeek}`}
+    >
+      {up ? '▲' : '▼'}{Math.abs(move)}
+    </span>
+  )
+}
+
+interface Props {
+  gender: Gender
+  year: number
+  week: number
+  cls: ClassFilter
+}
+
+export function RankingsTable({ gender, year, week, cls }: Props) {
+  const [search, setSearch] = useState('')
+  const [sort, setSort] = useState<{ key: SortKey; dir: 'asc' | 'desc' }>({ key: 'rank', dir: 'asc' })
+  const { data, loading, error, retry } = useAsync(
+    () => Promise.all([
+      getRankings(gender, year, week),
+      week > 1 ? getRankings(gender, year, week - 1).catch(() => null) : null, // arrows are optional
+    ]),
+    [gender, year, week],
+  )
+
+  const moves = useMemo(() => {
+    const prev = data?.[1] && new Map(data[1].map(r => [r.id, r.rnk_blnd]))
+    return (r: Runner): Move => {
+      if (!prev) return null
+      const before = prev.get(r.id)
+      return before === undefined ? 'new' : before - r.rnk_blnd
+    }
+  }, [data])
+
+  const rows = useMemo(() => {
+    const q = search.trim().toLowerCase()
+    const filtered = (data?.[0] ?? []).filter(r =>
+      (cls === 'All' || r.school_class === cls) &&
+      (!q || r.Name.toLowerCase().includes(q) || r.School.toLowerCase().includes(q)),
+    )
+    return filtered.sort((a, b) => {
+      // Missing times sort last in both directions
+      if (sort.key === 'time' && (a.time_min === null) !== (b.time_min === null)) return a.time_min === null ? 1 : -1
+      const d = COMPARE[sort.key](a, b)
+      return (sort.dir === 'asc' ? d : -d) || a.rnk_blnd - b.rnk_blnd
+    })
+  }, [data, search, cls, sort])
+
+  const onSort = (key: SortKey) =>
+    setSort(s => s.key === key
+      ? { key, dir: s.dir === 'asc' ? 'desc' : 'asc' }
+      : { key, dir: key === 'points' ? 'desc' : 'asc' })
+
+  const genderLabel = gender === 'boys' ? 'Boys' : 'Girls'
+
+  return (
+    <section className="space-y-4">
+      <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
+        <div>
+          <h1 className="font-display text-3xl font-semibold sm:text-4xl">
+            {genderLabel} · {year} · Week {week}
+          </h1>
+          <p className="text-sm text-muted">
+            {data ? `${rows.length.toLocaleString()} runners${cls === 'All' ? '' : ` in Class ${cls}`}` : ' '}
+            {data?.[1] && ` · arrows compare to week ${week - 1}`}
+          </p>
+        </div>
+        <label className="relative sm:w-72">
+          <svg className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}>
+            <circle cx="11" cy="11" r="7" /><path d="m20 20-4-4" />
+          </svg>
+          <input
+            type="search"
+            value={search}
+            onChange={e => setSearch(e.target.value)}
+            placeholder="Search runner or school"
+            className="w-full rounded border border-border bg-surface py-2 pl-9 pr-3 text-sm outline-none placeholder:text-muted focus:border-accent focus:ring-2 focus:ring-accent/20"
+          />
+        </label>
+      </div>
+
+      {error && <ErrorCard message={`Couldn't load ${year} week ${week} ${gender} rankings.`} onRetry={retry} />}
+
+      <div className="card overflow-hidden">
+        <table className="w-full text-sm">
+          <thead className="bg-surface-2">
+            <tr>
+              {COLUMNS.map(c => (
+                <th key={c.key} className={`label px-3 py-3 text-left sm:px-4 ${c.className ?? ''}`}>
+                  <button onClick={() => onSort(c.key)} className={`inline-flex items-center gap-1 uppercase hover:text-text ${sort.key === c.key ? 'text-text' : ''}`}>
+                    {c.label}
+                    {sort.key === c.key && <span aria-hidden>{sort.dir === 'asc' ? '↑' : '↓'}</span>}
+                  </button>
+                </th>
+              ))}
+            </tr>
+          </thead>
+          <tbody className="divide-y divide-border">
+            {loading && Array.from({ length: 8 }, (_, i) => (
+              <tr key={i}>
+                <td colSpan={COLUMNS.length} className="px-4 py-4">
+                  <div className="h-3 animate-pulse rounded bg-surface-2" style={{ width: `${90 - i * 6}%` }} />
+                </td>
+              </tr>
+            ))}
+            {!loading && data && rows.length === 0 && (
+              <tr>
+                <td colSpan={COLUMNS.length} className="px-4 py-12 text-center text-muted">
+                  No runners match{search && ` “${search}”`}{cls !== 'All' && ` in Class ${cls}`}.{' '}
+                  {search && <button onClick={() => setSearch('')} className="font-semibold text-accent hover:underline">Clear search</button>}
+                </td>
+              </tr>
+            )}
+            {!loading && rows.map(r => (
+              <tr key={r.rnk_blnd} className="transition-colors hover:bg-surface-2/60">
+                <td className="px-3 py-2.5 sm:px-4">
+                  <div className="flex items-center gap-2">
+                    <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[r.rnk_blnd - 1] ?? ''}`} />
+                    <span className="w-9 text-right font-display text-lg font-semibold tabular-nums">{r.rnk_blnd}</span>
+                    <span className="w-9"><Movement move={moves(r)} prevWeek={week - 1} /></span>
+                  </div>
+                </td>
+                <td className="px-3 py-2.5 sm:px-4">
+                  <div className="font-medium">{titleCase(r.Name)}</div>
+                  <div className="text-xs text-muted sm:hidden">{r.School} · {r.school_class}</div>
+                </td>
+                <td className="hidden px-3 py-2.5 sm:px-4 sm:table-cell">{r.School}</td>
+                <td className="hidden px-3 py-2.5 sm:px-4 sm:table-cell"><ClassBadge cls={r.school_class} /></td>
+                <td className={`px-3 py-2.5 sm:px-4 tabular-nums ${r.time_min === null ? 'text-muted' : ''}`}>{formatTime(r.time_min)}</td>
+                <td className="hidden px-3 py-2.5 sm:px-4 text-right tabular-nums text-muted md:table-cell">{formatPoints(r.points)}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
+    </section>
+  )
+}

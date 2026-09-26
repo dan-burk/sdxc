@@ -1,39 +1,24 @@
-// Type definitions for the SD XC Rankings app
+export type Gender = 'boys' | 'girls'
+export type SchoolClass = 'AA' | 'A' | 'B'
+export type Tab = 'rankings' | 'race'
 
+// Shape of data/{gender}_{year}_week{n}.json rows, written by sdxc-data's export.r
 export interface Runner {
-  id: number;
-  Name: string;  // Capital N to match your JSON
-  School: string; // Capital S to match your JSON
-  time_min: number | null; // underscore format to match your JSON; seconds, null if no 5K time yet
-  points: number;
-  school_class: 'A' | 'AA' | 'B'; // underscore format to match your JSON
-  rnk_blnd: number; // underscore format to match your JSON
+  id: number // stable across weeks within a season
+  Name: string
+  School: string
+  points: number
+  time_min: number | null // seconds despite the name; null = no 5K time yet
+  rnk_blnd: number // overall rank, unique per file
+  school_class: SchoolClass
 }
 
-export interface WeekData {
-  [key: string]: Runner[]; // week1, week2, etc.
+export interface School {
+  School: string
+  school_class: SchoolClass
 }
 
-export interface YearData {
-  [year: string]: WeekData; // 2023, 2024, etc.
-}
-
-export interface GenderData {
-  boys: YearData;
-  girls: YearData;
-}
-
-export type ClassFilter = 'A' | 'AA' | 'B' | 'classall';
-export type GenderFilter = 'M' | 'F';
-export type WeekFilter = 'week1' | 'week2' | 'week3' | 'week4' | 'week5' | 'week6' | 'week7' | 'week8';
-export type YearFilter = '2023' | '2025' | '2026';
-export type TabType = 'rankings' | 'teams';
-
-// Sorting types
-export type SortDirection = 'asc' | 'desc' | null;
-export type SortableColumn = 'rank' | 'name' | 'school' | 'points' | 'time' | 'class';
-
-export interface SortState {
-  column: SortableColumn | null;
-  direction: SortDirection;
+export interface Manifest {
+  current: number
+  years: Record<string, number> // year -> latest scored week
 }

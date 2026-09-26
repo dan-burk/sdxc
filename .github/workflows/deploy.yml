@@ -1,0 +1,59 @@
+# Build and deploy to GitHub Pages. Every push to master that touches the
+# app builds it; the deploy is blocked unless the type check and build
+# pass. Pull requests run the build only.
+#
+# Data pushes (data/**) don't redeploy: the site fetches rankings, schools
+# and manifest.json live from raw.githubusercontent.com at runtime, so new
+# weeks from sdxc-data's export.r go live as soon as they're pushed.
+name: Build and deploy
+
+on:
+  push:
+    branches: [master]
+    paths-ignore: ["data/**", "**.md"]
+  pull_request:
+    paths-ignore: ["data/**", "**.md"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+
+      # npm ci installs exactly package-lock.json, including the Linux
+      # esbuild binary that a Windows-side node_modules lacks
+      - run: npm ci
+
+      # build = tsc --noEmit && vite build, so type errors block the deploy
+      - run: npm run build
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: dist
+
+  deploy:
+    needs: build
+    if: github.event_name != 'pull_request'
+    runs-on: ubuntu-24.04
+    permissions:
+      pages: write
+      id-token: write
+    concurrency:
+      group: pages
+      cancel-in-progress: true
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
