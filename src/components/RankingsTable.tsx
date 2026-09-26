@@ -6,7 +6,7 @@ import type { Gender, Runner } from '../types'
 import type { ClassFilter } from './FilterBar'
 import { ClassBadge, Delta, ErrorCard } from './ui'
 
-type SortKey = 'rank' | 'name' | 'school' | 'class' | 'time' | 'points'
+type SortKey = 'rank' | 'name' | 'school' | 'class' | 'time' | 'score'
 type Move = number | 'new' | null // null when there's no previous week to compare
 
 const CLASS_ORDER = { AA: 0, A: 1, B: 2 }
@@ -16,7 +16,8 @@ const COMPARE: Record<SortKey, (a: Runner, b: Runner) => number> = {
   school: (a, b) => a.School.localeCompare(b.School),
   class: (a, b) => CLASS_ORDER[a.school_class] - CLASS_ORDER[b.school_class],
   time: (a, b) => (a.time_min ?? 0) - (b.time_min ?? 0),
-  points: (a, b) => a.points - b.points,
+  // Best first when ascending: lowest adjusted time, or most points in 2023's files
+  score: (a, b) => (a.adj_time !== undefined ? a.adj_time - b.adj_time! : b.points! - a.points!),
 }
 const COLUMNS: { key: SortKey; label: string; className?: string }[] = [
   { key: 'rank', label: 'Rank', className: 'w-24 sm:w-28' },
@@ -24,7 +25,7 @@ const COLUMNS: { key: SortKey; label: string; className?: string }[] = [
   { key: 'school', label: 'School', className: 'hidden sm:table-cell' },
   { key: 'class', label: 'Class', className: 'hidden sm:table-cell' },
   { key: 'time', label: '5K' },
-  { key: 'points', label: 'Points', className: 'hidden md:table-cell text-right' },
+  { key: 'score', label: 'Adjusted', className: 'hidden md:table-cell text-right' },
 ]
 const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
 
@@ -89,9 +90,12 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
   const onSort = (key: SortKey) =>
     setSort(s => s.key === key
       ? { key, dir: s.dir === 'asc' ? 'desc' : 'asc' }
-      : { key, dir: key === 'points' ? 'desc' : 'asc' })
+      : { key, dir: 'asc' })
 
   const genderLabel = gender === 'boys' ? 'Boys' : 'Girls'
+  // 2025 on ranks by course-adjusted time; 2023's files still carry the old points
+  const adjusted = data?.[0][0]?.adj_time !== undefined
+  const score = (r: Runner) => (adjusted ? formatTime(r.adj_time!) : formatPoints(r.points!))
 
   return (
     <section className="space-y-4">
@@ -128,7 +132,7 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
               {COLUMNS.map(c => (
                 <th key={c.key} className={`label px-3 py-3 text-left sm:px-4 ${c.className ?? ''}`}>
                   <button onClick={() => onSort(c.key)} className={`inline-flex items-center gap-1 uppercase hover:text-text ${sort.key === c.key ? 'text-text' : ''}`}>
-                    {c.label}
+                    {c.key === 'score' && !adjusted ? 'Points' : c.label}
                     {sort.key === c.key && <span aria-hidden>{sort.dir === 'asc' ? '↑' : '↓'}</span>}
                   </button>
                 </th>
@@ -176,9 +180,9 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
                 <td className="hidden px-3 py-2.5 sm:px-4 sm:table-cell"><ClassBadge cls={r.school_class} /></td>
                 <td className="px-3 py-2.5 tabular-nums sm:px-4">
                   <div className={r.time_min === null ? 'text-muted' : ''}>{formatTime(r.time_min)}</div>
-                  <div className="whitespace-nowrap text-xs text-muted md:hidden">{formatPoints(r.points)} pts</div>
+                  <div className="whitespace-nowrap text-xs text-muted md:hidden">{score(r)} {adjusted ? 'adj' : 'pts'}</div>
                 </td>
-                <td className="hidden px-3 py-2.5 sm:px-4 text-right tabular-nums text-muted md:table-cell">{formatPoints(r.points)}</td>
+                <td className="hidden px-3 py-2.5 sm:px-4 text-right tabular-nums text-muted md:table-cell">{score(r)}</td>
               </tr>
             ))}
           </tbody>

@@ -1,57 +1,76 @@
+import type { ReactNode } from 'react'
+
 const LINKS = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/daniel-burkhalter1/' },
   { label: 'GitHub', href: 'https://github.com/dan-burk' },
   { label: 'Code', href: 'https://github.com/dan-burk/sdxc' },
 ]
 
-// Example points are illustrative; only their order matters
+const mmss = (seconds: number) => {
+  const t = Math.round(seconds)
+  return `${Math.floor(t / 60)}:${String(t % 60).padStart(2, '0')}`
+}
+
+// fast = how much faster than usual everyone ran at that meet, in percent (negative = slow)
+const adjust = (seconds: number, fast: number) => seconds * (1 + fast / 100)
+const meet = (fast: number) => (fast === 0 ? 'typical meet' : `${Math.abs(fast)}% ${fast > 0 ? 'fast' : 'slow'} meet`)
+
 const EXAMPLE = [
-  { name: 'Gabe Peters', time: '16:40', points: 1250, timeRank: 2, pointsRank: 1 },
-  { name: 'Jonathan Burkhalter', time: '15:30', points: 870, timeRank: 1, pointsRank: 3 },
-  { name: 'Daniel Burkhalter', time: '17:00', points: 980, timeRank: 3, pointsRank: 2 },
-].map(r => ({ ...r, median: (r.timeRank + r.pointsRank) / 2 }))
+  { name: 'Gabe Peters', time: 1000, fast: -2 },
+  { name: 'Jonathan Burkhalter', time: 930, fast: 6 },
+  { name: 'Daniel Burkhalter', time: 1020, fast: 0 },
+]
+  .map(r => ({ ...r, adjusted: adjust(r.time, r.fast) }))
+  .sort((a, b) => a.adjusted - b.adjusted)
 
-type Row = (typeof EXAMPLE)[number]
-
-function Step({ n, title, caption, rows, value }: {
-  n: number
-  title: string
-  caption: string
-  rows: Row[]
-  value: (r: Row) => string
-}) {
+function Step({ n, title, children }: { n: number; title: string; children: ReactNode }) {
   return (
     <div className="card p-5">
       <div className="label">Step {n}</div>
       <h3 className="font-display text-xl font-semibold">{title}</h3>
-      <ol className="mt-3 divide-y divide-border text-sm">
-        {rows.map((r, i) => (
-          <li key={r.name} className="flex items-center gap-3 py-2">
-            <span className="w-5 text-right font-display text-lg font-semibold">{i + 1}</span>
-            <span className="flex-1 font-medium">{r.name}</span>
-            <span className="tabular-nums text-muted">{value(r)}</span>
-          </li>
-        ))}
-      </ol>
-      <p className="mt-3 text-sm text-muted">{caption}</p>
+      <div className="mt-2 space-y-3 text-sm">{children}</div>
     </div>
   )
 }
 
 function HowItWorks() {
-  const by = (key: 'timeRank' | 'pointsRank' | 'median') => [...EXAMPLE].sort((a, b) => a[key] - b[key])
   return (
     <div className="space-y-4 pt-4">
       <h2 className="font-display text-3xl font-semibold">How it Works</h2>
       <p className="leading-relaxed">
-        Every runner gets two ranks, one by time and one by points. Their final rank is the median of the two.
+        Runners are ranked by their average time on a typical 5K course, so a fast course doesn't make you look faster
+        than you are.
       </p>
-      <Step n={1} title="Rank by time" rows={by('timeRank')} value={r => r.time}
-        caption="Jonathan has the fastest 5K, so he's first on time." />
-      <Step n={2} title="Rank by points" rows={by('pointsRank')} value={r => r.points.toLocaleString()}
-        caption="Gabe has never lost to Jonathan, and Daniel has more points than Jonathan too, so Jonathan is last on points." />
-      <Step n={3} title="Take the median rank" rows={by('median')} value={r => `${r.timeRank} & ${r.pointsRank} → ${r.median}`}
-        caption="With two ranks, the median is their average. Gabe's 1.5 beats Jonathan's 2, so Gabe ranks first overall." />
+      <Step n={1} title="Rate every meet">
+        <p className="text-muted">
+          Every meet gets a speed rating: how much faster or slower everyone ran there than usual, from the course,
+          distance and weather.
+        </p>
+      </Step>
+      <Step n={2} title="Adjust every time">
+        <div className="flex items-center gap-3 font-display text-2xl font-semibold tabular-nums">
+          15:37 <span className="text-base text-muted">→</span> <span className="text-accent">16:20</span>
+        </div>
+        <p className="text-muted">A 15:37 at a meet where everyone ran 4.6% fast counts as about 16:20 on a typical 5K course.</p>
+      </Step>
+      <Step n={3} title="Average and rank">
+        <ol className="divide-y divide-border">
+          {EXAMPLE.map((r, i) => (
+            <li key={r.name} className="flex items-center gap-3 py-2">
+              <span className="w-5 text-right font-display text-lg font-semibold">{i + 1}</span>
+              <span className="flex-1">
+                <span className="block font-medium">{r.name}</span>
+                <span className="text-xs text-muted">{mmss(r.time)} at a {meet(r.fast)}</span>
+              </span>
+              <span className="font-semibold tabular-nums">{mmss(r.adjusted)}</span>
+            </li>
+          ))}
+        </ol>
+        <p className="text-muted">
+          Each runner's adjusted times are averaged, and the lowest average ranks first. Jonathan ran the fastest time,
+          but on a fast course, so Gabe ranks first.
+        </p>
+      </Step>
     </div>
   )
 }

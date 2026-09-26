@@ -7,8 +7,9 @@ export interface Runner {
   id: number // stable across weeks within a season
   Name: string
   School: string
-  points: number
-  time_min: number | null // seconds despite the name; null = no 5K time yet
+  adj_time?: number // course-adjusted time in seconds (2025 on); lower is better
+  points?: number // 2023 files only, from the old points-based method
+  time_min: number | null // 5K PR in seconds despite the name; null = no 5K time yet
   rnk_blnd: number // overall rank, unique per file
   school_class: SchoolClass
 }
@@ -30,7 +31,7 @@ export interface StateFinisher {
   predicted: number | null // place predicted by the prior week's rankings; null = no race before state
   state_time: number // seconds
   rnk_blnd: number | null // ranking going into state
-  points: number | null
+  adj_time: number | null
   time_min: number | null
 }
 

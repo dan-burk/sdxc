@@ -4,7 +4,7 @@ South Dakota high school cross country rankings and race simulator.
 
 **Live:** https://dan-burk.github.io/sdxc/
 
-- **Rankings** — weekly blended rankings by year, week, gender and class, with rank movement from the previous week.
+- **Rankings** — weekly rankings by course-adjusted 5K time, by year, week, gender and class, with rank movement from the previous week and state meet results vs. predictions.
 - **Race Simulator** — pick schools and a scoring class to get a projected finish order and team scores. SD scores 3 of up to 5 runners in Class B, 4 of 6 in A, and 5 of 7 in AA; teams without enough runners don't score.
 
 ## Data

@@ -8,8 +8,8 @@
     "place": 1,
     "predicted": 1,
     "state_time": 942.86,
-    "rnk_blnd": 9,
-    "points": 21222.5595,
+    "rnk_blnd": 6,
+    "adj_time": 960.96,
     "time_min": 936.95
   },
   {
@@ -19,10 +19,10 @@
     "school_class": "A",
     "race": "A",
     "place": 2,
-    "predicted": 2,
+    "predicted": 3,
     "state_time": 978.56,
-    "rnk_blnd": 10,
-    "points": 19154.2998,
+    "rnk_blnd": 21,
+    "adj_time": 998.94,
     "time_min": 936.08
   },
   {
@@ -32,10 +32,10 @@
     "school_class": "A",
     "race": "A",
     "place": 3,
-    "predicted": 5,
+    "predicted": 4,
     "state_time": 982.59,
-    "rnk_blnd": 17,
-    "points": 17025.42,
+    "rnk_blnd": 22,
+    "adj_time": 999.57,
     "time_min": 949.7
   },
   {
@@ -45,10 +45,10 @@
     "school_class": "A",
     "race": "A",
     "place": 4,
-    "predicted": 3,
+    "predicted": 2,
     "state_time": 986.32,
-    "rnk_blnd": 13,
-    "points": 14943.1271,
+    "rnk_blnd": 17,
+    "adj_time": 990.87,
     "time_min": 938.09
   },
   {
@@ -58,10 +58,10 @@
     "school_class": "A",
     "race": "A",
     "place": 5,
-    "predicted": 7,
+    "predicted": 5,
     "state_time": 1002.95,
-    "rnk_blnd": 23,
-    "points": 13497.2522,
+    "rnk_blnd": 27,
+    "adj_time": 1006.25,
     "time_min": 960.83
   },
   {
@@ -71,10 +71,10 @@
     "school_class": "A",
     "race": "A",
     "place": 6,
-    "predicted": 14,
+    "predicted": 10,
     "state_time": 1007.83,
-    "rnk_blnd": 45,
-    "points": 5997.9279,
+    "rnk_blnd": 53,
+    "adj_time": 1034.88,
     "time_min": 992.99
   },
   {
@@ -84,10 +84,10 @@
     "school_class": "A",
     "race": "A",
     "place": 7,
-    "predicted": 10,
+    "predicted": 7,
     "state_time": 1008.56,
-    "rnk_blnd": 34,
-    "points": 9704.4632,
+    "rnk_blnd": 35,
+    "adj_time": 1014.53,
     "time_min": 993.11
   },
   {
@@ -97,10 +97,10 @@
     "school_class": "A",
     "race": "A",
     "place": 8,
-    "predicted": 12,
+    "predicted": 8,
     "state_time": 1010.71,
-    "rnk_blnd": 40,
-    "points": 7702.8693,
+    "rnk_blnd": 47,
+    "adj_time": 1026.79,
     "time_min": 993.94
   },
   {
@@ -110,10 +110,10 @@
     "school_class": "A",
     "race": "A",
     "place": 9,
-    "predicted": 20,
+    "predicted": 14,
     "state_time": 1011.22,
-    "rnk_blnd": 68,
-    "points": 2172.6249,
+    "rnk_blnd": 64,
+    "adj_time": 1042.25,
     "time_min": 996.63
   },
   {
@@ -123,10 +123,10 @@
     "school_class": "A",
     "race": "A",
     "place": 10,
-    "predicted": 37,
+    "predicted": 19,
     "state_time": 1012.64,
-    "rnk_blnd": 105,
-    "points": 949.0242,
+    "rnk_blnd": 90,
+    "adj_time": 1058.93,
     "time_min": 1016.71
   },
   {
@@ -136,10 +136,10 @@
     "school_class": "A",
     "race": "A",
     "place": 11,
-    "predicted": 13,
+    "predicted": 9,
     "state_time": 1015.43,
-    "rnk_blnd": 42,
-    "points": 6085.6717,
+    "rnk_blnd": 49,
+    "adj_time": 1030.27,
     "time_min": 987.12
   },
   {
@@ -149,10 +149,10 @@
     "school_class": "A",
     "race": "A",
     "place": 12,
-    "predicted": 70,
+    "predicted": 63,
     "state_time": 1020.32,
-    "rnk_blnd": 225,
-    "points": 199.9168,
+    "rnk_blnd": 224,
+    "adj_time": 1128.3,
     "time_min": 1041.36
   },
   {
@@ -162,10 +162,10 @@
     "school_class": "A",
     "race": "A",
     "place": 13,
-    "predicted": 42,
+    "predicted": 20,
     "state_time": 1022.39,
-    "rnk_blnd": 113,
-    "points": 703.3458,
+    "rnk_blnd": 92,
+    "adj_time": 1059.47,
     "time_min": 1008.97
   },
   {
@@ -175,10 +175,10 @@
     "school_class": "A",
     "race": "A",
     "place": 14,
-    "predicted": 8,
+    "predicted": 13,
     "state_time": 1024.44,
-    "rnk_blnd": 31,
-    "points": 9158.3518,
+    "rnk_blnd": 62,
+    "adj_time": 1040.97,
     "time_min": 979.08
   },
   {
@@ -188,10 +188,10 @@
     "school_class": "A",
     "race": "A",
     "place": 15,
-    "predicted": 23,
+    "predicted": 17,
     "state_time": 1027.88,
-    "rnk_blnd": 72,
-    "points": 3139.1424,
+    "rnk_blnd": 81,
+    "adj_time": 1055.01,
     "time_min": 1014.15
   },
   {
@@ -201,10 +201,10 @@
     "school_class": "A",
     "race": "A",
     "place": 16,
-    "predicted": 28,
+    "predicted": 22,
     "state_time": 1028.64,
-    "rnk_blnd": 80,
-    "points": 1647.9218,
+    "rnk_blnd": 94,
+    "adj_time": 1059.77,
     "time_min": 1006.47
   },
   {
@@ -214,10 +214,10 @@
     "school_class": "A",
     "race": "A",
     "place": 17,
-    "predicted": 19,
+    "predicted": 29,
     "state_time": 1028.92,
-    "rnk_blnd": 65,
-    "points": 3973.8669,
+    "rnk_blnd": 128,
+    "adj_time": 1078.41,
     "time_min": 1015.24
   },
   {
@@ -227,10 +227,10 @@
     "school_class": "A",
     "race": "A",
     "place": 18,
-    "predicted": 33,
+    "predicted": 59,
     "state_time": 1030.77,
-    "rnk_blnd": 97,
-    "points": 4892.164,
+    "rnk_blnd": 209,
+    "adj_time": 1121.84,
     "time_min": 1060
   },
   {
@@ -240,10 +240,10 @@
     "school_class": "A",
     "race": "A",
     "place": 19,
-    "predicted": 44,
+    "predicted": 37,
     "state_time": 1032.19,
-    "rnk_blnd": 117,
-    "points": 738.7195,
+    "rnk_blnd": 146,
+    "adj_time": 1089.47,
     "time_min": 1014.06
   },
   {
@@ -253,10 +253,10 @@
     "school_class": "A",
     "race": "A",
     "place": 20,
-    "predicted": 30,
+    "predicted": 43,
     "state_time": 1032.73,
-    "rnk_blnd": 88,
-    "points": 1682.381,
+    "rnk_blnd": 169,
+    "adj_time": 1103.74,
     "time_min": 1021.39
   },
   {
@@ -266,10 +266,10 @@
     "school_class": "A",
     "race": "A",
     "place": 21,
-    "predicted": 27,
+    "predicted": 18,
     "state_time": 1033.78,
-    "rnk_blnd": 79,
-    "points": 1818.918,
+    "rnk_blnd": 88,
+    "adj_time": 1057.37,
     "time_min": 1009.02
   },
   {
@@ -279,10 +279,10 @@
     "school_class": "A",
     "race": "A",
     "place": 22,
-    "predicted": 25,
+    "predicted": 12,
     "state_time": 1034.03,
-    "rnk_blnd": 77,
-    "points": 2049.7146,
+    "rnk_blnd": 61,
+    "adj_time": 1040.27,
     "time_min": 1007.05
   },
   {
@@ -294,8 +294,8 @@
     "place": 23,
     "predicted": 6,
     "state_time": 1034.11,
-    "rnk_blnd": 18,
-    "points": 13515.1602,
+    "rnk_blnd": 33,
+    "adj_time": 1013.89,
     "time_min": 946.88
   },
   {
@@ -307,8 +307,8 @@
     "place": 24,
     "predicted": 36,
     "state_time": 1034.29,
-    "rnk_blnd": 100,
-    "points": 1896.6665,
+    "rnk_blnd": 144,
+    "adj_time": 1088.74,
     "time_min": 1040.91
   },
   {
@@ -318,10 +318,10 @@
     "school_class": "A",
     "race": "A",
     "place": 25,
-    "predicted": 21,
+    "predicted": 15,
     "state_time": 1034.33,
-    "rnk_blnd": 70,
-    "points": 3846.2938,
+    "rnk_blnd": 72,
+    "adj_time": 1049.46,
     "time_min": 1018.02
   },
   {
@@ -331,10 +331,10 @@
     "school_class": "A",
     "race": "A",
     "place": 26,
-    "predicted": 40,
+    "predicted": 23,
     "state_time": 1034.98,
-    "rnk_blnd": 108,
-    "points": 1007.6104,
+    "rnk_blnd": 96,
+    "adj_time": 1061.15,
     "time_min": 1025.83
   },
   {
@@ -344,10 +344,10 @@
     "school_class": "A",
     "race": "A",
     "place": 27,
-    "predicted": 38,
+    "predicted": 26,
     "state_time": 1042.65,
-    "rnk_blnd": 106,
-    "points": 1116.2488,
+    "rnk_blnd": 117,
+    "adj_time": 1073,
     "time_min": 1028.78
   },
   {
@@ -357,10 +357,10 @@
     "school_class": "A",
     "race": "A",
     "place": 28,
-    "predicted": 15,
+    "predicted": 11,
     "state_time": 1047.54,
-    "rnk_blnd": 46,
-    "points": 3113.0174,
+    "rnk_blnd": 59,
+    "adj_time": 1038.37,
     "time_min": 955.37
   },
   {
@@ -370,10 +370,10 @@
     "school_class": "A",
     "race": "A",
     "place": 29,
-    "predicted": 26,
+    "predicted": 27,
     "state_time": 1047.8,
-    "rnk_blnd": 78,
-    "points": 3749.4891,
+    "rnk_blnd": 119,
+    "adj_time": 1073.56,
     "time_min": 1030.18
   },
   {
@@ -383,10 +383,10 @@
     "school_class": "A",
     "race": "A",
     "place": 30,
-    "predicted": 76,
+    "predicted": 49,
     "state_time": 1049.47,
-    "rnk_blnd": 255,
-    "points": 182.445,
+    "rnk_blnd": 180,
+    "adj_time": 1109.87,
     "time_min": 1061.28
   },
   {
@@ -396,10 +396,10 @@
     "school_class": "A",
     "race": "A",
     "place": 31,
-    "predicted": 58,
+    "predicted": 33,
     "state_time": 1049.52,
-    "rnk_blnd": 167,
-    "points": 403.3564,
+    "rnk_blnd": 134,
+    "adj_time": 1083.21,
     "time_min": 1041.16
   },
   {
@@ -409,10 +409,10 @@
     "school_class": "A",
     "race": "A",
     "place": 32,
-    "predicted": 4,
+    "predicted": 28,
     "state_time": 1050.42,
-    "rnk_blnd": 15,
-    "points": 9128.8303,
+    "rnk_blnd": 121,
+    "adj_time": 1074.12,
     "time_min": 924.57
   },
   {
@@ -422,10 +422,10 @@
     "school_class": "A",
     "race": "A",
     "place": 33,
-    "predicted": 9,
+    "predicted": 38,
     "state_time": 1052.6,
-    "rnk_blnd": 33,
-    "points": 3789.0233,
+    "rnk_blnd": 148,
+    "adj_time": 1089.94,
     "time_min": 943.52
   },
   {
@@ -435,10 +435,10 @@
     "school_class": "A",
     "race": "A",
     "place": 34,
-    "predicted": 11,
+    "predicted": 21,
     "state_time": 1053.08,
-    "rnk_blnd": 36,
-    "points": 8794.7447,
+    "rnk_blnd": 93,
+    "adj_time": 1059.5,
     "time_min": 992.87
   },
   {
@@ -448,10 +448,10 @@
     "school_class": "A",
     "race": "A",
     "place": 35,
-    "predicted": 55,
+    "predicted": 45,
     "state_time": 1054.02,
-    "rnk_blnd": 158,
-    "points": 349.529,
+    "rnk_blnd": 174,
+    "adj_time": 1108.18,
     "time_min": 1014.9
   },
   {
@@ -461,10 +461,10 @@
     "school_class": "A",
     "race": "A",
     "place": 36,
-    "predicted": 49,
+    "predicted": 55,
     "state_time": 1054.97,
-    "rnk_blnd": 133,
-    "points": 993.1928,
+    "rnk_blnd": 188,
+    "adj_time": 1112.56,
     "time_min": 1042.64
   },
   {
@@ -474,10 +474,10 @@
     "school_class": "A",
     "race": "A",
     "place": 37,
-    "predicted": 47,
+    "predicted": 72,
     "state_time": 1055.68,
-    "rnk_blnd": 129,
-    "points": 818.3042,
+    "rnk_blnd": 255,
+    "adj_time": 1141.44,
     "time_min": 1032.09
   },
   {
@@ -487,10 +487,10 @@
     "school_class": "A",
     "race": "A",
     "place": 38,
-    "predicted": 53,
+    "predicted": 30,
     "state_time": 1055.78,
-    "rnk_blnd": 148,
-    "points": 566.6525,
+    "rnk_blnd": 129,
+    "adj_time": 1078.64,
     "time_min": 1034.95
   },
   {
@@ -500,10 +500,10 @@
     "school_class": "A",
     "race": "A",
     "place": 39,
-    "predicted": 17,
+    "predicted": 16,
     "state_time": 1056.78,
-    "rnk_blnd": 60,
-    "points": 5177.3174,
+    "rnk_blnd": 73,
+    "adj_time": 1052.22,
     "time_min": 1009.59
   },
   {
@@ -513,10 +513,10 @@
     "school_class": "A",
     "race": "A",
     "place": 40,
-    "predicted": 39,
+    "predicted": 35,
     "state_time": 1059.33,
-    "rnk_blnd": 107,
-    "points": 1050.8939,
+    "rnk_blnd": 143,
+    "adj_time": 1088.33,
     "time_min": 1024.42
   },
   {
@@ -526,10 +526,10 @@
     "school_class": "A",
     "race": "A",
     "place": 41,
-    "predicted": 18,
+    "predicted": 24,
     "state_time": 1060.35,
-    "rnk_blnd": 61,
-    "points": 6884.748,
+    "rnk_blnd": 99,
+    "adj_time": 1062.9,
     "time_min": 1016.36
   },
   {
@@ -539,10 +539,10 @@
     "school_class": "A",
     "race": "A",
     "place": 42,
-    "predicted": 35,
+    "predicted": 39,
     "state_time": 1061.33,
-    "rnk_blnd": 99,
-    "points": 1801.1263,
+    "rnk_blnd": 150,
+    "adj_time": 1093.05,
     "time_min": 1035.68
   },
   {
@@ -552,10 +552,10 @@
     "school_class": "A",
     "race": "A",
     "place": 43,
-    "predicted": 34,
+    "predicted": 48,
     "state_time": 1061.54,
-    "rnk_blnd": 98,
-    "points": 1896.7069,
+    "rnk_blnd": 179,
+    "adj_time": 1109.83,
     "time_min": 1039.37
   },
   {
@@ -565,10 +565,10 @@
     "school_class": "A",
     "race": "A",
     "place": 44,
-    "predicted": 56,
+    "predicted": 34,
     "state_time": 1064.3,
-    "rnk_blnd": 164,
-    "points": 444.6774,
+    "rnk_blnd": 137,
+    "adj_time": 1084.72,
     "time_min": 1047.73
   },
   {
@@ -578,10 +578,10 @@
     "school_class": "A",
     "race": "A",
     "place": 45,
-    "predicted": 29,
+    "predicted": 31,
     "state_time": 1066.23,
-    "rnk_blnd": 82,
-    "points": 2066.337,
+    "rnk_blnd": 132,
+    "adj_time": 1081.97,
     "time_min": 1023.91
   },
   {
@@ -591,10 +591,10 @@
     "school_class": "A",
     "race": "A",
     "place": 46,
-    "predicted": 52,
+    "predicted": 58,
     "state_time": 1068.59,
-    "rnk_blnd": 147,
-    "points": 1087.3133,
+    "rnk_blnd": 208,
+    "adj_time": 1121.65,
     "time_min": 1066.72
   },
   {
@@ -604,10 +604,10 @@
     "school_class": "A",
     "race": "A",
     "place": 47,
-    "predicted": 48,
+    "predicted": 53,
     "state_time": 1071.89,
-    "rnk_blnd": 131,
-    "points": 1622.5412,
+    "rnk_blnd": 185,
+    "adj_time": 1110.7,
     "time_min": 1065.97
   },
   {
@@ -617,10 +617,10 @@
     "school_class": "A",
     "race": "A",
     "place": 48,
-    "predicted": 45,
+    "predicted": 32,
     "state_time": 1073.97,
-    "rnk_blnd": 126,
-    "points": 809.0087,
+    "rnk_blnd": 133,
+    "adj_time": 1082.56,
     "time_min": 1028.97
   },
   {
@@ -630,10 +630,10 @@
     "school_class": "A",
     "race": "A",
     "place": 49,
-    "predicted": 16,
+    "predicted": 41,
     "state_time": 1074.04,
-    "rnk_blnd": 59,
-    "points": 2057.8626,
+    "rnk_blnd": 162,
+    "adj_time": 1099.36,
     "time_min": 967.98
   },
   {
@@ -643,10 +643,10 @@
     "school_class": "A",
     "race": "A",
     "place": 50,
-    "predicted": 51,
+    "predicted": 61,
     "state_time": 1074.14,
-    "rnk_blnd": 144,
-    "points": 764.1015,
+    "rnk_blnd": 220,
+    "adj_time": 1126.17,
     "time_min": 1043.4
   },
   {
@@ -656,10 +656,10 @@
     "school_class": "A",
     "race": "A",
     "place": 51,
-    "predicted": 46,
+    "predicted": 42,
     "state_time": 1076.06,
-    "rnk_blnd": 127,
-    "points": 1288.8436,
+    "rnk_blnd": 167,
+    "adj_time": 1101.72,
     "time_min": 1050.35
   },
   {
@@ -669,10 +669,10 @@
     "school_class": "A",
     "race": "A",
     "place": 52,
-    "predicted": 66,
+    "predicted": 56,
     "state_time": 1076.83,
-    "rnk_blnd": 210,
-    "points": 270.55,
+    "rnk_blnd": 191,
+    "adj_time": 1113.93,
     "time_min": 1057.79
   },
   {
@@ -682,10 +682,10 @@
     "school_class": "A",
     "race": "A",
     "place": 53,
-    "predicted": 43,
+    "predicted": 40,
     "state_time": 1077.92,
-    "rnk_blnd": 115,
-    "points": 2453.7075,
+    "rnk_blnd": 161,
+    "adj_time": 1096.89,
     "time_min": 1062.01
   },
   {
@@ -695,10 +695,10 @@
     "school_class": "A",
     "race": "A",
     "place": 54,
-    "predicted": 73,
+    "predicted": 60,
     "state_time": 1078.03,
-    "rnk_blnd": 247,
-    "points": 233.5722,
+    "rnk_blnd": 210,
+    "adj_time": 1121.86,
     "time_min": 1075.21
   },
   {
@@ -708,10 +708,10 @@
     "school_class": "A",
     "race": "A",
     "place": 55,
-    "predicted": 87,
+    "predicted": 69,
     "state_time": 1078.59,
-    "rnk_blnd": 307,
-    "points": 121.5986,
+    "rnk_blnd": 237,
+    "adj_time": 1133.02,
     "time_min": 1075.38
   },
   {
@@ -721,10 +721,10 @@
     "school_class": "A",
     "race": "A",
     "place": 56,
-    "predicted": 24,
+    "predicted": 46,
     "state_time": 1078.83,
-    "rnk_blnd": 73,
-    "points": 2858.2037,
+    "rnk_blnd": 176,
+    "adj_time": 1108.7,
     "time_min": 1011.48
   },
   {
@@ -734,10 +734,10 @@
     "school_class": "A",
     "race": "A",
     "place": 57,
-    "predicted": 77,
+    "predicted": 62,
     "state_time": 1083.83,
-    "rnk_blnd": 262,
-    "points": 174.3471,
+    "rnk_blnd": 223,
+    "adj_time": 1127.74,
     "time_min": 1064.53
   },
   {
@@ -747,10 +747,10 @@
     "school_class": "A",
     "race": "A",
     "place": 58,
-    "predicted": 62,
+    "predicted": 52,
     "state_time": 1087.31,
-    "rnk_blnd": 191,
-    "points": 345.0209,
+    "rnk_blnd": 184,
+    "adj_time": 1110.36,
     "time_min": 1058.88
   },
   {
@@ -760,10 +760,10 @@
     "school_class": "A",
     "race": "A",
     "place": 59,
-    "predicted": 67,
+    "predicted": 65,
     "state_time": 1090.69,
-    "rnk_blnd": 215,
-    "points": 409.0862,
+    "rnk_blnd": 227,
+    "adj_time": 1128.9,
     "time_min": 1084.34
   },
   {
@@ -773,10 +773,10 @@
     "school_class": "A",
     "race": "A",
     "place": 60,
-    "predicted": 63,
+    "predicted": 54,
     "state_time": 1094.83,
-    "rnk_blnd": 197,
-    "points": 425.763,
+    "rnk_blnd": 186,
+    "adj_time": 1112.23,
     "time_min": 1076.06
   },
   {
@@ -786,10 +786,10 @@
     "school_class": "A",
     "race": "A",
     "place": 61,
-    "predicted": 60,
+    "predicted": 57,
     "state_time": 1098.32,
-    "rnk_blnd": 174,
-    "points": 872.2149,
+    "rnk_blnd": 199,
+    "adj_time": 1118.83,
     "time_min": 1083.65
   },
   {
@@ -799,10 +799,10 @@
     "school_class": "A",
     "race": "A",
     "place": 62,
-    "predicted": 97,
+    "predicted": 66,
     "state_time": 1098.42,
-    "rnk_blnd": 335,
-    "points": 118.074,
+    "rnk_blnd": 228,
+    "adj_time": 1129.74,
     "time_min": 1090.62
   },
   {
@@ -812,10 +812,10 @@
     "school_class": "A",
     "race": "A",
     "place": 63,
-    "predicted": 74,
+    "predicted": 89,
     "state_time": 1103.93,
-    "rnk_blnd": 248,
-    "points": 417.6104,
+    "rnk_blnd": 344,
+    "adj_time": 1182.5,
     "time_min": 1113.13
   },
   {
@@ -825,10 +825,10 @@
     "school_class": "A",
     "race": "A",
     "place": 64,
-    "predicted": 79,
+    "predicted": 71,
     "state_time": 1104.23,
-    "rnk_blnd": 264,
-    "points": 208.3563,
+    "rnk_blnd": 253,
+    "adj_time": 1140.42,
     "time_min": 1076.44
   },
   {
@@ -838,10 +838,10 @@
     "school_class": "A",
     "race": "A",
     "place": 65,
-    "predicted": 86,
+    "predicted": 76,
     "state_time": 1108.29,
-    "rnk_blnd": 303,
-    "points": 201.9702,
+    "rnk_blnd": 275,
+    "adj_time": 1154.63,
     "time_min": 1111.89
   },
   {
@@ -851,10 +851,10 @@
     "school_class": "A",
     "race": "A",
     "place": 66,
-    "predicted": 41,
+    "predicted": 88,
     "state_time": 1110.22,
-    "rnk_blnd": 111,
-    "points": 865.8609,
+    "rnk_blnd": 334,
+    "adj_time": 1178.67,
     "time_min": 1017.36
   },
   {
@@ -864,10 +864,10 @@
     "school_class": "A",
     "race": "A",
     "place": 67,
-    "predicted": 32,
+    "predicted": 70,
     "state_time": 1110.3,
-    "rnk_blnd": 90,
-    "points": 1003.843,
+    "rnk_blnd": 241,
+    "adj_time": 1133.86,
     "time_min": 1001.78
   },
   {
@@ -879,8 +879,8 @@
     "place": 68,
     "predicted": 68,
     "state_time": 1110.44,
-    "rnk_blnd": 218,
-    "points": 402.2886,
+    "rnk_blnd": 235,
+    "adj_time": 1131.96,
     "time_min": 1085.82
   },
   {
@@ -890,10 +890,10 @@
     "school_class": "A",
     "race": "A",
     "place": 69,
-    "predicted": 75,
+    "predicted": 44,
     "state_time": 1114.7,
-    "rnk_blnd": 250,
-    "points": 229.3632,
+    "rnk_blnd": 170,
+    "adj_time": 1106,
     "time_min": 1074.93
   },
   {
@@ -903,10 +903,10 @@
     "school_class": "A",
     "race": "A",
     "place": 70,
-    "predicted": 104,
+    "predicted": 80,
     "state_time": 1115.83,
-    "rnk_blnd": 427,
-    "points": 54.2937,
+    "rnk_blnd": 300,
+    "adj_time": 1165.81,
     "time_min": 1111.16
   },
   {
@@ -916,10 +916,10 @@
     "school_class": "A",
     "race": "A",
     "place": 71,
-    "predicted": 50,
+    "predicted": 47,
     "state_time": 1116.04,
-    "rnk_blnd": 135,
-    "points": 1278.6494,
+    "rnk_blnd": 178,
+    "adj_time": 1109.68,
     "time_min": 1061.34
   },
   {
@@ -929,10 +929,10 @@
     "school_class": "A",
     "race": "A",
     "place": 72,
-    "predicted": 88,
+    "predicted": 64,
     "state_time": 1116.57,
-    "rnk_blnd": 308,
-    "points": 170.7254,
+    "rnk_blnd": 225,
+    "adj_time": 1128.53,
     "time_min": 1100.65
   },
   {
@@ -942,10 +942,10 @@
     "school_class": "A",
     "race": "A",
     "place": 73,
-    "predicted": 82,
+    "predicted": 73,
     "state_time": 1119.91,
-    "rnk_blnd": 285,
-    "points": 216.7001,
+    "rnk_blnd": 257,
+    "adj_time": 1141.89,
     "time_min": 1095.39
   },
   {
@@ -955,10 +955,10 @@
     "school_class": "A",
     "race": "A",
     "place": 74,
-    "predicted": 31,
+    "predicted": 25,
     "state_time": 1122.2,
-    "rnk_blnd": 89,
-    "points": 1423.8482,
+    "rnk_blnd": 102,
+    "adj_time": 1067.61,
     "time_min": 1016.25
   },
   {
@@ -968,10 +968,10 @@
     "school_class": "A",
     "race": "A",
     "place": 75,
-    "predicted": 57,
+    "predicted": 50,
     "state_time": 1124.96,
-    "rnk_blnd": 165,
-    "points": 812.1589,
+    "rnk_blnd": 182,
+    "adj_time": 1110.15,
     "time_min": 1075.46
   },
   {
@@ -981,10 +981,10 @@
     "school_class": "A",
     "race": "A",
     "place": 76,
-    "predicted": 69,
+    "predicted": 51,
     "state_time": 1125.65,
-    "rnk_blnd": 224,
-    "points": 262.0432,
+    "rnk_blnd": 183,
+    "adj_time": 1110.23,
     "time_min": 1068.32
   },
   {
@@ -994,10 +994,10 @@
     "school_class": "A",
     "race": "A",
     "place": 77,
-    "predicted": 61,
+    "predicted": 75,
     "state_time": 1125.94,
-    "rnk_blnd": 182,
-    "points": 690.0738,
+    "rnk_blnd": 273,
+    "adj_time": 1152.61,
     "time_min": 1079.27
   },
   {
@@ -1007,10 +1007,10 @@
     "school_class": "A",
     "race": "A",
     "place": 78,
-    "predicted": 64,
+    "predicted": 78,
     "state_time": 1127.15,
-    "rnk_blnd": 198,
-    "points": 984.7699,
+    "rnk_blnd": 287,
+    "adj_time": 1161.48,
     "time_min": 1108.52
   },
   {
@@ -1020,10 +1020,10 @@
     "school_class": "A",
     "race": "A",
     "place": 79,
-    "predicted": 22,
+    "predicted": 67,
     "state_time": 1130.56,
-    "rnk_blnd": 71,
-    "points": 1541.4299,
+    "rnk_blnd": 229,
+    "adj_time": 1129.99,
     "time_min": 982.27
   },
   {
@@ -1033,10 +1033,10 @@
     "school_class": "A",
     "race": "A",
     "place": 80,
-    "predicted": 95,
+    "predicted": 90,
     "state_time": 1132.25,
-    "rnk_blnd": 329,
-    "points": 193.806,
+    "rnk_blnd": 348,
+    "adj_time": 1184,
     "time_min": 1127.34
   },
   {
@@ -1046,10 +1046,10 @@
     "school_class": "A",
     "race": "A",
     "place": 81,
-    "predicted": 112,
+    "predicted": 95,
     "state_time": 1132.39,
-    "rnk_blnd": 493,
-    "points": 36.1726,
+    "rnk_blnd": 390,
+    "adj_time": 1204.38,
     "time_min": 1131.54
   },
   {
@@ -1059,10 +1059,10 @@
     "school_class": "A",
     "race": "A",
     "place": 82,
-    "predicted": 110,
+    "predicted": 104,
     "state_time": 1133.93,
-    "rnk_blnd": 480,
-    "points": 64.0875,
+    "rnk_blnd": 424,
+    "adj_time": 1219.22,
     "time_min": 1163.89
   },
   {
@@ -1072,10 +1072,10 @@
     "school_class": "A",
     "race": "A",
     "place": 83,
-    "predicted": 72,
+    "predicted": 81,
     "state_time": 1137.47,
-    "rnk_blnd": 243,
-    "points": 744.8543,
+    "rnk_blnd": 311,
+    "adj_time": 1169.61,
     "time_min": 1135.44
   },
   {
@@ -1087,8 +1087,8 @@
     "place": 84,
     "predicted": 92,
     "state_time": 1137.61,
-    "rnk_blnd": 322,
-    "points": 143.6811,
+    "rnk_blnd": 358,
+    "adj_time": 1189.84,
     "time_min": 1098.48
   },
   {
@@ -1098,10 +1098,10 @@
     "school_class": "A",
     "race": "A",
     "place": 85,
-    "predicted": 54,
+    "predicted": 85,
     "state_time": 1139.11,
-    "rnk_blnd": 157,
-    "points": 1082.4898,
+    "rnk_blnd": 327,
+    "adj_time": 1176.55,
     "time_min": 1073.32
   },
   {
@@ -1111,10 +1111,10 @@
     "school_class": "A",
     "race": "A",
     "place": 86,
-    "predicted": 98,
+    "predicted": 87,
     "state_time": 1139.61,
-    "rnk_blnd": 338,
-    "points": 194.8805,
+    "rnk_blnd": 329,
+    "adj_time": 1176.85,
     "time_min": 1133.44
   },
   {
@@ -1124,10 +1124,10 @@
     "school_class": "A",
     "race": "A",
     "place": 87,
-    "predicted": 65,
+    "predicted": 94,
     "state_time": 1140.56,
-    "rnk_blnd": 206,
-    "points": 785.14,
+    "rnk_blnd": 363,
+    "adj_time": 1192.13,
     "time_min": 1104.38
   },
   {
@@ -1137,10 +1137,10 @@
     "school_class": "A",
     "race": "A",
     "place": 88,
-    "predicted": 113,
+    "predicted": 82,
     "state_time": 1142.36,
-    "rnk_blnd": 499,
-    "points": 39.3373,
+    "rnk_blnd": 316,
+    "adj_time": 1171.25,
     "time_min": 1139.55
   },
   {
@@ -1150,10 +1150,10 @@
     "school_class": "A",
     "race": "A",
     "place": 89,
-    "predicted": 91,
+    "predicted": 77,
     "state_time": 1143.11,
-    "rnk_blnd": 319,
-    "points": 254.407,
+    "rnk_blnd": 277,
+    "adj_time": 1155.2,
     "time_min": 1140.2
   },
   {
@@ -1163,10 +1163,10 @@
     "school_class": "A",
     "race": "A",
     "place": 90,
-    "predicted": 96,
+    "predicted": 109,
     "state_time": 1144.05,
-    "rnk_blnd": 331,
-    "points": 128.0441,
+    "rnk_blnd": 485,
+    "adj_time": 1242.61,
     "time_min": 1094.93
   },
   {
@@ -1176,10 +1176,10 @@
     "school_class": "A",
     "race": "A",
     "place": 91,
-    "predicted": 100,
+    "predicted": 84,
     "state_time": 1144.34,
-    "rnk_blnd": 351,
-    "points": 112.4977,
+    "rnk_blnd": 325,
+    "adj_time": 1176.15,
     "time_min": 1099.31
   },
   {
@@ -1189,10 +1189,10 @@
     "school_class": "A",
     "race": "A",
     "place": 92,
-    "predicted": 107,
+    "predicted": 101,
     "state_time": 1147.28,
-    "rnk_blnd": 475,
-    "points": 41.5805,
+    "rnk_blnd": 405,
+    "adj_time": 1210.57,
     "time_min": 1130.9
   },
   {
@@ -1202,10 +1202,10 @@
     "school_class": "A",
     "race": "A",
     "place": 93,
-    "predicted": 89,
+    "predicted": 96,
     "state_time": 1147.54,
-    "rnk_blnd": 310,
-    "points": 222.8769,
+    "rnk_blnd": 393,
+    "adj_time": 1205.3,
     "time_min": 1122.03
   },
   {
@@ -1215,10 +1215,10 @@
     "school_class": "A",
     "race": "A",
     "place": 94,
-    "predicted": 84,
+    "predicted": 93,
     "state_time": 1148.64,
-    "rnk_blnd": 288,
-    "points": 416.7203,
+    "rnk_blnd": 359,
+    "adj_time": 1190.35,
     "time_min": 1143.03
   },
   {
@@ -1228,10 +1228,10 @@
     "school_class": "A",
     "race": "A",
     "place": 95,
-    "predicted": 78,
+    "predicted": 83,
     "state_time": 1149.54,
-    "rnk_blnd": 263,
-    "points": 378.8949,
+    "rnk_blnd": 319,
+    "adj_time": 1173.86,
     "time_min": 1115.47
   },
   {
@@ -1241,10 +1241,10 @@
     "school_class": "A",
     "race": "A",
     "place": 96,
-    "predicted": 101,
+    "predicted": 79,
     "state_time": 1152.46,
-    "rnk_blnd": 377,
-    "points": 126.6983,
+    "rnk_blnd": 289,
+    "adj_time": 1162,
     "time_min": 1130.2
   },
   {
@@ -1254,10 +1254,10 @@
     "school_class": "A",
     "race": "A",
     "place": 97,
-    "predicted": 81,
+    "predicted": 102,
     "state_time": 1153.75,
-    "rnk_blnd": 277,
-    "points": 319.596,
+    "rnk_blnd": 408,
+    "adj_time": 1214.21,
     "time_min": 1121.01
   },
   {
@@ -1267,10 +1267,10 @@
     "school_class": "A",
     "race": "A",
     "place": 98,
-    "predicted": 94,
+    "predicted": 91,
     "state_time": 1158.37,
-    "rnk_blnd": 328,
-    "points": 228.4746,
+    "rnk_blnd": 355,
+    "adj_time": 1187.99,
     "time_min": 1137.43
   },
   {
@@ -1280,10 +1280,10 @@
     "school_class": "A",
     "race": "A",
     "place": 99,
-    "predicted": 99,
+    "predicted": 100,
     "state_time": 1159.97,
-    "rnk_blnd": 342,
-    "points": 241.8894,
+    "rnk_blnd": 404,
+    "adj_time": 1209.93,
     "time_min": 1147.12
   },
   {
@@ -1293,10 +1293,10 @@
     "school_class": "A",
     "race": "A",
     "place": 100,
-    "predicted": 103,
+    "predicted": 120,
     "state_time": 1160.09,
-    "rnk_blnd": 403,
-    "points": 187.0818,
+    "rnk_blnd": 610,
+    "adj_time": 1301.87,
     "time_min": 1178.85
   },
   {
@@ -1306,10 +1306,10 @@
     "school_class": "A",
     "race": "A",
     "place": 101,
-    "predicted": 93,
+    "predicted": 112,
     "state_time": 1171.65,
-    "rnk_blnd": 324,
-    "points": 243.4355,
+    "rnk_blnd": 502,
+    "adj_time": 1251.34,
     "time_min": 1139.03
   },
   {
@@ -1319,10 +1319,10 @@
     "school_class": "A",
     "race": "A",
     "place": 102,
-    "predicted": 59,
+    "predicted": 74,
     "state_time": 1173.79,
-    "rnk_blnd": 171,
-    "points": 944.9582,
+    "rnk_blnd": 270,
+    "adj_time": 1151.49,
     "time_min": 1083.28
   },
   {
@@ -1332,10 +1332,10 @@
     "school_class": "A",
     "race": "A",
     "place": 103,
-    "predicted": 85,
+    "predicted": 106,
     "state_time": 1175.87,
-    "rnk_blnd": 294,
-    "points": 307.5767,
+    "rnk_blnd": 436,
+    "adj_time": 1225.3,
     "time_min": 1136.34
   },
   {
@@ -1347,8 +1347,8 @@
     "place": 104,
     "predicted": 108,
     "state_time": 1177.22,
-    "rnk_blnd": 476,
-    "points": 81.4046,
+    "rnk_blnd": 467,
+    "adj_time": 1237.87,
     "time_min": 1177.2
   },
   {
@@ -1358,10 +1358,10 @@
     "school_class": "A",
     "race": "A",
     "place": 105,
-    "predicted": 106,
+    "predicted": 118,
     "state_time": 1181.42,
-    "rnk_blnd": 464,
-    "points": 99.3276,
+    "rnk_blnd": 556,
+    "adj_time": 1274.88,
     "time_min": 1174.22
   },
   {
@@ -1371,10 +1371,10 @@
     "school_class": "A",
     "race": "A",
     "place": 106,
-    "predicted": 109,
+    "predicted": 105,
     "state_time": 1182.06,
-    "rnk_blnd": 477,
-    "points": 63.1822,
+    "rnk_blnd": 433,
+    "adj_time": 1221.4,
     "time_min": 1158.99
   },
   {
@@ -1384,10 +1384,10 @@
     "school_class": "A",
     "race": "A",
     "place": 107,
-    "predicted": 116,
+    "predicted": 110,
     "state_time": 1183.04,
-    "rnk_blnd": 607,
-    "points": 11.0231,
+    "rnk_blnd": 494,
+    "adj_time": 1244.76,
     "time_min": 1150.23
   },
   {
@@ -1397,10 +1397,10 @@
     "school_class": "A",
     "race": "A",
     "place": 108,
-    "predicted": 80,
+    "predicted": 98,
     "state_time": 1186.93,
-    "rnk_blnd": 265,
-    "points": 395.176,
+    "rnk_blnd": 401,
+    "adj_time": 1208.88,
     "time_min": 1119.25
   },
   {
@@ -1410,10 +1410,10 @@
     "school_class": "A",
     "race": "A",
     "place": 109,
-    "predicted": 114,
+    "predicted": 107,
     "state_time": 1187.81,
-    "rnk_blnd": 520,
-    "points": 77.8026,
+    "rnk_blnd": 461,
+    "adj_time": 1235.5,
     "time_min": 1200.22
   },
   {
@@ -1423,10 +1423,10 @@
     "school_class": "A",
     "race": "A",
     "place": 110,
-    "predicted": 83,
+    "predicted": 99,
     "state_time": 1192.62,
-    "rnk_blnd": 287,
-    "points": 364.6476,
+    "rnk_blnd": 403,
+    "adj_time": 1209.35,
     "time_min": 1137.74
   },
   {
@@ -1436,10 +1436,10 @@
     "school_class": "A",
     "race": "A",
     "place": 111,
-    "predicted": 121,
+    "predicted": 116,
     "state_time": 1193.34,
-    "rnk_blnd": 729,
-    "points": 10.5557,
+    "rnk_blnd": 540,
+    "adj_time": 1267.59,
     "time_min": 1231.31
   },
   {
@@ -1449,10 +1449,10 @@
     "school_class": "A",
     "race": "A",
     "place": 112,
-    "predicted": 115,
+    "predicted": 117,
     "state_time": 1200.08,
-    "rnk_blnd": 556,
-    "points": 46.1,
+    "rnk_blnd": 542,
+    "adj_time": 1268.66,
     "time_min": 1195.65
   },
   {
@@ -1462,10 +1462,10 @@
     "school_class": "A",
     "race": "A",
     "place": 113,
-    "predicted": 119,
+    "predicted": 114,
     "state_time": 1200.77,
-    "rnk_blnd": 685,
-    "points": 8.6064,
+    "rnk_blnd": 523,
+    "adj_time": 1258.29,
     "time_min": 1189.17
   },
   {
@@ -1475,10 +1475,10 @@
     "school_class": "A",
     "race": "A",
     "place": 114,
-    "predicted": 90,
+    "predicted": 97,
     "state_time": 1205.19,
-    "rnk_blnd": 316,
-    "points": 294.1339,
+    "rnk_blnd": 398,
+    "adj_time": 1208.29,
     "time_min": 1145.28
   },
   {
@@ -1488,10 +1488,10 @@
     "school_class": "A",
     "race": "A",
     "place": 115,
-    "predicted": 111,
+    "predicted": 119,
     "state_time": 1207.2,
-    "rnk_blnd": 483,
-    "points": 75.934,
+    "rnk_blnd": 588,
+    "adj_time": 1286.67,
     "time_min": 1176.46
   },
   {
@@ -1501,10 +1501,10 @@
     "school_class": "A",
     "race": "A",
     "place": 116,
-    "predicted": 102,
+    "predicted": 103,
     "state_time": 1218.41,
-    "rnk_blnd": 386,
-    "points": 202.6453,
+    "rnk_blnd": 419,
+    "adj_time": 1217.49,
     "time_min": 1176.99
   },
   {
@@ -1514,10 +1514,10 @@
     "school_class": "A",
     "race": "A",
     "place": 117,
-    "predicted": 105,
+    "predicted": 115,
     "state_time": 1222.11,
-    "rnk_blnd": 447,
-    "points": 146.8109,
+    "rnk_blnd": 532,
+    "adj_time": 1263.89,
     "time_min": 1194.81
   },
   {
@@ -1527,10 +1527,10 @@
     "school_class": "A",
     "race": "A",
     "place": 118,
-    "predicted": 118,
+    "predicted": 111,
     "state_time": 1226.1,
-    "rnk_blnd": 683,
-    "points": 12.8802,
+    "rnk_blnd": 496,
+    "adj_time": 1245.64,
     "time_min": 1200.92
   },
   {
@@ -1540,10 +1540,10 @@
     "school_class": "A",
     "race": "A",
     "place": 119,
-    "predicted": 117,
+    "predicted": 121,
     "state_time": 1237.89,
-    "rnk_blnd": 661,
-    "points": 25.0254,
+    "rnk_blnd": 629,
+    "adj_time": 1314.65,
     "time_min": 1224
   },
   {
@@ -1556,7 +1556,7 @@
     "predicted": null,
     "state_time": 1240.66,
     "rnk_blnd": null,
-    "points": null,
+    "adj_time": null,
     "time_min": null
   },
   {
@@ -1566,10 +1566,10 @@
     "school_class": "A",
     "race": "A",
     "place": 121,
-    "predicted": 126,
+    "predicted": 125,
     "state_time": 1249.12,
-    "rnk_blnd": 869,
-    "points": 2.1111,
+    "rnk_blnd": 770,
+    "adj_time": 1413.75,
     "time_min": 1337.91
   },
   {
@@ -1582,7 +1582,7 @@
     "predicted": null,
     "state_time": 1252.45,
     "rnk_blnd": null,
-    "points": null,
+    "adj_time": null,
     "time_min": null
   },
   {
@@ -1592,10 +1592,10 @@
     "school_class": "A",
     "race": "A",
     "place": 123,
-    "predicted": 120,
+    "predicted": 113,
     "state_time": 1252.59,
-    "rnk_blnd": 709,
-    "points": 11.1489,
+    "rnk_blnd": 506,
+    "adj_time": 1253.46,
     "time_min": 1209.78
   },
   {
@@ -1605,10 +1605,10 @@
     "school_class": "A",
     "race": "A",
     "place": 124,
-    "predicted": 123,
+    "predicted": 122,
     "state_time": 1257.59,
-    "rnk_blnd": 757,
-    "points": 18.4899,
+    "rnk_blnd": 663,
+    "adj_time": 1335.79,
     "time_min": 1284.7
   },
   {
@@ -1618,10 +1618,10 @@
     "school_class": "A",
     "race": "A",
     "place": 125,
-    "predicted": 122,
+    "predicted": 123,
     "state_time": 1277.02,
-    "rnk_blnd": 756,
-    "points": 7.729,
+    "rnk_blnd": 668,
+    "adj_time": 1337.39,
     "time_min": 1243.88
   },
   {
@@ -1633,8 +1633,8 @@
     "place": 126,
     "predicted": 124,
     "state_time": 1284.09,
-    "rnk_blnd": 774,
-    "points": 18.6888,
+    "rnk_blnd": 727,
+    "adj_time": 1379.88,
     "time_min": 1301.57
   },
   {
@@ -1644,10 +1644,10 @@
     "school_class": "A",
     "race": "A",
     "place": 127,
-    "predicted": 71,
+    "predicted": 86,
     "state_time": 1303.57,
-    "rnk_blnd": 242,
-    "points": 646.5471,
+    "rnk_blnd": 328,
+    "adj_time": 1176.83,
     "time_min": 1129
   },
   {
@@ -1657,10 +1657,10 @@
     "school_class": "A",
     "race": "A",
     "place": 128,
-    "predicted": 125,
+    "predicted": 126,
     "state_time": 1329.53,
-    "rnk_blnd": 855,
-    "points": 11.2294,
+    "rnk_blnd": 811,
+    "adj_time": 1458.62,
     "time_min": 1406.02
   },
   {
@@ -1672,8 +1672,8 @@
     "place": 129,
     "predicted": 127,
     "state_time": 1411.1,
-    "rnk_blnd": 889,
-    "points": 0.9559,
+    "rnk_blnd": 831,
+    "adj_time": 1486.69,
     "time_min": 1407.39
   },
   {
@@ -1683,10 +1683,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 1,
-    "predicted": 1,
+    "predicted": 2,
     "state_time": 894.09,
-    "rnk_blnd": 1,
-    "points": 40242.5367,
+    "rnk_blnd": 2,
+    "adj_time": 916.2,
     "time_min": 866.79
   },
   {
@@ -1696,10 +1696,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 2,
-    "predicted": 2,
+    "predicted": 1,
     "state_time": 902.03,
-    "rnk_blnd": 2,
-    "points": 23726.649,
+    "rnk_blnd": 1,
+    "adj_time": 911.73,
     "time_min": 872.24
   },
   {
@@ -1712,7 +1712,7 @@
     "predicted": 3,
     "state_time": 915.18,
     "rnk_blnd": 3,
-    "points": 20670.155,
+    "adj_time": 923.35,
     "time_min": 888.92
   },
   {
@@ -1722,10 +1722,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 4,
-    "predicted": 6,
+    "predicted": 4,
     "state_time": 935.09,
-    "rnk_blnd": 7,
-    "points": 17287.7172,
+    "rnk_blnd": 4,
+    "adj_time": 938.89,
     "time_min": 915.03
   },
   {
@@ -1735,10 +1735,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 5,
-    "predicted": 4,
+    "predicted": 5,
     "state_time": 938.85,
-    "rnk_blnd": 4,
-    "points": 21019.0848,
+    "rnk_blnd": 5,
+    "adj_time": 953.23,
     "time_min": 903.94
   },
   {
@@ -1748,10 +1748,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 6,
-    "predicted": 5,
+    "predicted": 7,
     "state_time": 942,
-    "rnk_blnd": 5,
-    "points": 23764.8622,
+    "rnk_blnd": 8,
+    "adj_time": 966.1,
     "time_min": 923.62
   },
   {
@@ -1761,10 +1761,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 7,
-    "predicted": 7,
+    "predicted": 6,
     "state_time": 942.8,
-    "rnk_blnd": 11,
-    "points": 14438.753,
+    "rnk_blnd": 7,
+    "adj_time": 961.4,
     "time_min": 925.83
   },
   {
@@ -1776,8 +1776,8 @@
     "place": 8,
     "predicted": 9,
     "state_time": 943.79,
-    "rnk_blnd": 14,
-    "points": 16018.4195,
+    "rnk_blnd": 10,
+    "adj_time": 975.12,
     "time_min": 939.6
   },
   {
@@ -1787,10 +1787,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 9,
-    "predicted": 14,
+    "predicted": 20,
     "state_time": 955.6,
     "rnk_blnd": 26,
-    "points": 8003.5136,
+    "adj_time": 1003.84,
     "time_min": 957.87
   },
   {
@@ -1800,10 +1800,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 10,
-    "predicted": 16,
+    "predicted": 15,
     "state_time": 957.16,
-    "rnk_blnd": 30,
-    "points": 7097.262,
+    "rnk_blnd": 16,
+    "adj_time": 989.06,
     "time_min": 957
   },
   {
@@ -1813,10 +1813,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 11,
-    "predicted": 24,
+    "predicted": 17,
     "state_time": 963.38,
-    "rnk_blnd": 48,
-    "points": 2789.2529,
+    "rnk_blnd": 23,
+    "adj_time": 1000.13,
     "time_min": 946.88
   },
   {
@@ -1826,10 +1826,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 12,
-    "predicted": 27,
+    "predicted": 16,
     "state_time": 966.51,
-    "rnk_blnd": 54,
-    "points": 3066.0944,
+    "rnk_blnd": 19,
+    "adj_time": 997.67,
     "time_min": 982.11
   },
   {
@@ -1839,10 +1839,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 13,
-    "predicted": 33,
+    "predicted": 34,
     "state_time": 967.49,
-    "rnk_blnd": 63,
-    "points": 1939.6619,
+    "rnk_blnd": 46,
+    "adj_time": 1025.83,
     "time_min": 984.71
   },
   {
@@ -1852,10 +1852,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 14,
-    "predicted": 8,
+    "predicted": 10,
     "state_time": 968.15,
-    "rnk_blnd": 12,
-    "points": 14397.5423,
+    "rnk_blnd": 11,
+    "adj_time": 976.24,
     "time_min": 935.25
   },
   {
@@ -1865,10 +1865,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 15,
-    "predicted": 13,
+    "predicted": 11,
     "state_time": 978.92,
-    "rnk_blnd": 22,
-    "points": 7421.7685,
+    "rnk_blnd": 12,
+    "adj_time": 978.1,
     "time_min": 940.47
   },
   {
@@ -1878,10 +1878,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 16,
-    "predicted": 10,
+    "predicted": 13,
     "state_time": 982.93,
-    "rnk_blnd": 19,
-    "points": 12600.0783,
+    "rnk_blnd": 14,
+    "adj_time": 986.48,
     "time_min": 944.13
   },
   {
@@ -1893,8 +1893,8 @@
     "place": 17,
     "predicted": 12,
     "state_time": 987.02,
-    "rnk_blnd": 21,
-    "points": 9249.291,
+    "rnk_blnd": 13,
+    "adj_time": 982.38,
     "time_min": 944.93
   },
   {
@@ -1904,10 +1904,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 18,
-    "predicted": 23,
+    "predicted": 24,
     "state_time": 988.43,
-    "rnk_blnd": 47,
-    "points": 3388.0949,
+    "rnk_blnd": 31,
+    "adj_time": 1013.23,
     "time_min": 962.61
   },
   {
@@ -1917,10 +1917,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 19,
-    "predicted": 18,
+    "predicted": 21,
     "state_time": 989.84,
-    "rnk_blnd": 37,
-    "points": 5107.5808,
+    "rnk_blnd": 28,
+    "adj_time": 1006.28,
     "time_min": 967.97
   },
   {
@@ -1930,10 +1930,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 20,
-    "predicted": 26,
+    "predicted": 37,
     "state_time": 993.08,
-    "rnk_blnd": 53,
-    "points": 2479.1905,
+    "rnk_blnd": 52,
+    "adj_time": 1033.96,
     "time_min": 968.59
   },
   {
@@ -1943,10 +1943,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 21,
-    "predicted": 11,
+    "predicted": 8,
     "state_time": 993.12,
-    "rnk_blnd": 20,
-    "points": 12934.7219,
+    "rnk_blnd": 9,
+    "adj_time": 970.04,
     "time_min": 951.25
   },
   {
@@ -1956,10 +1956,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 22,
-    "predicted": 15,
+    "predicted": 14,
     "state_time": 993.75,
-    "rnk_blnd": 28,
-    "points": 5334.4119,
+    "rnk_blnd": 15,
+    "adj_time": 986.6,
     "time_min": 943.29
   },
   {
@@ -1971,8 +1971,8 @@
     "place": 23,
     "predicted": 19,
     "state_time": 994.23,
-    "rnk_blnd": 38,
-    "points": 5656.804,
+    "rnk_blnd": 25,
+    "adj_time": 1003.43,
     "time_min": 975.51
   },
   {
@@ -1982,10 +1982,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 24,
-    "predicted": 37,
+    "predicted": 39,
     "state_time": 994.77,
-    "rnk_blnd": 86,
-    "points": 1395.1142,
+    "rnk_blnd": 55,
+    "adj_time": 1035.87,
     "time_min": 1010.63
   },
   {
@@ -1995,10 +1995,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 25,
-    "predicted": 21,
+    "predicted": 29,
     "state_time": 995.96,
-    "rnk_blnd": 43,
-    "points": 4075.5969,
+    "rnk_blnd": 38,
+    "adj_time": 1017.7,
     "time_min": 979.08
   },
   {
@@ -2010,8 +2010,8 @@
     "place": 26,
     "predicted": 30,
     "state_time": 996.03,
-    "rnk_blnd": 57,
-    "points": 6259.2792,
+    "rnk_blnd": 40,
+    "adj_time": 1021.35,
     "time_min": 1010.22
   },
   {
@@ -2021,10 +2021,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 27,
-    "predicted": 34,
+    "predicted": 28,
     "state_time": 1000.29,
-    "rnk_blnd": 67,
-    "points": 1264.4677,
+    "rnk_blnd": 37,
+    "adj_time": 1015.83,
     "time_min": 943.47
   },
   {
@@ -2034,10 +2034,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 28,
-    "predicted": 32,
+    "predicted": 27,
     "state_time": 1001.77,
-    "rnk_blnd": 62,
-    "points": 3215.5398,
+    "rnk_blnd": 36,
+    "adj_time": 1015.72,
     "time_min": 998.3
   },
   {
@@ -2049,8 +2049,8 @@
     "place": 29,
     "predicted": 31,
     "state_time": 1002.25,
-    "rnk_blnd": 58,
-    "points": 3954.3679,
+    "rnk_blnd": 41,
+    "adj_time": 1021.76,
     "time_min": 999.3
   },
   {
@@ -2062,8 +2062,8 @@
     "place": 30,
     "predicted": 25,
     "state_time": 1005.23,
-    "rnk_blnd": 52,
-    "points": 2242.8129,
+    "rnk_blnd": 32,
+    "adj_time": 1013.6,
     "time_min": 956.41
   },
   {
@@ -2073,10 +2073,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 31,
-    "predicted": 43,
+    "predicted": 42,
     "state_time": 1005.95,
-    "rnk_blnd": 110,
-    "points": 1130.6636,
+    "rnk_blnd": 66,
+    "adj_time": 1042.96,
     "time_min": 1032.22
   },
   {
@@ -2086,10 +2086,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 32,
-    "predicted": 35,
+    "predicted": 38,
     "state_time": 1009.34,
-    "rnk_blnd": 76,
-    "points": 1756.4037,
+    "rnk_blnd": 54,
+    "adj_time": 1035.83,
     "time_min": 997.73
   },
   {
@@ -2099,10 +2099,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 33,
-    "predicted": 36,
+    "predicted": 43,
     "state_time": 1010.9,
-    "rnk_blnd": 83,
-    "points": 1141.7918,
+    "rnk_blnd": 67,
+    "adj_time": 1046.24,
     "time_min": 994.56
   },
   {
@@ -2112,10 +2112,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 34,
-    "predicted": 28,
+    "predicted": 22,
     "state_time": 1015.03,
-    "rnk_blnd": 55,
-    "points": 2895.6087,
+    "rnk_blnd": 29,
+    "adj_time": 1011.65,
     "time_min": 980.94
   },
   {
@@ -2125,10 +2125,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 35,
-    "predicted": 45,
+    "predicted": 35,
     "state_time": 1017.05,
-    "rnk_blnd": 120,
-    "points": 907.7292,
+    "rnk_blnd": 48,
+    "adj_time": 1030.22,
     "time_min": 1029.9
   },
   {
@@ -2138,10 +2138,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 36,
-    "predicted": 56,
+    "predicted": 45,
     "state_time": 1017.11,
-    "rnk_blnd": 154,
-    "points": 382.5266,
+    "rnk_blnd": 70,
+    "adj_time": 1049.35,
     "time_min": 1017.3
   },
   {
@@ -2151,10 +2151,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 37,
-    "predicted": 29,
+    "predicted": 23,
     "state_time": 1017.36,
-    "rnk_blnd": 56,
-    "points": 3369.6574,
+    "rnk_blnd": 30,
+    "adj_time": 1011.7,
     "time_min": 991.91
   },
   {
@@ -2164,10 +2164,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 38,
-    "predicted": 17,
+    "predicted": 26,
     "state_time": 1019.01,
-    "rnk_blnd": 35,
-    "points": 7742.3787,
+    "rnk_blnd": 34,
+    "adj_time": 1014.23,
     "time_min": 990.3
   },
   {
@@ -2177,10 +2177,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 39,
-    "predicted": 41,
+    "predicted": 36,
     "state_time": 1019.48,
-    "rnk_blnd": 103,
-    "points": 1155.9764,
+    "rnk_blnd": 51,
+    "adj_time": 1033.59,
     "time_min": 1019.55
   },
   {
@@ -2190,10 +2190,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 40,
-    "predicted": 20,
+    "predicted": 18,
     "state_time": 1023.52,
-    "rnk_blnd": 39,
-    "points": 5965.3269,
+    "rnk_blnd": 24,
+    "adj_time": 1003.02,
     "time_min": 983.54
   },
   {
@@ -2203,10 +2203,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 41,
-    "predicted": 51,
+    "predicted": 46,
     "state_time": 1024.15,
-    "rnk_blnd": 132,
-    "points": 451.135,
+    "rnk_blnd": 74,
+    "adj_time": 1053.19,
     "time_min": 1004.69
   },
   {
@@ -2216,10 +2216,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 42,
-    "predicted": 57,
+    "predicted": 49,
     "state_time": 1024.29,
-    "rnk_blnd": 159,
-    "points": 300.2564,
+    "rnk_blnd": 80,
+    "adj_time": 1054.95,
     "time_min": 1004.14
   },
   {
@@ -2229,10 +2229,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 43,
-    "predicted": 40,
+    "predicted": 41,
     "state_time": 1027.27,
-    "rnk_blnd": 96,
-    "points": 1303.6654,
+    "rnk_blnd": 57,
+    "adj_time": 1037.49,
     "time_min": 1023.32
   },
   {
@@ -2242,10 +2242,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 44,
-    "predicted": 50,
+    "predicted": 54,
     "state_time": 1027.54,
-    "rnk_blnd": 128,
-    "points": 636.9424,
+    "rnk_blnd": 87,
+    "adj_time": 1057,
     "time_min": 1015.91
   },
   {
@@ -2255,10 +2255,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 45,
-    "predicted": 42,
+    "predicted": 59,
     "state_time": 1027.72,
-    "rnk_blnd": 109,
-    "points": 1466.7853,
+    "rnk_blnd": 103,
+    "adj_time": 1067.79,
     "time_min": 1041.5
   },
   {
@@ -2268,10 +2268,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 46,
-    "predicted": 46,
+    "predicted": 47,
     "state_time": 1028.33,
-    "rnk_blnd": 122,
-    "points": 607.5055,
+    "rnk_blnd": 75,
+    "adj_time": 1053.28,
     "time_min": 1007.68
   },
   {
@@ -2281,10 +2281,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 47,
-    "predicted": 22,
+    "predicted": 32,
     "state_time": 1029.58,
-    "rnk_blnd": 44,
-    "points": 3311.1255,
+    "rnk_blnd": 42,
+    "adj_time": 1022.92,
     "time_min": 953.73
   },
   {
@@ -2294,10 +2294,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 48,
-    "predicted": 38,
+    "predicted": 52,
     "state_time": 1032.53,
-    "rnk_blnd": 91,
-    "points": 1454.4662,
+    "rnk_blnd": 85,
+    "adj_time": 1056.69,
     "time_min": 1018.7
   },
   {
@@ -2307,10 +2307,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 49,
-    "predicted": 79,
+    "predicted": 72,
     "state_time": 1034.57,
-    "rnk_blnd": 261,
-    "points": 165.5323,
+    "rnk_blnd": 125,
+    "adj_time": 1075.86,
     "time_min": 1059.84
   },
   {
@@ -2320,10 +2320,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 50,
-    "predicted": 64,
+    "predicted": 44,
     "state_time": 1036.26,
-    "rnk_blnd": 190,
-    "points": 202.3249,
+    "rnk_blnd": 69,
+    "adj_time": 1048.75,
     "time_min": 1005.06
   },
   {
@@ -2333,10 +2333,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 51,
-    "predicted": 78,
+    "predicted": 67,
     "state_time": 1037.42,
-    "rnk_blnd": 260,
-    "points": 122.772,
+    "rnk_blnd": 115,
+    "adj_time": 1072.26,
     "time_min": 1028.41
   },
   {
@@ -2346,10 +2346,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 52,
-    "predicted": 63,
+    "predicted": 58,
     "state_time": 1038.84,
-    "rnk_blnd": 186,
-    "points": 276.1463,
+    "rnk_blnd": 98,
+    "adj_time": 1062.13,
     "time_min": 1032.77
   },
   {
@@ -2359,10 +2359,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 53,
-    "predicted": 53,
+    "predicted": 33,
     "state_time": 1039.61,
-    "rnk_blnd": 140,
-    "points": 770.0671,
+    "rnk_blnd": 43,
+    "adj_time": 1023.07,
     "time_min": 1042.3
   },
   {
@@ -2372,10 +2372,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 54,
-    "predicted": 44,
+    "predicted": 40,
     "state_time": 1040.92,
-    "rnk_blnd": 114,
-    "points": 655.3646,
+    "rnk_blnd": 56,
+    "adj_time": 1035.93,
     "time_min": 1006.11
   },
   {
@@ -2385,10 +2385,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 55,
-    "predicted": 71,
+    "predicted": 65,
     "state_time": 1042.3,
-    "rnk_blnd": 222,
-    "points": 199.7792,
+    "rnk_blnd": 112,
+    "adj_time": 1071.53,
     "time_min": 1041.3
   },
   {
@@ -2398,10 +2398,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 56,
-    "predicted": 72,
+    "predicted": 56,
     "state_time": 1042.51,
-    "rnk_blnd": 229,
-    "points": 159.7365,
+    "rnk_blnd": 95,
+    "adj_time": 1060.32,
     "time_min": 1029.69
   },
   {
@@ -2411,10 +2411,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 57,
-    "predicted": 66,
+    "predicted": 69,
     "state_time": 1044.98,
-    "rnk_blnd": 203,
-    "points": 235.3377,
+    "rnk_blnd": 122,
+    "adj_time": 1074.64,
     "time_min": 1032.78
   },
   {
@@ -2424,10 +2424,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 58,
-    "predicted": 83,
+    "predicted": 77,
     "state_time": 1045.78,
-    "rnk_blnd": 290,
-    "points": 107.1729,
+    "rnk_blnd": 140,
+    "adj_time": 1085.25,
     "time_min": 1044.5
   },
   {
@@ -2437,10 +2437,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 59,
-    "predicted": 75,
+    "predicted": 61,
     "state_time": 1046.42,
-    "rnk_blnd": 254,
-    "points": 136.0023,
+    "rnk_blnd": 105,
+    "adj_time": 1068.4,
     "time_min": 1035.06
   },
   {
@@ -2450,10 +2450,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 60,
-    "predicted": 60,
+    "predicted": 57,
     "state_time": 1047.03,
-    "rnk_blnd": 169,
-    "points": 422.0221,
+    "rnk_blnd": 97,
+    "adj_time": 1061.27,
     "time_min": 1043.44
   },
   {
@@ -2463,10 +2463,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 61,
-    "predicted": 85,
+    "predicted": 70,
     "state_time": 1048.51,
-    "rnk_blnd": 302,
-    "points": 42.6731,
+    "rnk_blnd": 123,
+    "adj_time": 1075.18,
     "time_min": 981.59
   },
   {
@@ -2476,10 +2476,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 62,
-    "predicted": 68,
+    "predicted": 48,
     "state_time": 1049.51,
-    "rnk_blnd": 213,
-    "points": 170.2006,
+    "rnk_blnd": 79,
+    "adj_time": 1054.9,
     "time_min": 1011.53
   },
   {
@@ -2489,10 +2489,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 63,
-    "predicted": 76,
+    "predicted": 84,
     "state_time": 1050.58,
-    "rnk_blnd": 257,
-    "points": 249.0924,
+    "rnk_blnd": 165,
+    "adj_time": 1101.09,
     "time_min": 1084.36
   },
   {
@@ -2502,10 +2502,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 64,
-    "predicted": 58,
+    "predicted": 50,
     "state_time": 1052.8,
-    "rnk_blnd": 161,
-    "points": 359.017,
+    "rnk_blnd": 83,
+    "adj_time": 1055.6,
     "time_min": 1022.32
   },
   {
@@ -2515,10 +2515,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 65,
-    "predicted": 39,
+    "predicted": 51,
     "state_time": 1053.09,
-    "rnk_blnd": 94,
-    "points": 2140.4899,
+    "rnk_blnd": 84,
+    "adj_time": 1056.31,
     "time_min": 1041.1
   },
   {
@@ -2528,10 +2528,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 66,
-    "predicted": 81,
+    "predicted": 64,
     "state_time": 1054.18,
-    "rnk_blnd": 281,
-    "points": 120.9644,
+    "rnk_blnd": 111,
+    "adj_time": 1071.15,
     "time_min": 1048.47
   },
   {
@@ -2541,10 +2541,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 67,
-    "predicted": 100,
+    "predicted": 82,
     "state_time": 1056.21,
-    "rnk_blnd": 421,
-    "points": 30.2274,
+    "rnk_blnd": 158,
+    "adj_time": 1096.65,
     "time_min": 1070.61
   },
   {
@@ -2554,10 +2554,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 68,
-    "predicted": 47,
+    "predicted": 60,
     "state_time": 1056.29,
-    "rnk_blnd": 123,
-    "points": 1269.1928,
+    "rnk_blnd": 104,
+    "adj_time": 1068.32,
     "time_min": 1046.32
   },
   {
@@ -2567,10 +2567,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 69,
-    "predicted": 69,
+    "predicted": 62,
     "state_time": 1059.05,
-    "rnk_blnd": 220,
-    "points": 190.4538,
+    "rnk_blnd": 108,
+    "adj_time": 1069.37,
     "time_min": 1034.89
   },
   {
@@ -2580,10 +2580,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 70,
-    "predicted": 55,
+    "predicted": 68,
     "state_time": 1059.79,
-    "rnk_blnd": 143,
-    "points": 362.2717,
+    "rnk_blnd": 116,
+    "adj_time": 1072.48,
     "time_min": 995.54
   },
   {
@@ -2593,10 +2593,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 71,
-    "predicted": 98,
+    "predicted": 81,
     "state_time": 1060.95,
-    "rnk_blnd": 408,
-    "points": 64.0137,
+    "rnk_blnd": 157,
+    "adj_time": 1096.45,
     "time_min": 1104.7
   },
   {
@@ -2606,10 +2606,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 72,
-    "predicted": 90,
+    "predicted": 75,
     "state_time": 1061.95,
-    "rnk_blnd": 326,
-    "points": 56.4411,
+    "rnk_blnd": 135,
+    "adj_time": 1084.13,
     "time_min": 1036.96
   },
   {
@@ -2619,10 +2619,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 73,
-    "predicted": 93,
+    "predicted": 76,
     "state_time": 1062.49,
-    "rnk_blnd": 349,
-    "points": 55.0194,
+    "rnk_blnd": 138,
+    "adj_time": 1084.76,
     "time_min": 1059.75
   },
   {
@@ -2632,10 +2632,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 74,
-    "predicted": 54,
+    "predicted": 63,
     "state_time": 1063.63,
-    "rnk_blnd": 142,
-    "points": 439.1355,
+    "rnk_blnd": 109,
+    "adj_time": 1070.06,
     "time_min": 1012.31
   },
   {
@@ -2647,8 +2647,8 @@
     "place": 75,
     "predicted": 73,
     "state_time": 1067.91,
-    "rnk_blnd": 231,
-    "points": 159.9871,
+    "rnk_blnd": 130,
+    "adj_time": 1081.23,
     "time_min": 1030.47
   },
   {
@@ -2658,10 +2658,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 76,
-    "predicted": 95,
+    "predicted": 101,
     "state_time": 1069,
-    "rnk_blnd": 352,
-    "points": 55.3842,
+    "rnk_blnd": 238,
+    "adj_time": 1133.17,
     "time_min": 1061.93
   },
   {
@@ -2671,10 +2671,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 77,
-    "predicted": 108,
+    "predicted": 96,
     "state_time": 1070.25,
-    "rnk_blnd": 466,
-    "points": 18.2614,
+    "rnk_blnd": 226,
+    "adj_time": 1128.64,
     "time_min": 1079.05
   },
   {
@@ -2684,10 +2684,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 78,
-    "predicted": 65,
+    "predicted": 107,
     "state_time": 1072.97,
-    "rnk_blnd": 195,
-    "points": 634.1386,
+    "rnk_blnd": 264,
+    "adj_time": 1149.04,
     "time_min": 1087.99
   },
   {
@@ -2697,10 +2697,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 79,
-    "predicted": 110,
+    "predicted": 86,
     "state_time": 1074.54,
-    "rnk_blnd": 517,
-    "points": 8.4649,
+    "rnk_blnd": 195,
+    "adj_time": 1115.77,
     "time_min": 1086.02
   },
   {
@@ -2710,10 +2710,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 80,
-    "predicted": 88,
+    "predicted": 89,
     "state_time": 1075.8,
-    "rnk_blnd": 311,
-    "points": 70.0318,
+    "rnk_blnd": 202,
+    "adj_time": 1121.05,
     "time_min": 1040.63
   },
   {
@@ -2723,10 +2723,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 81,
-    "predicted": 48,
+    "predicted": 71,
     "state_time": 1076.48,
     "rnk_blnd": 124,
-    "points": 1159.195,
+    "adj_time": 1075.77,
     "time_min": 1042.35
   },
   {
@@ -2736,10 +2736,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 82,
-    "predicted": 91,
+    "predicted": 74,
     "state_time": 1077.18,
-    "rnk_blnd": 333,
-    "points": 126.2509,
+    "rnk_blnd": 131,
+    "adj_time": 1081.8,
     "time_min": 1092.1
   },
   {
@@ -2749,10 +2749,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 83,
-    "predicted": 52,
+    "predicted": 53,
     "state_time": 1078.65,
-    "rnk_blnd": 134,
-    "points": 1103.6604,
+    "rnk_blnd": 86,
+    "adj_time": 1056.79,
     "time_min": 1053.1
   },
   {
@@ -2762,10 +2762,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 84,
-    "predicted": 61,
+    "predicted": 55,
     "state_time": 1079.22,
-    "rnk_blnd": 178,
-    "points": 268.4532,
+    "rnk_blnd": 91,
+    "adj_time": 1059.36,
     "time_min": 1020.81
   },
   {
@@ -2775,10 +2775,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 85,
-    "predicted": 77,
+    "predicted": 80,
     "state_time": 1079.96,
-    "rnk_blnd": 259,
-    "points": 279.4041,
+    "rnk_blnd": 151,
+    "adj_time": 1093.36,
     "time_min": 1094
   },
   {
@@ -2788,10 +2788,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 86,
-    "predicted": 82,
+    "predicted": 78,
     "state_time": 1081.37,
-    "rnk_blnd": 289,
-    "points": 113.3487,
+    "rnk_blnd": 142,
+    "adj_time": 1087.31,
     "time_min": 1052.78
   },
   {
@@ -2801,10 +2801,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 87,
-    "predicted": 103,
+    "predicted": 105,
     "state_time": 1081.51,
-    "rnk_blnd": 445,
-    "points": 21.6398,
+    "rnk_blnd": 260,
+    "adj_time": 1144.07,
     "time_min": 1072.9
   },
   {
@@ -2814,10 +2814,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 88,
-    "predicted": 107,
+    "predicted": 87,
     "state_time": 1081.77,
-    "rnk_blnd": 463,
-    "points": 18.3588,
+    "rnk_blnd": 197,
+    "adj_time": 1118.31,
     "time_min": 1076.78
   },
   {
@@ -2827,10 +2827,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 89,
-    "predicted": 97,
+    "predicted": 100,
     "state_time": 1082.32,
-    "rnk_blnd": 407,
-    "points": 33.1771,
+    "rnk_blnd": 233,
+    "adj_time": 1130.72,
     "time_min": 1067.73
   },
   {
@@ -2840,10 +2840,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 90,
-    "predicted": 102,
+    "predicted": 93,
     "state_time": 1082.95,
-    "rnk_blnd": 433,
-    "points": 29.8945,
+    "rnk_blnd": 207,
+    "adj_time": 1121.52,
     "time_min": 1076.26
   },
   {
@@ -2853,10 +2853,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 91,
-    "predicted": 84,
+    "predicted": 92,
     "state_time": 1089.9,
-    "rnk_blnd": 297,
-    "points": 102.8159,
+    "rnk_blnd": 206,
+    "adj_time": 1121.49,
     "time_min": 1056.43
   },
   {
@@ -2866,10 +2866,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 92,
-    "predicted": 96,
+    "predicted": 83,
     "state_time": 1091.21,
-    "rnk_blnd": 373,
-    "points": 53.1743,
+    "rnk_blnd": 159,
+    "adj_time": 1096.72,
     "time_min": 1074.88
   },
   {
@@ -2879,10 +2879,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 93,
-    "predicted": 109,
+    "predicted": 99,
     "state_time": 1091.43,
-    "rnk_blnd": 507,
-    "points": 11.5442,
+    "rnk_blnd": 232,
+    "adj_time": 1130.46,
     "time_min": 1092.17
   },
   {
@@ -2892,10 +2892,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 94,
-    "predicted": 59,
+    "predicted": 88,
     "state_time": 1093.12,
-    "rnk_blnd": 166,
-    "points": 1173.8929,
+    "rnk_blnd": 198,
+    "adj_time": 1118.55,
     "time_min": 1086.38
   },
   {
@@ -2905,10 +2905,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 95,
-    "predicted": 62,
+    "predicted": 95,
     "state_time": 1093.52,
-    "rnk_blnd": 185,
-    "points": 911.5895,
+    "rnk_blnd": 217,
+    "adj_time": 1124.53,
     "time_min": 1092.19
   },
   {
@@ -2918,10 +2918,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 96,
-    "predicted": 80,
+    "predicted": 66,
     "state_time": 1095.14,
-    "rnk_blnd": 274,
-    "points": 78.8958,
+    "rnk_blnd": 113,
+    "adj_time": 1071.73,
     "time_min": 1006.69
   },
   {
@@ -2931,10 +2931,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 97,
-    "predicted": 49,
+    "predicted": 79,
     "state_time": 1098.91,
-    "rnk_blnd": 125,
-    "points": 1266.1816,
+    "rnk_blnd": 147,
+    "adj_time": 1089.63,
     "time_min": 1047.45
   },
   {
@@ -2944,10 +2944,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 98,
-    "predicted": 99,
+    "predicted": 103,
     "state_time": 1099.48,
-    "rnk_blnd": 418,
-    "points": 26.5589,
+    "rnk_blnd": 251,
+    "adj_time": 1139.13,
     "time_min": 1062.56
   },
   {
@@ -2957,10 +2957,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 99,
-    "predicted": 113,
+    "predicted": 117,
     "state_time": 1100.92,
-    "rnk_blnd": 534,
-    "points": 10.8011,
+    "rnk_blnd": 335,
+    "adj_time": 1178.78,
     "time_min": 1105.04
   },
   {
@@ -2970,10 +2970,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 100,
-    "predicted": 104,
+    "predicted": 97,
     "state_time": 1102.71,
-    "rnk_blnd": 454,
-    "points": 22.1648,
+    "rnk_blnd": 230,
+    "adj_time": 1130.06,
     "time_min": 1077.18
   },
   {
@@ -2983,10 +2983,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 101,
-    "predicted": 112,
+    "predicted": 109,
     "state_time": 1105.94,
-    "rnk_blnd": 526,
-    "points": 12.4246,
+    "rnk_blnd": 272,
+    "adj_time": 1152.37,
     "time_min": 1108.36
   },
   {
@@ -2996,10 +2996,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 102,
-    "predicted": 115,
+    "predicted": 113,
     "state_time": 1107.26,
-    "rnk_blnd": 551,
-    "points": 4.6394,
+    "rnk_blnd": 293,
+    "adj_time": 1163.13,
     "time_min": 1094.98
   },
   {
@@ -3009,10 +3009,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 103,
-    "predicted": 105,
+    "predicted": 91,
     "state_time": 1107.49,
-    "rnk_blnd": 459,
-    "points": 19.9124,
+    "rnk_blnd": 204,
+    "adj_time": 1121.4,
     "time_min": 1078.19
   },
   {
@@ -3022,10 +3022,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 104,
-    "predicted": 130,
+    "predicted": 129,
     "state_time": 1108.75,
-    "rnk_blnd": 802,
-    "points": 0.2154,
+    "rnk_blnd": 639,
+    "adj_time": 1319.56,
     "time_min": 1235.99
   },
   {
@@ -3035,10 +3035,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 105,
-    "predicted": 86,
+    "predicted": 85,
     "state_time": 1112.43,
-    "rnk_blnd": 306,
-    "points": 91.1665,
+    "rnk_blnd": 173,
+    "adj_time": 1107.82,
     "time_min": 1059.37
   },
   {
@@ -3048,10 +3048,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 106,
-    "predicted": 121,
+    "predicted": 112,
     "state_time": 1114.2,
-    "rnk_blnd": 634,
-    "points": 5.0516,
+    "rnk_blnd": 292,
+    "adj_time": 1163.1,
     "time_min": 1144.77
   },
   {
@@ -3061,10 +3061,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 107,
-    "predicted": 70,
+    "predicted": 104,
     "state_time": 1118.49,
-    "rnk_blnd": 221,
-    "points": 452.542,
+    "rnk_blnd": 258,
+    "adj_time": 1142.89,
     "time_min": 1095.62
   },
   {
@@ -3074,10 +3074,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 108,
-    "predicted": 111,
+    "predicted": 102,
     "state_time": 1120.9,
-    "rnk_blnd": 525,
-    "points": 5.7084,
+    "rnk_blnd": 243,
+    "adj_time": 1134.3,
     "time_min": 1082.9
   },
   {
@@ -3087,10 +3087,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 109,
-    "predicted": 74,
+    "predicted": 111,
     "state_time": 1121.82,
-    "rnk_blnd": 251,
-    "points": 367.6463,
+    "rnk_blnd": 288,
+    "adj_time": 1161.94,
     "time_min": 1107.72
   },
   {
@@ -3100,10 +3100,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 110,
-    "predicted": 118,
+    "predicted": 110,
     "state_time": 1122.48,
-    "rnk_blnd": 584,
-    "points": 6.4645,
+    "rnk_blnd": 280,
+    "adj_time": 1157.83,
     "time_min": 1125.41
   },
   {
@@ -3113,10 +3113,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 111,
-    "predicted": 94,
+    "predicted": 90,
     "state_time": 1126.84,
-    "rnk_blnd": 350,
-    "points": 52.9272,
+    "rnk_blnd": 203,
+    "adj_time": 1121.25,
     "time_min": 1059.37
   },
   {
@@ -3126,10 +3126,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 112,
-    "predicted": 116,
+    "predicted": 118,
     "state_time": 1131.02,
-    "rnk_blnd": 554,
-    "points": 6.7868,
+    "rnk_blnd": 336,
+    "adj_time": 1179.19,
     "time_min": 1110.56
   },
   {
@@ -3141,8 +3141,8 @@
     "place": 113,
     "predicted": 106,
     "state_time": 1135.26,
-    "rnk_blnd": 461,
-    "points": 23.9694,
+    "rnk_blnd": 263,
+    "adj_time": 1148.21,
     "time_min": 1083.71
   },
   {
@@ -3152,10 +3152,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 114,
-    "predicted": 117,
+    "predicted": 108,
     "state_time": 1140.92,
-    "rnk_blnd": 576,
-    "points": 5.5884,
+    "rnk_blnd": 268,
+    "adj_time": 1150.68,
     "time_min": 1114.26
   },
   {
@@ -3165,10 +3165,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 115,
-    "predicted": 92,
+    "predicted": 94,
     "state_time": 1142.96,
-    "rnk_blnd": 337,
-    "points": 110.2844,
+    "rnk_blnd": 214,
+    "adj_time": 1123.8,
     "time_min": 1087.39
   },
   {
@@ -3178,10 +3178,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 116,
-    "predicted": 87,
+    "predicted": 116,
     "state_time": 1143.89,
-    "rnk_blnd": 309,
-    "points": 295.9694,
+    "rnk_blnd": 321,
+    "adj_time": 1174.47,
     "time_min": 1142.92
   },
   {
@@ -3191,10 +3191,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 117,
-    "predicted": 67,
+    "predicted": 98,
     "state_time": 1144.44,
-    "rnk_blnd": 204,
-    "points": 724.7362,
+    "rnk_blnd": 231,
+    "adj_time": 1130.26,
     "time_min": 1097.75
   },
   {
@@ -3204,10 +3204,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 118,
-    "predicted": 122,
+    "predicted": 114,
     "state_time": 1145.76,
-    "rnk_blnd": 636,
-    "points": 3.9798,
+    "rnk_blnd": 305,
+    "adj_time": 1168.37,
     "time_min": 1140.3
   },
   {
@@ -3217,10 +3217,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 119,
-    "predicted": 89,
+    "predicted": 119,
     "state_time": 1148.51,
-    "rnk_blnd": 320,
-    "points": 274.4946,
+    "rnk_blnd": 369,
+    "adj_time": 1194.19,
     "time_min": 1144.84
   },
   {
@@ -3230,10 +3230,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 120,
-    "predicted": 123,
+    "predicted": 120,
     "state_time": 1151.51,
-    "rnk_blnd": 638,
-    "points": 1.7089,
+    "rnk_blnd": 385,
+    "adj_time": 1200.74,
     "time_min": 1133.45
   },
   {
@@ -3243,10 +3243,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 121,
-    "predicted": 120,
+    "predicted": 115,
     "state_time": 1153.72,
-    "rnk_blnd": 595,
-    "points": 4.3975,
+    "rnk_blnd": 308,
+    "adj_time": 1168.95,
     "time_min": 1123.99
   },
   {
@@ -3256,10 +3256,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 122,
-    "predicted": 114,
+    "predicted": 121,
     "state_time": 1171.23,
-    "rnk_blnd": 536,
-    "points": 77.518,
+    "rnk_blnd": 391,
+    "adj_time": 1204.73,
     "time_min": 1214.6
   },
   {
@@ -3269,10 +3269,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 123,
-    "predicted": 119,
+    "predicted": 128,
     "state_time": 1189.36,
-    "rnk_blnd": 593,
-    "points": 135.2308,
+    "rnk_blnd": 608,
+    "adj_time": 1300.54,
     "time_min": 1318.55
   },
   {
@@ -3282,10 +3282,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 124,
-    "predicted": 125,
+    "predicted": 130,
     "state_time": 1190.52,
-    "rnk_blnd": 669,
-    "points": 98.2386,
+    "rnk_blnd": 649,
+    "adj_time": 1328.52,
     "time_min": 1346.92
   },
   {
@@ -3295,10 +3295,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 125,
-    "predicted": 126,
+    "predicted": 122,
     "state_time": 1194.96,
-    "rnk_blnd": 706,
-    "points": 2.1092,
+    "rnk_blnd": 425,
+    "adj_time": 1220.26,
     "time_min": 1172.51
   },
   {
@@ -3311,7 +3311,7 @@
     "predicted": null,
     "state_time": 1197.56,
     "rnk_blnd": null,
-    "points": null,
+    "adj_time": null,
     "time_min": null
   },
   {
@@ -3321,10 +3321,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 127,
-    "predicted": 101,
+    "predicted": 123,
     "state_time": 1198.09,
-    "rnk_blnd": 428,
-    "points": 397.6183,
+    "rnk_blnd": 434,
+    "adj_time": 1224.1,
     "time_min": 1262.54
   },
   {
@@ -3334,10 +3334,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 128,
-    "predicted": 128,
+    "predicted": 125,
     "state_time": 1198.17,
-    "rnk_blnd": 733,
-    "points": 1.4037,
+    "rnk_blnd": 515,
+    "adj_time": 1255.78,
     "time_min": 1189.66
   },
   {
@@ -3349,8 +3349,8 @@
     "place": 129,
     "predicted": 124,
     "state_time": 1212.41,
-    "rnk_blnd": 653,
-    "points": 21.3888,
+    "rnk_blnd": 490,
+    "adj_time": 1243.59,
     "time_min": 1202.94
   },
   {
@@ -3363,7 +3363,7 @@
     "predicted": null,
     "state_time": 1220.86,
     "rnk_blnd": null,
-    "points": null,
+    "adj_time": null,
     "time_min": null
   },
   {
@@ -3373,10 +3373,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 131,
-    "predicted": 127,
+    "predicted": 126,
     "state_time": 1228.97,
-    "rnk_blnd": 716,
-    "points": 1.5111,
+    "rnk_blnd": 541,
+    "adj_time": 1268.15,
     "time_min": 1177.44
   },
   {
@@ -3386,10 +3386,10 @@
     "school_class": "AA",
     "race": "AA",
     "place": 132,
-    "predicted": 129,
+    "predicted": 127,
     "state_time": 1290.83,
-    "rnk_blnd": 780,
-    "points": 0.2629,
+    "rnk_blnd": 587,
+    "adj_time": 1286.38,
     "time_min": 1216.27
   },
   {
@@ -3401,8 +3401,8 @@
     "place": 133,
     "predicted": 131,
     "state_time": 1433.88,
-    "rnk_blnd": 877,
-    "points": 0.1247,
+    "rnk_blnd": 720,
+    "adj_time": 1377.67,
     "time_min": 1326.11
   },
   {
@@ -3414,8 +3414,8 @@
     "place": 1,
     "predicted": 1,
     "state_time": 976.94,
-    "rnk_blnd": 6,
-    "points": 23829.6606,
+    "rnk_blnd": 20,
+    "adj_time": 997.82,
     "time_min": 934.22
   },
   {
@@ -3425,10 +3425,10 @@
     "school_class": "B",
     "race": "B",
     "place": 2,
-    "predicted": 8,
+    "predicted": 5,
     "state_time": 987.57,
-    "rnk_blnd": 32,
-    "points": 4052.7881,
+    "rnk_blnd": 58,
+    "adj_time": 1037.56,
     "time_min": 941.31
   },
   {
@@ -3438,10 +3438,10 @@
     "school_class": "B",
     "race": "B",
     "place": 3,
-    "predicted": 3,
+    "predicted": 2,
     "state_time": 993.27,
-    "rnk_blnd": 16,
-    "points": 8545.2028,
+    "rnk_blnd": 39,
+    "adj_time": 1020.83,
     "time_min": 927.04
   },
   {
@@ -3451,10 +3451,10 @@
     "school_class": "B",
     "race": "B",
     "place": 4,
-    "predicted": 6,
+    "predicted": 4,
     "state_time": 1006.34,
-    "rnk_blnd": 27,
-    "points": 11672.5176,
+    "rnk_blnd": 50,
+    "adj_time": 1031.01,
     "time_min": 971.59
   },
   {
@@ -3464,10 +3464,10 @@
     "school_class": "B",
     "race": "B",
     "place": 5,
-    "predicted": 2,
+    "predicted": 6,
     "state_time": 1013.88,
-    "rnk_blnd": 8,
-    "points": 15800.2838,
+    "rnk_blnd": 63,
+    "adj_time": 1041.68,
     "time_min": 918.73
   },
   {
@@ -3477,10 +3477,10 @@
     "school_class": "B",
     "race": "B",
     "place": 6,
-    "predicted": 9,
+    "predicted": 13,
     "state_time": 1016.79,
-    "rnk_blnd": 41,
-    "points": 3538.9398,
+    "rnk_blnd": 136,
+    "adj_time": 1084.56,
     "time_min": 959.25
   },
   {
@@ -3490,10 +3490,10 @@
     "school_class": "B",
     "race": "B",
     "place": 7,
-    "predicted": 17,
+    "predicted": 10,
     "state_time": 1017.67,
-    "rnk_blnd": 85,
-    "points": 1093.7624,
+    "rnk_blnd": 106,
+    "adj_time": 1068.82,
     "time_min": 994.15
   },
   {
@@ -3503,10 +3503,10 @@
     "school_class": "B",
     "race": "B",
     "place": 8,
-    "predicted": 18,
+    "predicted": 12,
     "state_time": 1023.08,
-    "rnk_blnd": 87,
-    "points": 3138.237,
+    "rnk_blnd": 126,
+    "adj_time": 1076.57,
     "time_min": 1036.56
   },
   {
@@ -3516,10 +3516,10 @@
     "school_class": "B",
     "race": "B",
     "place": 9,
-    "predicted": 12,
+    "predicted": 9,
     "state_time": 1025.87,
-    "rnk_blnd": 64,
-    "points": 3700.0771,
+    "rnk_blnd": 77,
+    "adj_time": 1053.94,
     "time_min": 1010.8
   },
   {
@@ -3529,10 +3529,10 @@
     "school_class": "B",
     "race": "B",
     "place": 10,
-    "predicted": 5,
+    "predicted": 3,
     "state_time": 1025.92,
-    "rnk_blnd": 25,
-    "points": 9694.0333,
+    "rnk_blnd": 44,
+    "adj_time": 1023.24,
     "time_min": 962
   },
   {
@@ -3542,10 +3542,10 @@
     "school_class": "B",
     "race": "B",
     "place": 11,
-    "predicted": 10,
+    "predicted": 11,
     "state_time": 1030.83,
-    "rnk_blnd": 50,
-    "points": 5223.2698,
+    "rnk_blnd": 120,
+    "adj_time": 1073.94,
     "time_min": 990.85
   },
   {
@@ -3555,10 +3555,10 @@
     "school_class": "B",
     "race": "B",
     "place": 12,
-    "predicted": 11,
+    "predicted": 8,
     "state_time": 1031.71,
-    "rnk_blnd": 51,
-    "points": 1834.8848,
+    "rnk_blnd": 76,
+    "adj_time": 1053.43,
     "time_min": 935.09
   },
   {
@@ -3570,8 +3570,8 @@
     "place": 13,
     "predicted": 7,
     "state_time": 1041.28,
-    "rnk_blnd": 29,
-    "points": 13989.919,
+    "rnk_blnd": 68,
+    "adj_time": 1046.9,
     "time_min": 982.22
   },
   {
@@ -3581,10 +3581,10 @@
     "school_class": "B",
     "race": "B",
     "place": 14,
-    "predicted": 16,
+    "predicted": 14,
     "state_time": 1052.74,
-    "rnk_blnd": 84,
-    "points": 2637.1264,
+    "rnk_blnd": 149,
+    "adj_time": 1092.64,
     "time_min": 1031.09
   },
   {
@@ -3594,10 +3594,10 @@
     "school_class": "B",
     "race": "B",
     "place": 15,
-    "predicted": 13,
+    "predicted": 18,
     "state_time": 1065.81,
-    "rnk_blnd": 66,
-    "points": 6267.0298,
+    "rnk_blnd": 164,
+    "adj_time": 1100.36,
     "time_min": 1024.1
   },
   {
@@ -3607,10 +3607,10 @@
     "school_class": "B",
     "race": "B",
     "place": 16,
-    "predicted": 24,
+    "predicted": 20,
     "state_time": 1069.76,
-    "rnk_blnd": 112,
-    "points": 1791.1551,
+    "rnk_blnd": 181,
+    "adj_time": 1109.88,
     "time_min": 1050.2
   },
   {
@@ -3620,10 +3620,10 @@
     "school_class": "B",
     "race": "B",
     "place": 17,
-    "predicted": 14,
+    "predicted": 17,
     "state_time": 1071.47,
-    "rnk_blnd": 74,
-    "points": 6415.7119,
+    "rnk_blnd": 163,
+    "adj_time": 1099.71,
     "time_min": 1033.1
   },
   {
@@ -3633,10 +3633,10 @@
     "school_class": "B",
     "race": "B",
     "place": 18,
-    "predicted": 4,
+    "predicted": 19,
     "state_time": 1072.04,
-    "rnk_blnd": 24,
-    "points": 6125.5589,
+    "rnk_blnd": 175,
+    "adj_time": 1108.69,
     "time_min": 938.59
   },
   {
@@ -3646,10 +3646,10 @@
     "school_class": "B",
     "race": "B",
     "place": 19,
-    "predicted": 19,
+    "predicted": 15,
     "state_time": 1076.3,
-    "rnk_blnd": 92,
-    "points": 3406.9852,
+    "rnk_blnd": 153,
+    "adj_time": 1093.43,
     "time_min": 1047.86
   },
   {
@@ -3659,10 +3659,10 @@
     "school_class": "B",
     "race": "B",
     "place": 20,
-    "predicted": 36,
+    "predicted": 21,
     "state_time": 1077.03,
-    "rnk_blnd": 153,
-    "points": 1473.5291,
+    "rnk_blnd": 187,
+    "adj_time": 1112.5,
     "time_min": 1079.83
   },
   {
@@ -3672,10 +3672,10 @@
     "school_class": "B",
     "race": "B",
     "place": 21,
-    "predicted": 15,
+    "predicted": 22,
     "state_time": 1077.65,
-    "rnk_blnd": 75,
-    "points": 5873.0585,
+    "rnk_blnd": 192,
+    "adj_time": 1114.22,
     "time_min": 1031
   },
   {
@@ -3685,10 +3685,10 @@
     "school_class": "B",
     "race": "B",
     "place": 22,
-    "predicted": 22,
+    "predicted": 26,
     "state_time": 1078.31,
-    "rnk_blnd": 101,
-    "points": 3374.8011,
+    "rnk_blnd": 222,
+    "adj_time": 1127.72,
     "time_min": 1054.84
   },
   {
@@ -3698,10 +3698,10 @@
     "school_class": "B",
     "race": "B",
     "place": 23,
-    "predicted": 72,
+    "predicted": 71,
     "state_time": 1084.02,
-    "rnk_blnd": 271,
-    "points": 637.542,
+    "rnk_blnd": 392,
+    "adj_time": 1204.78,
     "time_min": 1146.59
   },
   {
@@ -3711,10 +3711,10 @@
     "school_class": "B",
     "race": "B",
     "place": 24,
-    "predicted": 23,
+    "predicted": 24,
     "state_time": 1085.54,
-    "rnk_blnd": 104,
-    "points": 3040.5409,
+    "rnk_blnd": 216,
+    "adj_time": 1124.46,
     "time_min": 1056.52
   },
   {
@@ -3724,10 +3724,10 @@
     "school_class": "B",
     "race": "B",
     "place": 25,
-    "predicted": 25,
+    "predicted": 23,
     "state_time": 1086.21,
-    "rnk_blnd": 116,
-    "points": 2901.7558,
+    "rnk_blnd": 215,
+    "adj_time": 1124.1,
     "time_min": 1066.35
   },
   {
@@ -3737,10 +3737,10 @@
     "school_class": "B",
     "race": "B",
     "place": 26,
-    "predicted": 38,
+    "predicted": 44,
     "state_time": 1094.48,
-    "rnk_blnd": 160,
-    "points": 1389.5154,
+    "rnk_blnd": 290,
+    "adj_time": 1162.28,
     "time_min": 1082.4
   },
   {
@@ -3750,10 +3750,10 @@
     "school_class": "B",
     "race": "B",
     "place": 27,
-    "predicted": 34,
+    "predicted": 25,
     "state_time": 1104.8,
-    "rnk_blnd": 151,
-    "points": 1821.1946,
+    "rnk_blnd": 221,
+    "adj_time": 1126.88,
     "time_min": 1082.76
   },
   {
@@ -3763,10 +3763,10 @@
     "school_class": "B",
     "race": "B",
     "place": 28,
-    "predicted": 48,
+    "predicted": 34,
     "state_time": 1104.84,
-    "rnk_blnd": 189,
-    "points": 996.5286,
+    "rnk_blnd": 261,
+    "adj_time": 1147.12,
     "time_min": 1099
   },
   {
@@ -3776,10 +3776,10 @@
     "school_class": "B",
     "race": "B",
     "place": 29,
-    "predicted": 20,
+    "predicted": 39,
     "state_time": 1104.96,
-    "rnk_blnd": 93,
-    "points": 3410.4437,
+    "rnk_blnd": 274,
+    "adj_time": 1153.85,
     "time_min": 1051.65
   },
   {
@@ -3791,8 +3791,8 @@
     "place": 30,
     "predicted": 32,
     "state_time": 1105.11,
-    "rnk_blnd": 146,
-    "points": 1225.4045,
+    "rnk_blnd": 254,
+    "adj_time": 1140.44,
     "time_min": 1069.44
   },
   {
@@ -3802,10 +3802,10 @@
     "school_class": "B",
     "race": "B",
     "place": 31,
-    "predicted": 29,
+    "predicted": 27,
     "state_time": 1107.8,
-    "rnk_blnd": 136,
-    "points": 2445.6234,
+    "rnk_blnd": 236,
+    "adj_time": 1132.68,
     "time_min": 1079.23
   },
   {
@@ -3815,10 +3815,10 @@
     "school_class": "B",
     "race": "B",
     "place": 32,
-    "predicted": 35,
+    "predicted": 38,
     "state_time": 1111.82,
-    "rnk_blnd": 152,
-    "points": 1646.3065,
+    "rnk_blnd": 271,
+    "adj_time": 1152.21,
     "time_min": 1079.97
   },
   {
@@ -3828,10 +3828,10 @@
     "school_class": "B",
     "race": "B",
     "place": 33,
-    "predicted": 26,
+    "predicted": 42,
     "state_time": 1111.94,
-    "rnk_blnd": 118,
-    "points": 1752.1133,
+    "rnk_blnd": 284,
+    "adj_time": 1159.6,
     "time_min": 1054.8
   },
   {
@@ -3841,10 +3841,10 @@
     "school_class": "B",
     "race": "B",
     "place": 34,
-    "predicted": 51,
+    "predicted": 47,
     "state_time": 1112.39,
-    "rnk_blnd": 199,
-    "points": 823.6082,
+    "rnk_blnd": 302,
+    "adj_time": 1166.97,
     "time_min": 1101.04
   },
   {
@@ -3854,10 +3854,10 @@
     "school_class": "B",
     "race": "B",
     "place": 35,
-    "predicted": 40,
+    "predicted": 43,
     "state_time": 1114.73,
-    "rnk_blnd": 170,
-    "points": 907.832,
+    "rnk_blnd": 286,
+    "adj_time": 1160.55,
     "time_min": 1082.05
   },
   {
@@ -3867,10 +3867,10 @@
     "school_class": "B",
     "race": "B",
     "place": 36,
-    "predicted": 27,
+    "predicted": 33,
     "state_time": 1115.63,
-    "rnk_blnd": 121,
-    "points": 1847.0116,
+    "rnk_blnd": 259,
+    "adj_time": 1143.54,
     "time_min": 1061.13
   },
   {
@@ -3880,10 +3880,10 @@
     "school_class": "B",
     "race": "B",
     "place": 37,
-    "predicted": 66,
+    "predicted": 54,
     "state_time": 1115.69,
-    "rnk_blnd": 240,
-    "points": 496.0891,
+    "rnk_blnd": 339,
+    "adj_time": 1180.34,
     "time_min": 1114.88
   },
   {
@@ -3893,10 +3893,10 @@
     "school_class": "B",
     "race": "B",
     "place": 38,
-    "predicted": 39,
+    "predicted": 35,
     "state_time": 1121.56,
-    "rnk_blnd": 168,
-    "points": 2225.0657,
+    "rnk_blnd": 262,
+    "adj_time": 1147.99,
     "time_min": 1109
   },
   {
@@ -3906,10 +3906,10 @@
     "school_class": "B",
     "race": "B",
     "place": 39,
-    "predicted": 21,
+    "predicted": 29,
     "state_time": 1123.07,
-    "rnk_blnd": 95,
-    "points": 3439.8027,
+    "rnk_blnd": 247,
+    "adj_time": 1135.36,
     "time_min": 1053.5
   },
   {
@@ -3919,10 +3919,10 @@
     "school_class": "B",
     "race": "B",
     "place": 40,
-    "predicted": 42,
+    "predicted": 30,
     "state_time": 1125.9,
-    "rnk_blnd": 176,
-    "points": 1255.711,
+    "rnk_blnd": 248,
+    "adj_time": 1136.72,
     "time_min": 1096
   },
   {
@@ -3932,10 +3932,10 @@
     "school_class": "B",
     "race": "B",
     "place": 41,
-    "predicted": 85,
+    "predicted": 79,
     "state_time": 1126.49,
-    "rnk_blnd": 313,
-    "points": 243.679,
+    "rnk_blnd": 428,
+    "adj_time": 1220.51,
     "time_min": 1131.3
   },
   {
@@ -3945,10 +3945,10 @@
     "school_class": "B",
     "race": "B",
     "place": 42,
-    "predicted": 68,
+    "predicted": 58,
     "state_time": 1129.45,
-    "rnk_blnd": 246,
-    "points": 557.3762,
+    "rnk_blnd": 345,
+    "adj_time": 1182.55,
     "time_min": 1124.62
   },
   {
@@ -3958,10 +3958,10 @@
     "school_class": "B",
     "race": "B",
     "place": 43,
-    "predicted": 49,
+    "predicted": 31,
     "state_time": 1130.62,
-    "rnk_blnd": 192,
-    "points": 1456.046,
+    "rnk_blnd": 249,
+    "adj_time": 1136.73,
     "time_min": 1117.15
   },
   {
@@ -3971,10 +3971,10 @@
     "school_class": "B",
     "race": "B",
     "place": 44,
-    "predicted": 41,
+    "predicted": 16,
     "state_time": 1130.84,
-    "rnk_blnd": 175,
-    "points": 612.8902,
+    "rnk_blnd": 154,
+    "adj_time": 1094.43,
     "time_min": 1073.76
   },
   {
@@ -3984,10 +3984,10 @@
     "school_class": "B",
     "race": "B",
     "place": 45,
-    "predicted": 64,
+    "predicted": 40,
     "state_time": 1131.3,
-    "rnk_blnd": 236,
-    "points": 628.1452,
+    "rnk_blnd": 276,
+    "adj_time": 1154.68,
     "time_min": 1124.23
   },
   {
@@ -3997,10 +3997,10 @@
     "school_class": "B",
     "race": "B",
     "place": 46,
-    "predicted": 55,
+    "predicted": 41,
     "state_time": 1132.14,
-    "rnk_blnd": 208,
-    "points": 594.8143,
+    "rnk_blnd": 281,
+    "adj_time": 1157.91,
     "time_min": 1092.2
   },
   {
@@ -4010,10 +4010,10 @@
     "school_class": "B",
     "race": "B",
     "place": 47,
-    "predicted": 31,
+    "predicted": 73,
     "state_time": 1133.54,
-    "rnk_blnd": 145,
-    "points": 509.6468,
+    "rnk_blnd": 410,
+    "adj_time": 1215.23,
     "time_min": 1028.26
   },
   {
@@ -4023,10 +4023,10 @@
     "school_class": "B",
     "race": "B",
     "place": 48,
-    "predicted": 84,
+    "predicted": 62,
     "state_time": 1134.22,
-    "rnk_blnd": 305,
-    "points": 243.3718,
+    "rnk_blnd": 362,
+    "adj_time": 1191.73,
     "time_min": 1127.31
   },
   {
@@ -4036,10 +4036,10 @@
     "school_class": "B",
     "race": "B",
     "place": 49,
-    "predicted": 77,
+    "predicted": 61,
     "state_time": 1136.98,
-    "rnk_blnd": 286,
-    "points": 334.8992,
+    "rnk_blnd": 357,
+    "adj_time": 1189.15,
     "time_min": 1132.5
   },
   {
@@ -4049,10 +4049,10 @@
     "school_class": "B",
     "race": "B",
     "place": 50,
-    "predicted": 62,
+    "predicted": 72,
     "state_time": 1137.13,
-    "rnk_blnd": 233,
-    "points": 295.0788,
+    "rnk_blnd": 406,
+    "adj_time": 1211.71,
     "time_min": 1079.51
   },
   {
@@ -4062,10 +4062,10 @@
     "school_class": "B",
     "race": "B",
     "place": 51,
-    "predicted": 71,
+    "predicted": 64,
     "state_time": 1138.48,
-    "rnk_blnd": 269,
-    "points": 401.4637,
+    "rnk_blnd": 367,
+    "adj_time": 1193.94,
     "time_min": 1126.53
   },
   {
@@ -4075,10 +4075,10 @@
     "school_class": "B",
     "race": "B",
     "place": 52,
-    "predicted": 33,
+    "predicted": 37,
     "state_time": 1138.56,
-    "rnk_blnd": 149,
-    "points": 1875.6658,
+    "rnk_blnd": 267,
+    "adj_time": 1150.36,
     "time_min": 1081.79
   },
   {
@@ -4088,10 +4088,10 @@
     "school_class": "B",
     "race": "B",
     "place": 53,
-    "predicted": 44,
+    "predicted": 53,
     "state_time": 1138.6,
-    "rnk_blnd": 180,
-    "points": 1083.9493,
+    "rnk_blnd": 338,
+    "adj_time": 1180.06,
     "time_min": 1092.39
   },
   {
@@ -4101,10 +4101,10 @@
     "school_class": "B",
     "race": "B",
     "place": 54,
-    "predicted": 56,
+    "predicted": 46,
     "state_time": 1138.97,
-    "rnk_blnd": 211,
-    "points": 521.2569,
+    "rnk_blnd": 299,
+    "adj_time": 1165.59,
     "time_min": 1091.45
   },
   {
@@ -4114,10 +4114,10 @@
     "school_class": "B",
     "race": "B",
     "place": 55,
-    "predicted": 47,
+    "predicted": 57,
     "state_time": 1140.41,
-    "rnk_blnd": 188,
-    "points": 422.8866,
+    "rnk_blnd": 343,
+    "adj_time": 1181.24,
     "time_min": 1068.27
   },
   {
@@ -4127,10 +4127,10 @@
     "school_class": "B",
     "race": "B",
     "place": 56,
-    "predicted": 46,
+    "predicted": 36,
     "state_time": 1140.49,
-    "rnk_blnd": 184,
-    "points": 840.3646,
+    "rnk_blnd": 266,
+    "adj_time": 1150.26,
     "time_min": 1089.67
   },
   {
@@ -4140,10 +4140,10 @@
     "school_class": "B",
     "race": "B",
     "place": 57,
-    "predicted": 67,
+    "predicted": 51,
     "state_time": 1141.89,
-    "rnk_blnd": 245,
-    "points": 626.7392,
+    "rnk_blnd": 326,
+    "adj_time": 1176.16,
     "time_min": 1128.43
   },
   {
@@ -4153,10 +4153,10 @@
     "school_class": "B",
     "race": "B",
     "place": 58,
-    "predicted": 81,
+    "predicted": 50,
     "state_time": 1143.22,
-    "rnk_blnd": 298,
-    "points": 325.9995,
+    "rnk_blnd": 322,
+    "adj_time": 1174.53,
     "time_min": 1141.02
   },
   {
@@ -4166,10 +4166,10 @@
     "school_class": "B",
     "race": "B",
     "place": 59,
-    "predicted": 45,
+    "predicted": 56,
     "state_time": 1143.26,
-    "rnk_blnd": 183,
-    "points": 965.8465,
+    "rnk_blnd": 342,
+    "adj_time": 1180.68,
     "time_min": 1091.7
   },
   {
@@ -4179,10 +4179,10 @@
     "school_class": "B",
     "race": "B",
     "place": 60,
-    "predicted": 37,
+    "predicted": 52,
     "state_time": 1143.9,
-    "rnk_blnd": 155,
-    "points": 1478.4085,
+    "rnk_blnd": 332,
+    "adj_time": 1177.93,
     "time_min": 1081.3
   },
   {
@@ -4192,10 +4192,10 @@
     "school_class": "B",
     "race": "B",
     "place": 61,
-    "predicted": 54,
+    "predicted": 48,
     "state_time": 1146.09,
-    "rnk_blnd": 207,
-    "points": 869.5725,
+    "rnk_blnd": 304,
+    "adj_time": 1168.35,
     "time_min": 1111.46
   },
   {
@@ -4207,8 +4207,8 @@
     "place": 62,
     "predicted": 90,
     "state_time": 1152.42,
-    "rnk_blnd": 355,
-    "points": 227.8435,
+    "rnk_blnd": 487,
+    "adj_time": 1243.44,
     "time_min": 1155.69
   },
   {
@@ -4218,10 +4218,10 @@
     "school_class": "B",
     "race": "B",
     "place": 63,
-    "predicted": 78,
+    "predicted": 76,
     "state_time": 1152.44,
-    "rnk_blnd": 291,
-    "points": 133.0905,
+    "rnk_blnd": 422,
+    "adj_time": 1218.24,
     "time_min": 1069.48
   },
   {
@@ -4231,10 +4231,10 @@
     "school_class": "B",
     "race": "B",
     "place": 64,
-    "predicted": 57,
+    "predicted": 60,
     "state_time": 1155.19,
-    "rnk_blnd": 212,
-    "points": 327.3347,
+    "rnk_blnd": 354,
+    "adj_time": 1187.66,
     "time_min": 1073.12
   },
   {
@@ -4244,10 +4244,10 @@
     "school_class": "B",
     "race": "B",
     "place": 65,
-    "predicted": 61,
+    "predicted": 59,
     "state_time": 1155.66,
-    "rnk_blnd": 232,
-    "points": 617.1037,
+    "rnk_blnd": 349,
+    "adj_time": 1184.49,
     "time_min": 1117.04
   },
   {
@@ -4257,10 +4257,10 @@
     "school_class": "B",
     "race": "B",
     "place": 66,
-    "predicted": 86,
+    "predicted": 65,
     "state_time": 1158.69,
-    "rnk_blnd": 327,
-    "points": 247.8637,
+    "rnk_blnd": 370,
+    "adj_time": 1194.22,
     "time_min": 1142
   },
   {
@@ -4270,10 +4270,10 @@
     "school_class": "B",
     "race": "B",
     "place": 67,
-    "predicted": 109,
+    "predicted": 101,
     "state_time": 1158.8,
-    "rnk_blnd": 497,
-    "points": 56.2548,
+    "rnk_blnd": 565,
+    "adj_time": 1278.69,
     "time_min": 1162.9
   },
   {
@@ -4283,10 +4283,10 @@
     "school_class": "B",
     "race": "B",
     "place": 68,
-    "predicted": 50,
+    "predicted": 55,
     "state_time": 1164.32,
-    "rnk_blnd": 194,
-    "points": 662.2566,
+    "rnk_blnd": 340,
+    "adj_time": 1180.45,
     "time_min": 1089.09
   },
   {
@@ -4298,8 +4298,8 @@
     "place": 69,
     "predicted": 75,
     "state_time": 1164.38,
-    "rnk_blnd": 280,
-    "points": 303.8456,
+    "rnk_blnd": 420,
+    "adj_time": 1217.52,
     "time_min": 1123.9
   },
   {
@@ -4309,10 +4309,10 @@
     "school_class": "B",
     "race": "B",
     "place": 70,
-    "predicted": 30,
+    "predicted": 49,
     "state_time": 1166.61,
-    "rnk_blnd": 138,
-    "points": 1458.5107,
+    "rnk_blnd": 317,
+    "adj_time": 1173.27,
     "time_min": 1071.5
   },
   {
@@ -4322,10 +4322,10 @@
     "school_class": "B",
     "race": "B",
     "place": 71,
-    "predicted": 58,
+    "predicted": 45,
     "state_time": 1167.81,
-    "rnk_blnd": 219,
-    "points": 545.3822,
+    "rnk_blnd": 295,
+    "adj_time": 1164.95,
     "time_min": 1099.82
   },
   {
@@ -4335,10 +4335,10 @@
     "school_class": "B",
     "race": "B",
     "place": 72,
-    "predicted": 63,
+    "predicted": 69,
     "state_time": 1170.7,
-    "rnk_blnd": 235,
-    "points": 523.4804,
+    "rnk_blnd": 383,
+    "adj_time": 1199.75,
     "time_min": 1115.2
   },
   {
@@ -4348,10 +4348,10 @@
     "school_class": "B",
     "race": "B",
     "place": 73,
-    "predicted": 98,
+    "predicted": 80,
     "state_time": 1172.83,
-    "rnk_blnd": 396,
-    "points": 127.2004,
+    "rnk_blnd": 432,
+    "adj_time": 1221.2,
     "time_min": 1142.57
   },
   {
@@ -4361,10 +4361,10 @@
     "school_class": "B",
     "race": "B",
     "place": 74,
-    "predicted": 73,
+    "predicted": 67,
     "state_time": 1173.41,
-    "rnk_blnd": 273,
-    "points": 310.0487,
+    "rnk_blnd": 381,
+    "adj_time": 1199.07,
     "time_min": 1115.8
   },
   {
@@ -4374,10 +4374,10 @@
     "school_class": "B",
     "race": "B",
     "place": 75,
-    "predicted": 99,
+    "predicted": 94,
     "state_time": 1174.18,
-    "rnk_blnd": 406,
-    "points": 218.2872,
+    "rnk_blnd": 498,
+    "adj_time": 1247.56,
     "time_min": 1192.44
   },
   {
@@ -4387,10 +4387,10 @@
     "school_class": "B",
     "race": "B",
     "place": 76,
-    "predicted": 101,
+    "predicted": 85,
     "state_time": 1174.91,
-    "rnk_blnd": 416,
-    "points": 118.0669,
+    "rnk_blnd": 452,
+    "adj_time": 1231.74,
     "time_min": 1149.4
   },
   {
@@ -4400,10 +4400,10 @@
     "school_class": "B",
     "race": "B",
     "place": 77,
-    "predicted": 43,
+    "predicted": 88,
     "state_time": 1175.67,
-    "rnk_blnd": 179,
-    "points": 405.3151,
+    "rnk_blnd": 462,
+    "adj_time": 1235.55,
     "time_min": 1055.01
   },
   {
@@ -4413,10 +4413,10 @@
     "school_class": "B",
     "race": "B",
     "place": 78,
-    "predicted": 69,
+    "predicted": 87,
     "state_time": 1176.5,
-    "rnk_blnd": 249,
-    "points": 466.7065,
+    "rnk_blnd": 460,
+    "adj_time": 1235.4,
     "time_min": 1119.26
   },
   {
@@ -4426,10 +4426,10 @@
     "school_class": "B",
     "race": "B",
     "place": 79,
-    "predicted": 102,
+    "predicted": 82,
     "state_time": 1177,
-    "rnk_blnd": 434,
-    "points": 127.0613,
+    "rnk_blnd": 443,
+    "adj_time": 1227.82,
     "time_min": 1168
   },
   {
@@ -4439,10 +4439,10 @@
     "school_class": "B",
     "race": "B",
     "place": 80,
-    "predicted": 88,
+    "predicted": 103,
     "state_time": 1179.73,
-    "rnk_blnd": 334,
-    "points": 202.1245,
+    "rnk_blnd": 581,
+    "adj_time": 1283.46,
     "time_min": 1131
   },
   {
@@ -4452,10 +4452,10 @@
     "school_class": "B",
     "race": "B",
     "place": 81,
-    "predicted": 59,
+    "predicted": 95,
     "state_time": 1179.77,
-    "rnk_blnd": 226,
-    "points": 302.3659,
+    "rnk_blnd": 512,
+    "adj_time": 1255.18,
     "time_min": 1077.1
   },
   {
@@ -4465,10 +4465,10 @@
     "school_class": "B",
     "race": "B",
     "place": 82,
-    "predicted": 79,
+    "predicted": 83,
     "state_time": 1181.37,
-    "rnk_blnd": 292,
-    "points": 256.8728,
+    "rnk_blnd": 446,
+    "adj_time": 1228.53,
     "time_min": 1118.6
   },
   {
@@ -4478,10 +4478,10 @@
     "school_class": "B",
     "race": "B",
     "place": 83,
-    "predicted": 65,
+    "predicted": 70,
     "state_time": 1181.79,
-    "rnk_blnd": 237,
-    "points": 453.5257,
+    "rnk_blnd": 387,
+    "adj_time": 1202.61,
     "time_min": 1112.4
   },
   {
@@ -4491,10 +4491,10 @@
     "school_class": "B",
     "race": "B",
     "place": 84,
-    "predicted": 91,
+    "predicted": 92,
     "state_time": 1186.84,
-    "rnk_blnd": 363,
-    "points": 279.5682,
+    "rnk_blnd": 491,
+    "adj_time": 1244.11,
     "time_min": 1183
   },
   {
@@ -4504,10 +4504,10 @@
     "school_class": "B",
     "race": "B",
     "place": 85,
-    "predicted": 76,
+    "predicted": 74,
     "state_time": 1188.4,
-    "rnk_blnd": 283,
-    "points": 332.8233,
+    "rnk_blnd": 418,
+    "adj_time": 1217.44,
     "time_min": 1129.03
   },
   {
@@ -4517,10 +4517,10 @@
     "school_class": "B",
     "race": "B",
     "place": 86,
-    "predicted": 80,
+    "predicted": 68,
     "state_time": 1194.88,
-    "rnk_blnd": 295,
-    "points": 538.5906,
+    "rnk_blnd": 382,
+    "adj_time": 1199.64,
     "time_min": 1165.9
   },
   {
@@ -4530,10 +4530,10 @@
     "school_class": "B",
     "race": "B",
     "place": 87,
-    "predicted": 89,
+    "predicted": 96,
     "state_time": 1194.9,
-    "rnk_blnd": 339,
-    "points": 356.3548,
+    "rnk_blnd": 518,
+    "adj_time": 1256.56,
     "time_min": 1178.87
   },
   {
@@ -4543,10 +4543,10 @@
     "school_class": "B",
     "race": "B",
     "place": 88,
-    "predicted": 105,
+    "predicted": 99,
     "state_time": 1196.07,
-    "rnk_blnd": 458,
-    "points": 126.915,
+    "rnk_blnd": 531,
+    "adj_time": 1263.82,
     "time_min": 1189.56
   },
   {
@@ -4556,10 +4556,10 @@
     "school_class": "B",
     "race": "B",
     "place": 89,
-    "predicted": 83,
+    "predicted": 77,
     "state_time": 1197.21,
-    "rnk_blnd": 300,
-    "points": 314.0714,
+    "rnk_blnd": 426,
+    "adj_time": 1220.27,
     "time_min": 1139.7
   },
   {
@@ -4569,10 +4569,10 @@
     "school_class": "B",
     "race": "B",
     "place": 90,
-    "predicted": 52,
+    "predicted": 66,
     "state_time": 1198.61,
-    "rnk_blnd": 201,
-    "points": 484.8507,
+    "rnk_blnd": 376,
+    "adj_time": 1196.86,
     "time_min": 1080.86
   },
   {
@@ -4582,10 +4582,10 @@
     "school_class": "B",
     "race": "B",
     "place": 91,
-    "predicted": 53,
+    "predicted": 63,
     "state_time": 1198.63,
-    "rnk_blnd": 205,
-    "points": 811.1977,
+    "rnk_blnd": 366,
+    "adj_time": 1192.86,
     "time_min": 1104.92
   },
   {
@@ -4595,10 +4595,10 @@
     "school_class": "B",
     "race": "B",
     "place": 92,
-    "predicted": 87,
+    "predicted": 81,
     "state_time": 1198.87,
-    "rnk_blnd": 332,
-    "points": 301.6801,
+    "rnk_blnd": 439,
+    "adj_time": 1226.06,
     "time_min": 1160.87
   },
   {
@@ -4608,10 +4608,10 @@
     "school_class": "B",
     "race": "B",
     "place": 93,
-    "predicted": 92,
+    "predicted": 100,
     "state_time": 1201.44,
-    "rnk_blnd": 364,
-    "points": 190.5316,
+    "rnk_blnd": 546,
+    "adj_time": 1270.32,
     "time_min": 1147.8
   },
   {
@@ -4621,10 +4621,10 @@
     "school_class": "B",
     "race": "B",
     "place": 94,
-    "predicted": 60,
+    "predicted": 78,
     "state_time": 1205.15,
-    "rnk_blnd": 227,
-    "points": 542.54,
+    "rnk_blnd": 427,
+    "adj_time": 1220.41,
     "time_min": 1106.6
   },
   {
@@ -4634,10 +4634,10 @@
     "school_class": "B",
     "race": "B",
     "place": 95,
-    "predicted": 104,
+    "predicted": 91,
     "state_time": 1209.28,
-    "rnk_blnd": 443,
-    "points": 168.8922,
+    "rnk_blnd": 489,
+    "adj_time": 1243.56,
     "time_min": 1197.47
   },
   {
@@ -4649,8 +4649,8 @@
     "place": 96,
     "predicted": 28,
     "state_time": 1212.56,
-    "rnk_blnd": 130,
-    "points": 2063.4601,
+    "rnk_blnd": 245,
+    "adj_time": 1135.02,
     "time_min": 1072.1
   },
   {
@@ -4660,10 +4660,10 @@
     "school_class": "B",
     "race": "B",
     "place": 97,
-    "predicted": 103,
+    "predicted": 98,
     "state_time": 1215.64,
-    "rnk_blnd": 436,
-    "points": 109.6109,
+    "rnk_blnd": 525,
+    "adj_time": 1261.02,
     "time_min": 1154
   },
   {
@@ -4673,10 +4673,10 @@
     "school_class": "B",
     "race": "B",
     "place": 98,
-    "predicted": 107,
+    "predicted": 105,
     "state_time": 1218.15,
-    "rnk_blnd": 488,
-    "points": 98.1754,
+    "rnk_blnd": 592,
+    "adj_time": 1288.95,
     "time_min": 1194.82
   },
   {
@@ -4686,10 +4686,10 @@
     "school_class": "B",
     "race": "B",
     "place": 99,
-    "predicted": 74,
+    "predicted": 84,
     "state_time": 1230.93,
-    "rnk_blnd": 278,
-    "points": 335.369,
+    "rnk_blnd": 447,
+    "adj_time": 1229.51,
     "time_min": 1128.03
   },
   {
@@ -4701,8 +4701,8 @@
     "place": 100,
     "predicted": 108,
     "state_time": 1231.05,
-    "rnk_blnd": 490,
-    "points": 169.8097,
+    "rnk_blnd": 607,
+    "adj_time": 1300.11,
     "time_min": 1250.78
   },
   {
@@ -4712,10 +4712,10 @@
     "school_class": "B",
     "race": "B",
     "place": 101,
-    "predicted": 95,
+    "predicted": 109,
     "state_time": 1233.91,
-    "rnk_blnd": 390,
-    "points": 147.646,
+    "rnk_blnd": 656,
+    "adj_time": 1330.4,
     "time_min": 1152.4
   },
   {
@@ -4725,10 +4725,10 @@
     "school_class": "B",
     "race": "B",
     "place": 102,
-    "predicted": 82,
+    "predicted": 89,
     "state_time": 1244.2,
-    "rnk_blnd": 299,
-    "points": 250.8774,
+    "rnk_blnd": 466,
+    "adj_time": 1237.47,
     "time_min": 1124.15
   },
   {
@@ -4738,10 +4738,10 @@
     "school_class": "B",
     "race": "B",
     "place": 103,
-    "predicted": 112,
+    "predicted": 116,
     "state_time": 1246.3,
-    "rnk_blnd": 641,
-    "points": 45.2319,
+    "rnk_blnd": 728,
+    "adj_time": 1379.94,
     "time_min": 1250.52
   },
   {
@@ -4751,10 +4751,10 @@
     "school_class": "B",
     "race": "B",
     "place": 104,
-    "predicted": 94,
+    "predicted": 86,
     "state_time": 1251.04,
-    "rnk_blnd": 389,
-    "points": 299.0289,
+    "rnk_blnd": 453,
+    "adj_time": 1232.02,
     "time_min": 1208.8
   },
   {
@@ -4764,10 +4764,10 @@
     "school_class": "B",
     "race": "B",
     "place": 105,
-    "predicted": 93,
+    "predicted": 104,
     "state_time": 1254.16,
-    "rnk_blnd": 368,
-    "points": 170.9329,
+    "rnk_blnd": 582,
+    "adj_time": 1283.74,
     "time_min": 1142.75
   },
   {
@@ -4777,10 +4777,10 @@
     "school_class": "B",
     "race": "B",
     "place": 106,
-    "predicted": 100,
+    "predicted": 102,
     "state_time": 1256.62,
-    "rnk_blnd": 413,
-    "points": 178.3394,
+    "rnk_blnd": 580,
+    "adj_time": 1283.21,
     "time_min": 1181.75
   },
   {
@@ -4790,10 +4790,10 @@
     "school_class": "B",
     "race": "B",
     "place": 107,
-    "predicted": 115,
+    "predicted": 111,
     "state_time": 1257.39,
-    "rnk_blnd": 761,
-    "points": 18.72,
+    "rnk_blnd": 700,
+    "adj_time": 1362.05,
     "time_min": 1288.24
   },
   {
@@ -4803,10 +4803,10 @@
     "school_class": "B",
     "race": "B",
     "place": 108,
-    "predicted": 70,
+    "predicted": 93,
     "state_time": 1267.38,
-    "rnk_blnd": 252,
-    "points": 186.5175,
+    "rnk_blnd": 493,
+    "adj_time": 1244.68,
     "time_min": 1060.81
   },
   {
@@ -4816,10 +4816,10 @@
     "school_class": "B",
     "race": "B",
     "place": 109,
-    "predicted": 106,
+    "predicted": 107,
     "state_time": 1274.86,
-    "rnk_blnd": 479,
-    "points": 73.2819,
+    "rnk_blnd": 600,
+    "adj_time": 1294.98,
     "time_min": 1172.68
   },
   {
@@ -4829,10 +4829,10 @@
     "school_class": "B",
     "race": "B",
     "place": 110,
-    "predicted": 96,
+    "predicted": 106,
     "state_time": 1275.53,
-    "rnk_blnd": 391,
-    "points": 150.5769,
+    "rnk_blnd": 593,
+    "adj_time": 1289.06,
     "time_min": 1154.6
   },
   {
@@ -4844,8 +4844,8 @@
     "place": 111,
     "predicted": 97,
     "state_time": 1275.62,
-    "rnk_blnd": 392,
-    "points": 159.5343,
+    "rnk_blnd": 520,
+    "adj_time": 1257.46,
     "time_min": 1158.7
   },
   {
@@ -4857,8 +4857,8 @@
     "place": 112,
     "predicted": 110,
     "state_time": 1291.19,
-    "rnk_blnd": 561,
-    "points": 79.0125,
+    "rnk_blnd": 670,
+    "adj_time": 1338.05,
     "time_min": 1242.8
   },
   {
@@ -4868,10 +4868,10 @@
     "school_class": "B",
     "race": "B",
     "place": 113,
-    "predicted": 118,
+    "predicted": 115,
     "state_time": 1305.82,
-    "rnk_blnd": 784,
-    "points": 20.8566,
+    "rnk_blnd": 719,
+    "adj_time": 1376.88,
     "time_min": 1325.6
   },
   {
@@ -4881,10 +4881,10 @@
     "school_class": "B",
     "race": "B",
     "place": 114,
-    "predicted": 119,
+    "predicted": 113,
     "state_time": 1312.03,
-    "rnk_blnd": 810,
-    "points": 1.9999,
+    "rnk_blnd": 709,
+    "adj_time": 1368.01,
     "time_min": 1261.85
   },
   {
@@ -4894,10 +4894,10 @@
     "school_class": "B",
     "race": "B",
     "place": 115,
-    "predicted": 117,
+    "predicted": 112,
     "state_time": 1328.13,
-    "rnk_blnd": 771,
-    "points": 11.0299,
+    "rnk_blnd": 703,
+    "adj_time": 1363.55,
     "time_min": 1270.89
   },
   {
@@ -4907,10 +4907,10 @@
     "school_class": "B",
     "race": "B",
     "place": 116,
-    "predicted": 113,
+    "predicted": 114,
     "state_time": 1328.16,
-    "rnk_blnd": 708,
-    "points": 32.6737,
+    "rnk_blnd": 711,
+    "adj_time": 1369.37,
     "time_min": 1267.9
   },
   {
@@ -4920,10 +4920,10 @@
     "school_class": "B",
     "race": "B",
     "place": 117,
-    "predicted": 111,
+    "predicted": 118,
     "state_time": 1356.77,
-    "rnk_blnd": 615,
-    "points": 44.5672,
+    "rnk_blnd": 799,
+    "adj_time": 1443.51,
     "time_min": 1232.8
   },
   {
@@ -4933,10 +4933,10 @@
     "school_class": "B",
     "race": "B",
     "place": 118,
-    "predicted": 114,
+    "predicted": 117,
     "state_time": 1385.28,
-    "rnk_blnd": 742,
-    "points": 52.6193,
+    "rnk_blnd": 787,
+    "adj_time": 1430.02,
     "time_min": 1385
   },
   {
@@ -4946,10 +4946,10 @@
     "school_class": "B",
     "race": "B",
     "place": 119,
-    "predicted": 120,
+    "predicted": 119,
     "state_time": 1416.34,
-    "rnk_blnd": 850,
-    "points": 10.8799,
+    "rnk_blnd": 809,
+    "adj_time": 1454.68,
     "time_min": 1377.38
   },
   {
@@ -4959,10 +4959,10 @@
     "school_class": "B",
     "race": "B",
     "place": 120,
-    "predicted": 116,
+    "predicted": 120,
     "state_time": 1437.31,
-    "rnk_blnd": 766,
-    "points": 45.7851,
+    "rnk_blnd": 827,
+    "adj_time": 1485.04,
     "time_min": 1414
   },
   {
@@ -4974,8 +4974,8 @@
     "place": 121,
     "predicted": 121,
     "state_time": 1458.16,
-    "rnk_blnd": 876,
-    "points": 2.6522,
+    "rnk_blnd": 843,
+    "adj_time": 1513.79,
     "time_min": 1363.8
   }
 ]
