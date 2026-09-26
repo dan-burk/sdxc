@@ -1,6 +1,3 @@
-import { useState } from 'react'
-import { Segmented } from './ui'
-
 const LINKS = [
   { label: 'LinkedIn', href: 'https://www.linkedin.com/in/daniel-burkhalter1/' },
   { label: 'GitHub', href: 'https://github.com/dan-burk' },
@@ -44,7 +41,8 @@ function Step({ n, title, caption, rows, value }: {
 function HowItWorks() {
   const by = (key: 'timeRank' | 'pointsRank' | 'median') => [...EXAMPLE].sort((a, b) => a[key] - b[key])
   return (
-    <div className="space-y-4">
+    <div className="space-y-4 pt-4">
+      <h2 className="font-display text-3xl font-semibold">How it Works</h2>
       <p className="leading-relaxed">
         Every runner gets two ranks, one by time and one by points. Their final rank is the median of the two.
       </p>
@@ -58,45 +56,36 @@ function HowItWorks() {
   )
 }
 
-type Section = 'about' | 'how'
-const SECTIONS: Section[] = ['about', 'how']
-
 export function About() {
-  const [view, setView] = useState<Section>('about')
   return (
     <section className="mx-auto max-w-2xl space-y-6">
-      <div className="flex flex-wrap items-center justify-between gap-3">
-        <h1 className="font-display text-3xl font-semibold sm:text-4xl">{view === 'about' ? 'About' : 'How it Works'}</h1>
-        <Segmented label="Section" showLabel={false} options={SECTIONS}
-          value={view} onChange={setView} render={v => (v === 'about' ? 'About' : 'How it Works')} />
-      </div>
-      {view === 'how' ? <HowItWorks /> : (
-        <div className="card space-y-4 p-5 sm:p-6">
-          <h2 className="font-display text-2xl font-semibold">Hi, I'm Daniel!</h2>
-          <p className="leading-relaxed">
-            I'm a runner, data scientist, and self-taught full-stack (maybe more like a garbage-stack) developer.
-            I ran XC for Bison from 2013–2018, then at SDSU from 2018–2024. Love this sport. Feel free to reach out
-            if you have any questions or see any issues!
-          </p>
-          <div className="border-t border-border pt-4">
-            <div className="label mb-2">Author</div>
-            <div className="font-medium">Daniel Burkhalter</div>
-            <div className="mt-3 flex flex-wrap gap-2">
-              {LINKS.map(l => (
-                <a
-                  key={l.label}
-                  href={l.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  className="rounded border border-border px-3 py-1.5 text-sm font-semibold text-accent transition-colors hover:bg-accent-soft"
-                >
-                  {l.label} ↗
-                </a>
-              ))}
-            </div>
+      <h1 className="font-display text-3xl font-semibold sm:text-4xl">About</h1>
+      <div className="card space-y-4 p-5 sm:p-6">
+        <h2 className="font-display text-2xl font-semibold">Hi, I'm Daniel!</h2>
+        <p className="leading-relaxed">
+          I'm a runner, data scientist, and self-taught full-stack (maybe more like a garbage-stack) developer.
+          I ran XC for Bison from 2013–2018, then at SDSU from 2018–2024. Love this sport. Feel free to reach out
+          if you have any questions or see any issues!
+        </p>
+        <div className="border-t border-border pt-4">
+          <div className="label mb-2">Author</div>
+          <div className="font-medium">Daniel Burkhalter</div>
+          <div className="mt-3 flex flex-wrap gap-2">
+            {LINKS.map(l => (
+              <a
+                key={l.label}
+                href={l.href}
+                target="_blank"
+                rel="noopener noreferrer"
+                className="rounded border border-border px-3 py-1.5 text-sm font-semibold text-accent transition-colors hover:bg-accent-soft"
+              >
+                {l.label} ↗
+              </a>
+            ))}
           </div>
         </div>
-      )}
+      </div>
+      <HowItWorks />
     </section>
   )
 }
