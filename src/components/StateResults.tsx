@@ -15,7 +15,7 @@ const COLUMNS: { label: string; short?: string; className?: string }[] = [
   { label: 'School', className: 'hidden sm:table-cell' },
   { label: 'Race', className: 'hidden sm:table-cell' },
   { label: 'Time' },
-  { label: 'Rank in', className: 'hidden md:table-cell text-right' },
+  { label: 'State Rank', className: 'hidden md:table-cell text-right' },
 ]
 
 interface Props {
