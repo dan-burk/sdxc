@@ -81,15 +81,21 @@ export function RaceSim({ gender, year, week, selected, onSelected }: Props) {
             type="search"
             value={query}
             onChange={e => setQuery(e.target.value)}
+            onKeyDown={e => {
+              if (e.key === 'Enter' && q && options[0]) {
+                add([options[0].School])
+                setQuery('')
+              }
+            }}
             placeholder="Search schools"
             className="w-full rounded border border-border bg-surface px-3 py-2 text-sm outline-none placeholder:text-muted focus:border-accent focus:ring-2 focus:ring-accent/20"
           />
           <ul className="max-h-64 overflow-y-auto rounded border border-border">
-            {options.map(s => (
+            {options.map((s, i) => (
               <li key={s.School}>
                 <button
                   onClick={() => add([s.School])}
-                  className="flex w-full items-center justify-between px-3 py-2 text-left text-sm hover:bg-surface-2"
+                  className={`flex w-full items-center justify-between px-3 py-2 text-left text-sm hover:bg-surface-2 ${q && i === 0 ? 'bg-surface-2' : ''}`}
                 >
                   {s.School}
                   <ClassBadge cls={s.school_class} />
