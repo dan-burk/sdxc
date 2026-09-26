@@ -33,6 +33,36 @@ export function Segmented<T extends string | number>({ label, options, value, on
   )
 }
 
+interface DropdownProps {
+  label: string
+  options: number[]
+  value: number
+  onChange: (value: number) => void
+  render?: (option: number) => string
+  showLabel?: boolean
+}
+
+export function Dropdown({ label, options, value, onChange, render = String, showLabel = true }: DropdownProps) {
+  return (
+    <label className="flex shrink-0 items-center gap-2">
+      {showLabel && <span className="label hidden md:inline">{label}</span>}
+      <span className="relative">
+        <select
+          aria-label={label}
+          value={value}
+          onChange={e => onChange(Number(e.target.value))}
+          className="cursor-pointer appearance-none rounded bg-surface-2 py-2 pl-3 pr-8 text-sm font-semibold text-text outline-none focus:ring-2 focus:ring-accent/30"
+        >
+          {options.map(o => <option key={o} value={o}>{render(o)}</option>)}
+        </select>
+        <svg className="pointer-events-none absolute right-2.5 top-1/2 h-3.5 w-3.5 -translate-y-1/2 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5}>
+          <path d="m6 9 6 6 6-6" />
+        </svg>
+      </span>
+    </label>
+  )
+}
+
 const CLASS_STYLE: Record<SchoolClass, string> = {
   AA: 'text-aa bg-aa/10',
   A: 'text-a bg-a/10',
