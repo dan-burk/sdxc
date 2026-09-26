@@ -4,7 +4,7 @@ import { Segmented } from './ui'
 
 type Theme = 'system' | 'light' | 'dark'
 const NEXT: Record<Theme, Theme> = { system: 'light', light: 'dark', dark: 'system' }
-const TABS: Record<Tab, string> = { rankings: 'Rankings', race: 'Race Simulator' }
+const TABS: Record<Tab, string> = { rankings: 'Rankings', race: 'Race Simulator', about: 'About' }
 
 function readTheme(): Theme {
   try {
@@ -51,9 +51,9 @@ export function TopBar({ tab, onTab }: { tab: Tab; onTab: (tab: Tab) => void }) 
   return (
     <div className="border-b border-border bg-surface/85 backdrop-blur">
       <div className="mx-auto flex max-w-6xl flex-wrap items-center justify-between gap-x-6 gap-y-2 px-4 py-2 sm:px-6">
-        <div className="flex items-baseline gap-2">
+        <div className="flex items-center gap-2">
+          <span className="h-2.5 w-2.5 -skew-x-[14deg] rounded-[2px] bg-accent" />
           <span className="font-display text-2xl font-bold tracking-tight">SD XC</span>
-          <span className="h-2 w-2 rounded-full bg-accent" />
         </div>
         <div className="order-last w-full sm:order-none sm:w-auto [&>div>div]:w-full [&>div]:w-full [&_button]:flex-1">
           <Segmented label="View" showLabel={false} options={Object.keys(TABS) as Tab[]} value={tab} onChange={onTab} render={t => TABS[t]} />

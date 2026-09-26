@@ -100,7 +100,7 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
           </h1>
           <p className="text-sm text-muted">
             {data ? `${rows.length.toLocaleString()} runners${cls === 'All' ? '' : ` in Class ${cls}`}` : ' '}
-            {data?.[1] && ` · arrows compare to week ${week - 1}`}
+            {data?.[1] && <> · <span className="text-up">▲</span><span className="text-down">▼</span> from week {week - 1}</>}
           </p>
         </div>
         <label className="relative sm:w-72">

@@ -1,6 +1,6 @@
 export type Gender = 'boys' | 'girls'
 export type SchoolClass = 'AA' | 'A' | 'B'
-export type Tab = 'rankings' | 'race'
+export type Tab = 'rankings' | 'race' | 'about'
 
 // Shape of data/{gender}_{year}_week{n}.json rows, written by sdxc-data's export.r
 export interface Runner {

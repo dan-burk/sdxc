@@ -1,4 +1,5 @@
 import { useState } from 'react'
+import { About } from './components/About'
 import { FilterBar, type ClassFilter } from './components/FilterBar'
 import { RaceSim } from './components/RaceSim'
 import { RankingsTable } from './components/RankingsTable'
@@ -38,17 +39,19 @@ function Shell({ manifest }: { manifest: Manifest }) {
     <div className="min-h-screen">
       <header className="sticky top-0 z-20">
         <TopBar tab={tab} onTab={setTab} />
-        <FilterBar
-          years={years} year={year} onYear={onYear}
-          latestWeek={manifest.years[year]} week={week} onWeek={setWeek}
-          gender={gender} onGender={setGender}
-          cls={tab === 'rankings' ? cls : undefined} onCls={setCls}
-        />
+        {tab !== 'about' && (
+          <FilterBar
+            years={years} year={year} onYear={onYear}
+            latestWeek={manifest.years[year]} week={week} onWeek={setWeek}
+            gender={gender} onGender={setGender}
+            cls={tab === 'rankings' ? cls : undefined} onCls={setCls}
+          />
+        )}
       </header>
       <main className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
-        {tab === 'rankings'
-          ? <RankingsTable gender={gender} year={year} week={week} cls={cls} />
-          : <RaceSim gender={gender} year={year} week={week} selected={schools} onSelected={setSchools} />}
+        {tab === 'rankings' && <RankingsTable gender={gender} year={year} week={week} cls={cls} />}
+        {tab === 'race' && <RaceSim gender={gender} year={year} week={week} selected={schools} onSelected={setSchools} />}
+        {tab === 'about' && <About />}
       </main>
     </div>
   )
