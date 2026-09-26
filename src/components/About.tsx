@@ -6,9 +6,9 @@ const LINKS = [
 
 // Example points are illustrative; only their order matters
 const EXAMPLE = [
-  { name: 'Daniel Burkhalter', time: '16:40', points: 1250, timeRank: 2, pointsRank: 1 },
+  { name: 'Gabe Peters', time: '16:40', points: 1250, timeRank: 2, pointsRank: 1 },
   { name: 'Jonathan Burkhalter', time: '15:30', points: 870, timeRank: 1, pointsRank: 3 },
-  { name: 'Justin Burkhalter', time: '17:00', points: 980, timeRank: 3, pointsRank: 2 },
+  { name: 'Daniel Burkhalter', time: '17:00', points: 980, timeRank: 3, pointsRank: 2 },
 ].map(r => ({ ...r, median: (r.timeRank + r.pointsRank) / 2 }))
 
 type Row = (typeof EXAMPLE)[number]
@@ -49,9 +49,9 @@ function HowItWorks() {
       <Step n={1} title="Rank by time" rows={by('timeRank')} value={r => r.time}
         caption="Jonathan has the fastest 5K, so he's first on time." />
       <Step n={2} title="Rank by points" rows={by('pointsRank')} value={r => r.points.toLocaleString()}
-        caption="Daniel has never lost to Jonathan, and Justin has more points than Jonathan too, so Jonathan is last on points." />
+        caption="Gabe has never lost to Jonathan, and Daniel has more points than Jonathan too, so Jonathan is last on points." />
       <Step n={3} title="Take the median rank" rows={by('median')} value={r => `${r.timeRank} & ${r.pointsRank} → ${r.median}`}
-        caption="With two ranks, the median is their average. Daniel's 1.5 beats Jonathan's 2, so Daniel ranks first overall." />
+        caption="With two ranks, the median is their average. Gabe's 1.5 beats Jonathan's 2, so Gabe ranks first overall." />
     </div>
   )
 }
