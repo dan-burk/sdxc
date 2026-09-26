@@ -1,4 +1,4 @@
-import type { Gender, Manifest, Runner, School } from './types'
+import type { Gender, Manifest, Runner, School, StateFinisher } from './types'
 
 // Dev reads the local data/ folder so unpushed exports can be previewed;
 // the deployed site reads master live, so data pushes need no redeploy.
@@ -25,3 +25,6 @@ export const getManifest = () => fetchJson<Manifest>('manifest.json')
 export const getSchools = (year: number) => fetchJson<School[]>(`schools_${year}.json`)
 export const getRankings = (gender: Gender, year: number, week: number) =>
   fetchJson<Runner[]>(`${gender}_${year}_week${week}.json`)
+// The state meet week uses the same file name but a different shape
+export const getStateResults = (gender: Gender, year: number, week: number) =>
+  fetchJson<StateFinisher[]>(`${gender}_${year}_week${week}.json`)

@@ -3,6 +3,7 @@ import { About } from './components/About'
 import { FilterBar, type ClassFilter } from './components/FilterBar'
 import { RaceSim } from './components/RaceSim'
 import { RankingsTable } from './components/RankingsTable'
+import { StateResults } from './components/StateResults'
 import { TopBar } from './components/TopBar'
 import { ErrorCard } from './components/ui'
 import { getManifest } from './data'
@@ -34,6 +35,8 @@ function Shell({ manifest }: { manifest: Manifest }) {
     setYear(y)
     setWeek(manifest.years[y])
   }
+  const stateWeek = manifest.state?.[year]
+  const isState = week === stateWeek
 
   return (
     <div className="min-h-screen">
@@ -42,15 +45,18 @@ function Shell({ manifest }: { manifest: Manifest }) {
         {tab !== 'about' && (
           <FilterBar
             years={years} year={year} onYear={onYear}
-            latestWeek={manifest.years[year]} week={week} onWeek={setWeek}
+            latestWeek={manifest.years[year]} stateWeek={stateWeek} week={week} onWeek={setWeek}
             gender={gender} onGender={setGender}
             cls={tab === 'rankings' ? cls : undefined} onCls={setCls}
           />
         )}
       </header>
       <main className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
-        {tab === 'rankings' && <RankingsTable gender={gender} year={year} week={week} cls={cls} />}
-        {tab === 'race' && <RaceSim gender={gender} year={year} week={week} selected={schools} onSelected={setSchools} />}
+        {tab === 'rankings' && (isState
+          ? <StateResults gender={gender} year={year} week={week} cls={cls} />
+          : <RankingsTable gender={gender} year={year} week={week} cls={cls} />)}
+        {/* The state week has no ranking, so the simulator uses the week before it */}
+        {tab === 'race' && <RaceSim gender={gender} year={year} week={isState ? week - 1 : week} selected={schools} onSelected={setSchools} />}
         {tab === 'about' && <About />}
       </main>
     </div>

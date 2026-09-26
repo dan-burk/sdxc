@@ -77,6 +77,16 @@ export function ClassBadge({ cls }: { cls: SchoolClass }) {
   )
 }
 
+// ▲n in green for gains, ▼n in red for losses, a muted dash for no change
+export function Delta({ value, title }: { value: number; title: string }) {
+  if (value === 0) return <span className="text-xs text-muted/60" title={title}>–</span>
+  return (
+    <span className={`text-xs font-semibold tabular-nums ${value > 0 ? 'text-up' : 'text-down'}`} title={title}>
+      {value > 0 ? '▲' : '▼'}{Math.abs(value)}
+    </span>
+  )
+}
+
 export function ErrorCard({ message, onRetry }: { message: string; onRetry: () => void }) {
   return (
     <div className="flex items-center justify-between gap-4 rounded border border-down/30 bg-down/5 p-4 text-sm text-down">

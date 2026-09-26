@@ -4,7 +4,7 @@ import { formatPoints, formatTime, titleCase } from '../format'
 import { useAsync } from '../hooks'
 import type { Gender, Runner } from '../types'
 import type { ClassFilter } from './FilterBar'
-import { ClassBadge, ErrorCard } from './ui'
+import { ClassBadge, Delta, ErrorCard } from './ui'
 
 type SortKey = 'rank' | 'name' | 'school' | 'class' | 'time' | 'points'
 type Move = number | 'new' | null // null when there's no previous week to compare
@@ -31,16 +31,8 @@ const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
 function Movement({ move, prevWeek }: { move: Move; prevWeek: number }) {
   if (move === null) return null
   if (move === 'new') return <span className="text-[10px] font-semibold tracking-wide text-accent">NEW</span>
-  if (move === 0) return <span className="text-xs text-muted/60" title={`No change from week ${prevWeek}`}>–</span>
-  const up = move > 0
-  return (
-    <span
-      className={`text-xs font-semibold tabular-nums ${up ? 'text-up' : 'text-down'}`}
-      title={`${up ? 'Up' : 'Down'} ${Math.abs(move)} from week ${prevWeek}`}
-    >
-      {up ? '▲' : '▼'}{Math.abs(move)}
-    </span>
-  )
+  const title = move === 0 ? `No change from week ${prevWeek}` : `${move > 0 ? 'Up' : 'Down'} ${Math.abs(move)} from week ${prevWeek}`
+  return <Delta value={move} title={title} />
 }
 
 interface Props {

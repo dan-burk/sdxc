@@ -19,7 +19,23 @@ export interface School {
   region?: string | null // "1A"–"5A" or "1B"–"5B"; AA has no regions
 }
 
+// Shape of a state meet week file: one row per state finisher
+export interface StateFinisher {
+  id: number
+  Name: string
+  School: string
+  school_class: SchoolClass
+  race: SchoolClass
+  place: number
+  predicted: number | null // place predicted by the prior week's rankings; null = no race before state
+  state_time: number // seconds
+  rnk_blnd: number | null // ranking going into state
+  points: number | null
+  time_min: number | null
+}
+
 export interface Manifest {
   current: number
   years: Record<string, number> // year -> latest scored week
+  state?: Record<string, number> // year -> state meet week
 }
