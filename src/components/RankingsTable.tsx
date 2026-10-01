@@ -159,16 +159,17 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
               <tr key={r.rnk_blnd} className="transition-colors hover:bg-surface-2/60">
                 <td className="px-3 py-2.5 sm:px-4">
                   <div className="flex items-center gap-2">
-                    <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[r.rnk_blnd - 1] ?? ''}`} />
-                    <span className="w-9 text-right font-display text-lg font-semibold tabular-nums">{r.rnk_blnd}</span>
-                    <span className="w-9"><Movement move={moves(r)} prevWeek={week - 1} /></span>
+                    <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[(cls === 'All' ? r.rnk_blnd : classRanks.get(r.rnk_blnd)!) - 1] ?? ''}`} />
+                    <span className="w-9 text-right font-display text-lg font-semibold tabular-nums">
+                      {cls === 'All' ? r.rnk_blnd : classRanks.get(r.rnk_blnd)}
+                    </span>
+                    {cls === 'All' && <span className="w-9"><Movement move={moves(r)} prevWeek={week - 1} /></span>}
                   </div>
+                  {/* Filtered to a class: class rank is the big number, the statewide rank and its movement go underneath */}
                   {cls !== 'All' && (
-                    <div className="flex gap-2">
-                      <span className="w-1.5 shrink-0" />
-                      <span className="w-9 whitespace-nowrap text-right text-[10px] leading-none text-muted tabular-nums">
-                        {cls} #{classRanks.get(r.rnk_blnd)}
-                      </span>
+                    <div className="flex items-center gap-1 whitespace-nowrap pl-3.5 text-[10px] leading-none text-muted tabular-nums [&_span]:text-[10px]">
+                      State #{r.rnk_blnd}
+                      <Movement move={moves(r)} prevWeek={week - 1} />
                     </div>
                   )}
                 </td>
