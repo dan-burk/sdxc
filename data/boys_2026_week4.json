@@ -2,7 +2,7 @@
   {
     "Name": "TYRUS NEEDLES",
     "School": "SF Lincoln",
-    "id": 746,
+    "id": 828,
     "adj_time": 906.63,
     "time_min": 895,
     "rnk_blnd": 1,
@@ -11,7 +11,7 @@
   {
     "Name": "COLE REILLY",
     "School": "SF Washington",
-    "id": 170,
+    "id": 188,
     "adj_time": 920.94,
     "time_min": 893.8,
     "rnk_blnd": 2,
@@ -20,7 +20,7 @@
   {
     "Name": "ERIC ERREA",
     "School": "Rapid City Central",
-    "id": 261,
+    "id": 289,
     "adj_time": 930.74,
     "time_min": 916.4,
     "rnk_blnd": 3,
@@ -29,7 +29,7 @@
   {
     "Name": "DANE STARK",
     "School": "Watertown",
-    "id": 200,
+    "id": 221,
     "adj_time": 950.84,
     "time_min": 938.1,
     "rnk_blnd": 4,
@@ -38,7 +38,7 @@
   {
     "Name": "TATE DEVRIES",
     "School": "Aberdeen Central",
-    "id": 707,
+    "id": 786,
     "adj_time": 953.23,
     "time_min": 935.6,
     "rnk_blnd": 5,
@@ -47,7 +47,7 @@
   {
     "Name": "HENRY SAYLER",
     "School": "SF Lincoln",
-    "id": 336,
+    "id": 370,
     "adj_time": 954.18,
     "time_min": 955.8,
     "rnk_blnd": 6,
@@ -56,7 +56,7 @@
   {
     "Name": "REID GROHER",
     "School": "SF Lincoln",
-    "id": 641,
+    "id": 710,
     "adj_time": 964.31,
     "time_min": 960.9,
     "rnk_blnd": 7,
@@ -65,7 +65,7 @@
   {
     "Name": "LEVI VANDER LEEST",
     "School": "SF Christian",
-    "id": 507,
+    "id": 556,
     "adj_time": 964.33,
     "time_min": 957.8,
     "rnk_blnd": 8,
@@ -74,7 +74,7 @@
   {
     "Name": "DYLAN HAAR",
     "School": "Brookings",
-    "id": 233,
+    "id": 258,
     "adj_time": 964.88,
     "time_min": 953.2,
     "rnk_blnd": 9,
@@ -83,7 +83,7 @@
   {
     "Name": "BEN PARSONS",
     "School": "SF Washington",
-    "id": 66,
+    "id": 73,
     "adj_time": 965.88,
     "time_min": 946.3,
     "rnk_blnd": 10,
@@ -92,7 +92,7 @@
   {
     "Name": "FRANK VANDY",
     "School": "SF Lincoln",
-    "id": 283,
+    "id": 313,
     "adj_time": 966.8,
     "time_min": 969.2,
     "rnk_blnd": 11,
@@ -101,7 +101,7 @@
   {
     "Name": "RUBEN BOKEGARD",
     "School": "Sturgis Brown",
-    "id": 658,
+    "id": 731,
     "adj_time": 967.74,
     "time_min": 960.2,
     "rnk_blnd": 12,
@@ -110,7 +110,7 @@
   {
     "Name": "ETHAN KYTE",
     "School": "Brandon Valley",
-    "id": 268,
+    "id": 296,
     "adj_time": 968.22,
     "time_min": 956.3,
     "rnk_blnd": 13,
@@ -119,7 +119,7 @@
   {
     "Name": "ASHER SELNESS",
     "School": "Brandon Valley",
-    "id": 49,
+    "id": 52,
     "adj_time": 973.62,
     "time_min": 982,
     "rnk_blnd": 14,
@@ -128,7 +128,7 @@
   {
     "Name": "RIDDICK ISEMINGER",
     "School": "SF Lincoln",
-    "id": 646,
+    "id": 717,
     "adj_time": 973.79,
     "time_min": 977.8,
     "rnk_blnd": 15,
@@ -137,7 +137,7 @@
   {
     "Name": "GRIFFIN MILLER",
     "School": "SF Washington",
-    "id": 321,
+    "id": 354,
     "adj_time": 973.8,
     "time_min": 965.2,
     "rnk_blnd": 16,
@@ -146,7 +146,7 @@
   {
     "Name": "RYLAN VANDEEST",
     "School": "Spearfish",
-    "id": 666,
+    "id": 741,
     "adj_time": 976.33,
     "time_min": 953.9,
     "rnk_blnd": 17,
@@ -155,7 +155,7 @@
   {
     "Name": "WYATT BALLIEW",
     "School": "Douglas",
-    "id": 768,
+    "id": 854,
     "adj_time": 978.94,
     "time_min": 955.3,
     "rnk_blnd": 18,
@@ -164,7 +164,7 @@
   {
     "Name": "LUKE FEIMER",
     "School": "Yankton",
-    "id": 530,
+    "id": 582,
     "adj_time": 979.38,
     "time_min": 977.7,
     "rnk_blnd": 19,
@@ -173,7 +173,7 @@
   {
     "Name": "SAWYER PETTENGILL",
     "School": "SF Christian",
-    "id": 685,
+    "id": 762,
     "adj_time": 984.3,
     "time_min": 977.1,
     "rnk_blnd": 20,
@@ -182,7 +182,7 @@
   {
     "Name": "BEN DIRKS",
     "School": "Harrisburg",
-    "id": 64,
+    "id": 71,
     "adj_time": 986.88,
     "time_min": 958.8,
     "rnk_blnd": 21,
@@ -200,7 +200,7 @@
   {
     "Name": "LENNON CLARKSON",
     "School": "Belle Fourche",
-    "id": 497,
+    "id": 546,
     "adj_time": 989.42,
     "time_min": 984.2,
     "rnk_blnd": 23,
@@ -209,7 +209,7 @@
   {
     "Name": "EVAN PERRIGO",
     "School": "Rapid City Stevens",
-    "id": 274,
+    "id": 302,
     "adj_time": 990.09,
     "time_min": 964.3,
     "rnk_blnd": 24,
@@ -218,7 +218,7 @@
   {
     "Name": "GAGE BEVERLY",
     "School": "Vermillion",
-    "id": 292,
+    "id": 322,
     "adj_time": 990.25,
     "time_min": 976.4,
     "rnk_blnd": 25,
@@ -227,7 +227,7 @@
   {
     "Name": "JACKSON SCHEMA",
     "School": "O'Gorman",
-    "id": 377,
+    "id": 417,
     "adj_time": 990.64,
     "time_min": 978.8,
     "rnk_blnd": 26,
@@ -236,7 +236,7 @@
   {
     "Name": "DAYTON HILL",
     "School": "SF Washington",
-    "id": 210,
+    "id": 232,
     "adj_time": 992,
     "time_min": 976.9,
     "rnk_blnd": 27,
@@ -245,7 +245,7 @@
   {
     "Name": "PEYTON TETZLAFF",
     "School": "West Central",
-    "id": 630,
+    "id": 699,
     "adj_time": 992.21,
     "time_min": 959.2,
     "rnk_blnd": 28,
@@ -254,7 +254,7 @@
   {
     "Name": "HENA ABREHAM",
     "School": "SF Washington",
-    "id": 331,
+    "id": 365,
     "adj_time": 992.92,
     "time_min": 974.9,
     "rnk_blnd": 29,
@@ -263,7 +263,7 @@
   {
     "Name": "MARCUS MUNSCH",
     "School": "Brandon Valley",
-    "id": 545,
+    "id": 599,
     "adj_time": 996.22,
     "time_min": 992.1,
     "rnk_blnd": 30,
@@ -272,7 +272,7 @@
   {
     "Name": "SAMUEL MISCHKE",
     "School": "Brandon Valley",
-    "id": 681,
+    "id": 758,
     "adj_time": 999.25,
     "time_min": 988.9,
     "rnk_blnd": 31,
@@ -290,7 +290,7 @@
   {
     "Name": "AUSTIN DITTMER",
     "School": "SF Roosevelt",
-    "id": 52,
+    "id": 56,
     "adj_time": 1002.28,
     "time_min": 986.2,
     "rnk_blnd": 33,
@@ -299,7 +299,7 @@
   {
     "Name": "JACKSON TAKEN ALIVE",
     "School": "Cheyenne-Eagle Butte",
-    "id": 380,
+    "id": 420,
     "adj_time": 1002.43,
     "time_min": 942.3,
     "rnk_blnd": 34,
@@ -308,7 +308,7 @@
   {
     "Name": "JAMISON GOULD",
     "School": "Dakota Valley",
-    "id": 395,
+    "id": 438,
     "adj_time": 1002.84,
     "time_min": 978.1,
     "rnk_blnd": 35,
@@ -317,7 +317,7 @@
   {
     "Name": "MICHAEL MATHERLY",
     "School": "SF Christian",
-    "id": 575,
+    "id": 639,
     "adj_time": 1002.97,
     "time_min": 991.5,
     "rnk_blnd": 36,
@@ -326,7 +326,7 @@
   {
     "Name": "SAM GUSSO",
     "School": "SF Lincoln",
-    "id": 674,
+    "id": 751,
     "adj_time": 1003.09,
     "time_min": 1003.8,
     "rnk_blnd": 37,
@@ -335,7 +335,7 @@
   {
     "Name": "JACKSON STORM",
     "School": "SF Washington",
-    "id": 379,
+    "id": 419,
     "adj_time": 1005.67,
     "time_min": 998.7,
     "rnk_blnd": 38,
@@ -344,7 +344,7 @@
   {
     "Name": "WESLEY LYON",
     "School": "SF Christian",
-    "id": 758,
+    "id": 842,
     "adj_time": 1005.74,
     "time_min": 998,
     "rnk_blnd": 39,
@@ -353,7 +353,7 @@
   {
     "Name": "JACKSON BOLTJES",
     "School": "SF Washington",
-    "id": 373,
+    "id": 413,
     "adj_time": 1006.68,
     "time_min": 1000.5,
     "rnk_blnd": 40,
@@ -362,7 +362,7 @@
   {
     "Name": "TATE VAN BEEK",
     "School": "Rapid City Stevens",
-    "id": 712,
+    "id": 791,
     "adj_time": 1007.35,
     "time_min": 976.2,
     "rnk_blnd": 41,
@@ -371,7 +371,7 @@
   {
     "Name": "MASON GILL",
     "School": "Spearfish",
-    "id": 553,
+    "id": 609,
     "adj_time": 1011.39,
     "time_min": 985.5,
     "rnk_blnd": 42,
@@ -380,7 +380,7 @@
   {
     "Name": "MAX NELSON",
     "School": "Aberdeen Central",
-    "id": 564,
+    "id": 626,
     "adj_time": 1013.5,
     "time_min": 1006.9,
     "rnk_blnd": 43,
@@ -389,7 +389,7 @@
   {
     "Name": "ISAAC LARRINGTON",
     "School": "Yankton",
-    "id": 352,
+    "id": 390,
     "adj_time": 1014.89,
     "time_min": 1009.4,
     "rnk_blnd": 44,
@@ -398,7 +398,7 @@
   {
     "Name": "SILAS HOLDEMAN",
     "School": "Mitchell Christian",
-    "id": 696,
+    "id": 775,
     "adj_time": 1015.87,
     "time_min": 973.2,
     "rnk_blnd": 45,
@@ -407,7 +407,7 @@
   {
     "Name": "MYLAN MCDANIEL",
     "School": "Rapid City Central",
-    "id": 583,
+    "id": 647,
     "adj_time": 1016.55,
     "time_min": 992.2,
     "rnk_blnd": 46,
@@ -416,7 +416,7 @@
   {
     "Name": "CARTER COOPER",
     "School": "Custer",
-    "id": 135,
+    "id": 150,
     "adj_time": 1016.98,
     "time_min": 980.4,
     "rnk_blnd": 47,
@@ -425,7 +425,7 @@
   {
     "Name": "CARTER THOMPSON",
     "School": "Spearfish",
-    "id": 142,
+    "id": 158,
     "adj_time": 1017.63,
     "time_min": 991,
     "rnk_blnd": 48,
@@ -434,7 +434,7 @@
   {
     "Name": "LUKE JACOBSON",
     "School": "Yankton",
-    "id": 531,
+    "id": 583,
     "adj_time": 1017.8,
     "time_min": 1015.4,
     "rnk_blnd": 49,
@@ -443,7 +443,7 @@
   {
     "Name": "OSCAR EDELEN",
     "School": "Vermillion",
-    "id": 617,
+    "id": 684,
     "adj_time": 1018.09,
     "time_min": 1004.4,
     "rnk_blnd": 50,
@@ -452,7 +452,7 @@
   {
     "Name": "HAYDEN JANSEN",
     "School": "Freeman",
-    "id": 329,
+    "id": 363,
     "adj_time": 1018.61,
     "time_min": 1021.9,
     "rnk_blnd": 51,
@@ -461,7 +461,7 @@
   {
     "Name": "LANDON STRASSER",
     "School": "Lennox",
-    "id": 492,
+    "id": 541,
     "adj_time": 1022.06,
     "time_min": 1011.1,
     "rnk_blnd": 52,
@@ -470,7 +470,7 @@
   {
     "Name": "GAVIN JOHNSON",
     "School": "SF Jefferson",
-    "id": 300,
+    "id": 332,
     "adj_time": 1022.53,
     "time_min": 1012.3,
     "rnk_blnd": 53,
@@ -479,7 +479,7 @@
   {
     "Name": "JAXTON RINEHART",
     "School": "Tri-Valley",
-    "id": 411,
+    "id": 455,
     "adj_time": 1023.34,
     "time_min": 992.4,
     "rnk_blnd": 54,
@@ -488,7 +488,7 @@
   {
     "Name": "EDRIK SAEGER",
     "School": "SF Lincoln",
-    "id": 240,
+    "id": 266,
     "adj_time": 1023.36,
     "time_min": 1029.1,
     "rnk_blnd": 55,
@@ -497,7 +497,7 @@
   {
     "Name": "KADEN OBER",
     "School": "James Valley Christian",
-    "id": 461,
+    "id": 507,
     "adj_time": 1023.95,
     "time_min": 997.1,
     "rnk_blnd": 56,
@@ -506,7 +506,7 @@
   {
     "Name": "WESTON ADAMS",
     "School": "Rapid City Stevens",
-    "id": 759,
+    "id": 843,
     "adj_time": 1025.2,
     "time_min": 1005,
     "rnk_blnd": 57,
@@ -515,7 +515,7 @@
   {
     "Name": "CARTER SIEMONSMA",
     "School": "Garretson",
-    "id": 140,
+    "id": 156,
     "adj_time": 1025.53,
     "time_min": 974,
     "rnk_blnd": 58,
@@ -524,7 +524,7 @@
   {
     "Name": "REID HAMMERQUIST",
     "School": "Tea Area",
-    "id": 642,
+    "id": 711,
     "adj_time": 1025.9,
     "time_min": 1001,
     "rnk_blnd": 59,
@@ -533,7 +533,7 @@
   {
     "Name": "DAWSON LOWERY",
     "School": "Harrisburg",
-    "id": 209,
+    "id": 231,
     "adj_time": 1026.05,
     "time_min": 1015.1,
     "rnk_blnd": 60,
@@ -542,7 +542,7 @@
   {
     "Name": "BRAEDEN RAGA",
     "School": "SF Lincoln",
-    "id": 89,
+    "id": 97,
     "adj_time": 1026.1,
     "time_min": 1032.5,
     "rnk_blnd": 61,
@@ -551,7 +551,7 @@
   {
     "Name": "HENRY SMITH",
     "School": "O'Gorman",
-    "id": 337,
+    "id": 371,
     "adj_time": 1030.72,
     "time_min": 1011.9,
     "rnk_blnd": 62,
@@ -560,7 +560,7 @@
   {
     "Name": "LUKE MENTELE",
     "School": "Mitchell Christian",
-    "id": 533,
+    "id": 585,
     "adj_time": 1031.39,
     "time_min": 996.7,
     "rnk_blnd": 63,
@@ -569,7 +569,7 @@
   {
     "Name": "JUSTIN BURKHALTER",
     "School": "Bison",
-    "id": 455,
+    "id": 500,
     "adj_time": 1032.89,
     "time_min": 1002.6,
     "rnk_blnd": 64,
@@ -578,7 +578,7 @@
   {
     "Name": "NOAH HANSEN",
     "School": "Rapid City Stevens",
-    "id": 596,
+    "id": 661,
     "adj_time": 1034.06,
     "time_min": 1011.8,
     "rnk_blnd": 65,
@@ -587,7 +587,7 @@
   {
     "Name": "JETER SCOULAR",
     "School": "Milbank",
-    "id": 422,
+    "id": 466,
     "adj_time": 1034.98,
     "time_min": 981,
     "rnk_blnd": 66,
@@ -596,7 +596,7 @@
   {
     "Name": "TEEGAN GROSZ",
     "School": "Rapid City Central",
-    "id": 718,
+    "id": 797,
     "adj_time": 1035.14,
     "time_min": 1019.4,
     "rnk_blnd": 67,
@@ -605,7 +605,7 @@
   {
     "Name": "BROOKS ORDWAY",
     "School": "Harrisburg",
-    "id": 110,
+    "id": 120,
     "adj_time": 1035.18,
     "time_min": 1032.1,
     "rnk_blnd": 68,
@@ -614,7 +614,7 @@
   {
     "Name": "SAM VANRAALTE",
     "School": "SF Christian",
-    "id": 678,
+    "id": 755,
     "adj_time": 1037.38,
     "time_min": 1019.6,
     "rnk_blnd": 69,
@@ -623,7 +623,7 @@
   {
     "Name": "LANDON DOYLE",
     "School": "SF Washington",
-    "id": 489,
+    "id": 538,
     "adj_time": 1038.3,
     "time_min": 1021.7,
     "rnk_blnd": 70,
@@ -632,7 +632,7 @@
   {
     "Name": "PEYTON KRUEGER",
     "School": "Custer",
-    "id": 629,
+    "id": 698,
     "adj_time": 1042.55,
     "time_min": 1018.8,
     "rnk_blnd": 71,
@@ -641,7 +641,7 @@
   {
     "Name": "JOHN TOATES",
     "School": "Brandon Valley",
-    "id": 434,
+    "id": 478,
     "adj_time": 1043.31,
     "time_min": 1042,
     "rnk_blnd": 72,
@@ -650,7 +650,7 @@
   {
     "Name": "RYDER GRAFF",
     "School": "Sisseton",
-    "id": 663,
+    "id": 737,
     "adj_time": 1043.6,
     "time_min": 1014,
     "rnk_blnd": 73,
@@ -659,7 +659,7 @@
   {
     "Name": "JACK LAFERRIER",
     "School": "Elk Point-Jefferson",
-    "id": 368,
+    "id": 408,
     "adj_time": 1043.73,
     "time_min": 1039.4,
     "rnk_blnd": 74,
@@ -668,7 +668,7 @@
   {
     "Name": "AYDEN BERNDT",
     "School": "Rapid City Central",
-    "id": 55,
+    "id": 59,
     "adj_time": 1045.89,
     "time_min": 1034.2,
     "rnk_blnd": 75,
@@ -677,7 +677,7 @@
   {
     "Name": "ISAAK BOOKER",
     "School": "Lennox",
-    "id": 358,
+    "id": 396,
     "adj_time": 1046.52,
     "time_min": 1029.9,
     "rnk_blnd": 76,
@@ -686,7 +686,7 @@
   {
     "Name": "DANIEL MASON",
     "School": "Pierre T.F. Riggs",
-    "id": 201,
+    "id": 222,
     "adj_time": 1047.58,
     "time_min": 1021.1,
     "rnk_blnd": 77,
@@ -704,7 +704,7 @@
   {
     "Name": "DAWSON DEERING",
     "School": "Sturgis Brown",
-    "id": 207,
+    "id": 229,
     "adj_time": 1049.38,
     "time_min": 1005.9,
     "rnk_blnd": 79,
@@ -713,7 +713,7 @@
   {
     "Name": "ZACHARY COOPER",
     "School": "Custer",
-    "id": 782,
+    "id": 870,
     "adj_time": 1050.18,
     "time_min": 1038.4,
     "rnk_blnd": 80,
@@ -731,7 +731,7 @@
   {
     "Name": "ISAAC PAULSON",
     "School": "Yankton",
-    "id": 353,
+    "id": 391,
     "adj_time": 1052.99,
     "time_min": 1041.9,
     "rnk_blnd": 82,
@@ -740,7 +740,7 @@
   {
     "Name": "JIM NEDDO",
     "School": "Pierre T.F. Riggs",
-    "id": 424,
+    "id": 468,
     "adj_time": 1053.9,
     "time_min": 1043.8,
     "rnk_blnd": 83,
@@ -749,7 +749,7 @@
   {
     "Name": "JOHN TITUS ISAKSON",
     "School": "Hill City",
-    "id": 433,
+    "id": 477,
     "adj_time": 1054.54,
     "time_min": 1020.7,
     "rnk_blnd": 84,
@@ -758,7 +758,7 @@
   {
     "Name": "QUINNTIN MISCHKE",
     "School": "Brandon Valley",
-    "id": 635,
+    "id": 704,
     "adj_time": 1054.93,
     "time_min": 1004.2,
     "rnk_blnd": 85,
@@ -767,7 +767,7 @@
   {
     "Name": "MICAH REEDE",
     "School": "Lemmon",
-    "id": 570,
+    "id": 634,
     "adj_time": 1056.7,
     "time_min": 1009,
     "rnk_blnd": 86,
@@ -776,7 +776,7 @@
   {
     "Name": "BEN QUAIL",
     "School": "Vermillion",
-    "id": 67,
+    "id": 74,
     "adj_time": 1056.98,
     "time_min": 1046.7,
     "rnk_blnd": 87,
@@ -785,7 +785,7 @@
   {
     "Name": "KEATON FOPMA",
     "School": "SF Christian",
-    "id": 471,
+    "id": 518,
     "adj_time": 1057.27,
     "time_min": 1043.2,
     "rnk_blnd": 88,
@@ -794,7 +794,7 @@
   {
     "Name": "NOAH BAUMBACH",
     "School": "SF Lutheran",
-    "id": 591,
+    "id": 656,
     "adj_time": 1057.88,
     "time_min": 1030.5,
     "rnk_blnd": 89,
@@ -803,7 +803,7 @@
   {
     "Name": "NOLAN EIDSON",
     "School": "Castlewood",
-    "id": 606,
+    "id": 671,
     "adj_time": 1059.08,
     "time_min": 1001,
     "rnk_blnd": 90,
@@ -812,7 +812,7 @@
   {
     "Name": "WYATT GAETA",
     "School": "Rapid City Stevens",
-    "id": 774,
+    "id": 861,
     "adj_time": 1059.4,
     "time_min": 1023.8,
     "rnk_blnd": 91,
@@ -821,7 +821,7 @@
   {
     "Name": "MAX MCDONALD",
     "School": "SF Christian",
-    "id": 563,
+    "id": 624,
     "adj_time": 1060.92,
     "time_min": 1042,
     "rnk_blnd": 92,
@@ -830,7 +830,7 @@
   {
     "Name": "LIAM GILL",
     "School": "Chamberlain",
-    "id": 510,
+    "id": 559,
     "adj_time": 1062.71,
     "time_min": 999.9,
     "rnk_blnd": 93,
@@ -839,7 +839,7 @@
   {
     "Name": "NATHAN FLANAGAN",
     "School": "Harrisburg",
-    "id": 585,
+    "id": 649,
     "adj_time": 1064.68,
     "time_min": 1050.7,
     "rnk_blnd": 94,
@@ -848,7 +848,7 @@
   {
     "Name": "ROMAN JEFFERY",
     "School": "Spearfish",
-    "id": 652,
+    "id": 725,
     "adj_time": 1065.01,
     "time_min": 1032.1,
     "rnk_blnd": 95,
@@ -857,7 +857,7 @@
   {
     "Name": "ARGO GRAFF",
     "School": "Rapid City Stevens",
-    "id": 42,
+    "id": 45,
     "adj_time": 1065.31,
     "time_min": null,
     "rnk_blnd": 96,
@@ -866,7 +866,7 @@
   {
     "Name": "XAVIER SANCHEZ-GONZALEZ",
     "School": "Cheyenne-Eagle Butte",
-    "id": 780,
+    "id": 868,
     "adj_time": 1065.42,
     "time_min": 1004.7,
     "rnk_blnd": 97,
@@ -875,7 +875,7 @@
   {
     "Name": "JEREMIAH WHITE",
     "School": "Hill City",
-    "id": 420,
+    "id": 464,
     "adj_time": 1067.95,
     "time_min": 1037.4,
     "rnk_blnd": 98,
@@ -884,7 +884,7 @@
   {
     "Name": "DREW CHAVEZ",
     "School": "Rapid City Central",
-    "id": 229,
+    "id": 252,
     "adj_time": 1069.57,
     "time_min": 1053.2,
     "rnk_blnd": 99,
@@ -893,7 +893,7 @@
   {
     "Name": "ELIJAH HAUKAAS",
     "School": "White River",
-    "id": 250,
+    "id": 277,
     "adj_time": 1069.69,
     "time_min": 991.3,
     "rnk_blnd": 100,
@@ -902,7 +902,7 @@
   {
     "Name": "DEMETRIUS SANCHEZ-GONZALEZ",
     "School": "Cheyenne-Eagle Butte",
-    "id": 216,
+    "id": 238,
     "adj_time": 1070.76,
     "time_min": 1013.6,
     "rnk_blnd": 101,
@@ -911,7 +911,7 @@
   {
     "Name": "ANDREW KOOLE",
     "School": "SF Christian",
-    "id": 32,
+    "id": 35,
     "adj_time": 1070.78,
     "time_min": 1076.3,
     "rnk_blnd": 102,
@@ -920,7 +920,7 @@
   {
     "Name": "JAKE MALCHOW",
     "School": "SF Washington",
-    "id": 388,
+    "id": 430,
     "adj_time": 1070.86,
     "time_min": 1053.6,
     "rnk_blnd": 103,
@@ -929,7 +929,7 @@
   {
     "Name": "ISAAC SPAHR",
     "School": "Brandon Valley",
-    "id": 355,
+    "id": 393,
     "adj_time": 1071.34,
     "time_min": 1061.3,
     "rnk_blnd": 104,
@@ -938,7 +938,7 @@
   {
     "Name": "CADEN HOURIGAN",
     "School": "Deuel",
-    "id": 120,
+    "id": 130,
     "adj_time": 1074.66,
     "time_min": 1044.3,
     "rnk_blnd": 105,
@@ -947,7 +947,7 @@
   {
     "Name": "GIDEON OKKEN",
     "School": "Harrisburg",
-    "id": 306,
+    "id": 339,
     "adj_time": 1075.13,
     "time_min": 1047.1,
     "rnk_blnd": 106,
@@ -956,7 +956,7 @@
   {
     "Name": "BASTIAN GONZALES",
     "School": "Spearfish",
-    "id": 58,
+    "id": 64,
     "adj_time": 1075.76,
     "time_min": 1045.7,
     "rnk_blnd": 107,
@@ -965,7 +965,7 @@
   {
     "Name": "BRUX HARTMAN",
     "School": "Belle Fourche",
-    "id": 112,
+    "id": 122,
     "adj_time": 1075.97,
     "time_min": 1055.8,
     "rnk_blnd": 108,
@@ -974,7 +974,7 @@
   {
     "Name": "WYATT COOLEY",
     "School": "Brookings",
-    "id": 770,
+    "id": 856,
     "adj_time": 1076.13,
     "time_min": 1055.2,
     "rnk_blnd": 109,
@@ -983,7 +983,7 @@
   {
     "Name": "ZACH NIELSEN",
     "School": "West Central",
-    "id": 781,
+    "id": 869,
     "adj_time": 1077.57,
     "time_min": 1063.6,
     "rnk_blnd": 110,
@@ -992,7 +992,7 @@
   {
     "Name": "LEVI CRANDALL",
     "School": "James Valley Christian",
-    "id": 504,
+    "id": 553,
     "adj_time": 1077.94,
     "time_min": 1059.5,
     "rnk_blnd": 111,
@@ -1001,7 +1001,7 @@
   {
     "Name": "REECE CHRISTIAN",
     "School": "Tea Area",
-    "id": 638,
+    "id": 707,
     "adj_time": 1078.88,
     "time_min": 1062.7,
     "rnk_blnd": 112,
@@ -1010,7 +1010,7 @@
   {
     "Name": "ESPN MAGELKY",
     "School": "Rapid City Central",
-    "id": 262,
+    "id": 290,
     "adj_time": 1079.85,
     "time_min": 1073.8,
     "rnk_blnd": 113,
@@ -1019,7 +1019,7 @@
   {
     "Name": "OLIVER MIKEL",
     "School": "SF Lincoln",
-    "id": 614,
+    "id": 680,
     "adj_time": 1080.04,
     "time_min": 1076.2,
     "rnk_blnd": 114,
@@ -1028,7 +1028,7 @@
   {
     "Name": "JOSH MERRIMAN",
     "School": "Beresford",
-    "id": 447,
+    "id": 491,
     "adj_time": 1080.18,
     "time_min": 1026.9,
     "rnk_blnd": 115,
@@ -1037,7 +1037,7 @@
   {
     "Name": "SAWYER HOLDEMAN",
     "School": "Mitchell Christian",
-    "id": 684,
+    "id": 761,
     "adj_time": 1081.09,
     "time_min": 1029.1,
     "rnk_blnd": 116,
@@ -1046,7 +1046,7 @@
   {
     "Name": "BECKETT FENNEL",
     "School": "Elk Point-Jefferson",
-    "id": 60,
+    "id": 66,
     "adj_time": 1081.81,
     "time_min": 1074.1,
     "rnk_blnd": 117,
@@ -1055,7 +1055,7 @@
   {
     "Name": "ISAAC CLEMENT",
     "School": "Douglas",
-    "id": 349,
+    "id": 386,
     "adj_time": 1082.37,
     "time_min": 1040.8,
     "rnk_blnd": 118,
@@ -1064,7 +1064,7 @@
   {
     "Name": "JACE BENDER",
     "School": "Leola/Frederick Area",
-    "id": 365,
+    "id": 403,
     "adj_time": 1083.6,
     "time_min": 1066.4,
     "rnk_blnd": 119,
@@ -1073,7 +1073,7 @@
   {
     "Name": "WILL TIBBETTS",
     "School": "SF Lincoln",
-    "id": 764,
+    "id": 848,
     "adj_time": 1084.27,
     "time_min": 1075.3,
     "rnk_blnd": 120,
@@ -1082,7 +1082,7 @@
   {
     "Name": "LANE MCCUNE",
     "School": "Freeman",
-    "id": 494,
+    "id": 543,
     "adj_time": 1084.34,
     "time_min": 1041.2,
     "rnk_blnd": 121,
@@ -1091,7 +1091,7 @@
   {
     "Name": "BRIAR HORN",
     "School": "West Central",
-    "id": 101,
+    "id": 111,
     "adj_time": 1084.34,
     "time_min": 1039.4,
     "rnk_blnd": 122,
@@ -1100,7 +1100,7 @@
   {
     "Name": "LOGAN KONTZ",
     "School": "Flandreau",
-    "id": 520,
+    "id": 571,
     "adj_time": 1085.76,
     "time_min": 1039.3,
     "rnk_blnd": 123,
@@ -1109,7 +1109,7 @@
   {
     "Name": "DARRON MOELLER",
     "School": "Kimball/White Lake",
-    "id": 204,
+    "id": 225,
     "adj_time": 1086.2,
     "time_min": 1007.2,
     "rnk_blnd": 124,
@@ -1118,7 +1118,7 @@
   {
     "Name": "OTTO WINTERS",
     "School": "Brandon Valley",
-    "id": 618,
+    "id": 685,
     "adj_time": 1088.66,
     "time_min": 1081.3,
     "rnk_blnd": 125,
@@ -1127,7 +1127,7 @@
   {
     "Name": "LIAM NIELSEN",
     "School": "SF Roosevelt",
-    "id": 512,
+    "id": 562,
     "adj_time": 1088.83,
     "time_min": 1061.6,
     "rnk_blnd": 126,
@@ -1136,7 +1136,7 @@
   {
     "Name": "ETHAN MCGREGOR",
     "School": "Garretson",
-    "id": 269,
+    "id": 297,
     "adj_time": 1089.34,
     "time_min": 1009.3,
     "rnk_blnd": 127,
@@ -1145,7 +1145,7 @@
   {
     "Name": "BLAKE PETERSON",
     "School": "Rapid City Stevens",
-    "id": 77,
+    "id": 84,
     "adj_time": 1089.43,
     "time_min": 1049.1,
     "rnk_blnd": 128,
@@ -1154,7 +1154,7 @@
   {
     "Name": "RYLAN CUNY",
     "School": "Mahpiya Luta",
-    "id": 665,
+    "id": 740,
     "adj_time": 1089.43,
     "time_min": 1026.6,
     "rnk_blnd": 129,
@@ -1163,7 +1163,7 @@
   {
     "Name": "WALTER GRAESSER",
     "School": "Platte-Geddes",
-    "id": 756,
+    "id": 840,
     "adj_time": 1090.19,
     "time_min": 1009.9,
     "rnk_blnd": 130,
@@ -1172,7 +1172,7 @@
   {
     "Name": "GAVIN CHIARONI",
     "School": "Douglas",
-    "id": 297,
+    "id": 328,
     "adj_time": 1090.28,
     "time_min": 1078,
     "rnk_blnd": 131,
@@ -1181,7 +1181,7 @@
   {
     "Name": "JACKSON HARE",
     "School": "Rapid City Central",
-    "id": 375,
+    "id": 415,
     "adj_time": 1090.41,
     "time_min": 1081.3,
     "rnk_blnd": 132,
@@ -1190,7 +1190,7 @@
   {
     "Name": "ANTHONY STEVENS",
     "School": "Spearfish",
-    "id": 37,
+    "id": 40,
     "adj_time": 1092.24,
     "time_min": 1069.7,
     "rnk_blnd": 133,
@@ -1199,7 +1199,7 @@
   {
     "Name": "JACKSON WOLTER",
     "School": "Sanborn Central/Woonsocket",
-    "id": 381,
+    "id": 421,
     "adj_time": 1092.32,
     "time_min": 1034,
     "rnk_blnd": 134,
@@ -1208,7 +1208,7 @@
   {
     "Name": "LUKE MINOR",
     "School": "O'Gorman",
-    "id": 535,
+    "id": 587,
     "adj_time": 1092.55,
     "time_min": 1071.9,
     "rnk_blnd": 135,
@@ -1217,7 +1217,7 @@
   {
     "Name": "KORBIN STARK",
     "School": "Faulkton Area",
-    "id": 481,
+    "id": 530,
     "adj_time": 1092.76,
     "time_min": 1020,
     "rnk_blnd": 136,
@@ -1226,7 +1226,7 @@
   {
     "Name": "CAMDEN TEBAY",
     "School": "Dell Rapids",
-    "id": 127,
+    "id": 139,
     "adj_time": 1093.58,
     "time_min": 1091.4,
     "rnk_blnd": 137,
@@ -1235,7 +1235,7 @@
   {
     "Name": "RYAN HELDENBRAND",
     "School": "O'Gorman",
-    "id": 660,
+    "id": 733,
     "adj_time": 1094.18,
     "time_min": 1073.5,
     "rnk_blnd": 138,
@@ -1244,7 +1244,7 @@
   {
     "Name": "PETER QUINLIVAN",
     "School": "SF Roosevelt",
-    "id": 627,
+    "id": 696,
     "adj_time": 1094.57,
     "time_min": 1075,
     "rnk_blnd": 139,
@@ -1253,7 +1253,7 @@
   {
     "Name": "ELI SMITH",
     "School": "SF Christian",
-    "id": 246,
+    "id": 273,
     "adj_time": 1094.81,
     "time_min": 1076.5,
     "rnk_blnd": 140,
@@ -1262,7 +1262,7 @@
   {
     "Name": "EMMANUEL MUTHIANI",
     "School": "Freeman",
-    "id": 260,
+    "id": 287,
     "adj_time": 1094.86,
     "time_min": 1098.4,
     "rnk_blnd": 141,
@@ -1271,7 +1271,7 @@
   {
     "Name": "KADEN CHRISTIAN",
     "School": "Tea Area",
-    "id": 460,
+    "id": 506,
     "adj_time": 1094.86,
     "time_min": 1075.1,
     "rnk_blnd": 142,
@@ -1280,7 +1280,7 @@
   {
     "Name": "CORBIN DODSON",
     "School": "Sturgis Brown",
-    "id": 187,
+    "id": 207,
     "adj_time": 1095.26,
     "time_min": 1048.3,
     "rnk_blnd": 143,
@@ -1289,7 +1289,7 @@
   {
     "Name": "DREW ARBACH",
     "School": "North Central",
-    "id": 228,
+    "id": 251,
     "adj_time": 1095.28,
     "time_min": 1057,
     "rnk_blnd": 144,
@@ -1298,7 +1298,7 @@
   {
     "Name": "BENNIE OLSEN",
     "School": "Douglas",
-    "id": 72,
+    "id": 79,
     "adj_time": 1095.51,
     "time_min": 1073,
     "rnk_blnd": 145,
@@ -1307,7 +1307,7 @@
   {
     "Name": "BRADLEY WALDEN",
     "School": "Brandon Valley",
-    "id": 82,
+    "id": 90,
     "adj_time": 1095.8,
     "time_min": 1079.9,
     "rnk_blnd": 146,
@@ -1316,7 +1316,7 @@
   {
     "Name": "LEO AESOPH",
     "School": "Lennox",
-    "id": 498,
+    "id": 547,
     "adj_time": 1096.05,
     "time_min": 1082.6,
     "rnk_blnd": 147,
@@ -1325,7 +1325,7 @@
   {
     "Name": "NATHAN HUDSON",
     "School": "Belle Fourche",
-    "id": 586,
+    "id": 650,
     "adj_time": 1096.85,
     "time_min": 1067.1,
     "rnk_blnd": 148,
@@ -1334,7 +1334,7 @@
   {
     "Name": "SEAN MAY",
     "School": "Vermillion",
-    "id": 688,
+    "id": 765,
     "adj_time": 1097.39,
     "time_min": 1080.4,
     "rnk_blnd": 149,
@@ -1343,7 +1343,7 @@
   {
     "Name": "CARSON CLEMENTS",
     "School": "Wessington Springs",
-    "id": 130,
+    "id": 145,
     "adj_time": 1097.79,
     "time_min": 1059.3,
     "rnk_blnd": 150,
@@ -1352,7 +1352,7 @@
   {
     "Name": "TADEN JACOBS",
     "School": "Harrisburg",
-    "id": 704,
+    "id": 783,
     "adj_time": 1098.94,
     "time_min": 1081.1,
     "rnk_blnd": 151,
@@ -1361,7 +1361,7 @@
   {
     "Name": "LUCAS UNDERWOOD",
     "School": "Brookings",
-    "id": 528,
+    "id": 579,
     "adj_time": 1100.83,
     "time_min": 1067.9,
     "rnk_blnd": 152,
@@ -1370,7 +1370,7 @@
   {
     "Name": "ZANE GUNNELL",
     "School": "Custer",
-    "id": 786,
+    "id": 874,
     "adj_time": 1100.88,
     "time_min": 1078.1,
     "rnk_blnd": 153,
@@ -1379,7 +1379,7 @@
   {
     "Name": "LEVI VAN ZEE",
     "School": "Brookings",
-    "id": 506,
+    "id": 555,
     "adj_time": 1102.24,
     "time_min": 1098.9,
     "rnk_blnd": 154,
@@ -1388,7 +1388,7 @@
   {
     "Name": "EVAN HUNTER",
     "School": "SF Roosevelt",
-    "id": 272,
+    "id": 300,
     "adj_time": 1102.64,
     "time_min": 1084.5,
     "rnk_blnd": 155,
@@ -1397,7 +1397,7 @@
   {
     "Name": "CARSON MCDOWELL",
     "School": "Rapid City Stevens",
-    "id": 132,
+    "id": 147,
     "adj_time": 1102.93,
     "time_min": 1084.1,
     "rnk_blnd": 156,
@@ -1406,7 +1406,7 @@
   {
     "Name": "COLLIN RANDALL",
     "School": "Freeman",
-    "id": 174,
+    "id": 193,
     "adj_time": 1103.27,
     "time_min": 1067.7,
     "rnk_blnd": 157,
@@ -1415,7 +1415,7 @@
   {
     "Name": "MICAH BENNETT",
     "School": "Mitchell",
-    "id": 568,
+    "id": 632,
     "adj_time": 1104.9,
     "time_min": 1042.4,
     "rnk_blnd": 158,
@@ -1424,7 +1424,7 @@
   {
     "Name": "DECLAN HUBER",
     "School": "Dakota Valley",
-    "id": 215,
+    "id": 237,
     "adj_time": 1105.16,
     "time_min": 1076.2,
     "rnk_blnd": 159,
@@ -1433,7 +1433,7 @@
   {
     "Name": "WILLOW FISCHER",
     "School": "McCrossan",
-    "id": 766,
+    "id": 852,
     "adj_time": 1105.36,
     "time_min": 1054.4,
     "rnk_blnd": 160,
@@ -1442,7 +1442,7 @@
   {
     "Name": "KUDDYER BAUGHER",
     "School": "Brookings",
-    "id": 484,
+    "id": 533,
     "adj_time": 1106.92,
     "time_min": 1087.2,
     "rnk_blnd": 161,
@@ -1451,7 +1451,7 @@
   {
     "Name": "CHANNING DEBOER",
     "School": "Watertown",
-    "id": 148,
+    "id": 164,
     "adj_time": 1107.23,
     "time_min": 1081.1,
     "rnk_blnd": 162,
@@ -1460,7 +1460,7 @@
   {
     "Name": "COOPER THOMPSON",
     "School": "Tea Area",
-    "id": 186,
+    "id": 205,
     "adj_time": 1107.49,
     "time_min": 1097.8,
     "rnk_blnd": 163,
@@ -1469,7 +1469,7 @@
   {
     "Name": "CHRISTIAN OYLEAR",
     "School": "Rapid City Stevens",
-    "id": 158,
+    "id": 175,
     "adj_time": 1107.55,
     "time_min": null,
     "rnk_blnd": 164,
@@ -1478,7 +1478,7 @@
   {
     "Name": "JEREMY BOCKELMAN",
     "School": "Canton",
-    "id": 421,
+    "id": 465,
     "adj_time": 1107.85,
     "time_min": 1090.7,
     "rnk_blnd": 165,
@@ -1505,7 +1505,7 @@
   {
     "Name": "JETT KIRSCHENMANN",
     "School": "Pierre T.F. Riggs",
-    "id": 423,
+    "id": 467,
     "adj_time": 1110.71,
     "time_min": 1082.5,
     "rnk_blnd": 168,
@@ -1523,7 +1523,7 @@
   {
     "Name": "BENSON BRYANT",
     "School": "Harrisburg",
-    "id": 73,
+    "id": 80,
     "adj_time": 1111.85,
     "time_min": 1080.4,
     "rnk_blnd": 170,
@@ -1532,7 +1532,7 @@
   {
     "Name": "SUTTON BENCK",
     "School": "Deuel",
-    "id": 701,
+    "id": 780,
     "adj_time": 1112.69,
     "time_min": 1056.4,
     "rnk_blnd": 171,
@@ -1541,7 +1541,7 @@
   {
     "Name": "WESTON HIEB",
     "School": "Brandon Valley",
-    "id": 761,
+    "id": 845,
     "adj_time": 1113.55,
     "time_min": 1121.6,
     "rnk_blnd": 172,
@@ -1550,7 +1550,7 @@
   {
     "Name": "GRANT CURTIS",
     "School": "Tea Area",
-    "id": 315,
+    "id": 348,
     "adj_time": 1114.37,
     "time_min": 1070,
     "rnk_blnd": 173,
@@ -1559,7 +1559,7 @@
   {
     "Name": "HUDSON SCHMIDT",
     "School": "Mount Vernon/Plankinton",
-    "id": 343,
+    "id": 380,
     "adj_time": 1115.54,
     "time_min": 1069,
     "rnk_blnd": 174,
@@ -1568,7 +1568,7 @@
   {
     "Name": "CASE CARLSON",
     "School": "Iroquois/Lake Preston",
-    "id": 144,
+    "id": 160,
     "adj_time": 1116.11,
     "time_min": 1074.5,
     "rnk_blnd": 175,
@@ -1577,7 +1577,7 @@
   {
     "Name": "BRETT HANSEN",
     "School": "Sisseton",
-    "id": 98,
+    "id": 108,
     "adj_time": 1116.18,
     "time_min": 1075.3,
     "rnk_blnd": 176,
@@ -1586,7 +1586,7 @@
   {
     "Name": "LANDON QUIMBY",
     "School": "Douglas",
-    "id": 491,
+    "id": 540,
     "adj_time": 1116.98,
     "time_min": 1084.7,
     "rnk_blnd": 177,
@@ -1595,7 +1595,7 @@
   {
     "Name": "JADEN SCHEMPP",
     "School": "SF Lincoln",
-    "id": 386,
+    "id": 428,
     "adj_time": 1117.21,
     "time_min": 1116.5,
     "rnk_blnd": 178,
@@ -1604,7 +1604,7 @@
   {
     "Name": "ELI SCHEIBE",
     "School": "Pierre T.F. Riggs",
-    "id": 245,
+    "id": 272,
     "adj_time": 1117.74,
     "time_min": 1099.1,
     "rnk_blnd": 179,
@@ -1613,7 +1613,7 @@
   {
     "Name": "TATE VANLAECKEN",
     "School": "Tea Area",
-    "id": 713,
+    "id": 792,
     "adj_time": 1117.97,
     "time_min": 1075.8,
     "rnk_blnd": 180,
@@ -1622,7 +1622,7 @@
   {
     "Name": "HENRY HUETHER",
     "School": "Beresford",
-    "id": 334,
+    "id": 368,
     "adj_time": 1119.69,
     "time_min": 1120.3,
     "rnk_blnd": 181,
@@ -1631,7 +1631,7 @@
   {
     "Name": "JUDE THORSON",
     "School": "SF Christian",
-    "id": 454,
+    "id": 498,
     "adj_time": 1119.76,
     "time_min": 1098.6,
     "rnk_blnd": 182,
@@ -1640,7 +1640,7 @@
   {
     "Name": "SAM SORENSEN",
     "School": "Vermillion",
-    "id": 677,
+    "id": 754,
     "adj_time": 1120.31,
     "time_min": 1086.1,
     "rnk_blnd": 183,
@@ -1649,7 +1649,7 @@
   {
     "Name": "BRADY ZIRBEL",
     "School": "Brandon Valley",
-    "id": 87,
+    "id": 95,
     "adj_time": 1120.51,
     "time_min": 1134.4,
     "rnk_blnd": 184,
@@ -1658,7 +1658,7 @@
   {
     "Name": "RYAN BRYSON",
     "School": "Canton",
-    "id": 659,
+    "id": 732,
     "adj_time": 1120.88,
     "time_min": 1121.3,
     "rnk_blnd": 185,
@@ -1676,7 +1676,7 @@
   {
     "Name": "ZADEN CRANE",
     "School": "Pierre T.F. Riggs",
-    "id": 784,
+    "id": 872,
     "adj_time": 1122.91,
     "time_min": 1095.9,
     "rnk_blnd": 187,
@@ -1685,7 +1685,7 @@
   {
     "Name": "BEN BEESLEY",
     "School": "SF Roosevelt",
-    "id": 63,
+    "id": 69,
     "adj_time": 1123.11,
     "time_min": 1110.6,
     "rnk_blnd": 188,
@@ -1694,7 +1694,7 @@
   {
     "Name": "ROWAN SOPER",
     "School": "SF Washington",
-    "id": 654,
+    "id": 727,
     "adj_time": 1123.64,
     "time_min": 1144.4,
     "rnk_blnd": 189,
@@ -1703,7 +1703,7 @@
   {
     "Name": "JAXON HANSON",
     "School": "Rapid City Stevens",
-    "id": 404,
+    "id": 447,
     "adj_time": 1124.05,
     "time_min": null,
     "rnk_blnd": 190,
@@ -1712,7 +1712,7 @@
   {
     "Name": "DREW VANSTRYLAND",
     "School": "SF Christian",
-    "id": 231,
+    "id": 256,
     "adj_time": 1124.25,
     "time_min": 1103,
     "rnk_blnd": 191,
@@ -1721,7 +1721,7 @@
   {
     "Name": "TY BOEKELHEIDE",
     "School": "Northwestern",
-    "id": 744,
+    "id": 825,
     "adj_time": 1124.43,
     "time_min": 1096.5,
     "rnk_blnd": 192,
@@ -1730,7 +1730,7 @@
   {
     "Name": "NOAH HALVORSON",
     "School": "Beresford",
-    "id": 595,
+    "id": 660,
     "adj_time": 1124.5,
     "time_min": 1118.7,
     "rnk_blnd": 193,
@@ -1739,7 +1739,7 @@
   {
     "Name": "WYATT BOERGER",
     "School": "Rapid City Stevens",
-    "id": 769,
+    "id": 855,
     "adj_time": 1124.84,
     "time_min": null,
     "rnk_blnd": 194,
@@ -1748,7 +1748,7 @@
   {
     "Name": "AUSTIN KELLER",
     "School": "Florence/Henry",
-    "id": 54,
+    "id": 58,
     "adj_time": 1125.22,
     "time_min": 1071.5,
     "rnk_blnd": 195,
@@ -1757,7 +1757,7 @@
   {
     "Name": "HOWARD SUMPTION",
     "School": "Leola/Frederick Area",
-    "id": 341,
+    "id": 376,
     "adj_time": 1125.94,
     "time_min": 1128.3,
     "rnk_blnd": 196,
@@ -1766,7 +1766,7 @@
   {
     "Name": "XADIAN WAYSMAN",
     "School": "Brandon Valley",
-    "id": 779,
+    "id": 867,
     "adj_time": 1126.63,
     "time_min": 1120.6,
     "rnk_blnd": 197,
@@ -1775,7 +1775,7 @@
   {
     "Name": "DANIEL SAMLASKA",
     "School": "SF Washington",
-    "id": 202,
+    "id": 223,
     "adj_time": 1127.18,
     "time_min": 1148,
     "rnk_blnd": 198,
@@ -1784,7 +1784,7 @@
   {
     "Name": "TYSON HAGBERG",
     "School": "Deuel",
-    "id": 748,
+    "id": 830,
     "adj_time": 1127.6,
     "time_min": 1079.6,
     "rnk_blnd": 199,
@@ -1793,7 +1793,7 @@
   {
     "Name": "CRUZ NITCHALS",
     "School": "Harrisburg",
-    "id": 193,
+    "id": 214,
     "adj_time": 1128.92,
     "time_min": 1114.1,
     "rnk_blnd": 200,
@@ -1802,7 +1802,7 @@
   {
     "Name": "KYLER HANIGAN",
     "School": "Aberdeen Central",
-    "id": 487,
+    "id": 536,
     "adj_time": 1128.96,
     "time_min": 1127.1,
     "rnk_blnd": 201,
@@ -1811,7 +1811,7 @@
   {
     "Name": "JONAH KLEMISCH",
     "School": "Tea Area",
-    "id": 435,
+    "id": 479,
     "adj_time": 1128.97,
     "time_min": 1112,
     "rnk_blnd": 202,
@@ -1820,7 +1820,7 @@
   {
     "Name": "ETHAN GREEN",
     "School": "Rapid City Stevens",
-    "id": 265,
+    "id": 293,
     "adj_time": 1129.36,
     "time_min": null,
     "rnk_blnd": 203,
@@ -1829,7 +1829,7 @@
   {
     "Name": "COLLIN GOOSMANN",
     "School": "Dakota Valley",
-    "id": 173,
+    "id": 192,
     "adj_time": 1130.21,
     "time_min": 1099.4,
     "rnk_blnd": 204,
@@ -1838,7 +1838,7 @@
   {
     "Name": "RANCE KUHLMAN",
     "School": "Avon",
-    "id": 636,
+    "id": 705,
     "adj_time": 1130.64,
     "time_min": 1093,
     "rnk_blnd": 205,
@@ -1847,7 +1847,7 @@
   {
     "Name": "GAVIN GREENFIELD",
     "School": "O'Gorman",
-    "id": 299,
+    "id": 331,
     "adj_time": 1130.68,
     "time_min": 1094.2,
     "rnk_blnd": 206,
@@ -1856,7 +1856,7 @@
   {
     "Name": "JAYCE FIRE THUNDER",
     "School": "Little Wound",
-    "id": 412,
+    "id": 456,
     "adj_time": 1131.16,
     "time_min": 1126.3,
     "rnk_blnd": 207,
@@ -1865,7 +1865,7 @@
   {
     "Name": "ISAAC HAICH",
     "School": "Irene-Wakonda",
-    "id": 350,
+    "id": 388,
     "adj_time": 1132.18,
     "time_min": 1115.2,
     "rnk_blnd": 208,
@@ -1874,7 +1874,7 @@
   {
     "Name": "SUTTON PETERSON",
     "School": "Lemmon",
-    "id": 703,
+    "id": 782,
     "adj_time": 1132.38,
     "time_min": 1096,
     "rnk_blnd": 209,
@@ -1883,7 +1883,7 @@
   {
     "Name": "JOSIAH NEWELL",
     "School": "SF Lutheran",
-    "id": 450,
+    "id": 494,
     "adj_time": 1132.57,
     "time_min": 1107.8,
     "rnk_blnd": 210,
@@ -1901,7 +1901,7 @@
   {
     "Name": "LOUIS KILLS CROW INDIAN",
     "School": "Little Wound",
-    "id": 523,
+    "id": 574,
     "adj_time": 1134.88,
     "time_min": 1084.1,
     "rnk_blnd": 212,
@@ -1910,7 +1910,7 @@
   {
     "Name": "LOGAN BECKER",
     "School": "Watertown",
-    "id": 517,
+    "id": 568,
     "adj_time": 1134.9,
     "time_min": 1095.7,
     "rnk_blnd": 213,
@@ -1919,7 +1919,7 @@
   {
     "Name": "GRADY BARTUNEK",
     "School": "Wagner",
-    "id": 311,
+    "id": 344,
     "adj_time": 1135.11,
     "time_min": 1051,
     "rnk_blnd": 214,
@@ -1928,7 +1928,7 @@
   {
     "Name": "SEAN KING",
     "School": "Tri-Valley",
-    "id": 687,
+    "id": 764,
     "adj_time": 1136.71,
     "time_min": 1104.6,
     "rnk_blnd": 215,
@@ -1937,7 +1937,7 @@
   {
     "Name": "ROWDY ISAKSON",
     "School": "Hill City",
-    "id": 655,
+    "id": 728,
     "adj_time": 1136.89,
     "time_min": 1115.4,
     "rnk_blnd": 216,
@@ -1946,7 +1946,7 @@
   {
     "Name": "GRANT FISCHER",
     "School": "SF Roosevelt",
-    "id": 316,
+    "id": 349,
     "adj_time": 1137.49,
     "time_min": 1103.7,
     "rnk_blnd": 217,
@@ -1955,7 +1955,7 @@
   {
     "Name": "LIAM ANDERSON",
     "School": "SF Roosevelt",
-    "id": 508,
+    "id": 557,
     "adj_time": 1137.54,
     "time_min": 1100.5,
     "rnk_blnd": 218,
@@ -1973,7 +1973,7 @@
   {
     "Name": "JOHN JACOBSON",
     "School": "Yankton",
-    "id": 431,
+    "id": 475,
     "adj_time": 1138.58,
     "time_min": 1143,
     "rnk_blnd": 220,
@@ -1982,7 +1982,7 @@
   {
     "Name": "THADDAEUS MCKENNEY",
     "School": "Belle Fourche",
-    "id": 721,
+    "id": 800,
     "adj_time": 1139.17,
     "time_min": 1098.1,
     "rnk_blnd": 221,
@@ -1991,7 +1991,7 @@
   {
     "Name": "SOREN FARRAR",
     "School": "Hill City",
-    "id": 698,
+    "id": 777,
     "adj_time": 1139.43,
     "time_min": 1098.7,
     "rnk_blnd": 222,
@@ -2000,7 +2000,7 @@
   {
     "Name": "JAXON BACH",
     "School": "Belle Fourche",
-    "id": 403,
+    "id": 446,
     "adj_time": 1139.74,
     "time_min": 1111.3,
     "rnk_blnd": 223,
@@ -2009,7 +2009,7 @@
   {
     "Name": "LEO HOPPE",
     "School": "Brookings",
-    "id": 499,
+    "id": 548,
     "adj_time": 1139.85,
     "time_min": 1136.4,
     "rnk_blnd": 224,
@@ -2018,7 +2018,7 @@
   {
     "Name": "MICHAEL PRUE",
     "School": "Todd County",
-    "id": 576,
+    "id": 640,
     "adj_time": 1140.61,
     "time_min": 1056,
     "rnk_blnd": 225,
@@ -2027,7 +2027,7 @@
   {
     "Name": "MILES KORNEGAY",
     "School": "Sturgis Brown",
-    "id": 579,
+    "id": 643,
     "adj_time": 1141.01,
     "time_min": 1097.1,
     "rnk_blnd": 226,
@@ -2036,7 +2036,7 @@
   {
     "Name": "SAM ERNST",
     "School": "Herreid/Selby Area",
-    "id": 673,
+    "id": 750,
     "adj_time": 1141.07,
     "time_min": 1088,
     "rnk_blnd": 227,
@@ -2045,7 +2045,7 @@
   {
     "Name": "BRAYDEN BRAVE HEART",
     "School": "Pierre T.F. Riggs",
-    "id": 90,
+    "id": 98,
     "adj_time": 1141.72,
     "time_min": 1125.9,
     "rnk_blnd": 228,
@@ -2054,7 +2054,7 @@
   {
     "Name": "TAYTE JOACHIMS",
     "School": "Flandreau",
-    "id": 714,
+    "id": 793,
     "adj_time": 1141.84,
     "time_min": 1078.3,
     "rnk_blnd": 229,
@@ -2063,7 +2063,7 @@
   {
     "Name": "PEYTON KALLSTROM",
     "School": "Douglas",
-    "id": 628,
+    "id": 697,
     "adj_time": 1143.05,
     "time_min": 1109.4,
     "rnk_blnd": 230,
@@ -2072,7 +2072,7 @@
   {
     "Name": "BLAKE SCHIERHOLZ",
     "School": "Harrisburg",
-    "id": 78,
+    "id": 86,
     "adj_time": 1143.28,
     "time_min": 1146.3,
     "rnk_blnd": 231,
@@ -2081,7 +2081,7 @@
   {
     "Name": "COOPER LIBIS",
     "School": "St. Mary's",
-    "id": 183,
+    "id": 202,
     "adj_time": 1143.33,
     "time_min": 1125.2,
     "rnk_blnd": 232,
@@ -2090,7 +2090,7 @@
   {
     "Name": "JOSHUA MITCHELL",
     "School": "Deubrook Area",
-    "id": 449,
+    "id": 493,
     "adj_time": 1143.41,
     "time_min": 1102.3,
     "rnk_blnd": 233,
@@ -2099,7 +2099,7 @@
   {
     "Name": "JACE MOORE",
     "School": "Harrisburg",
-    "id": 367,
+    "id": 405,
     "adj_time": 1143.55,
     "time_min": 1123.9,
     "rnk_blnd": 234,
@@ -2108,7 +2108,7 @@
   {
     "Name": "TYRUS SCHULZ",
     "School": "Sioux Valley",
-    "id": 747,
+    "id": 829,
     "adj_time": 1143.72,
     "time_min": 1075.3,
     "rnk_blnd": 235,
@@ -2117,7 +2117,7 @@
   {
     "Name": "BYRON CONDON",
     "School": "Cheyenne-Eagle Butte",
-    "id": 116,
+    "id": 126,
     "adj_time": 1143.74,
     "time_min": 1061.7,
     "rnk_blnd": 236,
@@ -2126,7 +2126,7 @@
   {
     "Name": "JOSEPH RICHARDS",
     "School": "Aberdeen Christian",
-    "id": 445,
+    "id": 489,
     "adj_time": 1143.74,
     "time_min": 1111.3,
     "rnk_blnd": 237,
@@ -2135,7 +2135,7 @@
   {
     "Name": "GAGE HUETHER",
     "School": "New Underwood",
-    "id": 294,
+    "id": 324,
     "adj_time": 1143.77,
     "time_min": 1168.9,
     "rnk_blnd": 238,
@@ -2144,7 +2144,7 @@
   {
     "Name": "JACK LARSEN",
     "School": "SF Roosevelt",
-    "id": 369,
+    "id": 409,
     "adj_time": 1143.77,
     "time_min": 1119.6,
     "rnk_blnd": 239,
@@ -2153,7 +2153,7 @@
   {
     "Name": "KADEN RUNNING HORSE",
     "School": "White River",
-    "id": 462,
+    "id": 508,
     "adj_time": 1143.88,
     "time_min": 1064.4,
     "rnk_blnd": 240,
@@ -2162,7 +2162,7 @@
   {
     "Name": "OLIVER MERRIMAN",
     "School": "Beresford",
-    "id": 612,
+    "id": 678,
     "adj_time": 1144.09,
     "time_min": 1126.8,
     "rnk_blnd": 241,
@@ -2171,7 +2171,7 @@
   {
     "Name": "BENNETT FARLEY",
     "School": "Beresford",
-    "id": 69,
+    "id": 76,
     "adj_time": 1145.27,
     "time_min": 1120.5,
     "rnk_blnd": 242,
@@ -2180,7 +2180,7 @@
   {
     "Name": "BEN WEIGEL",
     "School": "Aberdeen Roncalli",
-    "id": 68,
+    "id": 75,
     "adj_time": 1145.46,
     "time_min": 1104.9,
     "rnk_blnd": 243,
@@ -2189,7 +2189,7 @@
   {
     "Name": "DAMIEN TWO EAGLE",
     "School": "St. Francis Indian",
-    "id": 198,
+    "id": 219,
     "adj_time": 1145.76,
     "time_min": 1047,
     "rnk_blnd": 244,
@@ -2198,7 +2198,7 @@
   {
     "Name": "BEAU MILLER",
     "School": "Freeman",
-    "id": 59,
+    "id": 65,
     "adj_time": 1145.89,
     "time_min": 1149.6,
     "rnk_blnd": 245,
@@ -2207,7 +2207,7 @@
   {
     "Name": "BROOKS MCPEAK",
     "School": "Highmore-Harrold",
-    "id": 109,
+    "id": 119,
     "adj_time": 1146.09,
     "time_min": 1058.4,
     "rnk_blnd": 246,
@@ -2216,7 +2216,7 @@
   {
     "Name": "KAISER LUNDE",
     "School": "Watertown",
-    "id": 464,
+    "id": 510,
     "adj_time": 1146.1,
     "time_min": 1138.3,
     "rnk_blnd": 247,
@@ -2225,7 +2225,7 @@
   {
     "Name": "BRADY SCHWAB",
     "School": "SF Lincoln",
-    "id": 86,
+    "id": 94,
     "adj_time": 1147.06,
     "time_min": 1134,
     "rnk_blnd": 248,
@@ -2234,7 +2234,7 @@
   {
     "Name": "THOMAS HOLZER",
     "School": "Mobridge-Pollock",
-    "id": 723,
+    "id": 802,
     "adj_time": 1147.13,
     "time_min": 1055.6,
     "rnk_blnd": 249,
@@ -2243,7 +2243,7 @@
   {
     "Name": "LUKE MILLER",
     "School": "Freeman",
-    "id": 534,
+    "id": 586,
     "adj_time": 1147.16,
     "time_min": 1104.7,
     "rnk_blnd": 250,
@@ -2252,7 +2252,7 @@
   {
     "Name": "NOLAN KATZER",
     "School": "Dell Rapids",
-    "id": 607,
+    "id": 672,
     "adj_time": 1147.77,
     "time_min": 1104.5,
     "rnk_blnd": 251,
@@ -2261,7 +2261,7 @@
   {
     "Name": "MALACHI KAISER",
     "School": "Tea Area",
-    "id": 540,
+    "id": 593,
     "adj_time": 1148.57,
     "time_min": 1121.6,
     "rnk_blnd": 252,
@@ -2270,7 +2270,7 @@
   {
     "Name": "JORGEN JOHNSON",
     "School": "Brookings",
-    "id": 441,
+    "id": 485,
     "adj_time": 1149.07,
     "time_min": 1144.6,
     "rnk_blnd": 253,
@@ -2279,7 +2279,7 @@
   {
     "Name": "LUKE ATNIP",
     "School": "Mitchell Christian",
-    "id": 529,
+    "id": 580,
     "adj_time": 1149.35,
     "time_min": 1097,
     "rnk_blnd": 254,
@@ -2297,7 +2297,7 @@
   {
     "Name": "KINGSTON DE'SERSA",
     "School": "White River",
-    "id": 477,
+    "id": 524,
     "adj_time": 1151.57,
     "time_min": 1050,
     "rnk_blnd": 256,
@@ -2306,7 +2306,7 @@
   {
     "Name": "IAN CHO",
     "School": "Spearfish",
-    "id": 347,
+    "id": 384,
     "adj_time": 1151.7,
     "time_min": 1133.7,
     "rnk_blnd": 257,
@@ -2315,7 +2315,7 @@
   {
     "Name": "TITUS KIPPLEY",
     "School": "Leola/Frederick Area",
-    "id": 728,
+    "id": 807,
     "adj_time": 1151.75,
     "time_min": 1160.9,
     "rnk_blnd": 258,
@@ -2324,7 +2324,7 @@
   {
     "Name": "CALE COOPER",
     "School": "Avon",
-    "id": 124,
+    "id": 135,
     "adj_time": 1151.79,
     "time_min": 1138.5,
     "rnk_blnd": 259,
@@ -2333,7 +2333,7 @@
   {
     "Name": "LINDY COSGROVE",
     "School": "Chamberlain",
-    "id": 516,
+    "id": 567,
     "adj_time": 1152.34,
     "time_min": 1060.5,
     "rnk_blnd": 260,
@@ -2342,7 +2342,7 @@
   {
     "Name": "JOSEPH HORNBECK-LUSH",
     "School": "Brandon Valley",
-    "id": 443,
+    "id": 487,
     "adj_time": 1153.12,
     "time_min": 1157.6,
     "rnk_blnd": 261,
@@ -2351,7 +2351,7 @@
   {
     "Name": "JEFFERY WEAVER",
     "School": "Yankton",
-    "id": 418,
+    "id": 462,
     "adj_time": 1153.22,
     "time_min": 1157.7,
     "rnk_blnd": 262,
@@ -2360,7 +2360,7 @@
   {
     "Name": "CADYN BRAVE HEART",
     "School": "White River",
-    "id": 122,
+    "id": 132,
     "adj_time": 1153.95,
     "time_min": 1087,
     "rnk_blnd": 263,
@@ -2369,7 +2369,7 @@
   {
     "Name": "ASHER OXFORD",
     "School": "Pierre T.F. Riggs",
-    "id": 48,
+    "id": 51,
     "adj_time": 1154.14,
     "time_min": 1132.8,
     "rnk_blnd": 264,
@@ -2378,7 +2378,7 @@
   {
     "Name": "CARTER PEPPEL",
     "School": "Winner/Colome",
-    "id": 139,
+    "id": 155,
     "adj_time": 1154.27,
     "time_min": 1076.6,
     "rnk_blnd": 265,
@@ -2387,7 +2387,7 @@
   {
     "Name": "EVAN HENRIE",
     "School": "Philip",
-    "id": 271,
+    "id": 299,
     "adj_time": 1154.71,
     "time_min": 1063.1,
     "rnk_blnd": 266,
@@ -2396,7 +2396,7 @@
   {
     "Name": "NATHANIEL HOBBIE",
     "School": "Flandreau",
-    "id": 588,
+    "id": 652,
     "adj_time": 1154.8,
     "time_min": 1115.4,
     "rnk_blnd": 267,
@@ -2405,7 +2405,7 @@
   {
     "Name": "HAYDEN HAND",
     "School": "White River",
-    "id": 328,
+    "id": 362,
     "adj_time": 1155.66,
     "time_min": 1122.2,
     "rnk_blnd": 268,
@@ -2414,7 +2414,7 @@
   {
     "Name": "TEAGAN LIEN",
     "School": "Huron",
-    "id": 715,
+    "id": 794,
     "adj_time": 1155.89,
     "time_min": 1160.1,
     "rnk_blnd": 269,
@@ -2423,7 +2423,7 @@
   {
     "Name": "TRIGG ODENBACH",
     "School": "Lemmon",
-    "id": 736,
+    "id": 816,
     "adj_time": 1155.9,
     "time_min": 1104.3,
     "rnk_blnd": 270,
@@ -2432,7 +2432,7 @@
   {
     "Name": "EVAN MACK",
     "School": "Watertown",
-    "id": 273,
+    "id": 301,
     "adj_time": 1155.92,
     "time_min": 1127.2,
     "rnk_blnd": 271,
@@ -2441,7 +2441,7 @@
   {
     "Name": "CONNER LUNDY",
     "School": "Custer",
-    "id": 176,
+    "id": 195,
     "adj_time": 1156.13,
     "time_min": 1120.5,
     "rnk_blnd": 272,
@@ -2450,7 +2450,7 @@
   {
     "Name": "JAXON VANDE VEGTE",
     "School": "Elk Point-Jefferson",
-    "id": 408,
+    "id": 452,
     "adj_time": 1156.41,
     "time_min": 1129.9,
     "rnk_blnd": 273,
@@ -2459,7 +2459,7 @@
   {
     "Name": "CHARLES MEYER",
     "School": "Madison",
-    "id": 150,
+    "id": 166,
     "adj_time": 1156.69,
     "time_min": 1117.5,
     "rnk_blnd": 274,
@@ -2468,7 +2468,7 @@
   {
     "Name": "ZANE ENSZ",
     "School": "Dakota Valley",
-    "id": 785,
+    "id": 873,
     "adj_time": 1157.09,
     "time_min": 1096,
     "rnk_blnd": 275,
@@ -2477,7 +2477,7 @@
   {
     "Name": "RILEY TOPLE",
     "School": "Aberdeen Central",
-    "id": 649,
+    "id": 721,
     "adj_time": 1157.45,
     "time_min": 1151.1,
     "rnk_blnd": 276,
@@ -2486,7 +2486,7 @@
   {
     "Name": "TRAEDYN WEBB",
     "School": "SF Lincoln",
-    "id": 733,
+    "id": 813,
     "adj_time": 1158.46,
     "time_min": 1144.2,
     "rnk_blnd": 277,
@@ -2495,7 +2495,7 @@
   {
     "Name": "BRADY ASBENSON",
     "School": "Mitchell Christian",
-    "id": 84,
+    "id": 92,
     "adj_time": 1158.68,
     "time_min": 1117.1,
     "rnk_blnd": 278,
@@ -2513,7 +2513,7 @@
   {
     "Name": "GAVIN MATTSON",
     "School": "Deuel",
-    "id": 302,
+    "id": 334,
     "adj_time": 1161.39,
     "time_min": 1093.2,
     "rnk_blnd": 280,
@@ -2522,7 +2522,7 @@
   {
     "Name": "GAGE FRERICHS",
     "School": "Douglas",
-    "id": 293,
+    "id": 323,
     "adj_time": 1161.51,
     "time_min": 1131.2,
     "rnk_blnd": 281,
@@ -2531,7 +2531,7 @@
   {
     "Name": "CLIFFORD TORBERSON",
     "School": "Belle Fourche",
-    "id": 162,
+    "id": 180,
     "adj_time": 1161.73,
     "time_min": 1122.8,
     "rnk_blnd": 282,
@@ -2540,7 +2540,7 @@
   {
     "Name": "NASH FISCHER",
     "School": "Gettysburg",
-    "id": 584,
+    "id": 648,
     "adj_time": 1161.8,
     "time_min": 1121,
     "rnk_blnd": 283,
@@ -2549,7 +2549,7 @@
   {
     "Name": "GIDDEON WALDNER",
     "School": "James Valley Christian",
-    "id": 305,
+    "id": 338,
     "adj_time": 1161.88,
     "time_min": 1129.5,
     "rnk_blnd": 284,
@@ -2558,7 +2558,7 @@
   {
     "Name": "CHRISTOFFE LEE",
     "School": "Douglas",
-    "id": 159,
+    "id": 176,
     "adj_time": 1162.17,
     "time_min": 1119.2,
     "rnk_blnd": 285,
@@ -2567,7 +2567,7 @@
   {
     "Name": "JUSTIN ST. JOHN",
     "School": "Crow Creek",
-    "id": 457,
+    "id": 502,
     "adj_time": 1162.51,
     "time_min": 1109.6,
     "rnk_blnd": 286,
@@ -2576,7 +2576,7 @@
   {
     "Name": "BROCK KOTH",
     "School": "Beresford",
-    "id": 103,
+    "id": 113,
     "adj_time": 1162.58,
     "time_min": 1160.9,
     "rnk_blnd": 287,
@@ -2585,7 +2585,7 @@
   {
     "Name": "HENRY CLAYTON",
     "School": "Pierre T.F. Riggs",
-    "id": 332,
+    "id": 366,
     "adj_time": 1164.21,
     "time_min": 1166.8,
     "rnk_blnd": 288,
@@ -2594,7 +2594,7 @@
   {
     "Name": "SAM SCHMIDT",
     "School": "Flandreau",
-    "id": 676,
+    "id": 753,
     "adj_time": 1165.83,
     "time_min": 1131.9,
     "rnk_blnd": 289,
@@ -2603,7 +2603,7 @@
   {
     "Name": "CALEB SCHROEDER",
     "School": "Canistota",
-    "id": 126,
+    "id": 137,
     "adj_time": 1165.99,
     "time_min": 1137.2,
     "rnk_blnd": 290,
@@ -2612,7 +2612,7 @@
   {
     "Name": "ELLIOT HANSON",
     "School": "SF Lincoln",
-    "id": 256,
+    "id": 283,
     "adj_time": 1166.62,
     "time_min": 1171.9,
     "rnk_blnd": 291,
@@ -2621,7 +2621,7 @@
   {
     "Name": "MUZYK GRAY EAGLE",
     "School": "Tiospaye Topa",
-    "id": 582,
+    "id": 646,
     "adj_time": 1166.79,
     "time_min": 1088.1,
     "rnk_blnd": 292,
@@ -2630,7 +2630,7 @@
   {
     "Name": "HUDSON METZ",
     "School": "Chamberlain",
-    "id": 342,
+    "id": 379,
     "adj_time": 1168.5,
     "time_min": 1098.7,
     "rnk_blnd": 293,
@@ -2639,7 +2639,7 @@
   {
     "Name": "NOLAN CARSTENSEN",
     "School": "Dell Rapids",
-    "id": 605,
+    "id": 670,
     "adj_time": 1168.51,
     "time_min": 1135.8,
     "rnk_blnd": 294,
@@ -2648,7 +2648,7 @@
   {
     "Name": "GRIFFIN MILLER",
     "School": "Harrisburg",
-    "id": 320,
+    "id": 353,
     "adj_time": 1169.02,
     "time_min": 1129.4,
     "rnk_blnd": 295,
@@ -2657,7 +2657,7 @@
   {
     "Name": "EYOSIYAS TAREKEGN",
     "School": "SF Jefferson",
-    "id": 276,
+    "id": 305,
     "adj_time": 1169.42,
     "time_min": 1173.2,
     "rnk_blnd": 296,
@@ -2675,7 +2675,7 @@
   {
     "Name": "NOAH KETEL",
     "School": "Rapid City Stevens",
-    "id": 598,
+    "id": 663,
     "adj_time": 1169.63,
     "time_min": null,
     "rnk_blnd": 298,
@@ -2684,7 +2684,7 @@
   {
     "Name": "MAX PETERSON",
     "School": "Brandon Valley",
-    "id": 565,
+    "id": 627,
     "adj_time": 1170.66,
     "time_min": 1169.5,
     "rnk_blnd": 299,
@@ -2693,7 +2693,7 @@
   {
     "Name": "ELI BROWN",
     "School": "Rapid City Central",
-    "id": 242,
+    "id": 268,
     "adj_time": 1170.76,
     "time_min": 1146.8,
     "rnk_blnd": 300,
@@ -2702,7 +2702,7 @@
   {
     "Name": "AUSTIN DREW",
     "School": "Custer",
-    "id": 53,
+    "id": 57,
     "adj_time": 1171.12,
     "time_min": 1205.6,
     "rnk_blnd": 301,
@@ -2711,7 +2711,7 @@
   {
     "Name": "OWEN HOLSTEIN",
     "School": "Yankton",
-    "id": 622,
+    "id": 689,
     "adj_time": 1171.6,
     "time_min": 1185.4,
     "rnk_blnd": 302,
@@ -2720,7 +2720,7 @@
   {
     "Name": "REAGAN SANDNESS",
     "School": "Sunshine Bible Academy",
-    "id": 637,
+    "id": 706,
     "adj_time": 1172.06,
     "time_min": 1073.1,
     "rnk_blnd": 303,
@@ -2729,7 +2729,7 @@
   {
     "Name": "CARTER STURGEON",
     "School": "Brandon Valley",
-    "id": 141,
+    "id": 157,
     "adj_time": 1172.76,
     "time_min": 1135.3,
     "rnk_blnd": 304,
@@ -2738,7 +2738,7 @@
   {
     "Name": "GRACEN GILL",
     "School": "Timber Lake",
-    "id": 310,
+    "id": 343,
     "adj_time": 1172.93,
     "time_min": 1123,
     "rnk_blnd": 305,
@@ -2747,7 +2747,7 @@
   {
     "Name": "JASHER DIXON",
     "School": "Canton",
-    "id": 398,
+    "id": 441,
     "adj_time": 1173.14,
     "time_min": 1164.2,
     "rnk_blnd": 306,
@@ -2756,7 +2756,7 @@
   {
     "Name": "MAXWELL LEUENHAGEN",
     "School": "Elk Point-Jefferson",
-    "id": 566,
+    "id": 630,
     "adj_time": 1173.53,
     "time_min": 1156.5,
     "rnk_blnd": 307,
@@ -2765,7 +2765,7 @@
   {
     "Name": "RHETT MUNGER",
     "School": "Miller",
-    "id": 644,
+    "id": 714,
     "adj_time": 1173.63,
     "time_min": 1123,
     "rnk_blnd": 308,
@@ -2774,7 +2774,7 @@
   {
     "Name": "JACKSON SCHMIDT",
     "School": "Lennox",
-    "id": 378,
+    "id": 418,
     "adj_time": 1174.39,
     "time_min": 1116.9,
     "rnk_blnd": 309,
@@ -2783,7 +2783,7 @@
   {
     "Name": "EASTON SCHUMAN",
     "School": "Platte-Geddes",
-    "id": 238,
+    "id": 264,
     "adj_time": 1174.82,
     "time_min": 1131.1,
     "rnk_blnd": 310,
@@ -2792,7 +2792,7 @@
   {
     "Name": "JONAH VERMULM",
     "School": "SF Christian",
-    "id": 436,
+    "id": 480,
     "adj_time": 1175.11,
     "time_min": 1152.9,
     "rnk_blnd": 311,
@@ -2801,7 +2801,7 @@
   {
     "Name": "MATTHEW HEINEMANN",
     "School": "St. Mary's",
-    "id": 561,
+    "id": 621,
     "adj_time": 1175.32,
     "time_min": 1145.4,
     "rnk_blnd": 312,
@@ -2810,7 +2810,7 @@
   {
     "Name": "HOKSILA SHARPFISH",
     "School": "Mahpiya Luta",
-    "id": 339,
+    "id": 373,
     "adj_time": 1175.35,
     "time_min": 1150.4,
     "rnk_blnd": 313,
@@ -2819,7 +2819,7 @@
   {
     "Name": "HARLEY GRONE",
     "School": "Freeman",
-    "id": 326,
+    "id": 360,
     "adj_time": 1175.5,
     "time_min": 1179.3,
     "rnk_blnd": 314,
@@ -2828,7 +2828,7 @@
   {
     "Name": "JACKSON CRAIG",
     "School": "Brookings",
-    "id": 374,
+    "id": 414,
     "adj_time": 1175.76,
     "time_min": 1160.7,
     "rnk_blnd": 315,
@@ -2837,7 +2837,7 @@
   {
     "Name": "EASTON DOOLEY",
     "School": "Custer",
-    "id": 236,
+    "id": 261,
     "adj_time": 1176.76,
     "time_min": 1211.4,
     "rnk_blnd": 316,
@@ -2846,7 +2846,7 @@
   {
     "Name": "CALEB RHOADES",
     "School": "SF Roosevelt",
-    "id": 125,
+    "id": 136,
     "adj_time": 1177.21,
     "time_min": 1135.3,
     "rnk_blnd": 317,
@@ -2855,7 +2855,7 @@
   {
     "Name": "GAGE LANDMARK",
     "School": "Deubrook Area",
-    "id": 295,
+    "id": 326,
     "adj_time": 1177.78,
     "time_min": 1183,
     "rnk_blnd": 318,
@@ -2864,7 +2864,7 @@
   {
     "Name": "NOAH VANDERWALKER",
     "School": "White River",
-    "id": 604,
+    "id": 669,
     "adj_time": 1178.16,
     "time_min": 1046.9,
     "rnk_blnd": 319,
@@ -2873,7 +2873,7 @@
   {
     "Name": "COOPER SMITH",
     "School": "Garretson",
-    "id": 185,
+    "id": 204,
     "adj_time": 1179.01,
     "time_min": 1087,
     "rnk_blnd": 320,
@@ -2882,7 +2882,7 @@
   {
     "Name": "CYRUS SUNDBERG",
     "School": "Sturgis Brown",
-    "id": 195,
+    "id": 216,
     "adj_time": 1179.38,
     "time_min": 1162.3,
     "rnk_blnd": 321,
@@ -2891,7 +2891,7 @@
   {
     "Name": "ANTOINE GARNIER",
     "School": "Mahpiya Luta",
-    "id": 39,
+    "id": 42,
     "adj_time": 1179.4,
     "time_min": 1180.2,
     "rnk_blnd": 322,
@@ -2900,7 +2900,7 @@
   {
     "Name": "TEAGEN TEEL",
     "School": "Tri-Valley",
-    "id": 716,
+    "id": 795,
     "adj_time": 1180.24,
     "time_min": 1153.4,
     "rnk_blnd": 323,
@@ -2909,7 +2909,7 @@
   {
     "Name": "ELI LADEAUX",
     "School": "SF Lincoln",
-    "id": 244,
+    "id": 271,
     "adj_time": 1181.45,
     "time_min": 1150.9,
     "rnk_blnd": 324,
@@ -2918,7 +2918,7 @@
   {
     "Name": "BECKETT VARGAS",
     "School": "Madison",
-    "id": 61,
+    "id": 67,
     "adj_time": 1181.48,
     "time_min": 1162.2,
     "rnk_blnd": 325,
@@ -2927,7 +2927,7 @@
   {
     "Name": "TRYTON PARMELY",
     "School": "Pierre T.F. Riggs",
-    "id": 742,
+    "id": 823,
     "adj_time": 1181.48,
     "time_min": 1159.8,
     "rnk_blnd": 326,
@@ -2936,7 +2936,7 @@
   {
     "Name": "MAX BAUER",
     "School": "SF Lincoln",
-    "id": 562,
+    "id": 623,
     "adj_time": 1181.74,
     "time_min": 1181.2,
     "rnk_blnd": 327,
@@ -2945,7 +2945,7 @@
   {
     "Name": "JAMESON PEARSON",
     "School": "Deubrook Area",
-    "id": 393,
+    "id": 435,
     "adj_time": 1182.25,
     "time_min": 1120.9,
     "rnk_blnd": 328,
@@ -2954,7 +2954,7 @@
   {
     "Name": "JOSEPH O'BRIEN",
     "School": "Britton-Hecla",
-    "id": 444,
+    "id": 488,
     "adj_time": 1182.27,
     "time_min": 1137.4,
     "rnk_blnd": 329,
@@ -2963,7 +2963,7 @@
   {
     "Name": "CAMO KOCHERSBERGER",
     "School": "Philip",
-    "id": 129,
+    "id": 142,
     "adj_time": 1182.35,
     "time_min": 1072.9,
     "rnk_blnd": 330,
@@ -2972,7 +2972,7 @@
   {
     "Name": "RILEY SHELLENBERGER",
     "School": "Groton Area",
-    "id": 648,
+    "id": 720,
     "adj_time": 1183.35,
     "time_min": 1121.8,
     "rnk_blnd": 331,
@@ -2981,7 +2981,7 @@
   {
     "Name": "FRANCO FLORES",
     "School": "Milbank",
-    "id": 281,
+    "id": 311,
     "adj_time": 1183.45,
     "time_min": 1151.4,
     "rnk_blnd": 332,
@@ -2990,7 +2990,7 @@
   {
     "Name": "GABE FRIAS",
     "School": "Flandreau",
-    "id": 285,
+    "id": 315,
     "adj_time": 1184.36,
     "time_min": 1154.8,
     "rnk_blnd": 333,
@@ -2999,7 +2999,7 @@
   {
     "Name": "RYLAND MAGEE",
     "School": "Stanley County",
-    "id": 668,
+    "id": 743,
     "adj_time": 1184.41,
     "time_min": 1123.4,
     "rnk_blnd": 334,
@@ -3008,7 +3008,7 @@
   {
     "Name": "ANDREW SCHWAB",
     "School": "Aberdeen Christian",
-    "id": 35,
+    "id": 38,
     "adj_time": 1184.55,
     "time_min": 1117,
     "rnk_blnd": 335,
@@ -3017,7 +3017,7 @@
   {
     "Name": "MASON JANSEN",
     "School": "Freeman",
-    "id": 554,
+    "id": 610,
     "adj_time": 1184.67,
     "time_min": 1188.5,
     "rnk_blnd": 336,
@@ -3026,7 +3026,7 @@
   {
     "Name": "BRETT BISHOP",
     "School": "SF Washington",
-    "id": 95,
+    "id": 105,
     "adj_time": 1186.09,
     "time_min": 1208,
     "rnk_blnd": 337,
@@ -3035,7 +3035,7 @@
   {
     "Name": "NICK WARREN",
     "School": "Brandon Valley",
-    "id": 590,
+    "id": 654,
     "adj_time": 1186.29,
     "time_min": 1182.7,
     "rnk_blnd": 338,
@@ -3044,7 +3044,7 @@
   {
     "Name": "MAXWELL RADKE",
     "School": "Huron",
-    "id": 567,
+    "id": 631,
     "adj_time": 1186.52,
     "time_min": 1192.7,
     "rnk_blnd": 339,
@@ -3053,7 +3053,7 @@
   {
     "Name": "KYLE OLSON",
     "School": "Northwestern",
-    "id": 485,
+    "id": 534,
     "adj_time": 1186.79,
     "time_min": 1151.6,
     "rnk_blnd": 340,
@@ -3062,7 +3062,7 @@
   {
     "Name": "JACKSON BOLLINGER",
     "School": "Chamberlain",
-    "id": 372,
+    "id": 412,
     "adj_time": 1188.27,
     "time_min": 1117.5,
     "rnk_blnd": 341,
@@ -3071,7 +3071,7 @@
   {
     "Name": "ISAIAH SKOGEN",
     "School": "Deubrook Area",
-    "id": 360,
+    "id": 398,
     "adj_time": 1189.43,
     "time_min": 1161.6,
     "rnk_blnd": 342,
@@ -3080,7 +3080,7 @@
   {
     "Name": "JOSIAH STIEGELMEIER",
     "School": "Sunshine Bible Academy",
-    "id": 451,
+    "id": 495,
     "adj_time": 1189.53,
     "time_min": 1133,
     "rnk_blnd": 343,
@@ -3089,7 +3089,7 @@
   {
     "Name": "COLIN OLIVA",
     "School": "Dakota Valley",
-    "id": 172,
+    "id": 191,
     "adj_time": 1189.68,
     "time_min": 1152.7,
     "rnk_blnd": 344,
@@ -3098,7 +3098,7 @@
   {
     "Name": "TITUS HOFINGA",
     "School": "Great Plains Lutheran",
-    "id": 727,
+    "id": 806,
     "adj_time": 1191.8,
     "time_min": 1203.7,
     "rnk_blnd": 345,
@@ -3107,7 +3107,7 @@
   {
     "Name": "KARSTEN MCPEAK",
     "School": "Highmore-Harrold",
-    "id": 469,
+    "id": 515,
     "adj_time": 1192.11,
     "time_min": 1105,
     "rnk_blnd": 346,
@@ -3116,7 +3116,7 @@
   {
     "Name": "DECLAN HANTEN",
     "School": "Gettysburg",
-    "id": 214,
+    "id": 236,
     "adj_time": 1192.19,
     "time_min": 1087.2,
     "rnk_blnd": 347,
@@ -3125,7 +3125,7 @@
   {
     "Name": "PAXTON PETERSON",
     "School": "Beresford",
-    "id": 625,
+    "id": 692,
     "adj_time": 1192.45,
     "time_min": 1186.2,
     "rnk_blnd": 348,
@@ -3134,7 +3134,7 @@
   {
     "Name": "BRIDGER GRUBER",
     "School": "Stanley County",
-    "id": 102,
+    "id": 112,
     "adj_time": 1193.21,
     "time_min": 1169.6,
     "rnk_blnd": 349,
@@ -3143,7 +3143,7 @@
   {
     "Name": "LOGAN NIEDERBAUMER",
     "School": "Faulkton Area",
-    "id": 521,
+    "id": 572,
     "adj_time": 1193.26,
     "time_min": 1085,
     "rnk_blnd": 350,
@@ -3152,7 +3152,7 @@
   {
     "Name": "JAMES WEIR",
     "School": "Huron",
-    "id": 392,
+    "id": 434,
     "adj_time": 1193.95,
     "time_min": 1177,
     "rnk_blnd": 351,
@@ -3161,7 +3161,7 @@
   {
     "Name": "MILES SIEVERS",
     "School": "Garretson",
-    "id": 580,
+    "id": 644,
     "adj_time": 1194.24,
     "time_min": 1093.3,
     "rnk_blnd": 352,
@@ -3170,7 +3170,7 @@
   {
     "Name": "DOMINIC KLUCKMAN",
     "School": "Deuel",
-    "id": 224,
+    "id": 247,
     "adj_time": 1195.09,
     "time_min": 1113.8,
     "rnk_blnd": 353,
@@ -3179,7 +3179,7 @@
   {
     "Name": "JOHN FOSTER",
     "School": "Rapid City Central",
-    "id": 430,
+    "id": 474,
     "adj_time": 1195.16,
     "time_min": null,
     "rnk_blnd": 354,
@@ -3188,7 +3188,7 @@
   {
     "Name": "SHAY WEBER",
     "School": "Philip",
-    "id": 693,
+    "id": 772,
     "adj_time": 1196.38,
     "time_min": 1091.8,
     "rnk_blnd": 355,
@@ -3197,7 +3197,7 @@
   {
     "Name": "TANNER GOTTLOB",
     "School": "Spearfish",
-    "id": 706,
+    "id": 785,
     "adj_time": 1196.53,
     "time_min": 1157.4,
     "rnk_blnd": 356,
@@ -3206,7 +3206,7 @@
   {
     "Name": "CJ BJORUM",
     "School": "Scotland",
-    "id": 160,
+    "id": 177,
     "adj_time": 1197.14,
     "time_min": 1151,
     "rnk_blnd": 357,
@@ -3215,7 +3215,7 @@
   {
     "Name": "SHAW HOWARD",
     "School": "Flandreau Indian",
-    "id": 692,
+    "id": 771,
     "adj_time": 1197.75,
     "time_min": 1202.4,
     "rnk_blnd": 358,
@@ -3224,7 +3224,7 @@
   {
     "Name": "NOAH ESTWICK",
     "School": "Sisseton",
-    "id": 594,
+    "id": 659,
     "adj_time": 1197.82,
     "time_min": 1108.1,
     "rnk_blnd": 359,
@@ -3233,7 +3233,7 @@
   {
     "Name": "WILL DUNLAP",
     "School": "Brandon Valley",
-    "id": 762,
+    "id": 846,
     "adj_time": 1198.05,
     "time_min": 1202.7,
     "rnk_blnd": 360,
@@ -3242,7 +3242,7 @@
   {
     "Name": "SAM MANIAN",
     "School": "Great Plains Lutheran",
-    "id": 675,
+    "id": 752,
     "adj_time": 1198.75,
     "time_min": 1117.4,
     "rnk_blnd": 361,
@@ -3251,7 +3251,7 @@
   {
     "Name": "AYDEN VAN LAECKEN",
     "School": "Brandon Valley",
-    "id": 56,
+    "id": 62,
     "adj_time": 1198.93,
     "time_min": 1165.2,
     "rnk_blnd": 362,
@@ -3260,7 +3260,7 @@
   {
     "Name": "JASE JONS",
     "School": "Burke",
-    "id": 397,
+    "id": 440,
     "adj_time": 1200.11,
     "time_min": 1184.4,
     "rnk_blnd": 363,
@@ -3269,7 +3269,7 @@
   {
     "Name": "KARSTEN LERWICK",
     "School": "Arlington",
-    "id": 468,
+    "id": 514,
     "adj_time": 1200.97,
     "time_min": 1146,
     "rnk_blnd": 364,
@@ -3278,7 +3278,7 @@
   {
     "Name": "ANDREW BITTERMAN",
     "School": "Tripp-Delmont/Armour",
-    "id": 31,
+    "id": 34,
     "adj_time": 1200.99,
     "time_min": 1164.3,
     "rnk_blnd": 365,
@@ -3287,7 +3287,7 @@
   {
     "Name": "KENTON JAMES",
     "School": "Flandreau Indian",
-    "id": 475,
+    "id": 522,
     "adj_time": 1201.14,
     "time_min": 1205.8,
     "rnk_blnd": 366,
@@ -3296,7 +3296,7 @@
   {
     "Name": "JAMES STOLLEY",
     "School": "Pierre T.F. Riggs",
-    "id": 391,
+    "id": 433,
     "adj_time": 1201.26,
     "time_min": 1173.5,
     "rnk_blnd": 367,
@@ -3305,7 +3305,7 @@
   {
     "Name": "JOSUE GUTIERREZ-ESCUTIA",
     "School": "SF Roosevelt",
-    "id": 452,
+    "id": 496,
     "adj_time": 1202.39,
     "time_min": 1224.6,
     "rnk_blnd": 368,
@@ -3314,7 +3314,7 @@
   {
     "Name": "KAMRIN LIEWER",
     "School": "Burke",
-    "id": 466,
+    "id": 512,
     "adj_time": 1202.54,
     "time_min": 1186.8,
     "rnk_blnd": 369,
@@ -3323,7 +3323,7 @@
   {
     "Name": "DANE ROBERTS",
     "School": "Vermillion",
-    "id": 199,
+    "id": 220,
     "adj_time": 1204.71,
     "time_min": 1185.8,
     "rnk_blnd": 370,
@@ -3332,7 +3332,7 @@
   {
     "Name": "KEEGAN LOEWEN",
     "School": "James Valley Christian",
-    "id": 472,
+    "id": 519,
     "adj_time": 1204.83,
     "time_min": 1150.6,
     "rnk_blnd": 371,
@@ -3341,7 +3341,7 @@
   {
     "Name": "ISAIAH SAYLER",
     "School": "Lennox",
-    "id": 359,
+    "id": 397,
     "adj_time": 1205.49,
     "time_min": 1183.8,
     "rnk_blnd": 372,
@@ -3350,7 +3350,7 @@
   {
     "Name": "BENTON NELSON",
     "School": "SF Roosevelt",
-    "id": 74,
+    "id": 81,
     "adj_time": 1206.12,
     "time_min": 1228.4,
     "rnk_blnd": 373,
@@ -3359,7 +3359,7 @@
   {
     "Name": "LUKE LYNGSTAD",
     "School": "Brandon Valley",
-    "id": 532,
+    "id": 584,
     "adj_time": 1206.14,
     "time_min": 1204.6,
     "rnk_blnd": 374,
@@ -3368,7 +3368,7 @@
   {
     "Name": "SAMUEL SPISAK",
     "School": "West Central",
-    "id": 683,
+    "id": 760,
     "adj_time": 1206.22,
     "time_min": 1180.7,
     "rnk_blnd": 375,
@@ -3377,7 +3377,7 @@
   {
     "Name": "ZAYNE HARTWIG",
     "School": "Watertown",
-    "id": 788,
+    "id": 876,
     "adj_time": 1206.36,
     "time_min": 1209.9,
     "rnk_blnd": 376,
@@ -3386,7 +3386,7 @@
   {
     "Name": "COEN HALVORSON",
     "School": "Webster Area",
-    "id": 165,
+    "id": 183,
     "adj_time": 1207.38,
     "time_min": 1144.9,
     "rnk_blnd": 377,
@@ -3395,7 +3395,7 @@
   {
     "Name": "JAXEN KINDELSPIRE",
     "School": "Tri-Valley",
-    "id": 402,
+    "id": 445,
     "adj_time": 1207.47,
     "time_min": 1188.2,
     "rnk_blnd": 378,
@@ -3404,7 +3404,7 @@
   {
     "Name": "ARJUN AGRAWAL",
     "School": "SF Lincoln",
-    "id": 44,
+    "id": 47,
     "adj_time": 1207.52,
     "time_min": 1198.4,
     "rnk_blnd": 379,
@@ -3413,7 +3413,7 @@
   {
     "Name": "COLE FEICKERT",
     "School": "Aberdeen Roncalli",
-    "id": 167,
+    "id": 185,
     "adj_time": 1207.71,
     "time_min": 1142.5,
     "rnk_blnd": 380,
@@ -3422,7 +3422,7 @@
   {
     "Name": "KEAGAN GERLICK",
     "School": "St. Thomas More",
-    "id": 470,
+    "id": 517,
     "adj_time": 1208.2,
     "time_min": 1167,
     "rnk_blnd": 381,
@@ -3431,7 +3431,7 @@
   {
     "Name": "BRYGHTON FRANKS",
     "School": "Mahpiya Luta",
-    "id": 114,
+    "id": 124,
     "adj_time": 1208.24,
     "time_min": 1200,
     "rnk_blnd": 382,
@@ -3440,7 +3440,7 @@
   {
     "Name": "KARSTEN HERGES",
     "School": "Mitchell",
-    "id": 467,
+    "id": 513,
     "adj_time": 1209.7,
     "time_min": 1185.2,
     "rnk_blnd": 383,
@@ -3449,7 +3449,7 @@
   {
     "Name": "JAYDEN ERFMAN",
     "School": "Highmore-Harrold",
-    "id": 414,
+    "id": 458,
     "adj_time": 1210.39,
     "time_min": 1113,
     "rnk_blnd": 384,
@@ -3458,7 +3458,7 @@
   {
     "Name": "BECKHAM BERRY",
     "School": "Milbank",
-    "id": 62,
+    "id": 68,
     "adj_time": 1211.23,
     "time_min": 1177.3,
     "rnk_blnd": 385,
@@ -3467,7 +3467,7 @@
   {
     "Name": "SAMUEL JACOBSEN",
     "School": "SF Roosevelt",
-    "id": 680,
+    "id": 757,
     "adj_time": 1211.82,
     "time_min": 1234.2,
     "rnk_blnd": 386,
@@ -3476,7 +3476,7 @@
   {
     "Name": "SHANE JONES",
     "School": "Pierre T.F. Riggs",
-    "id": 690,
+    "id": 769,
     "adj_time": 1211.92,
     "time_min": 1200.6,
     "rnk_blnd": 387,
@@ -3485,7 +3485,7 @@
   {
     "Name": "MICHAEL ABERLE",
     "School": "Spearfish",
-    "id": 572,
+    "id": 636,
     "adj_time": 1212.98,
     "time_min": 1192.5,
     "rnk_blnd": 388,
@@ -3494,7 +3494,7 @@
   {
     "Name": "KAIDEN COLOMB",
     "School": "Mitchell",
-    "id": 463,
+    "id": 509,
     "adj_time": 1213.07,
     "time_min": 1139.9,
     "rnk_blnd": 389,
@@ -3512,7 +3512,7 @@
   {
     "Name": "JASON ARBACH",
     "School": "North Central",
-    "id": 399,
+    "id": 442,
     "adj_time": 1214.17,
     "time_min": 1170,
     "rnk_blnd": 391,
@@ -3521,7 +3521,7 @@
   {
     "Name": "MARLIN SCARBOROUGH",
     "School": "Rapid City Stevens",
-    "id": 548,
+    "id": 602,
     "adj_time": 1214.61,
     "time_min": null,
     "rnk_blnd": 392,
@@ -3530,7 +3530,7 @@
   {
     "Name": "URIAH MORAN",
     "School": "Lyman",
-    "id": 749,
+    "id": 831,
     "adj_time": 1214.63,
     "time_min": 1129.2,
     "rnk_blnd": 393,
@@ -3539,7 +3539,7 @@
   {
     "Name": "CHARLIE PERSON",
     "School": "Dell Rapids",
-    "id": 154,
+    "id": 170,
     "adj_time": 1215.46,
     "time_min": 1177.5,
     "rnk_blnd": 394,
@@ -3548,7 +3548,7 @@
   {
     "Name": "GAVIN FRIEND",
     "School": "Rapid City Stevens",
-    "id": 298,
+    "id": 330,
     "adj_time": 1215.59,
     "time_min": null,
     "rnk_blnd": 395,
@@ -3557,7 +3557,7 @@
   {
     "Name": "HUDSON SCHMUCK",
     "School": "SF Washington",
-    "id": 344,
+    "id": 381,
     "adj_time": 1216.73,
     "time_min": 1239.2,
     "rnk_blnd": 396,
@@ -3566,7 +3566,7 @@
   {
     "Name": "MICAH ROUNDS",
     "School": "Pierre T.F. Riggs",
-    "id": 571,
+    "id": 635,
     "adj_time": 1216.76,
     "time_min": 1232.1,
     "rnk_blnd": 397,
@@ -3575,7 +3575,7 @@
   {
     "Name": "LUCAS JOHNSON",
     "School": "SF Jefferson",
-    "id": 526,
+    "id": 577,
     "adj_time": 1216.9,
     "time_min": 1184.6,
     "rnk_blnd": 398,
@@ -3584,7 +3584,7 @@
   {
     "Name": "MALACHI PETERSON",
     "School": "Deuel",
-    "id": 541,
+    "id": 594,
     "adj_time": 1217.88,
     "time_min": 1198.5,
     "rnk_blnd": 399,
@@ -3593,7 +3593,7 @@
   {
     "Name": "WESTON FOSTER",
     "School": "Winner/Colome",
-    "id": 760,
+    "id": 844,
     "adj_time": 1218.49,
     "time_min": 1109.1,
     "rnk_blnd": 400,
@@ -3602,7 +3602,7 @@
   {
     "Name": "DEYONDRE FICK",
     "School": "SF Jefferson",
-    "id": 223,
+    "id": 246,
     "adj_time": 1219.62,
     "time_min": 1188.2,
     "rnk_blnd": 401,
@@ -3611,7 +3611,7 @@
   {
     "Name": "TRISTAN DAY",
     "School": "St. Thomas More",
-    "id": 739,
+    "id": 819,
     "adj_time": 1219.91,
     "time_min": 1171.1,
     "rnk_blnd": 402,
@@ -3620,7 +3620,7 @@
   {
     "Name": "TOMMY KURTZ",
     "School": "Madison",
-    "id": 730,
+    "id": 810,
     "adj_time": 1220.02,
     "time_min": 1161.4,
     "rnk_blnd": 403,
@@ -3629,7 +3629,7 @@
   {
     "Name": "JAXSON BENDER",
     "School": "Leola/Frederick Area",
-    "id": 409,
+    "id": 453,
     "adj_time": 1220.79,
     "time_min": 1209.2,
     "rnk_blnd": 404,
@@ -3638,7 +3638,7 @@
   {
     "Name": "LEVI AXTELL",
     "School": "Sioux Valley",
-    "id": 503,
+    "id": 552,
     "adj_time": 1221.38,
     "time_min": 1108.1,
     "rnk_blnd": 405,
@@ -3647,7 +3647,7 @@
   {
     "Name": "NOAH INGERSON",
     "School": "North Central",
-    "id": 597,
+    "id": 662,
     "adj_time": 1222.82,
     "time_min": 1104.8,
     "rnk_blnd": 406,
@@ -3665,7 +3665,7 @@
   {
     "Name": "GAVIN MA",
     "School": "Vermillion",
-    "id": 301,
+    "id": 333,
     "adj_time": 1224.86,
     "time_min": 1236.1,
     "rnk_blnd": 408,
@@ -3674,7 +3674,7 @@
   {
     "Name": "JAXON JOHANNESON",
     "School": "Tea Area",
-    "id": 405,
+    "id": 448,
     "adj_time": 1224.95,
     "time_min": 1185.9,
     "rnk_blnd": 409,
@@ -3683,7 +3683,7 @@
   {
     "Name": "ISAAC SANDHOLM",
     "School": "Brandon Valley",
-    "id": 354,
+    "id": 392,
     "adj_time": 1227.33,
     "time_min": 1219.7,
     "rnk_blnd": 410,
@@ -3692,7 +3692,7 @@
   {
     "Name": "MADDEN BUISKER",
     "School": "Warner",
-    "id": 537,
+    "id": 589,
     "adj_time": 1227.5,
     "time_min": 1227.3,
     "rnk_blnd": 411,
@@ -3701,7 +3701,7 @@
   {
     "Name": "ETHAN ZEMLICKA",
     "School": "Clark/Willow Lake",
-    "id": 270,
+    "id": 298,
     "adj_time": 1227.82,
     "time_min": 1151.4,
     "rnk_blnd": 412,
@@ -3710,7 +3710,7 @@
   {
     "Name": "ISAAC TOLLY",
     "School": "SF Lincoln",
-    "id": 356,
+    "id": 394,
     "adj_time": 1229.07,
     "time_min": 1225.6,
     "rnk_blnd": 413,
@@ -3719,7 +3719,7 @@
   {
     "Name": "BRADYN BLACKBEAR",
     "School": "Todd County",
-    "id": 88,
+    "id": 96,
     "adj_time": 1229.14,
     "time_min": 1153.7,
     "rnk_blnd": 414,
@@ -3728,7 +3728,7 @@
   {
     "Name": "DESTIN DRAPEAU",
     "School": "Crow Creek",
-    "id": 220,
+    "id": 243,
     "adj_time": 1229.19,
     "time_min": 1115.8,
     "rnk_blnd": 415,
@@ -3737,7 +3737,7 @@
   {
     "Name": "GUNNER FOWLER",
     "School": "Dakota Valley",
-    "id": 323,
+    "id": 356,
     "adj_time": 1229.51,
     "time_min": 1197.5,
     "rnk_blnd": 416,
@@ -3746,7 +3746,7 @@
   {
     "Name": "CHRIS WRIGHT",
     "School": "Yankton",
-    "id": 157,
+    "id": 174,
     "adj_time": 1229.71,
     "time_min": 1237.2,
     "rnk_blnd": 417,
@@ -3755,7 +3755,7 @@
   {
     "Name": "DONTAE DAVIS",
     "School": "Todd County",
-    "id": 225,
+    "id": 248,
     "adj_time": 1230.15,
     "time_min": 1126.4,
     "rnk_blnd": 418,
@@ -3764,7 +3764,7 @@
   {
     "Name": "MASON ROYER",
     "School": "Warner",
-    "id": 558,
+    "id": 616,
     "adj_time": 1230.19,
     "time_min": 1269.2,
     "rnk_blnd": 419,
@@ -3773,7 +3773,7 @@
   {
     "Name": "WYATT YOUNG",
     "School": "Freeman",
-    "id": 778,
+    "id": 866,
     "adj_time": 1230.32,
     "time_min": 1234.3,
     "rnk_blnd": 420,
@@ -3782,7 +3782,7 @@
   {
     "Name": "JARED COOPER",
     "School": "Custer",
-    "id": 396,
+    "id": 439,
     "adj_time": 1230.92,
     "time_min": 1232.5,
     "rnk_blnd": 421,
@@ -3791,7 +3791,7 @@
   {
     "Name": "NOAH LOVE",
     "School": "Deuel",
-    "id": 601,
+    "id": 666,
     "adj_time": 1231.47,
     "time_min": 1197.1,
     "rnk_blnd": 422,
@@ -3800,7 +3800,7 @@
   {
     "Name": "COOPER SLABA",
     "School": "Wagner",
-    "id": 184,
+    "id": 203,
     "adj_time": 1232.87,
     "time_min": 1174,
     "rnk_blnd": 423,
@@ -3809,7 +3809,7 @@
   {
     "Name": "LUKE SCHAEFFER",
     "School": "Great Plains Lutheran",
-    "id": 536,
+    "id": 588,
     "adj_time": 1233.36,
     "time_min": 1172.1,
     "rnk_blnd": 424,
@@ -3818,7 +3818,7 @@
   {
     "Name": "JUDE MILLER",
     "School": "Lyman",
-    "id": 453,
+    "id": 497,
     "adj_time": 1233.48,
     "time_min": 1086.4,
     "rnk_blnd": 425,
@@ -3827,7 +3827,7 @@
   {
     "Name": "COOPER DANFORTH",
     "School": "Garretson",
-    "id": 180,
+    "id": 199,
     "adj_time": 1233.59,
     "time_min": 1152.2,
     "rnk_blnd": 426,
@@ -3836,7 +3836,7 @@
   {
     "Name": "BLOOM BROWN",
     "School": "Spearfish",
-    "id": 79,
+    "id": 87,
     "adj_time": 1234.08,
     "time_min": 1170.2,
     "rnk_blnd": 427,
@@ -3845,7 +3845,7 @@
   {
     "Name": "CHARLESTON WACHTER",
     "School": "Huron",
-    "id": 152,
+    "id": 168,
     "adj_time": 1234.28,
     "time_min": 1224.8,
     "rnk_blnd": 428,
@@ -3854,7 +3854,7 @@
   {
     "Name": "EZRA BEUKELMAN",
     "School": "SF Lincoln",
-    "id": 278,
+    "id": 307,
     "adj_time": 1234.92,
     "time_min": 1232.6,
     "rnk_blnd": 429,
@@ -3872,7 +3872,7 @@
   {
     "Name": "GODWIL MUTHIANI",
     "School": "Freeman",
-    "id": 308,
+    "id": 341,
     "adj_time": 1235.9,
     "time_min": 1239.9,
     "rnk_blnd": 431,
@@ -3881,7 +3881,7 @@
   {
     "Name": "HENRY GRAESSER",
     "School": "Platte-Geddes",
-    "id": 333,
+    "id": 367,
     "adj_time": 1235.93,
     "time_min": 1163,
     "rnk_blnd": 432,
@@ -3890,7 +3890,7 @@
   {
     "Name": "TATE KOESTER",
     "School": "Wolsey-Wessington",
-    "id": 710,
+    "id": 789,
     "adj_time": 1236.77,
     "time_min": 1144,
     "rnk_blnd": 433,
@@ -3899,7 +3899,7 @@
   {
     "Name": "ANDREW PETERSON",
     "School": "Douglas",
-    "id": 34,
+    "id": 37,
     "adj_time": 1237.25,
     "time_min": 1182.1,
     "rnk_blnd": 434,
@@ -3908,7 +3908,7 @@
   {
     "Name": "MASON KRAFT",
     "School": "Timber Lake",
-    "id": 556,
+    "id": 612,
     "adj_time": 1238.5,
     "time_min": 1212,
     "rnk_blnd": 435,
@@ -3917,7 +3917,7 @@
   {
     "Name": "JAMESON TUCKER",
     "School": "Jones County",
-    "id": 394,
+    "id": 436,
     "adj_time": 1238.79,
     "time_min": 1222.1,
     "rnk_blnd": 436,
@@ -3926,7 +3926,7 @@
   {
     "Name": "GRADY LINDGREN",
     "School": "Watertown",
-    "id": 312,
+    "id": 345,
     "adj_time": 1239.16,
     "time_min": 1201.6,
     "rnk_blnd": 437,
@@ -3935,7 +3935,7 @@
   {
     "Name": "WILL HELLING",
     "School": "Northwestern",
-    "id": 763,
+    "id": 847,
     "adj_time": 1239.43,
     "time_min": 1164.1,
     "rnk_blnd": 438,
@@ -3944,7 +3944,7 @@
   {
     "Name": "JOE KIRKEBY",
     "School": "Brandon Valley",
-    "id": 426,
+    "id": 470,
     "adj_time": 1240,
     "time_min": 1235.7,
     "rnk_blnd": 439,
@@ -3953,7 +3953,7 @@
   {
     "Name": "DEVELYN TALKS",
     "School": "Tiospaye Topa",
-    "id": 221,
+    "id": 244,
     "adj_time": 1240.77,
     "time_min": 1262.4,
     "rnk_blnd": 440,
@@ -3962,7 +3962,7 @@
   {
     "Name": "NOAH KORVER",
     "School": "Tea Area",
-    "id": 600,
+    "id": 665,
     "adj_time": 1241.34,
     "time_min": 1219.3,
     "rnk_blnd": 441,
@@ -3971,7 +3971,7 @@
   {
     "Name": "OWEN ANDERSON",
     "School": "De Smet",
-    "id": 619,
+    "id": 686,
     "adj_time": 1241.4,
     "time_min": 1187.2,
     "rnk_blnd": 442,
@@ -3980,7 +3980,7 @@
   {
     "Name": "DEVON ANDERSEN",
     "School": "Dell Rapids",
-    "id": 222,
+    "id": 245,
     "adj_time": 1241.76,
     "time_min": 1265.9,
     "rnk_blnd": 443,
@@ -3989,7 +3989,7 @@
   {
     "Name": "HAYDEN SPRAGUE",
     "School": "North Central",
-    "id": 330,
+    "id": 364,
     "adj_time": 1241.92,
     "time_min": 1229.9,
     "rnk_blnd": 444,
@@ -3998,7 +3998,7 @@
   {
     "Name": "WALKER FARLEE",
     "School": "Dupree",
-    "id": 755,
+    "id": 839,
     "adj_time": 1241.98,
     "time_min": 1198,
     "rnk_blnd": 445,
@@ -4007,7 +4007,7 @@
   {
     "Name": "JACK VANOVERBEKE",
     "School": "Arlington",
-    "id": 371,
+    "id": 411,
     "adj_time": 1242.13,
     "time_min": 1197.4,
     "rnk_blnd": 446,
@@ -4025,7 +4025,7 @@
   {
     "Name": "GUY MESSLER",
     "School": "Gayville-Volin",
-    "id": 324,
+    "id": 357,
     "adj_time": 1242.58,
     "time_min": 1246.6,
     "rnk_blnd": 448,
@@ -4034,7 +4034,7 @@
   {
     "Name": "JOSH OLESON",
     "School": "Freeman",
-    "id": 448,
+    "id": 492,
     "adj_time": 1242.69,
     "time_min": 1249.1,
     "rnk_blnd": 449,
@@ -4043,7 +4043,7 @@
   {
     "Name": "CUTLER DAVIS",
     "School": "De Smet",
-    "id": 194,
+    "id": 215,
     "adj_time": 1243.02,
     "time_min": 1188,
     "rnk_blnd": 450,
@@ -4052,7 +4052,7 @@
   {
     "Name": "CHASE GUSTAFSON",
     "School": "Hamlin",
-    "id": 155,
+    "id": 172,
     "adj_time": 1243.27,
     "time_min": 1273.7,
     "rnk_blnd": 451,
@@ -4061,7 +4061,7 @@
   {
     "Name": "CASHTON RAUSCH",
     "School": "Gettysburg",
-    "id": 145,
+    "id": 161,
     "adj_time": 1244.12,
     "time_min": 1162.8,
     "rnk_blnd": 452,
@@ -4070,7 +4070,7 @@
   {
     "Name": "DAYTON RED OWL",
     "School": "Little Wound",
-    "id": 211,
+    "id": 233,
     "adj_time": 1244.2,
     "time_min": 1185.8,
     "rnk_blnd": 453,
@@ -4079,7 +4079,7 @@
   {
     "Name": "CARTER LEIBEG",
     "School": "Chester",
-    "id": 137,
+    "id": 153,
     "adj_time": 1244.95,
     "time_min": 1191.3,
     "rnk_blnd": 454,
@@ -4088,7 +4088,7 @@
   {
     "Name": "MADEN BROWN",
     "School": "Platte-Geddes",
-    "id": 539,
+    "id": 592,
     "adj_time": 1245.73,
     "time_min": 1165.4,
     "rnk_blnd": 455,
@@ -4097,7 +4097,7 @@
   {
     "Name": "IVAN KRAJEWSKI",
     "School": "Yankton",
-    "id": 361,
+    "id": 399,
     "adj_time": 1245.94,
     "time_min": 1247.8,
     "rnk_blnd": 456,
@@ -4106,7 +4106,7 @@
   {
     "Name": "JONATHON GOULD",
     "School": "Dakota Valley",
-    "id": 438,
+    "id": 482,
     "adj_time": 1246.82,
     "time_min": 1212.8,
     "rnk_blnd": 457,
@@ -4115,7 +4115,7 @@
   {
     "Name": "JACKSON HESTERMANN",
     "School": "Sioux Valley",
-    "id": 376,
+    "id": 416,
     "adj_time": 1247.21,
     "time_min": 1169,
     "rnk_blnd": 458,
@@ -4124,7 +4124,7 @@
   {
     "Name": "CORBIN SORENSON",
     "School": "Brandon Valley",
-    "id": 188,
+    "id": 208,
     "adj_time": 1247.81,
     "time_min": 1231.9,
     "rnk_blnd": 459,
@@ -4133,7 +4133,7 @@
   {
     "Name": "TITUS WEEMAN",
     "School": "SF Lutheran",
-    "id": 729,
+    "id": 808,
     "adj_time": 1249,
     "time_min": 1213.3,
     "rnk_blnd": 460,
@@ -4142,7 +4142,7 @@
   {
     "Name": "NOAH CHICOINE",
     "School": "Brandon Valley",
-    "id": 593,
+    "id": 658,
     "adj_time": 1249.19,
     "time_min": 1238.3,
     "rnk_blnd": 461,
@@ -4151,7 +4151,7 @@
   {
     "Name": "BENNETT GRAHAM",
     "School": "Milbank",
-    "id": 70,
+    "id": 77,
     "adj_time": 1249.52,
     "time_min": null,
     "rnk_blnd": 462,
@@ -4160,7 +4160,7 @@
   {
     "Name": "ANSON GRIFFIN",
     "School": "Rapid City Central",
-    "id": 36,
+    "id": 39,
     "adj_time": 1249.68,
     "time_min": 1288.2,
     "rnk_blnd": 463,
@@ -4169,7 +4169,7 @@
   {
     "Name": "BROXTON NOUR",
     "School": "SF Lincoln",
-    "id": 111,
+    "id": 121,
     "adj_time": 1250.03,
     "time_min": 1227.8,
     "rnk_blnd": 464,
@@ -4178,7 +4178,7 @@
   {
     "Name": "SHEA SMIDT",
     "School": "Garretson",
-    "id": 695,
+    "id": 774,
     "adj_time": 1250.9,
     "time_min": 1151.9,
     "rnk_blnd": 465,
@@ -4187,7 +4187,7 @@
   {
     "Name": "THOMAS CHRISTENSEN",
     "School": "Dell Rapids",
-    "id": 722,
+    "id": 801,
     "adj_time": 1251.13,
     "time_min": 1238.7,
     "rnk_blnd": 466,
@@ -4196,7 +4196,7 @@
   {
     "Name": "QUENTIN MILLER",
     "School": "Douglas",
-    "id": 633,
+    "id": 702,
     "adj_time": 1251.38,
     "time_min": 1187.9,
     "rnk_blnd": 467,
@@ -4205,7 +4205,7 @@
   {
     "Name": "MATTHEW BURKHART",
     "School": "SF Washington",
-    "id": 560,
+    "id": 619,
     "adj_time": 1251.39,
     "time_min": 1274.5,
     "rnk_blnd": 468,
@@ -4214,7 +4214,7 @@
   {
     "Name": "LOGAN ROBINSON",
     "School": "St. Mary's",
-    "id": 522,
+    "id": 573,
     "adj_time": 1251.4,
     "time_min": 1217.7,
     "rnk_blnd": 469,
@@ -4223,7 +4223,7 @@
   {
     "Name": "RYDER ANDERSEN",
     "School": "Viborg-Hurley",
-    "id": 662,
+    "id": 736,
     "adj_time": 1251.92,
     "time_min": 1213.1,
     "rnk_blnd": 470,
@@ -4232,7 +4232,7 @@
   {
     "Name": "MARKOS MICHAILIDIS",
     "School": "Brandon Valley",
-    "id": 547,
+    "id": 601,
     "adj_time": 1252.29,
     "time_min": 1248.5,
     "rnk_blnd": 471,
@@ -4241,7 +4241,7 @@
   {
     "Name": "DRAYDEN DEFFENBAUGH",
     "School": "West Central",
-    "id": 227,
+    "id": 250,
     "adj_time": 1252.62,
     "time_min": 1188.4,
     "rnk_blnd": 472,
@@ -4250,7 +4250,7 @@
   {
     "Name": "CONNER PARRISH",
     "School": "Highmore-Harrold",
-    "id": 177,
+    "id": 196,
     "adj_time": 1252.64,
     "time_min": 1131.3,
     "rnk_blnd": 473,
@@ -4259,7 +4259,7 @@
   {
     "Name": "JACK LEWIS",
     "School": "Northwestern",
-    "id": 370,
+    "id": 410,
     "adj_time": 1252.78,
     "time_min": 1240.7,
     "rnk_blnd": 474,
@@ -4268,7 +4268,7 @@
   {
     "Name": "DORIAN KAUFMAN",
     "School": "Arlington",
-    "id": 226,
+    "id": 249,
     "adj_time": 1252.79,
     "time_min": 1191.8,
     "rnk_blnd": 475,
@@ -4277,7 +4277,7 @@
   {
     "Name": "KORBIN JENSEN",
     "School": "Freeman",
-    "id": 480,
+    "id": 529,
     "adj_time": 1252.93,
     "time_min": 1211.6,
     "rnk_blnd": 476,
@@ -4286,7 +4286,7 @@
   {
     "Name": "DAESON MONCUR",
     "School": "Harding County",
-    "id": 196,
+    "id": 217,
     "adj_time": 1253.12,
     "time_min": 1214.2,
     "rnk_blnd": 477,
@@ -4295,7 +4295,7 @@
   {
     "Name": "JAXSON TOLLEFSON",
     "School": "Mount Vernon/Plankinton",
-    "id": 410,
+    "id": 454,
     "adj_time": 1253.18,
     "time_min": 1191.6,
     "rnk_blnd": 478,
@@ -4304,7 +4304,7 @@
   {
     "Name": "BRAYLEN LIEBL",
     "School": "Warner",
-    "id": 92,
+    "id": 100,
     "adj_time": 1253.32,
     "time_min": 1297.4,
     "rnk_blnd": 479,
@@ -4313,7 +4313,7 @@
   {
     "Name": "ASHTON LUTTER",
     "School": "West Central",
-    "id": 50,
+    "id": 53,
     "adj_time": 1253.83,
     "time_min": 1258.7,
     "rnk_blnd": 480,
@@ -4322,7 +4322,7 @@
   {
     "Name": "ELI GAUTHIER",
     "School": "Dell Rapids",
-    "id": 243,
+    "id": 269,
     "adj_time": 1255.11,
     "time_min": 1254,
     "rnk_blnd": 481,
@@ -4331,7 +4331,7 @@
   {
     "Name": "OLIVER PEDERSON",
     "School": "Spearfish",
-    "id": 615,
+    "id": 681,
     "adj_time": 1255.43,
     "time_min": 1231.7,
     "rnk_blnd": 482,
@@ -4340,7 +4340,7 @@
   {
     "Name": "CORT BECK",
     "School": "Bison",
-    "id": 191,
+    "id": 211,
     "adj_time": 1255.47,
     "time_min": 1225,
     "rnk_blnd": 483,
@@ -4349,7 +4349,7 @@
   {
     "Name": "ELIJAH SCHAAP",
     "School": "Beresford",
-    "id": 252,
+    "id": 279,
     "adj_time": 1256.14,
     "time_min": 1209.4,
     "rnk_blnd": 484,
@@ -4358,7 +4358,7 @@
   {
     "Name": "LEE DECKER",
     "School": "Rapid City Stevens",
-    "id": 496,
+    "id": 545,
     "adj_time": 1257.24,
     "time_min": null,
     "rnk_blnd": 485,
@@ -4376,7 +4376,7 @@
   {
     "Name": "SPENCER ANTONEN",
     "School": "Arlington",
-    "id": 699,
+    "id": 778,
     "adj_time": 1257.92,
     "time_min": 1195.4,
     "rnk_blnd": 487,
@@ -4385,7 +4385,7 @@
   {
     "Name": "MADDOX MCKIE",
     "School": "St. Thomas More",
-    "id": 538,
+    "id": 591,
     "adj_time": 1257.99,
     "time_min": 1233.1,
     "rnk_blnd": 488,
@@ -4394,7 +4394,7 @@
   {
     "Name": "RYLAND MOORE",
     "School": "Spearfish",
-    "id": 670,
+    "id": 745,
     "adj_time": 1259.14,
     "time_min": 1215.6,
     "rnk_blnd": 489,
@@ -4403,7 +4403,7 @@
   {
     "Name": "BEN KELLER",
     "School": "Aberdeen Roncalli",
-    "id": 65,
+    "id": 72,
     "adj_time": 1259.21,
     "time_min": 1176.3,
     "rnk_blnd": 490,
@@ -4412,7 +4412,7 @@
   {
     "Name": "WILLIAM LABERGE",
     "School": "Great Plains Lutheran",
-    "id": 765,
+    "id": 850,
     "adj_time": 1259.79,
     "time_min": 1189.1,
     "rnk_blnd": 491,
@@ -4421,7 +4421,7 @@
   {
     "Name": "BARRETT POLK",
     "School": "Bon Homme",
-    "id": 57,
+    "id": 63,
     "adj_time": 1259.94,
     "time_min": 1228.8,
     "rnk_blnd": 492,
@@ -4430,7 +4430,7 @@
   {
     "Name": "DREW MELLEGAARD",
     "School": "Ethan/Parkston",
-    "id": 230,
+    "id": 254,
     "adj_time": 1259.99,
     "time_min": 1180.4,
     "rnk_blnd": 493,
@@ -4439,7 +4439,7 @@
   {
     "Name": "LOGAN BORNS",
     "School": "Clark/Willow Lake",
-    "id": 518,
+    "id": 569,
     "adj_time": 1261.14,
     "time_min": 1167.2,
     "rnk_blnd": 494,
@@ -4448,7 +4448,7 @@
   {
     "Name": "COREY SCHNEIDER",
     "School": "SF Washington",
-    "id": 190,
+    "id": 210,
     "adj_time": 1261.4,
     "time_min": 1284.7,
     "rnk_blnd": 495,
@@ -4457,7 +4457,7 @@
   {
     "Name": "GABE EDMINSON",
     "School": "Elk Point-Jefferson",
-    "id": 284,
+    "id": 314,
     "adj_time": 1261.51,
     "time_min": 1218,
     "rnk_blnd": 496,
@@ -4466,7 +4466,7 @@
   {
     "Name": "RYLAN WENDLAND",
     "School": "Milbank",
-    "id": 667,
+    "id": 742,
     "adj_time": 1261.87,
     "time_min": 1192.5,
     "rnk_blnd": 497,
@@ -4475,7 +4475,7 @@
   {
     "Name": "GRAY HOLDEN",
     "School": "Deuel",
-    "id": 318,
+    "id": 351,
     "adj_time": 1261.93,
     "time_min": 1175.8,
     "rnk_blnd": 498,
@@ -4484,7 +4484,7 @@
   {
     "Name": "MARCUS AASHEIM",
     "School": "Beresford",
-    "id": 544,
+    "id": 598,
     "adj_time": 1262.18,
     "time_min": 1208.3,
     "rnk_blnd": 499,
@@ -4493,7 +4493,7 @@
   {
     "Name": "BRECKEN JORGENSEN",
     "School": "SF Lutheran",
-    "id": 93,
+    "id": 102,
     "adj_time": 1263.03,
     "time_min": 1235.9,
     "rnk_blnd": 500,
@@ -4502,7 +4502,7 @@
   {
     "Name": "CADEN SCHNEIDER",
     "School": "SF Washington",
-    "id": 121,
+    "id": 131,
     "adj_time": 1264.35,
     "time_min": 1287.7,
     "rnk_blnd": 501,
@@ -4511,7 +4511,7 @@
   {
     "Name": "JAKE HARMDIERKS",
     "School": "Madison",
-    "id": 387,
+    "id": 429,
     "adj_time": 1264.6,
     "time_min": 1247.6,
     "rnk_blnd": 502,
@@ -4520,7 +4520,7 @@
   {
     "Name": "NOAH SMITH",
     "School": "SF Lincoln",
-    "id": 603,
+    "id": 668,
     "adj_time": 1265.29,
     "time_min": 1277.1,
     "rnk_blnd": 503,
@@ -4538,7 +4538,7 @@
   {
     "Name": "GEORGE TIMANUS",
     "School": "Gregory",
-    "id": 304,
+    "id": 336,
     "adj_time": 1266.17,
     "time_min": 1209.3,
     "rnk_blnd": 505,
@@ -4547,7 +4547,7 @@
   {
     "Name": "CHARLEY BITTNER",
     "School": "Lennox",
-    "id": 153,
+    "id": 169,
     "adj_time": 1267.08,
     "time_min": 1234.6,
     "rnk_blnd": 506,
@@ -4556,7 +4556,7 @@
   {
     "Name": "KYPTON EIDSON",
     "School": "Castlewood",
-    "id": 488,
+    "id": 537,
     "adj_time": 1267.45,
     "time_min": 1189.8,
     "rnk_blnd": 507,
@@ -4565,7 +4565,7 @@
   {
     "Name": "CARTER HAWKS",
     "School": "Deubrook Area",
-    "id": 136,
+    "id": 152,
     "adj_time": 1267.66,
     "time_min": 1220.6,
     "rnk_blnd": 508,
@@ -4574,7 +4574,7 @@
   {
     "Name": "GAVIN BARTZ",
     "School": "SF Lincoln",
-    "id": 296,
+    "id": 327,
     "adj_time": 1267.96,
     "time_min": 1279.3,
     "rnk_blnd": 509,
@@ -4583,7 +4583,7 @@
   {
     "Name": "HENRY KRUSE",
     "School": "Huron",
-    "id": 335,
+    "id": 369,
     "adj_time": 1268.66,
     "time_min": 1204,
     "rnk_blnd": 510,
@@ -4592,7 +4592,7 @@
   {
     "Name": "JACE MASHBURN",
     "School": "Watertown",
-    "id": 366,
+    "id": 404,
     "adj_time": 1269.74,
     "time_min": 1255.5,
     "rnk_blnd": 511,
@@ -4601,7 +4601,7 @@
   {
     "Name": "BRYCE CASSUTT",
     "School": "Arlington",
-    "id": 113,
+    "id": 123,
     "adj_time": 1270.35,
     "time_min": 1224.6,
     "rnk_blnd": 512,
@@ -4610,7 +4610,7 @@
   {
     "Name": "TUCKER STEFFENS",
     "School": "Tri-State",
-    "id": 743,
+    "id": 824,
     "adj_time": 1270.71,
     "time_min": 1190.6,
     "rnk_blnd": 513,
@@ -4619,7 +4619,7 @@
   {
     "Name": "CADE AASHEIM",
     "School": "Lennox",
-    "id": 117,
+    "id": 127,
     "adj_time": 1271.3,
     "time_min": 1225.6,
     "rnk_blnd": 514,
@@ -4628,7 +4628,7 @@
   {
     "Name": "RILEY CLARK",
     "School": "Tea Area",
-    "id": 647,
+    "id": 718,
     "adj_time": 1272.04,
     "time_min": 1248,
     "rnk_blnd": 515,
@@ -4637,7 +4637,7 @@
   {
     "Name": "LUCA NEIMAN",
     "School": "Spearfish",
-    "id": 525,
+    "id": 576,
     "adj_time": 1272.41,
     "time_min": 1298,
     "rnk_blnd": 516,
@@ -4646,7 +4646,7 @@
   {
     "Name": "BRECKIN ASKE",
     "School": "Jones County",
-    "id": 94,
+    "id": 103,
     "adj_time": 1272.44,
     "time_min": 1255.3,
     "rnk_blnd": 517,
@@ -4655,7 +4655,7 @@
   {
     "Name": "AUSTIN BRAY",
     "School": "Brandon Valley",
-    "id": 51,
+    "id": 55,
     "adj_time": 1272.77,
     "time_min": 1309.5,
     "rnk_blnd": 518,
@@ -4664,7 +4664,7 @@
   {
     "Name": "JAXON PUETZ",
     "School": "Canistota",
-    "id": 406,
+    "id": 450,
     "adj_time": 1273.25,
     "time_min": 1253.5,
     "rnk_blnd": 519,
@@ -4673,7 +4673,7 @@
   {
     "Name": "TYLER ROEBUCK",
     "School": "Mobridge-Pollock",
-    "id": 745,
+    "id": 827,
     "adj_time": 1273.42,
     "time_min": 1141.5,
     "rnk_blnd": 520,
@@ -4682,7 +4682,7 @@
   {
     "Name": "JAXON STEINBRECHER",
     "School": "Elk Point-Jefferson",
-    "id": 407,
+    "id": 451,
     "adj_time": 1275.38,
     "time_min": 1279.5,
     "rnk_blnd": 521,
@@ -4691,7 +4691,7 @@
   {
     "Name": "ASHER KASPERSON",
     "School": "James Valley Christian",
-    "id": 47,
+    "id": 50,
     "adj_time": 1275.57,
     "time_min": 1260.9,
     "rnk_blnd": 522,
@@ -4700,7 +4700,7 @@
   {
     "Name": "BRETT BOLL",
     "School": "West Central",
-    "id": 96,
+    "id": 106,
     "adj_time": 1276.57,
     "time_min": 1256.6,
     "rnk_blnd": 523,
@@ -4709,7 +4709,7 @@
   {
     "Name": "EASTON SCHWEBACH",
     "School": "Garretson",
-    "id": 239,
+    "id": 265,
     "adj_time": 1277.06,
     "time_min": 1192.8,
     "rnk_blnd": 524,
@@ -4718,7 +4718,7 @@
   {
     "Name": "MICHAEL HANISCH",
     "School": "Garretson",
-    "id": 573,
+    "id": 637,
     "adj_time": 1277.41,
     "time_min": 1234,
     "rnk_blnd": 525,
@@ -4727,7 +4727,7 @@
   {
     "Name": "NOAH BUHIAN",
     "School": "Elk Point-Jefferson",
-    "id": 592,
+    "id": 657,
     "adj_time": 1277.41,
     "time_min": 1278.6,
     "rnk_blnd": 526,
@@ -4736,7 +4736,7 @@
   {
     "Name": "CEDRIC HORST",
     "School": "Canton",
-    "id": 147,
+    "id": 163,
     "adj_time": 1277.81,
     "time_min": 1248.4,
     "rnk_blnd": 527,
@@ -4745,7 +4745,7 @@
   {
     "Name": "DALTON LEE",
     "School": "Warner",
-    "id": 197,
+    "id": 218,
     "adj_time": 1278,
     "time_min": 1247.2,
     "rnk_blnd": 528,
@@ -4754,7 +4754,7 @@
   {
     "Name": "DAVID LETHLEAN",
     "School": "Rapid City Central",
-    "id": 205,
+    "id": 227,
     "adj_time": 1278.97,
     "time_min": 1311.1,
     "rnk_blnd": 529,
@@ -4763,7 +4763,7 @@
   {
     "Name": "FRANK KRCIL",
     "School": "Wagner",
-    "id": 282,
+    "id": 312,
     "adj_time": 1279.11,
     "time_min": 1196.2,
     "rnk_blnd": 530,
@@ -4772,7 +4772,7 @@
   {
     "Name": "HUNTER WOODS",
     "School": "Irene-Wakonda",
-    "id": 346,
+    "id": 383,
     "adj_time": 1280.69,
     "time_min": 1236,
     "rnk_blnd": 531,
@@ -4781,7 +4781,7 @@
   {
     "Name": "LEVI LINDSTROM",
     "School": "SF Lincoln",
-    "id": 505,
+    "id": 554,
     "adj_time": 1280.84,
     "time_min": 1304.5,
     "rnk_blnd": 532,
@@ -4790,7 +4790,7 @@
   {
     "Name": "JAYDEN SCOTT",
     "School": "Dupree",
-    "id": 416,
+    "id": 460,
     "adj_time": 1282.42,
     "time_min": 1271,
     "rnk_blnd": 533,
@@ -4799,7 +4799,7 @@
   {
     "Name": "ETHAN BLAHA",
     "School": "Wagner",
-    "id": 263,
+    "id": 291,
     "adj_time": 1282.93,
     "time_min": 1200.5,
     "rnk_blnd": 534,
@@ -4808,7 +4808,7 @@
   {
     "Name": "CAIUS DUBRAY",
     "School": "Cheyenne-Eagle Butte",
-    "id": 123,
+    "id": 134,
     "adj_time": 1283.02,
     "time_min": 1158.4,
     "rnk_blnd": 535,
@@ -4817,7 +4817,7 @@
   {
     "Name": "IVER POSPISIL",
     "School": "Watertown",
-    "id": 362,
+    "id": 400,
     "adj_time": 1284.57,
     "time_min": 1256.3,
     "rnk_blnd": 536,
@@ -4826,7 +4826,7 @@
   {
     "Name": "JONATHAN SHARP",
     "School": "SF Lutheran",
-    "id": 437,
+    "id": 481,
     "adj_time": 1285.26,
     "time_min": 1258.3,
     "rnk_blnd": 537,
@@ -4835,7 +4835,7 @@
   {
     "Name": "WYATT FERINGA",
     "School": "Rapid City Stevens",
-    "id": 772,
+    "id": 858,
     "adj_time": 1285.33,
     "time_min": null,
     "rnk_blnd": 538,
@@ -4844,7 +4844,7 @@
   {
     "Name": "SAM ATNIP",
     "School": "Mitchell Christian",
-    "id": 672,
+    "id": 748,
     "adj_time": 1285.5,
     "time_min": 1254.8,
     "rnk_blnd": 539,
@@ -4862,7 +4862,7 @@
   {
     "Name": "JOE TRUMBAUER",
     "School": "St. Mary's",
-    "id": 427,
+    "id": 471,
     "adj_time": 1286.14,
     "time_min": 1241,
     "rnk_blnd": 541,
@@ -4871,7 +4871,7 @@
   {
     "Name": "MASON FREDRICH",
     "School": "Hanson",
-    "id": 552,
+    "id": 608,
     "adj_time": 1287.09,
     "time_min": 1233.8,
     "rnk_blnd": 542,
@@ -4880,7 +4880,7 @@
   {
     "Name": "SUTTON NEWBROUGH",
     "School": "Cheyenne-Eagle Butte",
-    "id": 702,
+    "id": 781,
     "adj_time": 1287.09,
     "time_min": 1245.8,
     "rnk_blnd": 543,
@@ -4889,7 +4889,7 @@
   {
     "Name": "MICHAEL SMITH",
     "School": "Arlington",
-    "id": 577,
+    "id": 641,
     "adj_time": 1287.14,
     "time_min": 1253.4,
     "rnk_blnd": 544,
@@ -4898,7 +4898,7 @@
   {
     "Name": "ELIJAH VOORHEES",
     "School": "Canistota",
-    "id": 254,
+    "id": 281,
     "adj_time": 1287.35,
     "time_min": 1260.1,
     "rnk_blnd": 545,
@@ -4907,7 +4907,7 @@
   {
     "Name": "JAKE WOLF",
     "School": "North Central",
-    "id": 389,
+    "id": 431,
     "adj_time": 1287.65,
     "time_min": 1212,
     "rnk_blnd": 546,
@@ -4925,7 +4925,7 @@
   {
     "Name": "SHAYDEN SMITH",
     "School": "McCrossan",
-    "id": 694,
+    "id": 773,
     "adj_time": 1289.32,
     "time_min": 1260.5,
     "rnk_blnd": 548,
@@ -4934,7 +4934,7 @@
   {
     "Name": "BLAKE CAMPBELL SCHLOTMAN",
     "School": "Dakota Valley",
-    "id": 76,
+    "id": 83,
     "adj_time": 1289.37,
     "time_min": 1185.4,
     "rnk_blnd": 549,
@@ -4943,7 +4943,7 @@
   {
     "Name": "NOAH KINNER",
     "School": "Elkton-Lake Benton",
-    "id": 599,
+    "id": 664,
     "adj_time": 1289.55,
     "time_min": 1248.7,
     "rnk_blnd": 550,
@@ -4952,7 +4952,7 @@
   {
     "Name": "JACKSON ZAMORA",
     "School": "Rapid City Christian",
-    "id": 382,
+    "id": 422,
     "adj_time": 1291,
     "time_min": 1329,
     "rnk_blnd": 551,
@@ -4961,7 +4961,7 @@
   {
     "Name": "JACOBIE DEMARCE",
     "School": "Todd County",
-    "id": 385,
+    "id": 426,
     "adj_time": 1291.34,
     "time_min": 1201.6,
     "rnk_blnd": 552,
@@ -4970,7 +4970,7 @@
   {
     "Name": "WYATT WOLFNAME",
     "School": "SF Washington",
-    "id": 777,
+    "id": 865,
     "adj_time": 1291.54,
     "time_min": 1315.4,
     "rnk_blnd": 553,
@@ -4979,7 +4979,7 @@
   {
     "Name": "COLE NOON",
     "School": "Faulkton Area",
-    "id": 169,
+    "id": 187,
     "adj_time": 1291.84,
     "time_min": 1209.5,
     "rnk_blnd": 554,
@@ -4988,7 +4988,7 @@
   {
     "Name": "JORDAN STOCKLAND",
     "School": "Irene-Wakonda",
-    "id": 440,
+    "id": 484,
     "adj_time": 1293.49,
     "time_min": 1234.1,
     "rnk_blnd": 555,
@@ -4997,7 +4997,7 @@
   {
     "Name": "TATE DOSCH",
     "School": "Leola/Frederick Area",
-    "id": 708,
+    "id": 787,
     "adj_time": 1294.07,
     "time_min": 1317.7,
     "rnk_blnd": 556,
@@ -5006,7 +5006,7 @@
   {
     "Name": "RYLAND MCKEE",
     "School": "Elk Point-Jefferson",
-    "id": 669,
+    "id": 744,
     "adj_time": 1294.61,
     "time_min": 1298.8,
     "rnk_blnd": 557,
@@ -5015,7 +5015,7 @@
   {
     "Name": "BRODY JOHNSON",
     "School": "West Central",
-    "id": 105,
+    "id": 115,
     "adj_time": 1294.62,
     "time_min": 1269,
     "rnk_blnd": 558,
@@ -5024,7 +5024,7 @@
   {
     "Name": "OWEN FRONK",
     "School": "Rapid City Central",
-    "id": 621,
+    "id": 688,
     "adj_time": 1294.83,
     "time_min": 1320.6,
     "rnk_blnd": 559,
@@ -5033,7 +5033,7 @@
   {
     "Name": "REED MUELLER",
     "School": "Bon Homme",
-    "id": 640,
+    "id": 709,
     "adj_time": 1295,
     "time_min": 1263,
     "rnk_blnd": 560,
@@ -5042,7 +5042,7 @@
   {
     "Name": "WYATT FONTAINE",
     "School": "SF Roosevelt",
-    "id": 773,
+    "id": 859,
     "adj_time": 1295.57,
     "time_min": 1319.5,
     "rnk_blnd": 561,
@@ -5051,7 +5051,7 @@
   {
     "Name": "ROWYNN HOOK",
     "School": "Warner",
-    "id": 656,
+    "id": 729,
     "adj_time": 1295.63,
     "time_min": 1341.2,
     "rnk_blnd": 562,
@@ -5069,7 +5069,7 @@
   {
     "Name": "EMERSON SARVIS",
     "School": "Huron",
-    "id": 258,
+    "id": 285,
     "adj_time": 1298.96,
     "time_min": 1271.1,
     "rnk_blnd": 564,
@@ -5078,7 +5078,7 @@
   {
     "Name": "CHARLES WHITE TAIL",
     "School": "McLaughlin",
-    "id": 151,
+    "id": 167,
     "adj_time": 1299.06,
     "time_min": 1267,
     "rnk_blnd": 565,
@@ -5087,7 +5087,7 @@
   {
     "Name": "SJ SCHLICHT",
     "School": "Sanborn Central/Woonsocket",
-    "id": 697,
+    "id": 776,
     "adj_time": 1300.14,
     "time_min": 1212,
     "rnk_blnd": 566,
@@ -5096,7 +5096,7 @@
   {
     "Name": "EZEKIEL GARDNER",
     "School": "Hill City",
-    "id": 277,
+    "id": 306,
     "adj_time": 1300.23,
     "time_min": 1274.5,
     "rnk_blnd": 567,
@@ -5105,7 +5105,7 @@
   {
     "Name": "JOHN CLOUD VI",
     "School": "Little Wound",
-    "id": 429,
+    "id": 473,
     "adj_time": 1300.54,
     "time_min": 1221.7,
     "rnk_blnd": 568,
@@ -5114,7 +5114,7 @@
   {
     "Name": "NOLAN RADKE",
     "School": "Rapid City Central",
-    "id": 608,
+    "id": 673,
     "adj_time": 1301.87,
     "time_min": 1349.4,
     "rnk_blnd": 569,
@@ -5123,7 +5123,7 @@
   {
     "Name": "JATE WERDEL",
     "School": "Miller",
-    "id": 400,
+    "id": 443,
     "adj_time": 1301.98,
     "time_min": 1217.5,
     "rnk_blnd": 570,
@@ -5132,7 +5132,7 @@
   {
     "Name": "ELIJAH IVERSON",
     "School": "SF Lutheran",
-    "id": 251,
+    "id": 278,
     "adj_time": 1302.69,
     "time_min": 1267.1,
     "rnk_blnd": 571,
@@ -5141,7 +5141,7 @@
   {
     "Name": "DEREK FLISRAND",
     "School": "Florence/Henry",
-    "id": 217,
+    "id": 239,
     "adj_time": 1303.04,
     "time_min": 1276.3,
     "rnk_blnd": 572,
@@ -5150,7 +5150,7 @@
   {
     "Name": "TATE MAXON",
     "School": "Platte-Geddes",
-    "id": 711,
+    "id": 790,
     "adj_time": 1303.61,
     "time_min": 1217.6,
     "rnk_blnd": 573,
@@ -5159,7 +5159,7 @@
   {
     "Name": "LUCAS SUOMALA",
     "School": "Rapid City Christian",
-    "id": 527,
+    "id": 578,
     "adj_time": 1303.9,
     "time_min": 1253.2,
     "rnk_blnd": 574,
@@ -5168,7 +5168,7 @@
   {
     "Name": "LINCOLN BERANEK",
     "School": "Miller",
-    "id": 515,
+    "id": 565,
     "adj_time": 1304.24,
     "time_min": 1209.2,
     "rnk_blnd": 575,
@@ -5177,7 +5177,7 @@
   {
     "Name": "TAITE OLSON",
     "School": "Tripp-Delmont/Armour",
-    "id": 705,
+    "id": 784,
     "adj_time": 1305.34,
     "time_min": 1264.2,
     "rnk_blnd": 576,
@@ -5186,7 +5186,7 @@
   {
     "Name": "JORDAN BOTKIN",
     "School": "De Smet",
-    "id": 439,
+    "id": 483,
     "adj_time": 1305.73,
     "time_min": 1239.9,
     "rnk_blnd": 577,
@@ -5195,7 +5195,7 @@
   {
     "Name": "WYATT HAVRANEK",
     "School": "Wagner",
-    "id": 775,
+    "id": 862,
     "adj_time": 1306.85,
     "time_min": 1225.8,
     "rnk_blnd": 578,
@@ -5204,7 +5204,7 @@
   {
     "Name": "DYLAN KIRCHNER",
     "School": "Yankton",
-    "id": 234,
+    "id": 259,
     "adj_time": 1307.66,
     "time_min": 1248.7,
     "rnk_blnd": 579,
@@ -5213,7 +5213,7 @@
   {
     "Name": "MICAH MENNING",
     "School": "Mitchell Christian",
-    "id": 569,
+    "id": 633,
     "adj_time": 1308.2,
     "time_min": 1253.4,
     "rnk_blnd": 580,
@@ -5222,7 +5222,7 @@
   {
     "Name": "ELIAS BUMGARDNER",
     "School": "Hanson",
-    "id": 247,
+    "id": 274,
     "adj_time": 1308.59,
     "time_min": 1246.8,
     "rnk_blnd": 581,
@@ -5231,7 +5231,7 @@
   {
     "Name": "KYLE YOUNG",
     "School": "Freeman",
-    "id": 486,
+    "id": 535,
     "adj_time": 1308.77,
     "time_min": 1313,
     "rnk_blnd": 582,
@@ -5240,7 +5240,7 @@
   {
     "Name": "GABE KNIPPLING",
     "School": "Miller",
-    "id": 286,
+    "id": 316,
     "adj_time": 1309.15,
     "time_min": 1355.2,
     "rnk_blnd": 583,
@@ -5249,7 +5249,7 @@
   {
     "Name": "WYATT SLACK",
     "School": "Viborg-Hurley",
-    "id": 776,
+    "id": 864,
     "adj_time": 1310.92,
     "time_min": 1265.2,
     "rnk_blnd": 584,
@@ -5258,7 +5258,7 @@
   {
     "Name": "SETH WILKEN",
     "School": "Bison",
-    "id": 689,
+    "id": 768,
     "adj_time": 1311.84,
     "time_min": 1280,
     "rnk_blnd": 585,
@@ -5267,7 +5267,7 @@
   {
     "Name": "CARTER MULLER",
     "School": "Centerville",
-    "id": 138,
+    "id": 154,
     "adj_time": 1311.97,
     "time_min": 1290.8,
     "rnk_blnd": 586,
@@ -5276,7 +5276,7 @@
   {
     "Name": "LANDYN RHOADES",
     "School": "Mitchell",
-    "id": 493,
+    "id": 542,
     "adj_time": 1313.32,
     "time_min": 1288.5,
     "rnk_blnd": 587,
@@ -5285,7 +5285,7 @@
   {
     "Name": "ETHAN HEUMILLER",
     "School": "Wessington Springs",
-    "id": 267,
+    "id": 295,
     "adj_time": 1315.29,
     "time_min": 1287.7,
     "rnk_blnd": 588,
@@ -5294,7 +5294,7 @@
   {
     "Name": "MILO CARLSON",
     "School": "Tri-Valley",
-    "id": 581,
+    "id": 645,
     "adj_time": 1315.38,
     "time_min": 1285.3,
     "rnk_blnd": 589,
@@ -5303,7 +5303,7 @@
   {
     "Name": "JAYDEN MARTINEZ",
     "School": "Rapid City Stevens",
-    "id": 415,
+    "id": 459,
     "adj_time": 1315.39,
     "time_min": null,
     "rnk_blnd": 590,
@@ -5312,7 +5312,7 @@
   {
     "Name": "ETHAN GONSOR",
     "School": "Aberdeen Roncalli",
-    "id": 264,
+    "id": 292,
     "adj_time": 1315.63,
     "time_min": 1248,
     "rnk_blnd": 591,
@@ -5321,7 +5321,7 @@
   {
     "Name": "LEO TAKEN CARE OF",
     "School": "Castlewood",
-    "id": 502,
+    "id": 551,
     "adj_time": 1316.24,
     "time_min": 1218.6,
     "rnk_blnd": 592,
@@ -5330,7 +5330,7 @@
   {
     "Name": "THOMAS VAN ZEE",
     "School": "Mount Vernon/Plankinton",
-    "id": 725,
+    "id": 804,
     "adj_time": 1318.41,
     "time_min": 1240,
     "rnk_blnd": 593,
@@ -5339,7 +5339,7 @@
   {
     "Name": "TEEGAN ARPAN",
     "School": "Gettysburg",
-    "id": 717,
+    "id": 796,
     "adj_time": 1319.33,
     "time_min": 1182.3,
     "rnk_blnd": 594,
@@ -5348,7 +5348,7 @@
   {
     "Name": "KLAYTON KEMLER",
     "School": "Colman-Egan",
-    "id": 478,
+    "id": 525,
     "adj_time": 1319.48,
     "time_min": 1250.1,
     "rnk_blnd": 595,
@@ -5357,7 +5357,7 @@
   {
     "Name": "IZAYA VELASQUEZ",
     "School": "Gettysburg",
-    "id": 364,
+    "id": 402,
     "adj_time": 1319.93,
     "time_min": 1334.3,
     "rnk_blnd": 596,
@@ -5366,7 +5366,7 @@
   {
     "Name": "COLE KAPPENMAN",
     "School": "SF Washington",
-    "id": 168,
+    "id": 186,
     "adj_time": 1320.51,
     "time_min": 1344.9,
     "rnk_blnd": 597,
@@ -5375,7 +5375,7 @@
   {
     "Name": "FRANCISCO RICHARDS",
     "School": "Little Wound",
-    "id": 280,
+    "id": 310,
     "adj_time": 1322.03,
     "time_min": 1289.4,
     "rnk_blnd": 598,
@@ -5384,7 +5384,7 @@
   {
     "Name": "KELSEN WALTERS",
     "School": "New Underwood",
-    "id": 474,
+    "id": 521,
     "adj_time": 1322.09,
     "time_min": 1220.6,
     "rnk_blnd": 599,
@@ -5393,7 +5393,7 @@
   {
     "Name": "OLIVER LARSEN",
     "School": "Sioux Valley",
-    "id": 611,
+    "id": 677,
     "adj_time": 1322.74,
     "time_min": 1218.2,
     "rnk_blnd": 600,
@@ -5411,7 +5411,7 @@
   {
     "Name": "GRADY WAGNER",
     "School": "Webster Area",
-    "id": 313,
+    "id": 346,
     "adj_time": 1323.78,
     "time_min": 1239.4,
     "rnk_blnd": 602,
@@ -5420,7 +5420,7 @@
   {
     "Name": "OLIVER MEYER",
     "School": "Madison",
-    "id": 613,
+    "id": 679,
     "adj_time": 1325.15,
     "time_min": 1231.8,
     "rnk_blnd": 603,
@@ -5429,7 +5429,7 @@
   {
     "Name": "CARTER BUSCHBACH",
     "School": "Mitchell",
-    "id": 134,
+    "id": 149,
     "adj_time": 1325.29,
     "time_min": 1296.9,
     "rnk_blnd": 604,
@@ -5438,7 +5438,7 @@
   {
     "Name": "CLAYTON HILES",
     "School": "Wolsey-Wessington",
-    "id": 161,
+    "id": 179,
     "adj_time": 1325.85,
     "time_min": 1189,
     "rnk_blnd": 605,
@@ -5447,7 +5447,7 @@
   {
     "Name": "TIMMY FELIX",
     "School": "Madison",
-    "id": 726,
+    "id": 805,
     "adj_time": 1325.86,
     "time_min": 1293.6,
     "rnk_blnd": 606,
@@ -5456,7 +5456,7 @@
   {
     "Name": "ISAAC TWA",
     "School": "SF Lincoln",
-    "id": 357,
+    "id": 395,
     "adj_time": 1326.1,
     "time_min": 1350.6,
     "rnk_blnd": 607,
@@ -5465,7 +5465,7 @@
   {
     "Name": "DAWSON GUSTAD",
     "School": "Platte-Geddes",
-    "id": 208,
+    "id": 230,
     "adj_time": 1326.26,
     "time_min": 1308.9,
     "rnk_blnd": 608,
@@ -5474,7 +5474,7 @@
   {
     "Name": "CARTER WEBB",
     "School": "Highmore-Harrold",
-    "id": 143,
+    "id": 159,
     "adj_time": 1326.5,
     "time_min": 1168.2,
     "rnk_blnd": 609,
@@ -5483,7 +5483,7 @@
   {
     "Name": "BLAKE BIERMAN",
     "School": "Warner",
-    "id": 75,
+    "id": 82,
     "adj_time": 1326.73,
     "time_min": 1373.4,
     "rnk_blnd": 610,
@@ -5492,7 +5492,7 @@
   {
     "Name": "MATHIAS LINDGREN",
     "School": "Sanborn Central/Woonsocket",
-    "id": 559,
+    "id": 618,
     "adj_time": 1327.6,
     "time_min": 1257,
     "rnk_blnd": 611,
@@ -5501,7 +5501,7 @@
   {
     "Name": "DAVID PETERSON",
     "School": "Watertown",
-    "id": 206,
+    "id": 228,
     "adj_time": 1328.24,
     "time_min": 1324.3,
     "rnk_blnd": 612,
@@ -5510,7 +5510,7 @@
   {
     "Name": "KELLIN BOIK",
     "School": "Webster Area",
-    "id": 473,
+    "id": 520,
     "adj_time": 1330.89,
     "time_min": 1274.7,
     "rnk_blnd": 613,
@@ -5519,7 +5519,7 @@
   {
     "Name": "DEAN QUIETT",
     "School": "Gettysburg",
-    "id": 213,
+    "id": 235,
     "adj_time": 1331.42,
     "time_min": null,
     "rnk_blnd": 614,
@@ -5528,7 +5528,7 @@
   {
     "Name": "CASKE EAGLE HEART",
     "School": "Rapid City Stevens",
-    "id": 146,
+    "id": 162,
     "adj_time": 1332.48,
     "time_min": null,
     "rnk_blnd": 615,
@@ -5537,7 +5537,7 @@
   {
     "Name": "JAVON CHASING HAWK",
     "School": "McLaughlin",
-    "id": 401,
+    "id": 444,
     "adj_time": 1336.17,
     "time_min": 1348.7,
     "rnk_blnd": 616,
@@ -5546,7 +5546,7 @@
   {
     "Name": "PETER LABERGE",
     "School": "Great Plains Lutheran",
-    "id": 626,
+    "id": 695,
     "adj_time": 1337.38,
     "time_min": 1235.1,
     "rnk_blnd": 617,
@@ -5555,7 +5555,7 @@
   {
     "Name": "SEAN GATZKE",
     "School": "Douglas",
-    "id": 686,
+    "id": 763,
     "adj_time": 1337.91,
     "time_min": 1377.3,
     "rnk_blnd": 618,
@@ -5564,7 +5564,7 @@
   {
     "Name": "COLIN KUBAL",
     "School": "Scotland",
-    "id": 171,
+    "id": 190,
     "adj_time": 1338.8,
     "time_min": 1241.3,
     "rnk_blnd": 619,
@@ -5582,7 +5582,7 @@
   {
     "Name": "SAMUEL BURKHALTER",
     "School": "Bison",
-    "id": 679,
+    "id": 756,
     "adj_time": 1339.51,
     "time_min": 1307,
     "rnk_blnd": 621,
@@ -5591,7 +5591,7 @@
   {
     "Name": "BRODY ROBERTS",
     "School": "Wolsey-Wessington",
-    "id": 107,
+    "id": 117,
     "adj_time": 1340.56,
     "time_min": 1257,
     "rnk_blnd": 622,
@@ -5600,7 +5600,7 @@
   {
     "Name": "MILES BELT-HANSON",
     "School": "Canistota",
-    "id": 578,
+    "id": 642,
     "adj_time": 1341.14,
     "time_min": 1351.8,
     "rnk_blnd": 623,
@@ -5609,7 +5609,7 @@
   {
     "Name": "BREVIN KOEHLER",
     "School": "Spearfish",
-    "id": 99,
+    "id": 109,
     "adj_time": 1341.55,
     "time_min": 1316.2,
     "rnk_blnd": 624,
@@ -5618,7 +5618,7 @@
   {
     "Name": "THOMAS TUEL",
     "School": "Iroquois/Lake Preston",
-    "id": 724,
+    "id": 803,
     "adj_time": 1343.4,
     "time_min": 1302.7,
     "rnk_blnd": 625,
@@ -5627,7 +5627,7 @@
   {
     "Name": "GRAYDEN ZECK",
     "School": "Groton Area",
-    "id": 319,
+    "id": 352,
     "adj_time": 1344.25,
     "time_min": 1310.2,
     "rnk_blnd": 626,
@@ -5636,7 +5636,7 @@
   {
     "Name": "RICHARD KILLS CROW",
     "School": "Tiospaye Topa",
-    "id": 645,
+    "id": 715,
     "adj_time": 1346.56,
     "time_min": 1219,
     "rnk_blnd": 627,
@@ -5645,7 +5645,7 @@
   {
     "Name": "BRADY KYTE",
     "School": "Brandon Valley",
-    "id": 85,
+    "id": 93,
     "adj_time": 1346.67,
     "time_min": 1351.9,
     "rnk_blnd": 628,
@@ -5654,7 +5654,7 @@
   {
     "Name": "ZACHARY ENSZ",
     "School": "Dakota Valley",
-    "id": 783,
+    "id": 871,
     "adj_time": 1347.78,
     "time_min": 1430.1,
     "rnk_blnd": 629,
@@ -5663,7 +5663,7 @@
   {
     "Name": "COOP BIRRITTIER",
     "School": "Clark/Willow Lake",
-    "id": 179,
+    "id": 198,
     "adj_time": 1347.93,
     "time_min": 1253.8,
     "rnk_blnd": 630,
@@ -5672,7 +5672,7 @@
   {
     "Name": "WINCHESTER TEMME",
     "School": "De Smet",
-    "id": 767,
+    "id": 853,
     "adj_time": 1352.32,
     "time_min": 1261.5,
     "rnk_blnd": 631,
@@ -5681,7 +5681,7 @@
   {
     "Name": "HEZAKIAH VALDEZ",
     "School": "Rapid City Central",
-    "id": 338,
+    "id": 372,
     "adj_time": 1352.71,
     "time_min": null,
     "rnk_blnd": 632,
@@ -5690,7 +5690,7 @@
   {
     "Name": "ELIJAH STAKE",
     "School": "Centerville",
-    "id": 253,
+    "id": 280,
     "adj_time": 1353.36,
     "time_min": 1283.6,
     "rnk_blnd": 633,
@@ -5699,7 +5699,7 @@
   {
     "Name": "ASHER JOHNSON",
     "School": "McCook Central/Montrose",
-    "id": 46,
+    "id": 49,
     "adj_time": 1355.14,
     "time_min": 1267.3,
     "rnk_blnd": 634,
@@ -5708,7 +5708,7 @@
   {
     "Name": "RYAN KELLER",
     "School": "Spearfish",
-    "id": 661,
+    "id": 734,
     "adj_time": 1356.23,
     "time_min": 1330.6,
     "rnk_blnd": 635,
@@ -5717,7 +5717,7 @@
   {
     "Name": "RYLIE BARKER",
     "School": "Chamberlain",
-    "id": 671,
+    "id": 746,
     "adj_time": 1357.27,
     "time_min": 1276.3,
     "rnk_blnd": 636,
@@ -5726,7 +5726,7 @@
   {
     "Name": "BRAYDEN BROWN",
     "School": "Mobridge-Pollock",
-    "id": 91,
+    "id": 99,
     "adj_time": 1357.57,
     "time_min": 1334.1,
     "rnk_blnd": 637,
@@ -5735,7 +5735,7 @@
   {
     "Name": "GRANT GRIFFITH",
     "School": "De Smet",
-    "id": 317,
+    "id": 350,
     "adj_time": 1358.57,
     "time_min": 1221.7,
     "rnk_blnd": 638,
@@ -5744,7 +5744,7 @@
   {
     "Name": "ELIJAH CRANDALL",
     "School": "James Valley Christian",
-    "id": 249,
+    "id": 276,
     "adj_time": 1359.27,
     "time_min": 1324.9,
     "rnk_blnd": 639,
@@ -5753,7 +5753,7 @@
   {
     "Name": "SHANE WAIKEL",
     "School": "Iroquois/Lake Preston",
-    "id": 691,
+    "id": 770,
     "adj_time": 1360.13,
     "time_min": 1311.1,
     "rnk_blnd": 640,
@@ -5762,7 +5762,7 @@
   {
     "Name": "CADEN FAEHNRICH",
     "School": "Bon Homme",
-    "id": 119,
+    "id": 129,
     "adj_time": 1361.45,
     "time_min": 1327.8,
     "rnk_blnd": 641,
@@ -5771,7 +5771,7 @@
   {
     "Name": "UTAH LANGDEAU",
     "School": "Lyman",
-    "id": 751,
+    "id": 833,
     "adj_time": 1361.57,
     "time_min": 1268.3,
     "rnk_blnd": 642,
@@ -5780,7 +5780,7 @@
   {
     "Name": "CODY HANSON",
     "School": "McCrossan",
-    "id": 164,
+    "id": 182,
     "adj_time": 1362.8,
     "time_min": 1302.9,
     "rnk_blnd": 643,
@@ -5789,7 +5789,7 @@
   {
     "Name": "GIOBBE MEYER",
     "School": "Madison",
-    "id": 307,
+    "id": 340,
     "adj_time": 1363.44,
     "time_min": 1313.9,
     "rnk_blnd": 644,
@@ -5798,7 +5798,7 @@
   {
     "Name": "FAREN NELSON",
     "School": "Herreid/Selby Area",
-    "id": 279,
+    "id": 308,
     "adj_time": 1364.12,
     "time_min": 1249.4,
     "rnk_blnd": 645,
@@ -5807,7 +5807,7 @@
   {
     "Name": "CORWIN LAFFEY",
     "School": "Ethan/Parkston",
-    "id": 192,
+    "id": 212,
     "adj_time": 1364.96,
     "time_min": 1224.8,
     "rnk_blnd": 646,
@@ -5816,7 +5816,7 @@
   {
     "Name": "CHEVY PROVANCIAL",
     "School": "Mitchell Christian",
-    "id": 156,
+    "id": 173,
     "adj_time": 1365.67,
     "time_min": 1269.3,
     "rnk_blnd": 647,
@@ -5825,7 +5825,7 @@
   {
     "Name": "BRADLY VASQUEZ",
     "School": "Gettysburg",
-    "id": 83,
+    "id": 91,
     "adj_time": 1366.15,
     "time_min": 1255.1,
     "rnk_blnd": 648,
@@ -5834,7 +5834,7 @@
   {
     "Name": "TRAYSON HAUGER",
     "School": "Irene-Wakonda",
-    "id": 734,
+    "id": 814,
     "adj_time": 1367.35,
     "time_min": 1338.4,
     "rnk_blnd": 649,
@@ -5843,7 +5843,7 @@
   {
     "Name": "KORDELL TRIGG",
     "School": "Madison",
-    "id": 482,
+    "id": 531,
     "adj_time": 1370.43,
     "time_min": 1352,
     "rnk_blnd": 650,
@@ -5852,7 +5852,7 @@
   {
     "Name": "JEFERSON MONTEPEQUE",
     "School": "Irene-Wakonda",
-    "id": 417,
+    "id": 461,
     "adj_time": 1370.86,
     "time_min": 1341.3,
     "rnk_blnd": 651,
@@ -5861,7 +5861,7 @@
   {
     "Name": "ANTON CONDON",
     "School": "Takini",
-    "id": 40,
+    "id": 43,
     "adj_time": 1371.9,
     "time_min": 1215.3,
     "rnk_blnd": 652,
@@ -5870,7 +5870,7 @@
   {
     "Name": "EMIL KRAMME",
     "School": "SF Lincoln",
-    "id": 259,
+    "id": 286,
     "adj_time": 1371.96,
     "time_min": 1397.3,
     "rnk_blnd": 653,
@@ -5879,7 +5879,7 @@
   {
     "Name": "CHARLES BEVING",
     "School": "Clark/Willow Lake",
-    "id": 149,
+    "id": 165,
     "adj_time": 1373.25,
     "time_min": 1313.3,
     "rnk_blnd": 654,
@@ -5888,7 +5888,7 @@
   {
     "Name": "ONYX NIEHOFF",
     "School": "Hanson",
-    "id": 616,
+    "id": 683,
     "adj_time": 1374.3,
     "time_min": 1317.4,
     "rnk_blnd": 655,
@@ -5897,7 +5897,7 @@
   {
     "Name": "BRYLEN PADDEN",
     "School": "Harding County",
-    "id": 115,
+    "id": 125,
     "adj_time": 1375.48,
     "time_min": 1312,
     "rnk_blnd": 656,
@@ -5906,7 +5906,7 @@
   {
     "Name": "ELLIOT KELLER",
     "School": "Mobridge-Pollock",
-    "id": 257,
+    "id": 284,
     "adj_time": 1375.52,
     "time_min": 1233.7,
     "rnk_blnd": 657,
@@ -5915,7 +5915,7 @@
   {
     "Name": "MASON JOLLEY",
     "School": "Avon",
-    "id": 555,
+    "id": 611,
     "adj_time": 1377.76,
     "time_min": 1334.5,
     "rnk_blnd": 658,
@@ -5924,7 +5924,7 @@
   {
     "Name": "PRESTON ROWLEY",
     "School": "McCook Central/Montrose",
-    "id": 632,
+    "id": 701,
     "adj_time": 1378.23,
     "time_min": 1328.6,
     "rnk_blnd": 659,
@@ -5933,7 +5933,7 @@
   {
     "Name": "LEO SCHUMACHER",
     "School": "Great Plains Lutheran",
-    "id": 501,
+    "id": 550,
     "adj_time": 1378.96,
     "time_min": 1263,
     "rnk_blnd": 660,
@@ -5942,7 +5942,7 @@
   {
     "Name": "LEO MADSEN",
     "School": "Aberdeen Roncalli",
-    "id": 500,
+    "id": 549,
     "adj_time": 1379.98,
     "time_min": 1259.8,
     "rnk_blnd": 661,
@@ -5960,7 +5960,7 @@
   {
     "Name": "OAKLEY SCHINDLER",
     "School": "Lyman",
-    "id": 610,
+    "id": 676,
     "adj_time": 1384.52,
     "time_min": 1266.2,
     "rnk_blnd": 663,
@@ -5969,7 +5969,7 @@
   {
     "Name": "BENNETT KINSLEY",
     "School": "Jones County",
-    "id": 71,
+    "id": 78,
     "adj_time": 1384.94,
     "time_min": 1238.8,
     "rnk_blnd": 664,
@@ -5978,7 +5978,7 @@
   {
     "Name": "RILEY TWO EAGLES",
     "School": "Mahpiya Luta",
-    "id": 650,
+    "id": 722,
     "adj_time": 1387.12,
     "time_min": 1354.5,
     "rnk_blnd": 665,
@@ -5987,7 +5987,7 @@
   {
     "Name": "PHOENIX POULIN",
     "School": "Deubrook Area",
-    "id": 631,
+    "id": 700,
     "adj_time": 1387.48,
     "time_min": 1279.8,
     "rnk_blnd": 666,
@@ -5996,7 +5996,7 @@
   {
     "Name": "ROBBY RING",
     "School": "Gregory",
-    "id": 651,
+    "id": 724,
     "adj_time": 1388.89,
     "time_min": 1323.6,
     "rnk_blnd": 667,
@@ -6005,7 +6005,7 @@
   {
     "Name": "KAMDEN HAMIEL",
     "School": "Kimball/White Lake",
-    "id": 465,
+    "id": 511,
     "adj_time": 1389.19,
     "time_min": 1361.7,
     "rnk_blnd": 668,
@@ -6014,7 +6014,7 @@
   {
     "Name": "HUNTER SINNER",
     "School": "Webster Area",
-    "id": 345,
+    "id": 382,
     "adj_time": 1389.77,
     "time_min": 1317.4,
     "rnk_blnd": 669,
@@ -6023,7 +6023,7 @@
   {
     "Name": "MASON ANDERSON",
     "School": "Sanborn Central/Woonsocket",
-    "id": 550,
+    "id": 605,
     "adj_time": 1390.77,
     "time_min": 1249,
     "rnk_blnd": 670,
@@ -6032,7 +6032,7 @@
   {
     "Name": "MARCO DUBOIS",
     "School": "Hill City",
-    "id": 543,
+    "id": 597,
     "adj_time": 1391.53,
     "time_min": 1364,
     "rnk_blnd": 671,
@@ -6041,7 +6041,7 @@
   {
     "Name": "TRIPP FURNIVAL",
     "School": "Philip",
-    "id": 737,
+    "id": 817,
     "adj_time": 1392.16,
     "time_min": 1373.4,
     "rnk_blnd": 672,
@@ -6050,7 +6050,7 @@
   {
     "Name": "JOSH KUBAL",
     "School": "Winner/Colome",
-    "id": 446,
+    "id": 490,
     "adj_time": 1395.97,
     "time_min": 1377.7,
     "rnk_blnd": 673,
@@ -6059,7 +6059,7 @@
   {
     "Name": "KADE LUTT",
     "School": "St. Mary's",
-    "id": 459,
+    "id": 505,
     "adj_time": 1397.8,
     "time_min": 1342.5,
     "rnk_blnd": 674,
@@ -6068,7 +6068,7 @@
   {
     "Name": "HARPER LUNDGREN",
     "School": "SF Lincoln",
-    "id": 327,
+    "id": 361,
     "adj_time": 1398.76,
     "time_min": 1424.6,
     "rnk_blnd": 675,
@@ -6077,7 +6077,7 @@
   {
     "Name": "JOHN PATE",
     "School": "SF Lincoln",
-    "id": 432,
+    "id": 476,
     "adj_time": 1400.14,
     "time_min": 1426,
     "rnk_blnd": 676,
@@ -6086,7 +6086,7 @@
   {
     "Name": "LIAM TERKILDSEN",
     "School": "Sanborn Central/Woonsocket",
-    "id": 514,
+    "id": 564,
     "adj_time": 1401.95,
     "time_min": 1295,
     "rnk_blnd": 677,
@@ -6095,7 +6095,7 @@
   {
     "Name": "COOPER GREGERSON",
     "School": "Webster Area",
-    "id": 181,
+    "id": 200,
     "adj_time": 1402.4,
     "time_min": 1391.9,
     "rnk_blnd": 678,
@@ -6104,7 +6104,7 @@
   {
     "Name": "TATE JOHNSON",
     "School": "Groton Area",
-    "id": 709,
+    "id": 788,
     "adj_time": 1402.58,
     "time_min": 1305.6,
     "rnk_blnd": 679,
@@ -6113,7 +6113,7 @@
   {
     "Name": "MARIANO LAZARO",
     "School": "De Smet",
-    "id": 546,
+    "id": 600,
     "adj_time": 1403.48,
     "time_min": 1338.8,
     "rnk_blnd": 680,
@@ -6122,7 +6122,7 @@
   {
     "Name": "RYKER JOHNSON",
     "School": "Elk Point-Jefferson",
-    "id": 664,
+    "id": 739,
     "adj_time": 1403.86,
     "time_min": 1408.4,
     "rnk_blnd": 681,
@@ -6140,7 +6140,7 @@
   {
     "Name": "HAISTYN HUSS",
     "School": "Miller",
-    "id": 325,
+    "id": 358,
     "adj_time": 1404.85,
     "time_min": null,
     "rnk_blnd": 683,
@@ -6149,7 +6149,7 @@
   {
     "Name": "BRODY LOUT",
     "School": "Hot Springs",
-    "id": 106,
+    "id": 116,
     "adj_time": 1404.96,
     "time_min": 1411.8,
     "rnk_blnd": 684,
@@ -6158,7 +6158,7 @@
   {
     "Name": "ZANE ORTH",
     "School": "SF Roosevelt",
-    "id": 787,
+    "id": 875,
     "adj_time": 1406.72,
     "time_min": 1432.7,
     "rnk_blnd": 685,
@@ -6167,7 +6167,7 @@
   {
     "Name": "NORSEAN HAWK",
     "School": "Chamberlain",
-    "id": 609,
+    "id": 675,
     "adj_time": 1408.4,
     "time_min": 1264.8,
     "rnk_blnd": 686,
@@ -6176,7 +6176,7 @@
   {
     "Name": "DUSTIN GRASSROPE",
     "School": "Lower Brule",
-    "id": 232,
+    "id": 257,
     "adj_time": 1408.45,
     "time_min": 1231.5,
     "rnk_blnd": 687,
@@ -6185,7 +6185,7 @@
   {
     "Name": "GORDON OLSON",
     "School": "Madison",
-    "id": 309,
+    "id": 342,
     "adj_time": 1408.59,
     "time_min": 1313.4,
     "rnk_blnd": 688,
@@ -6194,7 +6194,7 @@
   {
     "Name": "CONNOR DANT",
     "School": "Iroquois/Lake Preston",
-    "id": 178,
+    "id": 197,
     "adj_time": 1409.55,
     "time_min": 1372.3,
     "rnk_blnd": 689,
@@ -6203,7 +6203,7 @@
   {
     "Name": "LIAM MASTERS",
     "School": "Parker/Marion",
-    "id": 511,
+    "id": 560,
     "adj_time": 1409.81,
     "time_min": 1363.3,
     "rnk_blnd": 690,
@@ -6212,7 +6212,7 @@
   {
     "Name": "MASON MAKI",
     "School": "Rapid City Central",
-    "id": 557,
+    "id": 614,
     "adj_time": 1410.07,
     "time_min": null,
     "rnk_blnd": 691,
@@ -6221,7 +6221,7 @@
   {
     "Name": "OWEN FERGUSON JR",
     "School": "Little Wound",
-    "id": 620,
+    "id": 687,
     "adj_time": 1410.5,
     "time_min": 1272.3,
     "rnk_blnd": 692,
@@ -6230,7 +6230,7 @@
   {
     "Name": "DAYTON SANDO",
     "School": "Tri-State",
-    "id": 212,
+    "id": 234,
     "adj_time": 1411.93,
     "time_min": 1315.8,
     "rnk_blnd": 693,
@@ -6239,7 +6239,7 @@
   {
     "Name": "TRACE MILLER",
     "School": "Menno",
-    "id": 732,
+    "id": 812,
     "adj_time": 1413.12,
     "time_min": 1383.2,
     "rnk_blnd": 694,
@@ -6248,7 +6248,7 @@
   {
     "Name": "NICK CARPENTER",
     "School": "St. Thomas More",
-    "id": 589,
+    "id": 653,
     "adj_time": 1419.69,
     "time_min": 1363.5,
     "rnk_blnd": 695,
@@ -6266,7 +6266,7 @@
   {
     "Name": "REED JOHNSON",
     "School": "Brandon Valley",
-    "id": 639,
+    "id": 708,
     "adj_time": 1422,
     "time_min": null,
     "rnk_blnd": 697,
@@ -6275,7 +6275,7 @@
   {
     "Name": "MARTY STADEL",
     "School": "Cheyenne-Eagle Butte",
-    "id": 549,
+    "id": 604,
     "adj_time": 1423.68,
     "time_min": 1295.9,
     "rnk_blnd": 698,
@@ -6284,7 +6284,7 @@
   {
     "Name": "IZAAC RICHARDS",
     "School": "Bon Homme",
-    "id": 363,
+    "id": 401,
     "adj_time": 1425.63,
     "time_min": 1390.4,
     "rnk_blnd": 699,
@@ -6293,7 +6293,7 @@
   {
     "Name": "GABRIEL GATILOGO",
     "School": "St. Francis Indian",
-    "id": 290,
+    "id": 320,
     "adj_time": 1427.17,
     "time_min": 1329.6,
     "rnk_blnd": 700,
@@ -6302,7 +6302,7 @@
   {
     "Name": "DARIUS LAROCHE",
     "School": "Lower Brule",
-    "id": 203,
+    "id": 224,
     "adj_time": 1428.96,
     "time_min": 1312.8,
     "rnk_blnd": 701,
@@ -6311,7 +6311,7 @@
   {
     "Name": "ELIAS LANGDEAU",
     "School": "Lyman",
-    "id": 248,
+    "id": 275,
     "adj_time": 1430.19,
     "time_min": 1318.5,
     "rnk_blnd": 702,
@@ -6320,7 +6320,7 @@
   {
     "Name": "JACOB HANISCH",
     "School": "SF Lincoln",
-    "id": 383,
+    "id": 424,
     "adj_time": 1431.46,
     "time_min": 1457.9,
     "rnk_blnd": 703,
@@ -6329,7 +6329,7 @@
   {
     "Name": "JAKON COMES FLYING",
     "School": "Lower Brule",
-    "id": 390,
+    "id": 432,
     "adj_time": 1433.33,
     "time_min": 1255.7,
     "rnk_blnd": 704,
@@ -6338,7 +6338,7 @@
   {
     "Name": "KOVAUGHN THUNDERHAWK",
     "School": "Lower Brule",
-    "id": 483,
+    "id": 532,
     "adj_time": 1434.44,
     "time_min": 1249.6,
     "rnk_blnd": 705,
@@ -6347,7 +6347,7 @@
   {
     "Name": "TEO FERRARIS",
     "School": "Hot Springs",
-    "id": 720,
+    "id": 799,
     "adj_time": 1434.59,
     "time_min": 1406.2,
     "rnk_blnd": 706,
@@ -6356,7 +6356,7 @@
   {
     "Name": "GUNNAR SMITH",
     "School": "SF Washington",
-    "id": 322,
+    "id": 355,
     "adj_time": 1436.07,
     "time_min": 1462.6,
     "rnk_blnd": 707,
@@ -6365,7 +6365,7 @@
   {
     "Name": "CADE HOFFMAN",
     "School": "McCook Central/Montrose",
-    "id": 118,
+    "id": 128,
     "adj_time": 1436.88,
     "time_min": 1394.9,
     "rnk_blnd": 708,
@@ -6374,7 +6374,7 @@
   {
     "Name": "ELLIOT BOWERS",
     "School": "St. Mary's",
-    "id": 255,
+    "id": 282,
     "adj_time": 1440.12,
     "time_min": 1361.8,
     "rnk_blnd": 709,
@@ -6383,7 +6383,7 @@
   {
     "Name": "EASTON FLISRAND",
     "School": "Florence/Henry",
-    "id": 237,
+    "id": 262,
     "adj_time": 1441.18,
     "time_min": 1421.8,
     "rnk_blnd": 710,
@@ -6392,7 +6392,7 @@
   {
     "Name": "JOHN AINSLIE",
     "School": "Bennett County",
-    "id": 428,
+    "id": 472,
     "adj_time": 1441.98,
     "time_min": 1331.9,
     "rnk_blnd": 711,
@@ -6401,7 +6401,7 @@
   {
     "Name": "TRISTAN BROWN",
     "School": "Madison",
-    "id": 738,
+    "id": 818,
     "adj_time": 1442.42,
     "time_min": 1386.2,
     "rnk_blnd": 712,
@@ -6410,7 +6410,7 @@
   {
     "Name": "GABRIEL LOVATO",
     "School": "Sisseton",
-    "id": 291,
+    "id": 321,
     "adj_time": 1446.58,
     "time_min": 1368.9,
     "rnk_blnd": 713,
@@ -6419,7 +6419,7 @@
   {
     "Name": "BRONC GERAETS",
     "School": "St. Mary's",
-    "id": 108,
+    "id": 118,
     "adj_time": 1447.16,
     "time_min": 1399.2,
     "rnk_blnd": 714,
@@ -6428,7 +6428,7 @@
   {
     "Name": "GABRIEL AUGHENBAUGH",
     "School": "De Smet",
-    "id": 289,
+    "id": 319,
     "adj_time": 1447.24,
     "time_min": 1363.6,
     "rnk_blnd": 715,
@@ -6437,7 +6437,7 @@
   {
     "Name": "WAYLON FITZGERALD",
     "School": "Clark/Willow Lake",
-    "id": 757,
+    "id": 841,
     "adj_time": 1450.4,
     "time_min": 1430.9,
     "rnk_blnd": 716,
@@ -6446,7 +6446,7 @@
   {
     "Name": "IAN PRAMOV",
     "School": "SF Roosevelt",
-    "id": 348,
+    "id": 385,
     "adj_time": 1452.18,
     "time_min": 1479,
     "rnk_blnd": 717,
@@ -6455,7 +6455,7 @@
   {
     "Name": "GRANT CLELLAND",
     "School": "Arlington",
-    "id": 314,
+    "id": 347,
     "adj_time": 1452.74,
     "time_min": 1353.2,
     "rnk_blnd": 718,
@@ -6464,7 +6464,7 @@
   {
     "Name": "GABE LINDGREN",
     "School": "Sanborn Central/Woonsocket",
-    "id": 288,
+    "id": 318,
     "adj_time": 1453.81,
     "time_min": 1408.7,
     "rnk_blnd": 719,
@@ -6473,7 +6473,7 @@
   {
     "Name": "RORYE HOOK",
     "School": "Warner",
-    "id": 653,
+    "id": 726,
     "adj_time": 1455.02,
     "time_min": 1506.2,
     "rnk_blnd": 720,
@@ -6482,7 +6482,7 @@
   {
     "Name": "OWEN NELSON",
     "School": "Waubay/Summit",
-    "id": 623,
+    "id": 690,
     "adj_time": 1455.28,
     "time_min": 1379,
     "rnk_blnd": 721,
@@ -6491,7 +6491,7 @@
   {
     "Name": "LIAM NORRIS",
     "School": "Cheyenne-Eagle Butte",
-    "id": 513,
+    "id": 563,
     "adj_time": 1458.91,
     "time_min": 1396,
     "rnk_blnd": 722,
@@ -6500,7 +6500,7 @@
   {
     "Name": "COLBY CHAUSSEE",
     "School": "Viborg-Hurley",
-    "id": 166,
+    "id": 184,
     "adj_time": 1460.24,
     "time_min": 1348.3,
     "rnk_blnd": 723,
@@ -6509,7 +6509,7 @@
   {
     "Name": "ZIGMUNDS COLEMAN",
     "School": "Rapid City Stevens",
-    "id": 789,
+    "id": 877,
     "adj_time": 1460.76,
     "time_min": null,
     "rnk_blnd": 724,
@@ -6518,7 +6518,7 @@
   {
     "Name": "BRADLEY LAFORGE",
     "School": "Lower Brule",
-    "id": 81,
+    "id": 89,
     "adj_time": 1461.23,
     "time_min": 1311.8,
     "rnk_blnd": 725,
@@ -6527,7 +6527,7 @@
   {
     "Name": "PALMER PODZIMEK",
     "School": "Avon",
-    "id": 624,
+    "id": 691,
     "adj_time": 1462.54,
     "time_min": 1443.4,
     "rnk_blnd": 726,
@@ -6536,7 +6536,7 @@
   {
     "Name": "TEIGAN MCKOWN",
     "School": "Warner",
-    "id": 719,
+    "id": 798,
     "adj_time": 1462.63,
     "time_min": 1420.4,
     "rnk_blnd": 727,
@@ -6545,7 +6545,7 @@
   {
     "Name": "SPENCER SECREST",
     "School": "SF Washington",
-    "id": 700,
+    "id": 779,
     "adj_time": 1464.45,
     "time_min": 1491.5,
     "rnk_blnd": 728,
@@ -6554,7 +6554,7 @@
   {
     "Name": "JENTRY VEURINK",
     "School": "Mount Vernon/Plankinton",
-    "id": 419,
+    "id": 463,
     "adj_time": 1465.33,
     "time_min": 1374,
     "rnk_blnd": 729,
@@ -6563,7 +6563,7 @@
   {
     "Name": "LOUKAS MICHAILIDIS",
     "School": "Brandon Valley",
-    "id": 524,
+    "id": 575,
     "adj_time": 1468.27,
     "time_min": null,
     "rnk_blnd": 730,
@@ -6581,7 +6581,7 @@
   {
     "Name": "ETHAN HEISINGER",
     "School": "Rapid City Stevens",
-    "id": 266,
+    "id": 294,
     "adj_time": 1472.94,
     "time_min": null,
     "rnk_blnd": 732,
@@ -6590,7 +6590,7 @@
   {
     "Name": "MALACHI WHITACRE",
     "School": "Newell",
-    "id": 542,
+    "id": 595,
     "adj_time": 1474.54,
     "time_min": 1425,
     "rnk_blnd": 733,
@@ -6599,7 +6599,7 @@
   {
     "Name": "BRADEN ROEMMICH",
     "School": "SF Roosevelt",
-    "id": 80,
+    "id": 88,
     "adj_time": 1475.35,
     "time_min": 1502.6,
     "rnk_blnd": 734,
@@ -6608,7 +6608,7 @@
   {
     "Name": "BRETT DYKHOUSE",
     "School": "Mobridge-Pollock",
-    "id": 97,
+    "id": 107,
     "adj_time": 1476.37,
     "time_min": 1528.3,
     "rnk_blnd": 735,
@@ -6617,7 +6617,7 @@
   {
     "Name": "MICHAEL HAUGEN",
     "School": "Burke",
-    "id": 574,
+    "id": 638,
     "adj_time": 1476.83,
     "time_min": 1457.5,
     "rnk_blnd": 736,
@@ -6626,7 +6626,7 @@
   {
     "Name": "VANCE TOLIFSON",
     "School": "Webster Area",
-    "id": 753,
+    "id": 835,
     "adj_time": 1481.57,
     "time_min": null,
     "rnk_blnd": 737,
@@ -6635,7 +6635,7 @@
   {
     "Name": "TREYDEN KEATING",
     "School": "Great Plains Lutheran",
-    "id": 735,
+    "id": 815,
     "adj_time": 1487.28,
     "time_min": 1412.3,
     "rnk_blnd": 738,
@@ -6644,7 +6644,7 @@
   {
     "Name": "LIAM ARCHER",
     "School": "SF Lincoln",
-    "id": 509,
+    "id": 558,
     "adj_time": 1492.73,
     "time_min": 1520.3,
     "rnk_blnd": 739,
@@ -6653,7 +6653,7 @@
   {
     "Name": "REMINGTON SHOEMAKER",
     "School": "Bon Homme",
-    "id": 643,
+    "id": 712,
     "adj_time": 1496.58,
     "time_min": 1459.6,
     "rnk_blnd": 740,
@@ -6662,7 +6662,7 @@
   {
     "Name": "LANDON JUNGEMANN",
     "School": "Wolsey-Wessington",
-    "id": 490,
+    "id": 539,
     "adj_time": 1502.02,
     "time_min": 1441.1,
     "rnk_blnd": 741,
@@ -6671,7 +6671,7 @@
   {
     "Name": "HOUSTON BRYANT",
     "School": "Madison",
-    "id": 340,
+    "id": 375,
     "adj_time": 1506.65,
     "time_min": 1479,
     "rnk_blnd": 742,
@@ -6680,7 +6680,7 @@
   {
     "Name": "ISAAC HULL",
     "School": "Gregory",
-    "id": 351,
+    "id": 389,
     "adj_time": 1512.55,
     "time_min": 1447.2,
     "rnk_blnd": 743,
@@ -6698,7 +6698,7 @@
   {
     "Name": "CAMERON CONAWAY",
     "School": "Hill City",
-    "id": 128,
+    "id": 140,
     "adj_time": 1516.01,
     "time_min": 1547.1,
     "rnk_blnd": 745,
@@ -6707,7 +6707,7 @@
   {
     "Name": "VAN PODHRADSKY",
     "School": "Mount Vernon/Plankinton",
-    "id": 752,
+    "id": 834,
     "adj_time": 1518.66,
     "time_min": 1424,
     "rnk_blnd": 746,
@@ -6725,7 +6725,7 @@
   {
     "Name": "EVERETT SMITH",
     "School": "SF Lincoln",
-    "id": 275,
+    "id": 304,
     "adj_time": 1525.23,
     "time_min": 1553.4,
     "rnk_blnd": 748,
@@ -6734,7 +6734,7 @@
   {
     "Name": "NOAH LUETHMERS",
     "School": "De Smet",
-    "id": 602,
+    "id": 667,
     "adj_time": 1527.83,
     "time_min": 1526.2,
     "rnk_blnd": 749,
@@ -6743,7 +6743,7 @@
   {
     "Name": "TRUETT ELLENDORF",
     "School": "Howard",
-    "id": 741,
+    "id": 821,
     "adj_time": 1527.85,
     "time_min": 1458.1,
     "rnk_blnd": 750,
@@ -6752,7 +6752,7 @@
   {
     "Name": "TORGER GJERDE",
     "School": "Clark/Willow Lake",
-    "id": 731,
+    "id": 811,
     "adj_time": 1534.53,
     "time_min": 1513.9,
     "rnk_blnd": 751,
@@ -6761,7 +6761,7 @@
   {
     "Name": "DERRICK FLUTE",
     "School": "Sisseton",
-    "id": 218,
+    "id": 241,
     "adj_time": 1538.35,
     "time_min": null,
     "rnk_blnd": 752,
@@ -6770,7 +6770,7 @@
   {
     "Name": "GAVIN TAYLOR",
     "School": "Madison",
-    "id": 303,
+    "id": 335,
     "adj_time": 1548.52,
     "time_min": 1447.4,
     "rnk_blnd": 753,
@@ -6779,7 +6779,7 @@
   {
     "Name": "SAMUEL SOPER",
     "School": "SF Washington",
-    "id": 682,
+    "id": 759,
     "adj_time": 1548.79,
     "time_min": 1577.4,
     "rnk_blnd": 754,
@@ -6788,7 +6788,7 @@
   {
     "Name": "VANDER SORENSON",
     "School": "SF Washington",
-    "id": 754,
+    "id": 836,
     "adj_time": 1549.58,
     "time_min": 1578.2,
     "rnk_blnd": 755,
@@ -6797,7 +6797,7 @@
   {
     "Name": "QUINLIN BENDER",
     "School": "Newell",
-    "id": 634,
+    "id": 703,
     "adj_time": 1553.77,
     "time_min": 1516.8,
     "rnk_blnd": 756,
@@ -6806,7 +6806,7 @@
   {
     "Name": "BRODY GRAVES",
     "School": "Clark/Willow Lake",
-    "id": 104,
+    "id": 114,
     "adj_time": 1554.91,
     "time_min": 1534,
     "rnk_blnd": 757,
@@ -6815,7 +6815,7 @@
   {
     "Name": "KENYEN LITTLE DOG",
     "School": "McLaughlin",
-    "id": 476,
+    "id": 523,
     "adj_time": 1555.78,
     "time_min": 1449.9,
     "rnk_blnd": 758,
@@ -6824,7 +6824,7 @@
   {
     "Name": "JOSEPH GAMS",
     "School": "St. Mary's",
-    "id": 442,
+    "id": 486,
     "adj_time": 1557.17,
     "time_min": 1501.3,
     "rnk_blnd": 759,
@@ -6833,7 +6833,7 @@
   {
     "Name": "EGAN METTLER",
     "School": "Menno",
-    "id": 241,
+    "id": 267,
     "adj_time": 1569.63,
     "time_min": 1536.4,
     "rnk_blnd": 760,
@@ -6842,7 +6842,7 @@
   {
     "Name": "BREXTON JESSEN",
     "School": "Castlewood",
-    "id": 100,
+    "id": 110,
     "adj_time": 1571.64,
     "time_min": 1492.4,
     "rnk_blnd": 761,
@@ -6851,7 +6851,7 @@
   {
     "Name": "ASA CAVANAUGH",
     "School": "Flandreau Indian",
-    "id": 45,
+    "id": 48,
     "adj_time": 1577.38,
     "time_min": 1583.5,
     "rnk_blnd": 762,
@@ -6860,7 +6860,7 @@
   {
     "Name": "KADE BRAATEN",
     "School": "Tri-State",
-    "id": 458,
+    "id": 503,
     "adj_time": 1582.06,
     "time_min": 1502.3,
     "rnk_blnd": 763,
@@ -6869,7 +6869,7 @@
   {
     "Name": "ANTWON HAYES",
     "School": "Takini",
-    "id": 41,
+    "id": 44,
     "adj_time": 1589.03,
     "time_min": 1432.6,
     "rnk_blnd": 764,
@@ -6878,7 +6878,7 @@
   {
     "Name": "ROZIN SLABA",
     "School": "Lyman",
-    "id": 657,
+    "id": 730,
     "adj_time": 1599.86,
     "time_min": 1578.3,
     "rnk_blnd": 765,
@@ -6887,7 +6887,7 @@
   {
     "Name": "JIMMY TEN FINGERS",
     "School": "Crazy Horse",
-    "id": 425,
+    "id": 469,
     "adj_time": 1600.58,
     "time_min": 1500.4,
     "rnk_blnd": 766,
@@ -6896,7 +6896,7 @@
   {
     "Name": "NATHAN ROSS",
     "School": "Flandreau",
-    "id": 587,
+    "id": 651,
     "adj_time": 1603.05,
     "time_min": 1543.1,
     "rnk_blnd": 767,
@@ -6905,7 +6905,7 @@
   {
     "Name": "ARIC ARNELL",
     "School": "Flandreau Indian",
-    "id": 43,
+    "id": 46,
     "adj_time": 1603.97,
     "time_min": 1610.2,
     "rnk_blnd": 768,
@@ -6914,7 +6914,7 @@
   {
     "Name": "KOEN MCDOWELL",
     "School": "Rapid City Stevens",
-    "id": 479,
+    "id": 528,
     "adj_time": 1620.27,
     "time_min": null,
     "rnk_blnd": 769,
@@ -6923,7 +6923,7 @@
   {
     "Name": "COOPER JARDING",
     "School": "Hanson",
-    "id": 182,
+    "id": 201,
     "adj_time": 1625.93,
     "time_min": 1523.3,
     "rnk_blnd": 770,
@@ -6932,7 +6932,7 @@
   {
     "Name": "ANDREW LUTT",
     "School": "Gregory",
-    "id": 33,
+    "id": 36,
     "adj_time": 1625.96,
     "time_min": 1550.8,
     "rnk_blnd": 771,
@@ -6941,7 +6941,7 @@
   {
     "Name": "TRISTIN LLEWELYN",
     "School": "Irene-Wakonda",
-    "id": 740,
+    "id": 820,
     "adj_time": 1626.22,
     "time_min": 1635.2,
     "rnk_blnd": 772,
@@ -6950,7 +6950,7 @@
   {
     "Name": "CARSON HINSLEY",
     "School": "Wakpala",
-    "id": 131,
+    "id": 146,
     "adj_time": 1632.94,
     "time_min": 1500.2,
     "rnk_blnd": 773,
@@ -6959,7 +6959,7 @@
   {
     "Name": "LAWRENCE BIG EAGLE",
     "School": "Tiospaye Topa",
-    "id": 495,
+    "id": 544,
     "adj_time": 1634.1,
     "time_min": 1855.3,
     "rnk_blnd": 774,
@@ -6968,7 +6968,7 @@
   {
     "Name": "MASON BUI",
     "School": "Aberdeen Roncalli",
-    "id": 551,
+    "id": 606,
     "adj_time": 1644.15,
     "time_min": 1684.4,
     "rnk_blnd": 775,
@@ -6977,7 +6977,7 @@
   {
     "Name": "WYATT DORN",
     "School": "Freeman",
-    "id": 771,
+    "id": 857,
     "adj_time": 1650.56,
     "time_min": 1655.9,
     "rnk_blnd": 776,
@@ -6986,7 +6986,7 @@
   {
     "Name": "JAYCE TIGER",
     "School": "Wakpala",
-    "id": 413,
+    "id": 457,
     "adj_time": 1659.17,
     "time_min": 1524.3,
     "rnk_blnd": 777,
@@ -6995,7 +6995,7 @@
   {
     "Name": "COREY CONDON",
     "School": "Takini",
-    "id": 189,
+    "id": 209,
     "adj_time": 1663.59,
     "time_min": 1394.5,
     "rnk_blnd": 778,
@@ -7004,7 +7004,7 @@
   {
     "Name": "GABE LACROIX",
     "School": "Viborg-Hurley",
-    "id": 287,
+    "id": 317,
     "adj_time": 1679.15,
     "time_min": 1643.6,
     "rnk_blnd": 779,
@@ -7013,7 +7013,7 @@
   {
     "Name": "JUSTIN POOR BEAR",
     "School": "Bennett County",
-    "id": 456,
+    "id": 501,
     "adj_time": 1692.9,
     "time_min": 1708.5,
     "rnk_blnd": 780,
@@ -7022,7 +7022,7 @@
   {
     "Name": "JACOB SCHAEFFER",
     "School": "Scotland",
-    "id": 384,
+    "id": 425,
     "adj_time": 1693.86,
     "time_min": 1652,
     "rnk_blnd": 781,
@@ -7031,7 +7031,7 @@
   {
     "Name": "CARSYN GREBNER",
     "School": "Waubay/Summit",
-    "id": 133,
+    "id": 148,
     "adj_time": 1717.54,
     "time_min": 1526.8,
     "rnk_blnd": 782,
@@ -7040,7 +7040,7 @@
   {
     "Name": "ANTHONY WHITE OWL",
     "School": "Wakpala",
-    "id": 38,
+    "id": 41,
     "adj_time": 1751.15,
     "time_min": 1608.8,
     "rnk_blnd": 783,
@@ -7049,7 +7049,7 @@
   {
     "Name": "DERRICK STAR COMES OUT",
     "School": "Takini",
-    "id": 219,
+    "id": 242,
     "adj_time": 1754.34,
     "time_min": 1730.7,
     "rnk_blnd": 784,
@@ -7058,7 +7058,7 @@
   {
     "Name": "COBIN RAGUSE",
     "School": "Tri-State",
-    "id": 163,
+    "id": 181,
     "adj_time": 1757.69,
     "time_min": 1785.2,
     "rnk_blnd": 785,
@@ -7067,7 +7067,7 @@
   {
     "Name": "EASTIN TRAVERSIE",
     "School": "Tiospaye Topa",
-    "id": 235,
+    "id": 260,
     "adj_time": 1890.91,
     "time_min": 1737.2,
     "rnk_blnd": 786,
@@ -7076,7 +7076,7 @@
   {
     "Name": "LOGAN CLOCKSENE",
     "School": "Groton Area",
-    "id": 519,
+    "id": 570,
     "adj_time": 2042.06,
     "time_min": 2014.6,
     "rnk_blnd": 787,
@@ -7085,7 +7085,7 @@
   {
     "Name": "COLTON ODENS",
     "School": "Scotland",
-    "id": 175,
+    "id": 194,
     "adj_time": 2076.72,
     "time_min": 2025.4,
     "rnk_blnd": 788,
@@ -7094,7 +7094,7 @@
   {
     "Name": "URIAS HOLLOW HORN",
     "School": "Takini",
-    "id": 750,
+    "id": 832,
     "adj_time": 2119.19,
     "time_min": 2114,
     "rnk_blnd": 789,
