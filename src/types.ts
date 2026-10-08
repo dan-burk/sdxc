@@ -35,6 +35,19 @@ export interface StateFinisher {
   time_min: number | null
 }
 
+// Shape of data/results_{gender}_{year}.json: one row per race for every ranked runner
+export interface RaceResult {
+  id: number // matches Runner.id
+  meet: string
+  date: string // YYYY-MM-DD
+  week: number
+  flg_5k: 0 | 1
+  place: number | null // place in the whole race, out-of-state runners counted
+  field: number // finishers in the race
+  time: number | null // seconds
+  grade: number | null
+}
+
 export interface Manifest {
   current: number
   years: Record<string, number> // year -> latest scored week

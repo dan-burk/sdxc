@@ -1,8 +1,8 @@
-import { useMemo, useState } from 'react'
-import { getRankings } from '../data'
-import { formatPoints, formatTime, titleCase } from '../format'
+import { Fragment, useMemo, useState } from 'react'
+import { getRankings, getResults } from '../data'
+import { formatPoints, formatTime, ordinal, titleCase } from '../format'
 import { useAsync } from '../hooks'
-import type { Gender, Runner } from '../types'
+import type { Gender, RaceResult, Runner } from '../types'
 import type { ClassFilter } from './FilterBar'
 import { ClassBadge, Delta, ErrorCard } from './ui'
 
@@ -29,6 +29,43 @@ const COLUMNS: { key: SortKey; label: string; className?: string }[] = [
 ]
 const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
 
+// "2026-09-03" -> "Sep 3"
+const formatDate = (date: string) => {
+  const [y, m, d] = date.split('-').map(Number)
+  return new Date(y, m - 1, d).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })
+}
+
+function RaceHistory({ races }: { races: RaceResult[] }) {
+  if (races.length === 0) return <p className="text-muted">No races through this week.</p>
+  return (
+    <table className="w-full max-w-xl text-xs sm:text-sm">
+      <thead>
+        <tr className="label text-left">
+          <th className="py-1 pr-3 font-normal">Date</th>
+          <th className="py-1 pr-3 font-normal">Meet</th>
+          <th className="py-1 pr-3 font-normal">Place</th>
+          <th className="py-1 text-right font-normal">Time</th>
+        </tr>
+      </thead>
+      <tbody>
+        {races.map((race, i) => (
+          <tr key={i}>
+            <td className="whitespace-nowrap py-1 pr-3 text-muted">{formatDate(race.date)}</td>
+            <td className="py-1 pr-3">
+              {race.meet}
+              {!race.flg_5k && <span className="ml-1.5 text-muted">(not 5K)</span>}
+            </td>
+            <td className="whitespace-nowrap py-1 pr-3 tabular-nums">
+              {race.place === null ? '—' : <>{ordinal(race.place)} <span className="text-muted">of {race.field}</span></>}
+            </td>
+            <td className="py-1 text-right tabular-nums">{formatTime(race.time)}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+  )
+}
+
 function Movement({ move, prevWeek }: { move: Move; prevWeek: number }) {
   if (move === null) return null
   if (move === 'new') return <span className="text-[10px] font-semibold tracking-wide text-accent">NEW</span>
@@ -50,6 +87,7 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
     () => Promise.all([
       getRankings(gender, year, week),
       week > 1 ? getRankings(gender, year, week - 1).catch(() => null) : null, // arrows are optional
+      getResults(gender, year).catch(() => null), // race history exists from 2026 on
     ]),
     [gender, year, week],
   )
@@ -63,6 +101,23 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
     }
     return ranks
   }, [data])
+
+  // Each runner's races up to the week being viewed
+  const races = useMemo(() => {
+    if (!data?.[2]) return null
+    const byId = new Map<number, RaceResult[]>()
+    for (const race of data[2]) {
+      if (race.week > week) continue
+      byId.set(race.id, [...(byId.get(race.id) ?? []), race])
+    }
+    return byId
+  }, [data, week])
+  const [expanded, setExpanded] = useState<Set<number>>(new Set())
+  const toggle = (id: number) => setExpanded(open => {
+    const next = new Set(open)
+    if (!next.delete(id)) next.add(id)
+    return next
+  })
 
   const moves = useMemo(() => {
     const prev = data?.[1] && new Map(data[1].map(r => [r.id, r.rnk_blnd]))
@@ -156,7 +211,8 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
               </tr>
             )}
             {!loading && rows.map(r => (
-              <tr key={r.rnk_blnd} className="transition-colors hover:bg-surface-2/60">
+              <Fragment key={r.rnk_blnd}>
+              <tr className="transition-colors hover:bg-surface-2/60">
                 <td className="px-3 py-2.5 sm:px-4">
                   <div className="flex items-center gap-2">
                     <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[(cls === 'All' ? r.rnk_blnd : classRanks.get(r.rnk_blnd)!) - 1] ?? ''}`} />
@@ -174,7 +230,20 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
                   )}
                 </td>
                 <td className="px-3 py-2.5 sm:px-4">
-                  <div className="font-medium">{titleCase(r.Name)}</div>
+                  {races ? (
+                    <button
+                      onClick={() => toggle(r.id)}
+                      aria-expanded={expanded.has(r.id)}
+                      className="inline-flex items-center gap-1 text-left font-medium hover:text-accent"
+                    >
+                      {titleCase(r.Name)}
+                      <svg className={`h-3 w-3 shrink-0 text-muted transition-transform motion-reduce:transition-none ${expanded.has(r.id) ? 'rotate-180' : ''}`} viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2.5}>
+                        <path d="m6 9 6 6 6-6" />
+                      </svg>
+                    </button>
+                  ) : (
+                    <div className="font-medium">{titleCase(r.Name)}</div>
+                  )}
                   <div className="text-xs text-muted sm:hidden">{r.School} · {r.school_class}</div>
                 </td>
                 <td className="hidden px-3 py-2.5 sm:px-4 sm:table-cell">{r.School}</td>
@@ -185,6 +254,14 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
                 </td>
                 <td className="hidden px-3 py-2.5 sm:px-4 text-right tabular-nums text-muted md:table-cell">{score(r)}</td>
               </tr>
+              {races && expanded.has(r.id) && (
+                <tr className="bg-surface-2/40">
+                  <td colSpan={COLUMNS.length} className="px-3 py-3 sm:px-4 sm:pl-[8.5rem]">
+                    <RaceHistory races={races.get(r.id) ?? []} />
+                  </td>
+                </tr>
+              )}
+              </Fragment>
             ))}
           </tbody>
         </table>

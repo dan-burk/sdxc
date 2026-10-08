@@ -11,3 +11,9 @@ export const titleCase = (name: string) =>
 
 export const formatPoints = (points: number) =>
   points.toLocaleString('en-US', { minimumFractionDigits: 1, maximumFractionDigits: 1 })
+
+// 1 -> 1st, 22 -> 22nd, 13 -> 13th
+export function ordinal(n: number): string {
+  const s = ['th', 'st', 'nd', 'rd'], v = n % 100
+  return n + (s[(v - 20) % 10] || s[v] || s[0])
+}
