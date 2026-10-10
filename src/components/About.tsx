@@ -71,6 +71,12 @@ function HowItWorks() {
           but on a fast course, so Gabe ranks first.
         </p>
       </Step>
+      <Step n={4} title="Head-to-head">
+        <p className="text-muted">
+          If you've beaten someone in your class every time you've raced, at least twice, and they're within 5 spots
+          ahead of you, you're ranked ahead of them.
+        </p>
+      </Step>
     </div>
   )
 }

@@ -2862,11 +2862,11 @@
     "school_class": "B"
   },
   {
-    "Name": "BECCA STACY",
+    "Name": "SOFIA HANSON",
     "School": "Elk Point-Jefferson",
-    "id": 110,
-    "adj_time": 1471.49,
-    "time_min": 1447.2,
+    "id": 600,
+    "adj_time": 1487.62,
+    "time_min": 1446.7,
     "rnk_blnd": 319,
     "school_class": "A"
   },
@@ -2880,11 +2880,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "LILLIE BODEN",
-    "School": "Beresford",
-    "id": 411,
-    "adj_time": 1474.46,
-    "time_min": 1403.9,
+    "Name": "BECCA STACY",
+    "School": "Elk Point-Jefferson",
+    "id": 110,
+    "adj_time": 1471.49,
+    "time_min": 1447.2,
     "rnk_blnd": 321,
     "school_class": "A"
   },
@@ -2934,12 +2934,21 @@
     "school_class": "B"
   },
   {
+    "Name": "LILLIE BODEN",
+    "School": "Beresford",
+    "id": 411,
+    "adj_time": 1474.46,
+    "time_min": 1403.9,
+    "rnk_blnd": 327,
+    "school_class": "A"
+  },
+  {
     "Name": "CHARLOTTE QUALM",
     "School": "Platte-Geddes",
     "id": 160,
     "adj_time": 1479.38,
     "time_min": 1418,
-    "rnk_blnd": 327,
+    "rnk_blnd": 328,
     "school_class": "A"
   },
   {
@@ -2948,15 +2957,6 @@
     "id": 102,
     "adj_time": 1484.93,
     "time_min": 1446,
-    "rnk_blnd": 328,
-    "school_class": "A"
-  },
-  {
-    "Name": "SOFIA HANSON",
-    "School": "Elk Point-Jefferson",
-    "id": 600,
-    "adj_time": 1487.62,
-    "time_min": 1446.7,
     "rnk_blnd": 329,
     "school_class": "A"
   },

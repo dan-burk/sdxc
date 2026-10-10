@@ -1881,20 +1881,20 @@
     "school_class": "AA"
   },
   {
+    "Name": "NOAH HALVORSON",
+    "School": "Beresford",
+    "id": 689,
+    "adj_time": 1158.93,
+    "time_min": 1087.09,
+    "rnk_blnd": 210,
+    "school_class": "A"
+  },
+  {
     "Name": "HENRY HUETHER",
     "School": "Beresford",
     "id": 383,
     "adj_time": 1151.47,
     "time_min": 1100.56,
-    "rnk_blnd": 210,
-    "school_class": "A"
-  },
-  {
-    "Name": "CLIFFORD TORBERSON",
-    "School": "Belle Fourche",
-    "id": 183,
-    "adj_time": 1151.79,
-    "time_min": 1098.82,
     "rnk_blnd": 211,
     "school_class": "A"
   },
@@ -1917,11 +1917,11 @@
     "school_class": "B"
   },
   {
-    "Name": "EASTON SCHUMAN",
-    "School": "Platte-Geddes",
-    "id": 279,
-    "adj_time": 1154,
-    "time_min": 1211,
+    "Name": "CLIFFORD TORBERSON",
+    "School": "Belle Fourche",
+    "id": 183,
+    "adj_time": 1151.79,
+    "time_min": 1098.82,
     "rnk_blnd": 214,
     "school_class": "A"
   },
@@ -1953,11 +1953,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "ALEX OPLAND",
-    "School": "Canton",
-    "id": 28,
-    "adj_time": 1156.12,
-    "time_min": 1099.5,
+    "Name": "EASTON SCHUMAN",
+    "School": "Platte-Geddes",
+    "id": 279,
+    "adj_time": 1154,
+    "time_min": 1211,
     "rnk_blnd": 218,
     "school_class": "A"
   },
@@ -1980,11 +1980,11 @@
     "school_class": "B"
   },
   {
-    "Name": "NOAH HALVORSON",
-    "School": "Beresford",
-    "id": 689,
-    "adj_time": 1158.93,
-    "time_min": 1087.09,
+    "Name": "ALEX OPLAND",
+    "School": "Canton",
+    "id": 28,
+    "adj_time": 1156.12,
+    "time_min": 1099.5,
     "rnk_blnd": 221,
     "school_class": "A"
   },
@@ -2871,11 +2871,11 @@
     "school_class": "B"
   },
   {
-    "Name": "CADYN BRAVE HEART",
+    "Name": "NOAH VANDERWALKER",
     "School": "White River",
-    "id": 137,
-    "adj_time": 1223.56,
-    "time_min": 1233.44,
+    "id": 698,
+    "adj_time": 1223.83,
+    "time_min": 1224.62,
     "rnk_blnd": 320,
     "school_class": "B"
   },
@@ -2889,11 +2889,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "NOAH VANDERWALKER",
+    "Name": "CADYN BRAVE HEART",
     "School": "White River",
-    "id": 698,
-    "adj_time": 1223.83,
-    "time_min": 1224.62,
+    "id": 137,
+    "adj_time": 1223.56,
+    "time_min": 1233.44,
     "rnk_blnd": 322,
     "school_class": "B"
   },
@@ -2934,20 +2934,20 @@
     "school_class": "AA"
   },
   {
+    "Name": "LEVI AXTELL",
+    "School": "Sioux Valley",
+    "id": 593,
+    "adj_time": 1230.57,
+    "time_min": 1160.82,
+    "rnk_blnd": 327,
+    "school_class": "A"
+  },
+  {
     "Name": "DANIEL ALDRIDGE",
     "School": "Madison",
     "id": 233,
     "adj_time": 1226.55,
     "time_min": 1173.03,
-    "rnk_blnd": 327,
-    "school_class": "A"
-  },
-  {
-    "Name": "BEN KELLER",
-    "School": "Aberdeen Roncalli",
-    "id": 74,
-    "adj_time": 1226.72,
-    "time_min": 1171.3,
     "rnk_blnd": 328,
     "school_class": "A"
   },
@@ -2979,11 +2979,11 @@
     "school_class": "B"
   },
   {
-    "Name": "LEVI AXTELL",
-    "School": "Sioux Valley",
-    "id": 593,
-    "adj_time": 1230.57,
-    "time_min": 1160.82,
+    "Name": "BEN KELLER",
+    "School": "Aberdeen Roncalli",
+    "id": 74,
+    "adj_time": 1226.72,
+    "time_min": 1171.3,
     "rnk_blnd": 332,
     "school_class": "A"
   },

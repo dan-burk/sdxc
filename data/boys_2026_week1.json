@@ -792,11 +792,11 @@
     "school_class": "A"
   },
   {
-    "Name": "KEATON FOPMA",
-    "School": "SF Christian",
-    "id": 518,
-    "adj_time": 1063.06,
-    "time_min": 1047.3,
+    "Name": "JOSH MERRIMAN",
+    "School": "Beresford",
+    "id": 491,
+    "adj_time": 1085.38,
+    "time_min": 1026.9,
     "rnk_blnd": 89,
     "school_class": "A"
   },
@@ -837,11 +837,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "ZACH NIELSEN",
-    "School": "West Central",
-    "id": 869,
-    "adj_time": 1068.27,
-    "time_min": 1063.6,
+    "Name": "KEATON FOPMA",
+    "School": "SF Christian",
+    "id": 518,
+    "adj_time": 1063.06,
+    "time_min": 1047.3,
     "rnk_blnd": 94,
     "school_class": "A"
   },
@@ -873,11 +873,11 @@
     "school_class": "B"
   },
   {
-    "Name": "LIAM GILL",
-    "School": "Chamberlain",
-    "id": 559,
-    "adj_time": 1075.39,
-    "time_min": 1068.2,
+    "Name": "ZACH NIELSEN",
+    "School": "West Central",
+    "id": 869,
+    "adj_time": 1068.27,
+    "time_min": 1063.6,
     "rnk_blnd": 98,
     "school_class": "A"
   },
@@ -936,20 +936,20 @@
     "school_class": "B"
   },
   {
+    "Name": "LIAM GILL",
+    "School": "Chamberlain",
+    "id": 559,
+    "adj_time": 1075.39,
+    "time_min": 1068.2,
+    "rnk_blnd": 105,
+    "school_class": "A"
+  },
+  {
     "Name": "ANDREW KOOLE",
     "School": "SF Christian",
     "id": 35,
     "adj_time": 1079.22,
     "time_min": 1076.3,
-    "rnk_blnd": 105,
-    "school_class": "A"
-  },
-  {
-    "Name": "BECKETT FENNEL",
-    "School": "Elk Point-Jefferson",
-    "id": 66,
-    "adj_time": 1080.21,
-    "time_min": 1074.1,
     "rnk_blnd": 106,
     "school_class": "A"
   },
@@ -999,11 +999,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "JOSH MERRIMAN",
-    "School": "Beresford",
-    "id": 491,
-    "adj_time": 1085.38,
-    "time_min": 1026.9,
+    "Name": "BECKETT FENNEL",
+    "School": "Elk Point-Jefferson",
+    "id": 66,
+    "adj_time": 1080.21,
+    "time_min": 1074.1,
     "rnk_blnd": 112,
     "school_class": "A"
   },
@@ -1602,20 +1602,20 @@
     "school_class": "A"
   },
   {
+    "Name": "JAXON VANDE VEGTE",
+    "School": "Elk Point-Jefferson",
+    "id": 452,
+    "adj_time": 1135.47,
+    "time_min": 1129.9,
+    "rnk_blnd": 179,
+    "school_class": "A"
+  },
+  {
     "Name": "NOAH HALVORSON",
     "School": "Beresford",
     "id": 660,
     "adj_time": 1124.53,
     "time_min": 1125.3,
-    "rnk_blnd": 179,
-    "school_class": "A"
-  },
-  {
-    "Name": "SEAN MAY",
-    "School": "Vermillion",
-    "id": 765,
-    "adj_time": 1124.92,
-    "time_min": 1094.4,
     "rnk_blnd": 180,
     "school_class": "A"
   },
@@ -1683,11 +1683,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "MICHAEL PRUE",
-    "School": "Todd County",
-    "id": 640,
-    "adj_time": 1129.93,
-    "time_min": 1133,
+    "Name": "SEAN MAY",
+    "School": "Vermillion",
+    "id": 765,
+    "adj_time": 1124.92,
+    "time_min": 1094.4,
     "rnk_blnd": 188,
     "school_class": "A"
   },
@@ -1701,11 +1701,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "THOMAS HOLZER",
-    "School": "Mobridge-Pollock",
-    "id": 802,
-    "adj_time": 1131.54,
-    "time_min": 1191.1,
+    "Name": "MICHAEL PRUE",
+    "School": "Todd County",
+    "id": 640,
+    "adj_time": 1129.93,
+    "time_min": 1133,
     "rnk_blnd": 190,
     "school_class": "A"
   },
@@ -1719,11 +1719,11 @@
     "school_class": "AA"
   },
   {
-    "Name": "BYRON CONDON",
-    "School": "Cheyenne-Eagle Butte",
-    "id": 126,
-    "adj_time": 1132.09,
-    "time_min": 1139.2,
+    "Name": "THOMAS HOLZER",
+    "School": "Mobridge-Pollock",
+    "id": 802,
+    "adj_time": 1131.54,
+    "time_min": 1191.1,
     "rnk_blnd": 192,
     "school_class": "A"
   },
@@ -1782,11 +1782,11 @@
     "school_class": "B"
   },
   {
-    "Name": "JAXON VANDE VEGTE",
-    "School": "Elk Point-Jefferson",
-    "id": 452,
-    "adj_time": 1135.47,
-    "time_min": 1129.9,
+    "Name": "BYRON CONDON",
+    "School": "Cheyenne-Eagle Butte",
+    "id": 126,
+    "adj_time": 1132.09,
+    "time_min": 1139.2,
     "rnk_blnd": 199,
     "school_class": "A"
   },
