@@ -45,6 +45,7 @@ export interface RaceResult {
   place: number | null // place in the whole race, out-of-state runners counted
   field: number // finishers in the race
   time: number | null // seconds
+  adj_time?: number | null // seconds, course-adjusted; null for unmeasured meets, DQ/DNF and state races
   grade: number | null
 }
 

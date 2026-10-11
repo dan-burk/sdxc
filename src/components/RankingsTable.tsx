@@ -44,7 +44,8 @@ function RaceHistory({ races }: { races: RaceResult[] }) {
           <th className="py-1 pr-3 font-normal">Date</th>
           <th className="py-1 pr-3 font-normal">Meet</th>
           <th className="py-1 pr-3 font-normal">Place</th>
-          <th className="py-1 text-right font-normal">Time</th>
+          <th className="py-1 pr-3 text-right font-normal">Time</th>
+          <th className="py-1 text-right font-normal">Adjusted</th>
         </tr>
       </thead>
       <tbody>
@@ -58,7 +59,8 @@ function RaceHistory({ races }: { races: RaceResult[] }) {
             <td className="whitespace-nowrap py-1 pr-3 tabular-nums">
               {race.place === null ? '—' : <>{ordinal(race.place)} <span className="text-muted">of {race.field}</span></>}
             </td>
-            <td className="py-1 text-right tabular-nums">{formatTime(race.time)}</td>
+            <td className="py-1 pr-3 text-right tabular-nums">{formatTime(race.time)}</td>
+            <td className="py-1 text-right tabular-nums text-muted">{formatTime(race.adj_time ?? null)}</td>
           </tr>
         ))}
       </tbody>
@@ -87,7 +89,7 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
     () => Promise.all([
       getRankings(gender, year, week),
       week > 1 ? getRankings(gender, year, week - 1).catch(() => null) : null, // arrows are optional
-      getResults(gender, year).catch(() => null), // race history exists from 2026 on
+      getResults(gender, year).catch(() => null), // race history exists from 2025 on
     ]),
     [gender, year, week],
   )
