@@ -5,9 +5,24 @@
     "region": null
   },
   {
+    "School": "Aberdeen Christian",
+    "school_class": "B",
+    "region": "1B"
+  },
+  {
     "School": "Aberdeen Roncalli",
     "school_class": "A",
     "region": "1A"
+  },
+  {
+    "School": "Alcester-Hudson",
+    "school_class": "B",
+    "region": "2B"
+  },
+  {
+    "School": "Andes Central/Dakota Christian",
+    "school_class": "B",
+    "region": "3B"
   },
   {
     "School": "Arlington",
@@ -30,6 +45,11 @@
     "region": "5A"
   },
   {
+    "School": "Bennett County",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
     "School": "Beresford",
     "school_class": "A",
     "region": "3A"
@@ -40,9 +60,29 @@
     "region": "5B"
   },
   {
+    "School": "Black Hills Christian Academy",
+    "school_class": "B",
+    "region": "5B"
+  },
+  {
+    "School": "Bon Homme",
+    "school_class": "A",
+    "region": "3A"
+  },
+  {
     "School": "Brandon Valley",
     "school_class": "AA",
     "region": null
+  },
+  {
+    "School": "Bridgewater-Emery",
+    "school_class": "B",
+    "region": "3B"
+  },
+  {
+    "School": "Britton-Hecla",
+    "school_class": "B",
+    "region": "1B"
   },
   {
     "School": "Brookings",
@@ -50,9 +90,19 @@
     "region": null
   },
   {
+    "School": "Burke",
+    "school_class": "B",
+    "region": "3B"
+  },
+  {
     "School": "Canistota",
     "school_class": "B",
     "region": "3B"
+  },
+  {
+    "School": "Canton",
+    "school_class": "A",
+    "region": "3A"
   },
   {
     "School": "Castlewood",
@@ -75,9 +125,19 @@
     "region": "2B"
   },
   {
+    "School": "Cheyenne-Eagle Butte",
+    "school_class": "A",
+    "region": "4A"
+  },
+  {
     "School": "Clark/Willow Lake",
     "school_class": "A",
     "region": "1A"
+  },
+  {
+    "School": "Colman-Egan",
+    "school_class": "B",
+    "region": "2B"
   },
   {
     "School": "Corsica-Stickney",
@@ -100,11 +160,6 @@
     "region": "5A"
   },
   {
-    "School": "DR St. Mary",
-    "school_class": "B",
-    "region": "2B"
-  },
-  {
     "School": "Dakota Valley",
     "school_class": "A",
     "region": "3A"
@@ -113,6 +168,11 @@
     "School": "De Smet",
     "school_class": "B",
     "region": "2B"
+  },
+  {
+    "School": "Dell Rapids",
+    "school_class": "A",
+    "region": "2A"
   },
   {
     "School": "Deubrook Area",
@@ -138,6 +198,16 @@
     "School": "Edgemont",
     "school_class": "B",
     "region": "5B"
+  },
+  {
+    "School": "Elk Point-Jefferson",
+    "school_class": "A",
+    "region": "3A"
+  },
+  {
+    "School": "Elkton-Lake Benton",
+    "school_class": "A",
+    "region": "2A"
   },
   {
     "School": "Estelline/Hendricks",
@@ -180,9 +250,14 @@
     "region": "3B"
   },
   {
-    "School": "Freeman Acad/Mar",
+    "School": "Freeman Academy/Marion",
     "school_class": "B",
     "region": "3B"
+  },
+  {
+    "School": "Garretson",
+    "school_class": "A",
+    "region": "2A"
   },
   {
     "School": "Gayville-Volin",
@@ -190,7 +265,12 @@
     "region": "2B"
   },
   {
-    "School": "Great Plains Lut",
+    "School": "Gettysburg",
+    "school_class": "B",
+    "region": "4B"
+  },
+  {
+    "School": "Great Plains Lutheran",
     "school_class": "A",
     "region": "1A"
   },
@@ -198,6 +278,21 @@
     "School": "Gregory",
     "school_class": "B",
     "region": "3B"
+  },
+  {
+    "School": "Groton Area",
+    "school_class": "A",
+    "region": "1A"
+  },
+  {
+    "School": "Hanson",
+    "school_class": "A",
+    "region": "3A"
+  },
+  {
+    "School": "Harding County",
+    "school_class": "B",
+    "region": "5B"
   },
   {
     "School": "Harrisburg",
@@ -225,6 +320,11 @@
     "region": "1B"
   },
   {
+    "School": "Hot Springs",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
     "School": "Howard",
     "school_class": "B",
     "region": "2B"
@@ -245,14 +345,44 @@
     "region": "2B"
   },
   {
-    "School": "James Valley Chr",
+    "School": "Iroquois/Lake Preston",
+    "school_class": "B",
+    "region": "2B"
+  },
+  {
+    "School": "James Valley Christian",
     "school_class": "B",
     "region": "1B"
+  },
+  {
+    "School": "Jones County",
+    "school_class": "B",
+    "region": "5B"
+  },
+  {
+    "School": "Kadoka Area",
+    "school_class": "B",
+    "region": "5B"
   },
   {
     "School": "Kimball/White Lake",
     "school_class": "A",
     "region": "4A"
+  },
+  {
+    "School": "Lakota Tech",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
+    "School": "Langford Area",
+    "school_class": "B",
+    "region": "1B"
+  },
+  {
+    "School": "Lead-Deadwood",
+    "school_class": "A",
+    "region": "5A"
   },
   {
     "School": "Lemmon",
@@ -270,6 +400,11 @@
     "region": "1B"
   },
   {
+    "School": "Little Wound",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
     "School": "Lower Brule",
     "school_class": "B",
     "region": "4B"
@@ -285,14 +420,39 @@
     "region": "2A"
   },
   {
+    "School": "Mahpiya Luta",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
+    "School": "Marty",
+    "school_class": "B",
+    "region": "3B"
+  },
+  {
+    "School": "McCook Central/Montrose",
+    "school_class": "A",
+    "region": "2A"
+  },
+  {
     "School": "McCrossan",
     "school_class": "B",
     "region": "2B"
   },
   {
+    "School": "McIntosh",
+    "school_class": "B",
+    "region": "4B"
+  },
+  {
     "School": "McLaughlin",
     "school_class": "A",
     "region": "4A"
+  },
+  {
+    "School": "Menno",
+    "school_class": "B",
+    "region": "3B"
   },
   {
     "School": "Milbank",
@@ -320,7 +480,7 @@
     "region": "4A"
   },
   {
-    "School": "Mount Vernon/Pla",
+    "School": "Mount Vernon/Plankinton",
     "school_class": "A",
     "region": "3A"
   },
@@ -350,6 +510,16 @@
     "region": null
   },
   {
+    "School": "Oldham-Ramona-Rutland",
+    "school_class": "B",
+    "region": "2B"
+  },
+  {
+    "School": "Parker/Marion",
+    "school_class": "A",
+    "region": "3A"
+  },
+  {
     "School": "Philip",
     "school_class": "B",
     "region": "5B"
@@ -360,19 +530,14 @@
     "region": null
   },
   {
+    "School": "Pine Ridge",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
     "School": "Platte-Geddes",
     "school_class": "A",
     "region": "4A"
-  },
-  {
-    "School": "Potter County",
-    "school_class": "B",
-    "region": "4B"
-  },
-  {
-    "School": "RC Christian",
-    "school_class": "A",
-    "region": "5A"
   },
   {
     "School": "Rapid City Central",
@@ -380,19 +545,29 @@
     "region": null
   },
   {
+    "School": "Rapid City Christian",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
     "School": "Rapid City Stevens",
     "school_class": "AA",
     "region": null
   },
   {
-    "School": "Red Cloud",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
     "School": "Redfield",
     "school_class": "A",
     "region": "1A"
+  },
+  {
+    "School": "Sanborn Central/Woonsocket",
+    "school_class": "A",
+    "region": "3A"
+  },
+  {
+    "School": "Scotland",
+    "school_class": "B",
+    "region": "3B"
   },
   {
     "School": "SF Christian",
@@ -405,22 +580,17 @@
     "region": null
   },
   {
+    "School": "SF Lincoln",
+    "school_class": "AA",
+    "region": null
+  },
+  {
     "School": "SF Roosevelt",
     "school_class": "AA",
     "region": null
   },
   {
     "School": "SF Washington",
-    "school_class": "AA",
-    "region": null
-  },
-  {
-    "School": "Sanborn Cent/Woo",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Sioux Falls Lincoln",
     "school_class": "AA",
     "region": null
   },
@@ -438,6 +608,16 @@
     "School": "Spearfish",
     "school_class": "AA",
     "region": null
+  },
+  {
+    "School": "St. Francis Indian",
+    "school_class": "A",
+    "region": "5A"
+  },
+  {
+    "School": "St. Mary's",
+    "school_class": "B",
+    "region": "2B"
   },
   {
     "School": "St. Thomas More",
@@ -460,7 +640,7 @@
     "region": "4B"
   },
   {
-    "School": "Sunshine Bible A",
+    "School": "Sunshine Bible Academy",
     "school_class": "B",
     "region": "4B"
   },
@@ -475,9 +655,34 @@
     "region": "4B"
   },
   {
+    "School": "Tiospa Zina",
+    "school_class": "A",
+    "region": "1A"
+  },
+  {
+    "School": "Tiospaye Topa",
+    "school_class": "B",
+    "region": "5B"
+  },
+  {
+    "School": "Todd County",
+    "school_class": "A",
+    "region": "4A"
+  },
+  {
     "School": "Tri-State",
     "school_class": "A",
     "region": "1A"
+  },
+  {
+    "School": "Tri-Valley",
+    "school_class": "A",
+    "region": "2A"
+  },
+  {
+    "School": "Tripp-Delmont/Armour",
+    "school_class": "B",
+    "region": "3B"
   },
   {
     "School": "Vermillion",
@@ -488,6 +693,11 @@
     "School": "Viborg-Hurley",
     "school_class": "B",
     "region": "2B"
+  },
+  {
+    "School": "Wagner",
+    "school_class": "A",
+    "region": "3A"
   },
   {
     "School": "Wakpala",
@@ -515,6 +725,11 @@
     "region": "1A"
   },
   {
+    "School": "Webster Area",
+    "school_class": "A",
+    "region": "1A"
+  },
+  {
     "School": "Wessington Springs",
     "school_class": "B",
     "region": "4B"
@@ -530,7 +745,7 @@
     "region": "5B"
   },
   {
-    "School": "Winner",
+    "School": "Winner/Colome",
     "school_class": "A",
     "region": "4A"
   },
@@ -543,225 +758,5 @@
     "School": "Yankton",
     "school_class": "AA",
     "region": null
-  },
-  {
-    "School": "Andes Cen/Dak Ch",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Black Hills Chri",
-    "school_class": "B",
-    "region": "5B"
-  },
-  {
-    "School": "Bon Homme",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Burke",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Canton",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Dell Rapids",
-    "school_class": "A",
-    "region": "2A"
-  },
-  {
-    "School": "Groton Area",
-    "school_class": "A",
-    "region": "1A"
-  },
-  {
-    "School": "Hanson",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Harding County",
-    "school_class": "B",
-    "region": "5B"
-  },
-  {
-    "School": "Hot Springs",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Jones County",
-    "school_class": "B",
-    "region": "5B"
-  },
-  {
-    "School": "Lead-Deadwood",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Menno",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Scotland",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Todd County",
-    "school_class": "A",
-    "region": "4A"
-  },
-  {
-    "School": "Tripp-Delmont/Ar",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Webster Area",
-    "school_class": "A",
-    "region": "1A"
-  },
-  {
-    "School": "Alcester-Hudson",
-    "school_class": "B",
-    "region": "2B"
-  },
-  {
-    "School": "Elk Point-Jefferson",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "McCook-Central",
-    "school_class": "A",
-    "region": "2A"
-  },
-  {
-    "School": "Parker",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Wagner",
-    "school_class": "A",
-    "region": "3A"
-  },
-  {
-    "School": "Iroquois/Lak",
-    "school_class": "B",
-    "region": "2B"
-  },
-  {
-    "School": "Tri-Valley",
-    "school_class": "A",
-    "region": "2A"
-  },
-  {
-    "School": "CEB",
-    "school_class": "A",
-    "region": "4A"
-  },
-  {
-    "School": "Garretson",
-    "school_class": "A",
-    "region": "2A"
-  },
-  {
-    "School": "Kadoka",
-    "school_class": "B",
-    "region": "5B"
-  },
-  {
-    "School": "Colman-Egan",
-    "school_class": "B",
-    "region": "2B"
-  },
-  {
-    "School": "Elkton-Lake Benton",
-    "school_class": "A",
-    "region": "2A"
-  },
-  {
-    "School": "Oldham-Ramona-Rutland",
-    "school_class": "B",
-    "region": "2B"
-  },
-  {
-    "School": "McIntosh",
-    "school_class": "B",
-    "region": "4B"
-  },
-  {
-    "School": "Tiospaye Topa",
-    "school_class": "B",
-    "region": "5B"
-  },
-  {
-    "School": "St. Francis Indian",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Bennett County",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Little Wound",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Marty",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Lakota Tech",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Pine Ridge",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Langford Area",
-    "school_class": "B",
-    "region": "1B"
-  },
-  {
-    "School": "Tiospa Zina",
-    "school_class": "A",
-    "region": "1A"
-  },
-  {
-    "School": "Aberdeen Christian",
-    "school_class": "B",
-    "region": "1B"
-  },
-  {
-    "School": "Bridgewater-Emery",
-    "school_class": "B",
-    "region": "3B"
-  },
-  {
-    "School": "Mahpiya Luta",
-    "school_class": "A",
-    "region": "5A"
-  },
-  {
-    "School": "Britton-Hecla",
-    "school_class": "B",
-    "region": "1B"
   }
 ]
