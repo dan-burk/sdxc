@@ -1,4 +1,4 @@
-import type { Gender, Manifest, RaceResult, Runner, School, StateFinisher } from './types'
+import type { Gender, Manifest, RaceResult, Runner, School, StateFinisher, StateTeam } from './types'
 
 // Dev reads the local data/ folder so unpushed exports can be previewed;
 // the deployed site reads master live, so data pushes need no redeploy.
@@ -28,6 +28,8 @@ export const getRankings = (gender: Gender, year: number, week: number) =>
 // The state meet week uses the same file name but a different shape
 export const getStateResults = (gender: Gender, year: number, week: number) =>
   fetchJson<StateFinisher[]>(`${gender}_${year}_week${week}.json`)
+export const getStateTeams = (gender: Gender, year: number) =>
+  fetchJson<StateTeam[]>(`state_teams_${gender}_${year}.json`)
 // Every ranked runner's races for the season (2026 on)
 export const getResults = (gender: Gender, year: number) =>
   fetchJson<RaceResult[]>(`results_${gender}_${year}.json`)

@@ -7,8 +7,7 @@ export interface Runner {
   id: number // stable across weeks within a season
   Name: string
   School: string
-  adj_time?: number // course-adjusted time in seconds (2025 on); lower is better
-  points?: number // 2023 files only, from the old points-based method
+  adj_time: number // course-adjusted time in seconds; lower is better
   time_min: number | null // 5K PR in seconds despite the name; null = no 5K time yet
   rnk_blnd: number // overall rank, unique per file
   school_class: SchoolClass
@@ -29,6 +28,7 @@ export interface StateFinisher {
   race: SchoolClass
   place: number
   predicted: number | null // place predicted by the prior week's rankings; null = no race before state
+  predicted_pr: number | null // place predicted by PRs going in; null = no 5K PR
   state_time: number // seconds
   rnk_blnd: number | null // ranking going into state
   adj_time: number | null
@@ -47,6 +47,18 @@ export interface RaceResult {
   time: number | null // seconds
   adj_time?: number | null // seconds, course-adjusted; null for unmeasured meets, DQ/DNF and state races
   grade: number | null
+}
+
+// Shape of data/state_teams_{gender}_{year}.json: one row per team per state race
+export interface StateTeam {
+  race: SchoolClass
+  School: string
+  place: number
+  predicted: number // from the rankings going in (adjusted time + head-to-head)
+  predicted_pr: number // from each runner's PR going in
+  score: number
+  scorers: number[] // team places, numbered among scoring-team runners only
+  displacers: number[] // may be empty
 }
 
 export interface Manifest {

@@ -37,6 +37,11 @@ function Shell({ manifest }: { manifest: Manifest }) {
   }
   const stateWeek = manifest.state?.[year]
   const isState = week === stateWeek
+  // State meets up to this year, for the prediction error history
+  const stateMeets = Object.entries(manifest.state ?? {})
+    .map(([y, w]) => ({ year: Number(y), week: w }))
+    .filter(m => m.year <= year)
+    .sort((a, b) => a.year - b.year)
 
   return (
     <div className="min-h-screen">
@@ -53,7 +58,7 @@ function Shell({ manifest }: { manifest: Manifest }) {
       </header>
       <main className="mx-auto max-w-6xl px-4 py-6 sm:px-6 sm:py-8">
         {tab === 'rankings' && (isState
-          ? <StateResults gender={gender} year={year} week={week} cls={cls} />
+          ? <StateResults gender={gender} year={year} week={week} cls={cls} stateMeets={stateMeets} />
           : <RankingsTable gender={gender} year={year} week={week} cls={cls} />)}
         {/* The state week has no ranking, so the simulator uses the week before it */}
         {tab === 'race' && <RaceSim gender={gender} year={year} week={isState ? week - 1 : week} selected={schools} onSelected={setSchools} />}

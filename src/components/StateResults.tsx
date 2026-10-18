@@ -4,9 +4,11 @@ import { formatTime, titleCase } from '../format'
 import { useAsync } from '../hooks'
 import type { Gender } from '../types'
 import type { ClassFilter } from './FilterBar'
+import { PredictionError, StateTeams, type StateMeet } from './StateTeams'
 import { ClassBadge, Delta, ErrorCard } from './ui'
 
 const RACE_ORDER = { AA: 0, A: 1, B: 2 }
+const TOP = 25 // finishers shown per race until "Show all"
 const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
 const COLUMNS: { label: string; short?: string; className?: string }[] = [
   { label: 'Place', className: 'w-14 sm:w-20' },
@@ -23,10 +25,12 @@ interface Props {
   year: number
   week: number
   cls: ClassFilter
+  stateMeets: StateMeet[]
 }
 
-export function StateResults({ gender, year, week, cls }: Props) {
+export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
   const [search, setSearch] = useState('')
+  const [showAll, setShowAll] = useState(false)
   const { data, loading, error, retry } = useAsync(() => getStateResults(gender, year, week), [gender, year, week])
 
   const rows = useMemo(() => {
@@ -38,22 +42,15 @@ export function StateResults({ gender, year, week, cls }: Props) {
       .sort((a, b) => RACE_ORDER[a.race] - RACE_ORDER[b.race] || a.place - b.place)
   }, [data, search, cls])
 
-  // Mean |predicted - place| over the runners shown that had a prediction
-  const errors = rows.flatMap(r => (r.predicted === null ? [] : [Math.abs(r.predicted - r.place)]))
-  const avgError = errors.length ? errors.reduce((s, e) => s + e, 0) / errors.length : null
+  // A search shows every match; otherwise the top 25 in each race
+  const shown = showAll || search.trim() ? rows : rows.filter(r => r.place <= TOP)
 
   return (
     <section className="space-y-4">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
-        <div>
-          <h1 className="font-display text-3xl font-semibold sm:text-4xl">
-            {gender === 'boys' ? 'Boys' : 'Girls'} · {year} · State Meet
-          </h1>
-          <p className="text-sm text-muted">
-            {data ? `${rows.length.toLocaleString()} finishers` : ' '}
-            {avgError !== null && ` · avg error ${avgError.toFixed(1)} places`}
-          </p>
-        </div>
+        <h1 className="font-display text-3xl font-semibold sm:text-4xl">
+          {gender === 'boys' ? 'Boys' : 'Girls'} · {year} · State Meet
+        </h1>
         <label className="relative sm:w-72">
           <svg className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}>
             <circle cx="11" cy="11" r="7" /><path d="m20 20-4-4" />
@@ -67,6 +64,14 @@ export function StateResults({ gender, year, week, cls }: Props) {
           />
         </label>
       </div>
+
+      <h2 className="font-display text-xl font-semibold">Teams</h2>
+      <div className="grid items-start gap-4 lg:grid-cols-[1.1fr_1fr]">
+        <StateTeams gender={gender} year={year} cls={cls} search={search} />
+        <PredictionError gender={gender} year={year} cls={cls} stateMeets={stateMeets} />
+      </div>
+
+      <h2 className="font-display text-xl font-semibold">Individuals</h2>
 
       {error && <ErrorCard message={`Couldn't load the ${year} ${gender} state meet results.`} onRetry={retry} />}
 
@@ -98,7 +103,7 @@ export function StateResults({ gender, year, week, cls }: Props) {
                 </td>
               </tr>
             )}
-            {!loading && rows.map(r => {
+            {!loading && shown.map(r => {
               const diff = r.predicted === null ? null : r.predicted - r.place
               return (
                 <tr key={`${r.race}-${r.place}`} className="transition-colors hover:bg-surface-2/60">
@@ -134,6 +139,11 @@ export function StateResults({ gender, year, week, cls }: Props) {
             })}
           </tbody>
         </table>
+        {!loading && !search.trim() && (showAll || rows.length > shown.length) ? (
+          <button onClick={() => setShowAll(s => !s)} className="w-full border-t border-border py-2.5 text-sm font-semibold text-accent hover:bg-surface-2/60">
+            {showAll ? `Show top ${TOP}` : `Show all ${rows.length.toLocaleString()}${cls === 'All' ? '' : ` Class ${cls}`} finishers`}
+          </button>
+        ) : null}
       </div>
     </section>
   )
