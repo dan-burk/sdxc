@@ -2,13 +2,15 @@ import { useMemo, useState } from 'react'
 import { getStateResults } from '../data'
 import { formatTime, titleCase } from '../format'
 import { useAsync } from '../hooks'
-import type { Gender } from '../types'
+import type { Gender, StateFinisher } from '../types'
 import type { ClassFilter } from './FilterBar'
 import { PredictionError, StateTeams, type StateMeet } from './StateTeams'
 import { ClassBadge, Delta, ErrorCard } from './ui'
 
 const RACE_ORDER = { AA: 0, A: 1, B: 2 }
 const TOP = 25 // finishers shown per race until "Show all"
+// Actual place once results are in, predicted place before
+const order = (r: StateFinisher) => r.place ?? r.predicted ?? Infinity
 const MEDAL = ['bg-gold', 'bg-silver', 'bg-bronze']
 const COLUMNS: { label: string; short?: string; className?: string }[] = [
   { label: 'Place', className: 'w-14 sm:w-20' },
@@ -39,17 +41,20 @@ export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
       .filter(r =>
         (cls === 'All' || r.race === cls) &&
         (!q || r.Name.toLowerCase().includes(q) || r.School.toLowerCase().includes(q)))
-      .sort((a, b) => RACE_ORDER[a.race] - RACE_ORDER[b.race] || a.place - b.place)
+      .sort((a, b) => RACE_ORDER[a.race] - RACE_ORDER[b.race] || order(a) - order(b))
   }, [data, search, cls])
 
   // A search shows every match; otherwise the top 25 in each race
-  const shown = showAll || search.trim() ? rows : rows.filter(r => r.place <= TOP)
+  const shown = showAll || search.trim() ? rows : rows.filter(r => order(r) <= TOP)
+  // Before the meet every place is null and the page shows predictions only
+  const preMeet = !!data?.length && data.every(r => r.place === null)
 
   return (
     <section className="space-y-4">
       <div className="flex flex-col gap-3 sm:flex-row sm:items-end sm:justify-between">
         <h1 className="font-display text-3xl font-semibold sm:text-4xl">
           {gender === 'boys' ? 'Boys' : 'Girls'} · {year} · State Meet
+          {preMeet && <span className="ml-3 rounded-full bg-accent/10 px-2.5 py-1 align-middle font-sans text-xs font-semibold uppercase tracking-[0.08em] text-accent">Predicted</span>}
         </h1>
         <label className="relative sm:w-72">
           <svg className="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth={2}>
@@ -104,23 +109,23 @@ export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
               </tr>
             )}
             {!loading && shown.map(r => {
-              const diff = r.predicted === null ? null : r.predicted - r.place
+              const diff = r.predicted === null || r.place === null ? null : r.predicted - r.place
               return (
-                <tr key={`${r.race}-${r.place}`} className="transition-colors hover:bg-surface-2/60">
+                <tr key={r.id} className="transition-colors hover:bg-surface-2/60">
                   <td className="px-2 py-2.5 sm:px-4">
                     <div className="flex items-center gap-2">
-                      <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[r.place - 1] ?? ''}`} />
-                      <span className="w-7 text-right font-display text-lg font-semibold tabular-nums">{r.place}</span>
+                      <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${r.place ? MEDAL[r.place - 1] ?? '' : ''}`} />
+                      <span className="w-7 text-right font-display text-lg font-semibold tabular-nums">{r.place ?? <span className="text-muted">—</span>}</span>
                     </div>
                   </td>
                   <td className="px-2 py-2.5 sm:px-4">
-                    {diff === null ? <span className="text-muted">—</span> : (
+                    {r.predicted === null ? <span className="text-muted">—</span> : (
                       <div className="flex items-center gap-2">
-                        <span className="w-7 text-right tabular-nums text-muted">{r.predicted}</span>
-                        <Delta
+                        <span className={`w-7 text-right tabular-nums ${r.place === null ? 'font-semibold' : 'text-muted'}`}>{r.predicted}</span>
+                        {diff !== null && <Delta
                           value={diff}
                           title={diff === 0 ? 'Finished exactly as predicted' : diff > 0 ? `Beat the prediction by ${diff}` : `${-diff} behind the prediction`}
-                        />
+                        />}
                       </div>
                     )}
                   </td>
@@ -141,7 +146,7 @@ export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
         </table>
         {!loading && !search.trim() && (showAll || rows.length > shown.length) ? (
           <button onClick={() => setShowAll(s => !s)} className="w-full border-t border-border py-2.5 text-sm font-semibold text-accent hover:bg-surface-2/60">
-            {showAll ? `Show top ${TOP}` : `Show all ${rows.length.toLocaleString()}${cls === 'All' ? '' : ` Class ${cls}`} finishers`}
+            {showAll ? `Show top ${TOP}` : `Show all ${rows.length.toLocaleString()}${cls === 'All' ? '' : ` Class ${cls}`} ${preMeet ? 'runners' : 'finishers'}`}
           </button>
         ) : null}
       </div>

@@ -6,7 +6,8 @@
     "adj_time": 1032.13,
     "time_min": 991.78,
     "rnk_blnd": 1,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "ELLIE MADDOX",
@@ -15,7 +16,8 @@
     "adj_time": 1060.38,
     "time_min": 993.95,
     "rnk_blnd": 2,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "HANNAH GENRICH",
@@ -24,7 +26,8 @@
     "adj_time": 1079.78,
     "time_min": 1004.72,
     "rnk_blnd": 3,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "FAITH WIESE",
@@ -33,7 +36,8 @@
     "adj_time": 1092.49,
     "time_min": 1028.39,
     "rnk_blnd": 4,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "PEYTON VANDEEST",
@@ -42,7 +46,8 @@
     "adj_time": 1099.61,
     "time_min": 1059.33,
     "rnk_blnd": 5,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "SADIE PETTENGILL",
@@ -51,7 +56,8 @@
     "adj_time": 1107.56,
     "time_min": 1038.59,
     "rnk_blnd": 6,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "JERICA GLASSER",
@@ -60,7 +66,8 @@
     "adj_time": 1122.17,
     "time_min": 1072.89,
     "rnk_blnd": 7,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "KADANCE HOLSO",
@@ -69,7 +76,8 @@
     "adj_time": 1123.03,
     "time_min": 1129.4,
     "rnk_blnd": 8,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "JAYCIE BABB",
@@ -78,7 +86,8 @@
     "adj_time": 1137.94,
     "time_min": 1091.53,
     "rnk_blnd": 9,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ALEX MCCULLOUGH",
@@ -87,7 +96,8 @@
     "adj_time": 1149.37,
     "time_min": 1053.79,
     "rnk_blnd": 10,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KORI KEIL",
@@ -96,7 +106,8 @@
     "adj_time": 1150.63,
     "time_min": 1127.7,
     "rnk_blnd": 11,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "GRACE PHILLIPS",
@@ -105,7 +116,8 @@
     "adj_time": 1151.16,
     "time_min": 1093.07,
     "rnk_blnd": 12,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "MIA KADI",
@@ -114,7 +126,8 @@
     "adj_time": 1152.47,
     "time_min": 1087.43,
     "rnk_blnd": 13,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "ELLA BOEKELHEIDE",
@@ -123,7 +136,8 @@
     "adj_time": 1155,
     "time_min": 1116.89,
     "rnk_blnd": 14,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "EVELYN HURLEY",
@@ -132,7 +146,8 @@
     "adj_time": 1159.25,
     "time_min": 1156.47,
     "rnk_blnd": 15,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "ELOISE SCHARNBERG",
@@ -141,7 +156,8 @@
     "adj_time": 1162.1,
     "time_min": 1119.44,
     "rnk_blnd": 16,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "NATALIE SMITH",
@@ -150,7 +166,8 @@
     "adj_time": 1162.56,
     "time_min": 1094.63,
     "rnk_blnd": 17,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "EMERY LARSON",
@@ -159,7 +176,8 @@
     "adj_time": 1169.33,
     "time_min": 1107.24,
     "rnk_blnd": 18,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "BRINNA SHELDON",
@@ -168,7 +186,8 @@
     "adj_time": 1170.85,
     "time_min": 1159.86,
     "rnk_blnd": 19,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "RORIE THORESON",
@@ -177,7 +196,8 @@
     "adj_time": 1172.61,
     "time_min": 1141.78,
     "rnk_blnd": 20,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "EMILY CURRAN",
@@ -186,7 +206,8 @@
     "adj_time": 1173.38,
     "time_min": 1109.74,
     "rnk_blnd": 21,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "BROOKLYN SUNDERMANN",
@@ -195,7 +216,8 @@
     "adj_time": 1176.06,
     "time_min": 1113.96,
     "rnk_blnd": 22,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "AUTUMN GILHOOLY",
@@ -204,7 +226,8 @@
     "adj_time": 1178.2,
     "time_min": 1095.71,
     "rnk_blnd": 23,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "BAILEY VANDERGRIEND",
@@ -213,7 +236,8 @@
     "adj_time": 1178.8,
     "time_min": 1119.8,
     "rnk_blnd": 24,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "CALLIE RADIGAN",
@@ -222,7 +246,8 @@
     "adj_time": 1184.58,
     "time_min": 1114.89,
     "rnk_blnd": 25,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ADIE MCVEY",
@@ -231,7 +256,8 @@
     "adj_time": 1184.64,
     "time_min": 1102.3,
     "rnk_blnd": 26,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "BELLA DITTMER",
@@ -240,7 +266,8 @@
     "adj_time": 1186.02,
     "time_min": 1127.12,
     "rnk_blnd": 27,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "PEYTON BEATCH",
@@ -249,7 +276,8 @@
     "adj_time": 1186.13,
     "time_min": 1129.55,
     "rnk_blnd": 28,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "MAXINE ORDWAY",
@@ -258,7 +286,8 @@
     "adj_time": 1190.26,
     "time_min": 1123.01,
     "rnk_blnd": 29,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "MARISSA BOUWMAN",
@@ -267,7 +296,8 @@
     "adj_time": 1196.84,
     "time_min": 1130.89,
     "rnk_blnd": 30,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "NORA OLSEN",
@@ -276,7 +306,8 @@
     "adj_time": 1197.88,
     "time_min": 1178.48,
     "rnk_blnd": 31,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ADDISON SCHOLTEN",
@@ -285,7 +316,8 @@
     "adj_time": 1207.74,
     "time_min": 1107.78,
     "rnk_blnd": 32,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ALLIE NOVSTRUP",
@@ -294,7 +326,8 @@
     "adj_time": 1199.85,
     "time_min": 1122.71,
     "rnk_blnd": 33,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "EMMELINE MURRAY",
@@ -303,7 +336,8 @@
     "adj_time": 1203.26,
     "time_min": 1142.78,
     "rnk_blnd": 34,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "GRACE MCELROY",
@@ -312,7 +346,8 @@
     "adj_time": 1206.77,
     "time_min": 1145.74,
     "rnk_blnd": 35,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ALICE GUNDVALDSON",
@@ -321,7 +356,8 @@
     "adj_time": 1206.8,
     "time_min": 1153.14,
     "rnk_blnd": 36,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KAMRYN NESHEIM",
@@ -330,7 +366,8 @@
     "adj_time": 1209.51,
     "time_min": 1163.09,
     "rnk_blnd": 37,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "LILA KNUTSON",
@@ -339,7 +376,8 @@
     "adj_time": 1210.69,
     "time_min": 1222.6,
     "rnk_blnd": 38,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "KIRA UBENCE",
@@ -348,7 +386,8 @@
     "adj_time": 1211.84,
     "time_min": 1126.32,
     "rnk_blnd": 39,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "SARAH JOHNSON",
@@ -357,7 +396,8 @@
     "adj_time": 1212.91,
     "time_min": 1146.81,
     "rnk_blnd": 40,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "GWEN RICHTER",
@@ -366,7 +406,8 @@
     "adj_time": 1213.14,
     "time_min": 1131.18,
     "rnk_blnd": 41,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "LILIAN RUDE",
@@ -375,7 +416,8 @@
     "adj_time": 1213.95,
     "time_min": 1145.84,
     "rnk_blnd": 42,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ISABELLA GALBRAITH",
@@ -384,7 +426,8 @@
     "adj_time": 1216.56,
     "time_min": 1146,
     "rnk_blnd": 43,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "BRIELLE JENKINS",
@@ -393,7 +436,8 @@
     "adj_time": 1216.68,
     "time_min": 1149.62,
     "rnk_blnd": 44,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KALYNN OBAN",
@@ -402,7 +446,8 @@
     "adj_time": 1217.93,
     "time_min": 1152,
     "rnk_blnd": 45,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "JAYLA STILES",
@@ -411,7 +456,8 @@
     "adj_time": 1221.36,
     "time_min": 1161,
     "rnk_blnd": 46,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "BRYN BARKER",
@@ -420,7 +466,8 @@
     "adj_time": 1222.29,
     "time_min": 1126.52,
     "rnk_blnd": 47,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "NORA YOUMANS",
@@ -429,7 +476,8 @@
     "adj_time": 1224.29,
     "time_min": 1151.21,
     "rnk_blnd": 48,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "MADISYN GELLHAUS",
@@ -438,7 +486,8 @@
     "adj_time": 1225.75,
     "time_min": 1168.4,
     "rnk_blnd": 49,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "SIERRA SANDFORD",
@@ -447,7 +496,8 @@
     "adj_time": 1226.54,
     "time_min": 1181.53,
     "rnk_blnd": 50,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "JAYNA VANLAECKEN",
@@ -456,7 +506,8 @@
     "adj_time": 1226.91,
     "time_min": 1146.17,
     "rnk_blnd": 51,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ADDISON CASSADY",
@@ -465,7 +516,8 @@
     "adj_time": 1228.74,
     "time_min": 1169.46,
     "rnk_blnd": 52,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KAILEY WINTER",
@@ -474,7 +526,8 @@
     "adj_time": 1229.29,
     "time_min": 1153.59,
     "rnk_blnd": 53,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "KATE MCELROY",
@@ -483,7 +536,8 @@
     "adj_time": 1230.29,
     "time_min": 1166.36,
     "rnk_blnd": 54,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "GRACE BIALAS",
@@ -492,7 +546,8 @@
     "adj_time": 1231.2,
     "time_min": 1153.17,
     "rnk_blnd": 55,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KAYLIE KUEHL",
@@ -501,7 +556,8 @@
     "adj_time": 1232.83,
     "time_min": 1153.32,
     "rnk_blnd": 56,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "VIONA SIETSEMA",
@@ -510,7 +566,8 @@
     "adj_time": 1234.34,
     "time_min": 1243.06,
     "rnk_blnd": 57,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "MCKINLEY GLANVILLE",
@@ -519,7 +576,8 @@
     "adj_time": 1235.51,
     "time_min": 1252.31,
     "rnk_blnd": 58,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "TAYLOR HARRELSON",
@@ -528,7 +586,8 @@
     "adj_time": 1235.6,
     "time_min": 1172.19,
     "rnk_blnd": 59,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "EMMERSON EPPARD",
@@ -537,7 +596,8 @@
     "adj_time": 1236.81,
     "time_min": 1207.55,
     "rnk_blnd": 60,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "AVERY WUESTEWALD",
@@ -546,7 +606,8 @@
     "adj_time": 1236.89,
     "time_min": 1176.87,
     "rnk_blnd": 61,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "EMMA TIDEMANN",
@@ -555,7 +616,8 @@
     "adj_time": 1237.21,
     "time_min": 1111.43,
     "rnk_blnd": 62,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ADELINE THOMPSON",
@@ -564,7 +626,8 @@
     "adj_time": 1237.88,
     "time_min": 1179.77,
     "rnk_blnd": 63,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "HAILEY MOLLNER",
@@ -573,7 +636,8 @@
     "adj_time": 1237.9,
     "time_min": 1181.35,
     "rnk_blnd": 64,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "HADLEY TEMPLE",
@@ -582,7 +646,8 @@
     "adj_time": 1238.01,
     "time_min": 1213.05,
     "rnk_blnd": 65,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "JENNAY GISI",
@@ -591,7 +656,8 @@
     "adj_time": 1245.71,
     "time_min": 1177.3,
     "rnk_blnd": 66,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "CALLA WIESE",
@@ -600,7 +666,8 @@
     "adj_time": 1240.88,
     "time_min": 1151.09,
     "rnk_blnd": 67,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "TARA BLACHFORD",
@@ -609,7 +676,8 @@
     "adj_time": 1239.39,
     "time_min": 1162.7,
     "rnk_blnd": 68,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "GRACEN GIEGLING",
@@ -618,7 +686,8 @@
     "adj_time": 1241.51,
     "time_min": 1180.28,
     "rnk_blnd": 69,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "WHITLI ADAMS",
@@ -627,7 +696,8 @@
     "adj_time": 1242.5,
     "time_min": 1225.96,
     "rnk_blnd": 70,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "LONDYN SCHROEDER",
@@ -636,7 +706,8 @@
     "adj_time": 1242.5,
     "time_min": 1142.75,
     "rnk_blnd": 71,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "LIA TIANGCO",
@@ -645,7 +716,8 @@
     "adj_time": 1242.57,
     "time_min": 1163.72,
     "rnk_blnd": 72,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ELIA PETERSON",
@@ -654,7 +726,8 @@
     "adj_time": 1242.92,
     "time_min": 1214,
     "rnk_blnd": 73,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "PAIGE SCHWEITZER",
@@ -663,7 +736,8 @@
     "adj_time": 1243.39,
     "time_min": 1240.9,
     "rnk_blnd": 74,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ANNA SPANOS",
@@ -672,7 +746,8 @@
     "adj_time": 1244.09,
     "time_min": 1179.07,
     "rnk_blnd": 75,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "SARAH GILHOOLY",
@@ -681,7 +756,8 @@
     "adj_time": 1243.74,
     "time_min": 1159.75,
     "rnk_blnd": 76,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "HANLEE SEYKORA",
@@ -690,7 +766,8 @@
     "adj_time": 1244.14,
     "time_min": 1166.74,
     "rnk_blnd": 77,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "FINLEY EVJEN",
@@ -699,7 +776,8 @@
     "adj_time": 1244.39,
     "time_min": 1139.69,
     "rnk_blnd": 78,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "IZZY FISCHER",
@@ -708,7 +786,8 @@
     "adj_time": 1244.73,
     "time_min": 1207.52,
     "rnk_blnd": 79,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "ALLI MCCORD",
@@ -717,7 +796,8 @@
     "adj_time": 1241.37,
     "time_min": 1181,
     "rnk_blnd": 80,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "CLARA PEDERSON",
@@ -726,7 +806,8 @@
     "adj_time": 1245.21,
     "time_min": 1181.8,
     "rnk_blnd": 81,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ELEANOR ANDERSON",
@@ -735,7 +816,8 @@
     "adj_time": 1246.08,
     "time_min": 1190.78,
     "rnk_blnd": 82,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CHARLEE WILLIAMS-SMITH",
@@ -744,7 +826,8 @@
     "adj_time": 1246.18,
     "time_min": 1185,
     "rnk_blnd": 83,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "LAURYN DONOVAN",
@@ -753,7 +836,8 @@
     "adj_time": 1247.56,
     "time_min": 1212.42,
     "rnk_blnd": 84,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "LUCY HAMER",
@@ -762,7 +846,8 @@
     "adj_time": 1258.41,
     "time_min": 1215.37,
     "rnk_blnd": 85,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ABIGAIL ENGELLAND",
@@ -771,7 +856,8 @@
     "adj_time": 1254.79,
     "time_min": 1183.31,
     "rnk_blnd": 86,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "ADALYNN FISCHER",
@@ -780,7 +866,8 @@
     "adj_time": 1250.21,
     "time_min": 1217.7,
     "rnk_blnd": 87,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "KYLEE JOHNSON",
@@ -789,7 +876,8 @@
     "adj_time": 1255.19,
     "time_min": 1214,
     "rnk_blnd": 88,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "RILYN JACKSON",
@@ -798,7 +886,8 @@
     "adj_time": 1255.09,
     "time_min": 1186.69,
     "rnk_blnd": 89,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ABBY JOHANNESON",
@@ -807,7 +896,8 @@
     "adj_time": 1255.56,
     "time_min": 1182.73,
     "rnk_blnd": 90,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "LILY WAGNER",
@@ -816,7 +906,8 @@
     "adj_time": 1255.88,
     "time_min": 1197.24,
     "rnk_blnd": 91,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "AMARA USERA",
@@ -825,7 +916,8 @@
     "adj_time": 1258.33,
     "time_min": 1216.66,
     "rnk_blnd": 92,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AUBREY COOLEY",
@@ -834,7 +926,8 @@
     "adj_time": 1263.07,
     "time_min": 1192.44,
     "rnk_blnd": 93,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "RHYS PEARSON",
@@ -843,7 +936,8 @@
     "adj_time": 1259.4,
     "time_min": 1172.91,
     "rnk_blnd": 94,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ANDEE FRANDSEN",
@@ -852,7 +946,8 @@
     "adj_time": 1260.04,
     "time_min": 1190.22,
     "rnk_blnd": 95,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "AUTUMN BAKER",
@@ -861,7 +956,8 @@
     "adj_time": 1260.81,
     "time_min": 1140.93,
     "rnk_blnd": 96,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "RYLIE ROTHENBERGER",
@@ -870,7 +966,8 @@
     "adj_time": 1257.03,
     "time_min": 1218.6,
     "rnk_blnd": 97,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "HAZEL HILLMAN",
@@ -879,7 +976,8 @@
     "adj_time": 1263.64,
     "time_min": 1267.2,
     "rnk_blnd": 98,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "LILY BAKER",
@@ -888,7 +986,8 @@
     "adj_time": 1265.49,
     "time_min": 1183.94,
     "rnk_blnd": 99,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "ANGELA FRICK",
@@ -897,7 +996,8 @@
     "adj_time": 1266.02,
     "time_min": 1311.59,
     "rnk_blnd": 100,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "LARISSA RENEMANS",
@@ -906,7 +1006,8 @@
     "adj_time": 1270.14,
     "time_min": 1210.8,
     "rnk_blnd": 101,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "DELANEY YOUMANS",
@@ -915,7 +1016,8 @@
     "adj_time": 1272.68,
     "time_min": 1203,
     "rnk_blnd": 102,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "SURI SCHMIDT",
@@ -924,7 +1026,8 @@
     "adj_time": 1275.73,
     "time_min": 1189,
     "rnk_blnd": 103,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "AMIA WARD",
@@ -933,7 +1036,8 @@
     "adj_time": 1273.07,
     "time_min": 1183.38,
     "rnk_blnd": 104,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "DEVYN VAN ROEKEL",
@@ -942,7 +1046,8 @@
     "adj_time": 1273.96,
     "time_min": 1196.34,
     "rnk_blnd": 105,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "RUBY BOUWMAN",
@@ -951,7 +1056,8 @@
     "adj_time": 1274.57,
     "time_min": 1190.78,
     "rnk_blnd": 106,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "AUTUMN FALLIS",
@@ -960,7 +1066,8 @@
     "adj_time": 1274.68,
     "time_min": 1180.3,
     "rnk_blnd": 107,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ELLA MERRIMAN",
@@ -969,7 +1076,8 @@
     "adj_time": 1272.76,
     "time_min": 1206,
     "rnk_blnd": 108,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "OLIVIA ANDERSON",
@@ -978,7 +1086,8 @@
     "adj_time": 1275.97,
     "time_min": 1195.2,
     "rnk_blnd": 109,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "TYLEE TETRAULT",
@@ -987,7 +1096,8 @@
     "adj_time": 1276.14,
     "time_min": 1255.18,
     "rnk_blnd": 110,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "MAISIE MOGARD",
@@ -996,7 +1106,8 @@
     "adj_time": 1276.75,
     "time_min": 1198.52,
     "rnk_blnd": 111,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KATELYN WIRTH",
@@ -1005,7 +1116,8 @@
     "adj_time": 1276.91,
     "time_min": 1236.4,
     "rnk_blnd": 112,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KENDAL UTTECHT",
@@ -1014,7 +1126,8 @@
     "adj_time": 1277.41,
     "time_min": 1153.3,
     "rnk_blnd": 113,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "HANNAH DAVELAAR",
@@ -1023,7 +1136,8 @@
     "adj_time": 1278.45,
     "time_min": 1204.57,
     "rnk_blnd": 114,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "NINA GABRIEL",
@@ -1032,7 +1146,8 @@
     "adj_time": 1280.1,
     "time_min": 1202.22,
     "rnk_blnd": 115,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "MACI LICHT",
@@ -1041,7 +1156,8 @@
     "adj_time": 1287.63,
     "time_min": 1185.91,
     "rnk_blnd": 116,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ELAINA ROUNDS",
@@ -1050,7 +1166,8 @@
     "adj_time": 1280.84,
     "time_min": 1212.02,
     "rnk_blnd": 117,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "EMRIE VONEYE",
@@ -1059,7 +1176,8 @@
     "adj_time": 1282.25,
     "time_min": 1164.53,
     "rnk_blnd": 118,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "SADIE WUEBBEN",
@@ -1068,7 +1186,8 @@
     "adj_time": 1280.83,
     "time_min": 1213.75,
     "rnk_blnd": 119,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "RYELLE GILBERT",
@@ -1077,7 +1196,8 @@
     "adj_time": 1282.4,
     "time_min": 1170.29,
     "rnk_blnd": 120,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "EVELYN DEGEEST",
@@ -1086,7 +1206,8 @@
     "adj_time": 1283.62,
     "time_min": 1216.42,
     "rnk_blnd": 121,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "REAGAN OSTRANSKY",
@@ -1095,7 +1216,8 @@
     "adj_time": 1284.03,
     "time_min": 1210.63,
     "rnk_blnd": 122,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "LIA MUNDT",
@@ -1104,7 +1226,8 @@
     "adj_time": 1283.59,
     "time_min": 1173.26,
     "rnk_blnd": 123,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ELISE JOHNSON",
@@ -1113,7 +1236,8 @@
     "adj_time": 1285.72,
     "time_min": 1264,
     "rnk_blnd": 124,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "CLAIRE GUTHMILLER",
@@ -1122,7 +1246,8 @@
     "adj_time": 1284.88,
     "time_min": 1222.22,
     "rnk_blnd": 125,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "BRENNA HALVORSON",
@@ -1131,7 +1256,8 @@
     "adj_time": 1287.96,
     "time_min": 1217.8,
     "rnk_blnd": 126,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KAELYN ULSCHMID",
@@ -1140,7 +1266,8 @@
     "adj_time": 1289.13,
     "time_min": 1231.09,
     "rnk_blnd": 127,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "AVA SCHINDLER",
@@ -1149,7 +1276,8 @@
     "adj_time": 1289.32,
     "time_min": 1244.75,
     "rnk_blnd": 128,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "TALYA VINCENT",
@@ -1158,7 +1286,8 @@
     "adj_time": 1289.8,
     "time_min": 1187.42,
     "rnk_blnd": 129,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "DANIELLA VAN ZEE",
@@ -1167,7 +1296,8 @@
     "adj_time": 1289.88,
     "time_min": 1210.9,
     "rnk_blnd": 130,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "TAHCA ZEPHIER",
@@ -1176,7 +1306,8 @@
     "adj_time": 1290.25,
     "time_min": 1216.36,
     "rnk_blnd": 131,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "SOPHIA JOHNSON",
@@ -1185,7 +1316,8 @@
     "adj_time": 1290.31,
     "time_min": 1216.66,
     "rnk_blnd": 132,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LILLY GERLACH",
@@ -1194,7 +1326,8 @@
     "adj_time": 1290.48,
     "time_min": 1176.8,
     "rnk_blnd": 133,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "ASPEN VENEKLASEN",
@@ -1203,7 +1336,8 @@
     "adj_time": 1290.8,
     "time_min": 1225.67,
     "rnk_blnd": 134,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AURORA EVANS",
@@ -1212,7 +1346,8 @@
     "adj_time": 1292.67,
     "time_min": 1198.11,
     "rnk_blnd": 135,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ELLE HLAVAC",
@@ -1221,7 +1356,8 @@
     "adj_time": 1294.24,
     "time_min": 1226.27,
     "rnk_blnd": 136,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "BELLA LINN",
@@ -1230,7 +1366,8 @@
     "adj_time": 1294.39,
     "time_min": 1257.36,
     "rnk_blnd": 137,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "BERKLEY FOPMA",
@@ -1239,7 +1376,8 @@
     "adj_time": 1295.3,
     "time_min": 1383.02,
     "rnk_blnd": 138,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "EMMA BOCHEK",
@@ -1248,7 +1386,8 @@
     "adj_time": 1299.42,
     "time_min": 1235.48,
     "rnk_blnd": 139,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "BIANCA BERRY",
@@ -1257,7 +1396,8 @@
     "adj_time": 1295.51,
     "time_min": 1234.36,
     "rnk_blnd": 140,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KAYLOR NEKL",
@@ -1266,7 +1406,8 @@
     "adj_time": 1298.11,
     "time_min": 1208.83,
     "rnk_blnd": 141,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ELLA COOMES",
@@ -1275,7 +1416,8 @@
     "adj_time": 1296.11,
     "time_min": 1272.06,
     "rnk_blnd": 142,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "PIPER CURRAN",
@@ -1284,7 +1426,8 @@
     "adj_time": 1298.18,
     "time_min": 1221.58,
     "rnk_blnd": 143,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "IRIS ZYLSTRA",
@@ -1293,7 +1436,8 @@
     "adj_time": 1299.33,
     "time_min": 1244.23,
     "rnk_blnd": 144,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "HAZEL KANNEGIETER",
@@ -1302,7 +1446,8 @@
     "adj_time": 1298.95,
     "time_min": 1249.98,
     "rnk_blnd": 145,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "AUSTINA SORENSEN",
@@ -1311,7 +1456,8 @@
     "adj_time": 1299.87,
     "time_min": 1249.77,
     "rnk_blnd": 146,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "LUCY ROZEBOOM",
@@ -1320,7 +1466,8 @@
     "adj_time": 1301.28,
     "time_min": 1201.97,
     "rnk_blnd": 147,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "MACY COPELAND",
@@ -1329,7 +1476,8 @@
     "adj_time": 1300.29,
     "time_min": 1268.25,
     "rnk_blnd": 148,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ANNIKA BOCKHOLT",
@@ -1338,7 +1486,8 @@
     "adj_time": 1300.4,
     "time_min": 1199.08,
     "rnk_blnd": 149,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ELLA KOPLIN",
@@ -1347,7 +1496,8 @@
     "adj_time": 1299.88,
     "time_min": 1209.15,
     "rnk_blnd": 150,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CADENCE BOCHEK",
@@ -1356,7 +1506,8 @@
     "adj_time": 1303.47,
     "time_min": 1226.6,
     "rnk_blnd": 151,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "FAITH HEIL",
@@ -1365,7 +1516,8 @@
     "adj_time": 1303.55,
     "time_min": 1212.9,
     "rnk_blnd": 152,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "SHYLA TVEDT",
@@ -1374,7 +1526,8 @@
     "adj_time": 1303.65,
     "time_min": 1147.4,
     "rnk_blnd": 153,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AVA SLETTEN",
@@ -1383,7 +1536,8 @@
     "adj_time": 1305.1,
     "time_min": 1238.59,
     "rnk_blnd": 154,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KAMILLE SCHMIDT",
@@ -1392,7 +1546,8 @@
     "adj_time": 1305.19,
     "time_min": 1234.62,
     "rnk_blnd": 155,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ELLA BARTZ",
@@ -1401,7 +1556,8 @@
     "adj_time": 1305.73,
     "time_min": 1240.8,
     "rnk_blnd": 156,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ASHLYNN WELLMAN",
@@ -1410,7 +1566,8 @@
     "adj_time": 1305.79,
     "time_min": 1290.08,
     "rnk_blnd": 157,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "SASHA VAN DEN BOSCH",
@@ -1419,7 +1576,8 @@
     "adj_time": 1305.93,
     "time_min": 1253.43,
     "rnk_blnd": 158,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ADISON ARMSTRONG",
@@ -1428,7 +1586,8 @@
     "adj_time": 1306.98,
     "time_min": 1266.31,
     "rnk_blnd": 159,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "AVA GEORGE",
@@ -1437,7 +1596,8 @@
     "adj_time": 1307.69,
     "time_min": 1212.49,
     "rnk_blnd": 160,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "DANNIKA KAUP",
@@ -1446,7 +1606,8 @@
     "adj_time": 1308.05,
     "time_min": 1172.6,
     "rnk_blnd": 161,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "TAYLOR MCCOMSEY",
@@ -1455,7 +1616,8 @@
     "adj_time": 1308.25,
     "time_min": 1253.79,
     "rnk_blnd": 162,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "SIERRA KELLER",
@@ -1464,7 +1626,8 @@
     "adj_time": 1308.64,
     "time_min": 1273.63,
     "rnk_blnd": 163,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "MELANIE HERMAN",
@@ -1473,7 +1636,8 @@
     "adj_time": 1309.43,
     "time_min": 1301.2,
     "rnk_blnd": 164,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JAELYN PETERS",
@@ -1482,7 +1646,8 @@
     "adj_time": 1310.6,
     "time_min": 1273.23,
     "rnk_blnd": 165,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "JEWEL GANNON",
@@ -1491,7 +1656,8 @@
     "adj_time": 1310.67,
     "time_min": 1244.31,
     "rnk_blnd": 166,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "HOPE ROHE",
@@ -1500,7 +1666,8 @@
     "adj_time": 1311.41,
     "time_min": 1400.23,
     "rnk_blnd": 167,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "KELLA TRACY",
@@ -1509,7 +1676,8 @@
     "adj_time": 1311.45,
     "time_min": 1225.35,
     "rnk_blnd": 168,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "EVIE NOVSTRUP",
@@ -1518,7 +1686,8 @@
     "adj_time": 1313.32,
     "time_min": 1218.95,
     "rnk_blnd": 169,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "KAPRI HERGES",
@@ -1527,7 +1696,8 @@
     "adj_time": 1313.58,
     "time_min": 1247.15,
     "rnk_blnd": 170,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "CLAIRE MCDONALD",
@@ -1536,7 +1706,8 @@
     "adj_time": 1313.72,
     "time_min": 1277.5,
     "rnk_blnd": 171,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "EMMA CAULFIELD",
@@ -1545,7 +1716,8 @@
     "adj_time": 1313.83,
     "time_min": 1295.04,
     "rnk_blnd": 172,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MOLLY O'NEIL",
@@ -1554,7 +1726,8 @@
     "adj_time": 1314.25,
     "time_min": 1254.32,
     "rnk_blnd": 173,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "LYDIA ANDERSON",
@@ -1563,7 +1736,8 @@
     "adj_time": 1314.54,
     "time_min": 1204.04,
     "rnk_blnd": 174,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "KYLEIGH MILLER",
@@ -1572,7 +1746,8 @@
     "adj_time": 1314.83,
     "time_min": 1260.85,
     "rnk_blnd": 175,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "GABRIELLE DEVRIES",
@@ -1581,7 +1756,8 @@
     "adj_time": 1314.96,
     "time_min": 1327.9,
     "rnk_blnd": 176,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "KILEY WESTBERRY",
@@ -1590,7 +1766,8 @@
     "adj_time": 1325.82,
     "time_min": 1222.57,
     "rnk_blnd": 177,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MADDY CAMPBELL",
@@ -1599,7 +1776,8 @@
     "adj_time": 1316.74,
     "time_min": 1283.08,
     "rnk_blnd": 178,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JENTRY HUBNER",
@@ -1608,7 +1786,8 @@
     "adj_time": 1317.62,
     "time_min": 1223.4,
     "rnk_blnd": 179,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "RYAN TIBBETTS",
@@ -1617,7 +1796,8 @@
     "adj_time": 1317.8,
     "time_min": 1308.6,
     "rnk_blnd": 180,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "RACHEL MELIUS",
@@ -1626,7 +1806,8 @@
     "adj_time": 1318.67,
     "time_min": 1258.7,
     "rnk_blnd": 181,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "JAYDA WESTLING",
@@ -1635,7 +1816,8 @@
     "adj_time": 1318.67,
     "time_min": 1275.54,
     "rnk_blnd": 182,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "SHERIDAN MADDEN",
@@ -1644,7 +1826,8 @@
     "adj_time": 1318.77,
     "time_min": 1289.41,
     "rnk_blnd": 183,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "ADDISON JOHNSON",
@@ -1653,7 +1836,8 @@
     "adj_time": 1318.87,
     "time_min": 1332.67,
     "rnk_blnd": 184,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JOLIE WESTRUM",
@@ -1662,7 +1846,8 @@
     "adj_time": 1320.15,
     "time_min": 1288.62,
     "rnk_blnd": 185,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "EVELYN PRAHL",
@@ -1671,7 +1856,8 @@
     "adj_time": 1315.53,
     "time_min": 1274.62,
     "rnk_blnd": 186,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "EVELYN SHEARER",
@@ -1680,7 +1866,8 @@
     "adj_time": 1320.75,
     "time_min": 1195.7,
     "rnk_blnd": 187,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "HAIVYN SCHUCHHARDT",
@@ -1689,7 +1876,8 @@
     "adj_time": 1321.47,
     "time_min": 1243.22,
     "rnk_blnd": 188,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ASHTYN KRIZ",
@@ -1698,7 +1886,8 @@
     "adj_time": 1320.5,
     "time_min": 1259.9,
     "rnk_blnd": 189,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "NOELLE GABRIEL",
@@ -1707,7 +1896,8 @@
     "adj_time": 1321.95,
     "time_min": 1335.78,
     "rnk_blnd": 190,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "GRACYN KADLEC",
@@ -1716,7 +1906,8 @@
     "adj_time": 1322.08,
     "time_min": 1212.74,
     "rnk_blnd": 191,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "PRIA MARTINELL",
@@ -1725,7 +1916,8 @@
     "adj_time": 1321.54,
     "time_min": 1295.91,
     "rnk_blnd": 192,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LILY MEYER",
@@ -1734,7 +1926,8 @@
     "adj_time": 1324.78,
     "time_min": 1283.54,
     "rnk_blnd": 193,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "EMERY WAGNER",
@@ -1743,7 +1936,8 @@
     "adj_time": 1323.41,
     "time_min": 1315.91,
     "rnk_blnd": 194,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "KALLA FOERSTER",
@@ -1752,7 +1946,8 @@
     "adj_time": 1323.77,
     "time_min": 1245.27,
     "rnk_blnd": 195,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ANNALISA STAKE",
@@ -1761,7 +1956,8 @@
     "adj_time": 1325.01,
     "time_min": 1256.75,
     "rnk_blnd": 196,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "EMILIE REEDY",
@@ -1770,7 +1966,8 @@
     "adj_time": 1325.41,
     "time_min": 1267.27,
     "rnk_blnd": 197,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "NORA SHEPARDSON",
@@ -1779,7 +1976,8 @@
     "adj_time": 1322.36,
     "time_min": 1270.8,
     "rnk_blnd": 198,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "SADEY HOLT",
@@ -1788,7 +1986,8 @@
     "adj_time": 1330.26,
     "time_min": 1228.09,
     "rnk_blnd": 199,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "LUCY CARLSON",
@@ -1797,7 +1996,8 @@
     "adj_time": 1326.22,
     "time_min": 1253.57,
     "rnk_blnd": 200,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CLAIRE MCCALLUM",
@@ -1806,7 +2006,8 @@
     "adj_time": 1327.16,
     "time_min": 1265.39,
     "rnk_blnd": 201,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "SIRI KNUTSON",
@@ -1815,7 +2016,8 @@
     "adj_time": 1328.48,
     "time_min": 1241.82,
     "rnk_blnd": 202,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "LOGAN CASTLE",
@@ -1824,7 +2026,8 @@
     "adj_time": 1328.42,
     "time_min": 1231.16,
     "rnk_blnd": 203,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "JOSIE VLIEGER",
@@ -1833,7 +2036,8 @@
     "adj_time": 1328.75,
     "time_min": 1256.55,
     "rnk_blnd": 204,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "BERKLEE MILLS",
@@ -1842,7 +2046,8 @@
     "adj_time": 1327.08,
     "time_min": 1237.91,
     "rnk_blnd": 205,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "GRACE PRESZLER",
@@ -1851,7 +2056,8 @@
     "adj_time": 1330.1,
     "time_min": 1216.54,
     "rnk_blnd": 206,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "JORDYN JOHNSON",
@@ -1860,7 +2066,8 @@
     "adj_time": 1329.27,
     "time_min": 1239.39,
     "rnk_blnd": 207,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "JILLIAN SCHULTE",
@@ -1869,7 +2076,8 @@
     "adj_time": 1328.93,
     "time_min": 1241.98,
     "rnk_blnd": 208,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ABBY HILLESON",
@@ -1878,7 +2086,8 @@
     "adj_time": 1330.72,
     "time_min": 1239.13,
     "rnk_blnd": 209,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KAMORA RUTHERFORD",
@@ -1887,7 +2096,8 @@
     "adj_time": 1331.1,
     "time_min": 1271.48,
     "rnk_blnd": 210,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ASHLAN CARLOW",
@@ -1896,7 +2106,8 @@
     "adj_time": 1331.27,
     "time_min": 1228.73,
     "rnk_blnd": 211,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ZOEY SNYDER",
@@ -1905,7 +2116,8 @@
     "adj_time": 1331.34,
     "time_min": 1379.27,
     "rnk_blnd": 212,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "MONICA MORAN",
@@ -1914,7 +2126,8 @@
     "adj_time": 1331.99,
     "time_min": 1270.02,
     "rnk_blnd": 213,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "JENNIFER BEVERS",
@@ -1923,7 +2136,8 @@
     "adj_time": 1333.07,
     "time_min": 1270.32,
     "rnk_blnd": 214,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "GIANNA HEID",
@@ -1932,7 +2146,8 @@
     "adj_time": 1333.55,
     "time_min": 1389,
     "rnk_blnd": 215,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "HANNAH KOCH",
@@ -1941,7 +2156,8 @@
     "adj_time": 1333.82,
     "time_min": 1262,
     "rnk_blnd": 216,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "MACY MUELLER",
@@ -1950,7 +2166,8 @@
     "adj_time": 1334.02,
     "time_min": 1261.17,
     "rnk_blnd": 217,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "ISABEL OVERBY",
@@ -1959,7 +2176,8 @@
     "adj_time": 1339.8,
     "time_min": 1214.54,
     "rnk_blnd": 218,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "ISABELA TORBERSON",
@@ -1968,7 +2186,8 @@
     "adj_time": 1336.59,
     "time_min": 1283.64,
     "rnk_blnd": 219,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ALLISON BRENNER",
@@ -1977,7 +2196,8 @@
     "adj_time": 1334.81,
     "time_min": 1246.68,
     "rnk_blnd": 220,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "LAURA NEMEC",
@@ -1986,7 +2206,8 @@
     "adj_time": 1337.64,
     "time_min": 1212.09,
     "rnk_blnd": 221,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KHLOE COCHRAN",
@@ -1995,7 +2216,8 @@
     "adj_time": 1336.75,
     "time_min": 1256.63,
     "rnk_blnd": 222,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "HADASAH OLSON",
@@ -2004,7 +2226,8 @@
     "adj_time": 1345.27,
     "time_min": 1223.1,
     "rnk_blnd": 223,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "AUBREE MINER",
@@ -2013,7 +2236,8 @@
     "adj_time": 1338.73,
     "time_min": 1240.91,
     "rnk_blnd": 224,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "EMMY CHRISTENSEN",
@@ -2022,7 +2246,8 @@
     "adj_time": 1339.35,
     "time_min": 1248.56,
     "rnk_blnd": 225,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "MADELINE CARCAMO",
@@ -2031,7 +2256,8 @@
     "adj_time": 1337.67,
     "time_min": 1269.68,
     "rnk_blnd": 226,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "SKYLAR LAWSON",
@@ -2040,7 +2266,8 @@
     "adj_time": 1339.72,
     "time_min": 1236.61,
     "rnk_blnd": 227,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "HADLEY WALKER",
@@ -2049,7 +2276,8 @@
     "adj_time": 1340.04,
     "time_min": 1235.88,
     "rnk_blnd": 228,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "QUINN ULVESTAD",
@@ -2058,7 +2286,8 @@
     "adj_time": 1342.27,
     "time_min": 1349.56,
     "rnk_blnd": 229,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "SOPHIA HATLELI",
@@ -2067,7 +2296,8 @@
     "adj_time": 1343.72,
     "time_min": 1284.62,
     "rnk_blnd": 230,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "SAVANNAH HADORN",
@@ -2076,7 +2306,8 @@
     "adj_time": 1344.38,
     "time_min": 1284.14,
     "rnk_blnd": 231,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "LUCILLE AHART",
@@ -2085,7 +2316,8 @@
     "adj_time": 1346.1,
     "time_min": 1159.15,
     "rnk_blnd": 232,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ISABELLA OBERLOH",
@@ -2094,7 +2326,8 @@
     "adj_time": 1345.19,
     "time_min": 1339.53,
     "rnk_blnd": 233,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "BREANA ASKE",
@@ -2103,7 +2336,8 @@
     "adj_time": 1337.87,
     "time_min": 1192,
     "rnk_blnd": 234,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "MISTY DRIELING",
@@ -2112,7 +2346,8 @@
     "adj_time": 1345.61,
     "time_min": 1236.72,
     "rnk_blnd": 235,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "JORDAN CHESSMORE",
@@ -2121,7 +2356,8 @@
     "adj_time": 1350.68,
     "time_min": 1277,
     "rnk_blnd": 236,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "APRIL SKLUZAK",
@@ -2130,7 +2366,8 @@
     "adj_time": 1345,
     "time_min": 1288.08,
     "rnk_blnd": 237,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "SADIE MUELLER",
@@ -2139,7 +2376,8 @@
     "adj_time": 1347.01,
     "time_min": 1280.56,
     "rnk_blnd": 238,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "BROOKE THAYER-BURKE",
@@ -2148,7 +2386,8 @@
     "adj_time": 1348.16,
     "time_min": 1241.05,
     "rnk_blnd": 239,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "RILEE DORN",
@@ -2157,7 +2396,8 @@
     "adj_time": 1349.76,
     "time_min": 1357.09,
     "rnk_blnd": 240,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": null
   },
   {
     "Name": "KAELYN SWENSON",
@@ -2166,7 +2406,8 @@
     "adj_time": 1349.85,
     "time_min": 1297.13,
     "rnk_blnd": 241,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "JOHANNA VANDERSNICK",
@@ -2175,7 +2416,8 @@
     "adj_time": 1351.72,
     "time_min": 1299.44,
     "rnk_blnd": 242,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "TENLEY LEBRUN",
@@ -2184,7 +2426,8 @@
     "adj_time": 1350.09,
     "time_min": 1258.29,
     "rnk_blnd": 243,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "BRILEY GEBHART",
@@ -2193,7 +2436,8 @@
     "adj_time": 1353.26,
     "time_min": 1273.16,
     "rnk_blnd": 244,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "GRETCHEN CURTIS",
@@ -2202,7 +2446,8 @@
     "adj_time": 1350.9,
     "time_min": 1365.03,
     "rnk_blnd": 245,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "MONROE MILLER",
@@ -2211,7 +2456,8 @@
     "adj_time": 1351.44,
     "time_min": 1369.82,
     "rnk_blnd": 246,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "PRESLEY HOUSKA",
@@ -2220,7 +2466,8 @@
     "adj_time": 1350.09,
     "time_min": 1281.52,
     "rnk_blnd": 247,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "BEATRIZ HERNANDEZ-LUCAS",
@@ -2229,7 +2476,8 @@
     "adj_time": 1353.06,
     "time_min": 1287.78,
     "rnk_blnd": 248,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "EMMA PERRY",
@@ -2238,7 +2486,8 @@
     "adj_time": 1353.19,
     "time_min": 1320.88,
     "rnk_blnd": 249,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "HADLEIGH HOGGARTH",
@@ -2247,7 +2496,8 @@
     "adj_time": 1346.93,
     "time_min": 1338.66,
     "rnk_blnd": 250,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "JAYCEE STEVENS",
@@ -2256,7 +2506,8 @@
     "adj_time": 1353.76,
     "time_min": 1232.9,
     "rnk_blnd": 251,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "HANNAH SONSTEBO",
@@ -2265,7 +2516,8 @@
     "adj_time": 1354.72,
     "time_min": 1303.52,
     "rnk_blnd": 252,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "KAYLEE BROWN",
@@ -2274,7 +2526,8 @@
     "adj_time": 1354.72,
     "time_min": 1204.99,
     "rnk_blnd": 253,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "OLIVIA KERKVLIET",
@@ -2283,7 +2536,8 @@
     "adj_time": 1355.01,
     "time_min": 1446.78,
     "rnk_blnd": 254,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AUBREY HADORN",
@@ -2292,7 +2546,8 @@
     "adj_time": 1355.46,
     "time_min": 1303.33,
     "rnk_blnd": 255,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "LOLA UNDERBERG",
@@ -2301,7 +2556,8 @@
     "adj_time": 1356.67,
     "time_min": 1370.86,
     "rnk_blnd": 256,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ABIGAIL EISENBRAUN",
@@ -2310,7 +2566,8 @@
     "adj_time": 1357.43,
     "time_min": 1340.7,
     "rnk_blnd": 257,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "AUBREY BORNS",
@@ -2319,7 +2576,8 @@
     "adj_time": 1361.54,
     "time_min": 1260.81,
     "rnk_blnd": 258,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "MIKAYLA DENNIS",
@@ -2328,7 +2586,8 @@
     "adj_time": 1357.79,
     "time_min": 1268.25,
     "rnk_blnd": 259,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "OLIVIA KADLEC",
@@ -2337,7 +2596,8 @@
     "adj_time": 1358.57,
     "time_min": 1299.1,
     "rnk_blnd": 260,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "AVA GATZKE",
@@ -2346,7 +2606,8 @@
     "adj_time": 1358.47,
     "time_min": 1262.18,
     "rnk_blnd": 261,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "CAMI WOLLES",
@@ -2355,7 +2616,8 @@
     "adj_time": 1359.44,
     "time_min": 1302,
     "rnk_blnd": 262,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "HARPER KLINE",
@@ -2364,7 +2626,8 @@
     "adj_time": 1358.78,
     "time_min": 1268.76,
     "rnk_blnd": 263,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "GRACIE BANKS",
@@ -2373,7 +2636,8 @@
     "adj_time": 1359.62,
     "time_min": 1249.38,
     "rnk_blnd": 264,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "LILLIE SCHMIT",
@@ -2382,7 +2646,8 @@
     "adj_time": 1360.24,
     "time_min": 1268.73,
     "rnk_blnd": 265,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ASHLYNN BATCHELOR",
@@ -2391,7 +2656,8 @@
     "adj_time": 1362.19,
     "time_min": 1349.35,
     "rnk_blnd": 266,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "EMERSON BUCHHOLZ",
@@ -2400,7 +2666,8 @@
     "adj_time": 1362.51,
     "time_min": 1310.85,
     "rnk_blnd": 267,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "ADDISON JASPERS",
@@ -2409,7 +2676,8 @@
     "adj_time": 1363.47,
     "time_min": 1262.93,
     "rnk_blnd": 268,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "LEAH YERDON",
@@ -2418,7 +2686,8 @@
     "adj_time": 1364.21,
     "time_min": 1348.82,
     "rnk_blnd": 269,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "IRIS RAMEY",
@@ -2427,7 +2696,8 @@
     "adj_time": 1364.39,
     "time_min": 1289.4,
     "rnk_blnd": 270,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "LAYLA DRIELING",
@@ -2436,7 +2706,8 @@
     "adj_time": 1365.25,
     "time_min": 1244.63,
     "rnk_blnd": 271,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ERIN HARMS",
@@ -2445,7 +2716,8 @@
     "adj_time": 1366.2,
     "time_min": 1298.79,
     "rnk_blnd": 272,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "MAGGIE MILLER",
@@ -2454,7 +2726,8 @@
     "adj_time": 1368.01,
     "time_min": 1386.61,
     "rnk_blnd": 273,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "GRACE LIST",
@@ -2463,7 +2736,8 @@
     "adj_time": 1368.12,
     "time_min": 1286.59,
     "rnk_blnd": 274,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "AUBREE MORRISON",
@@ -2472,7 +2746,8 @@
     "adj_time": 1368.67,
     "time_min": 1253.78,
     "rnk_blnd": 275,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CHEL ODENBACH",
@@ -2481,7 +2756,8 @@
     "adj_time": 1369.32,
     "time_min": 1300.89,
     "rnk_blnd": 276,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "BERGEN BUMANN",
@@ -2490,7 +2766,8 @@
     "adj_time": 1369.47,
     "time_min": 1286.21,
     "rnk_blnd": 277,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "MAISEY KNUDSON",
@@ -2499,7 +2776,8 @@
     "adj_time": 1370.02,
     "time_min": 1278.45,
     "rnk_blnd": 278,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "MADDLYN RED BEAR",
@@ -2508,7 +2786,8 @@
     "adj_time": 1370.99,
     "time_min": 1276.1,
     "rnk_blnd": 279,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "BRYNN ODENBACH",
@@ -2517,7 +2796,8 @@
     "adj_time": 1371.09,
     "time_min": 1323.97,
     "rnk_blnd": 280,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "MAKENZI HAM",
@@ -2526,7 +2806,8 @@
     "adj_time": 1372.72,
     "time_min": 1278.96,
     "rnk_blnd": 281,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "FALLON WIETZKI",
@@ -2535,7 +2816,8 @@
     "adj_time": 1373,
     "time_min": 1422.43,
     "rnk_blnd": 282,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "HANNAH DELINE",
@@ -2544,7 +2826,8 @@
     "adj_time": 1373.28,
     "time_min": 1265.82,
     "rnk_blnd": 283,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "MACIE DEAN",
@@ -2553,7 +2836,8 @@
     "adj_time": 1373.68,
     "time_min": 1280.86,
     "rnk_blnd": 284,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CHARLEE BIERLE",
@@ -2562,7 +2846,8 @@
     "adj_time": 1377.2,
     "time_min": 1295.19,
     "rnk_blnd": 285,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "PAIGE AHLEMEIER",
@@ -2571,7 +2856,8 @@
     "adj_time": 1374.92,
     "time_min": 1236.1,
     "rnk_blnd": 286,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "KALLA PADDEN",
@@ -2580,7 +2866,8 @@
     "adj_time": 1375.01,
     "time_min": 1314.9,
     "rnk_blnd": 287,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "PAIGE DEUTER",
@@ -2589,7 +2876,8 @@
     "adj_time": 1375.71,
     "time_min": 1311,
     "rnk_blnd": 288,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "VICTORIA GASSEN",
@@ -2598,7 +2886,8 @@
     "adj_time": 1375.76,
     "time_min": 1468.93,
     "rnk_blnd": 289,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KELSEY SUNDERMANN",
@@ -2607,7 +2896,8 @@
     "adj_time": 1375.78,
     "time_min": 1320.81,
     "rnk_blnd": 290,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "SPENCER PROEFROCK",
@@ -2616,7 +2906,8 @@
     "adj_time": 1374.35,
     "time_min": 1347.77,
     "rnk_blnd": 291,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "CHLOE BERG",
@@ -2625,7 +2916,8 @@
     "adj_time": 1379.52,
     "time_min": 1320.69,
     "rnk_blnd": 292,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "KYLAH BIGGINS",
@@ -2634,7 +2926,8 @@
     "adj_time": 1383.56,
     "time_min": 1246.59,
     "rnk_blnd": 293,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "KAHLEN PETERSON",
@@ -2643,7 +2936,8 @@
     "adj_time": 1380.42,
     "time_min": 1312.61,
     "rnk_blnd": 294,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "MADYN LACEY",
@@ -2652,7 +2946,8 @@
     "adj_time": 1386.29,
     "time_min": 1308.97,
     "rnk_blnd": 295,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ABIGAIL ENGEL",
@@ -2661,7 +2956,8 @@
     "adj_time": 1381.07,
     "time_min": 1283,
     "rnk_blnd": 296,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "JAYDA JENSEN",
@@ -2670,7 +2966,8 @@
     "adj_time": 1383.22,
     "time_min": 1281.64,
     "rnk_blnd": 297,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "MAHLIA KADLEC",
@@ -2679,7 +2976,8 @@
     "adj_time": 1382.63,
     "time_min": 1322.1,
     "rnk_blnd": 298,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "AVERI GERFEN",
@@ -2688,7 +2986,8 @@
     "adj_time": 1381.47,
     "time_min": 1317.31,
     "rnk_blnd": 299,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "KYLIE GOSCH",
@@ -2697,7 +2996,8 @@
     "adj_time": 1383.17,
     "time_min": 1259.68,
     "rnk_blnd": 300,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "GABBY DEVRIES",
@@ -2706,7 +3006,8 @@
     "adj_time": 1382.74,
     "time_min": 1302.4,
     "rnk_blnd": 301,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "EMMA SHELDON",
@@ -2715,7 +3016,8 @@
     "adj_time": 1383.43,
     "time_min": 1347.4,
     "rnk_blnd": 302,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "BRENNA BOLTE",
@@ -2724,7 +3026,8 @@
     "adj_time": 1379.65,
     "time_min": 1285.26,
     "rnk_blnd": 303,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CHARLOTTE QUALM",
@@ -2733,7 +3036,8 @@
     "adj_time": 1380.93,
     "time_min": 1274.06,
     "rnk_blnd": 304,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ADALYN FIEGEN",
@@ -2742,7 +3046,8 @@
     "adj_time": 1384.56,
     "time_min": 1333,
     "rnk_blnd": 305,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ISABELLA HENDERSON",
@@ -2751,7 +3056,8 @@
     "adj_time": 1384.61,
     "time_min": 1313.9,
     "rnk_blnd": 306,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ALEXA STONE",
@@ -2760,7 +3066,8 @@
     "adj_time": 1383.75,
     "time_min": 1286.68,
     "rnk_blnd": 307,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ELLA GREENE",
@@ -2769,7 +3076,8 @@
     "adj_time": 1384.94,
     "time_min": 1301.46,
     "rnk_blnd": 308,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ISABELLE LEE",
@@ -2778,7 +3086,8 @@
     "adj_time": 1386.94,
     "time_min": 1286,
     "rnk_blnd": 309,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "MARLEE MEYERINK",
@@ -2787,7 +3096,8 @@
     "adj_time": 1387,
     "time_min": 1279.59,
     "rnk_blnd": 310,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "GRACE STEFFEN",
@@ -2796,7 +3106,8 @@
     "adj_time": 1389.62,
     "time_min": 1296,
     "rnk_blnd": 311,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "TRINITY HOURIGAN",
@@ -2805,7 +3116,8 @@
     "adj_time": 1389.89,
     "time_min": 1306.67,
     "rnk_blnd": 312,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "AMY HENDERSON",
@@ -2814,7 +3126,8 @@
     "adj_time": 1390.38,
     "time_min": 1300.25,
     "rnk_blnd": 313,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "GRACE SKOOG",
@@ -2823,7 +3136,8 @@
     "adj_time": 1391.56,
     "time_min": 1357.27,
     "rnk_blnd": 314,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "PEYTON HANSEN",
@@ -2832,7 +3146,8 @@
     "adj_time": 1391.84,
     "time_min": 1345.17,
     "rnk_blnd": 315,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "KENNA WOLBERG",
@@ -2841,7 +3156,8 @@
     "adj_time": 1392.78,
     "time_min": 1247.93,
     "rnk_blnd": 316,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "MIRIAM MEYER",
@@ -2850,7 +3166,8 @@
     "adj_time": 1397.28,
     "time_min": 1322.77,
     "rnk_blnd": 317,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AVERY QUAM",
@@ -2859,7 +3176,8 @@
     "adj_time": 1399.1,
     "time_min": 1289.05,
     "rnk_blnd": 318,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LILLIE BODEN",
@@ -2868,7 +3186,8 @@
     "adj_time": 1399.24,
     "time_min": 1280.95,
     "rnk_blnd": 319,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ALEAH GRAHAM",
@@ -2877,7 +3196,8 @@
     "adj_time": 1399.31,
     "time_min": 1411.53,
     "rnk_blnd": 320,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "NORA HYRONIMUS",
@@ -2886,7 +3206,8 @@
     "adj_time": 1399.39,
     "time_min": 1312.54,
     "rnk_blnd": 321,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "JORDYN ZEISLER",
@@ -2895,7 +3216,8 @@
     "adj_time": 1401.15,
     "time_min": 1313,
     "rnk_blnd": 322,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "TRINITY LIMPY",
@@ -2904,7 +3226,8 @@
     "adj_time": 1402.27,
     "time_min": 1367.72,
     "rnk_blnd": 323,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "NORA PESTER",
@@ -2913,7 +3236,8 @@
     "adj_time": 1403.41,
     "time_min": 1295.49,
     "rnk_blnd": 324,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "CARSON SEVERSON",
@@ -2922,7 +3246,8 @@
     "adj_time": 1412.07,
     "time_min": 1323.26,
     "rnk_blnd": 325,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "OLIVIA SCHNEEKLOTH",
@@ -2931,7 +3256,8 @@
     "adj_time": 1406.13,
     "time_min": 1335.02,
     "rnk_blnd": 326,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "ZOE SCHAEFFER",
@@ -2940,7 +3266,8 @@
     "adj_time": 1407.72,
     "time_min": 1303.42,
     "rnk_blnd": 327,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "ADDY WITTE",
@@ -2949,7 +3276,8 @@
     "adj_time": 1403.7,
     "time_min": 1348.3,
     "rnk_blnd": 328,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "PAOLA CULHUAC SEGUNDO",
@@ -2958,7 +3286,8 @@
     "adj_time": 1407.95,
     "time_min": 1355.67,
     "rnk_blnd": 329,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "KHLOE SMITH",
@@ -2967,7 +3296,8 @@
     "adj_time": 1408.51,
     "time_min": 1344.26,
     "rnk_blnd": 330,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KAITLYN DASCHEL",
@@ -2976,7 +3306,8 @@
     "adj_time": 1409.4,
     "time_min": 1353.84,
     "rnk_blnd": 331,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CAROLINE WIESE",
@@ -2985,7 +3316,8 @@
     "adj_time": 1411.23,
     "time_min": 1282.98,
     "rnk_blnd": 332,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 7
   },
   {
     "Name": "BRINLEY BRANDRIET",
@@ -2994,7 +3326,8 @@
     "adj_time": 1411.57,
     "time_min": 1355.78,
     "rnk_blnd": 333,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "ELODIE WOOD",
@@ -3003,7 +3336,8 @@
     "adj_time": 1411.82,
     "time_min": 1292.71,
     "rnk_blnd": 334,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "KINSLEY DVORACEK",
@@ -3012,7 +3346,8 @@
     "adj_time": 1409.99,
     "time_min": 1336.65,
     "rnk_blnd": 335,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "KENSI HOLLAND",
@@ -3021,7 +3356,8 @@
     "adj_time": 1419.89,
     "time_min": 1339.13,
     "rnk_blnd": 336,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LIZ VOGEL",
@@ -3030,7 +3366,8 @@
     "adj_time": 1412.2,
     "time_min": 1349.53,
     "rnk_blnd": 337,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ADDISON MUTH",
@@ -3039,7 +3376,8 @@
     "adj_time": 1413,
     "time_min": 1306.64,
     "rnk_blnd": 338,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "SILVANA HOUSKA",
@@ -3048,7 +3386,8 @@
     "adj_time": 1412.73,
     "time_min": 1361.64,
     "rnk_blnd": 339,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "KAELYN SMITH",
@@ -3057,7 +3396,8 @@
     "adj_time": 1415.52,
     "time_min": 1338.34,
     "rnk_blnd": 340,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "MILA HEISINGER",
@@ -3066,7 +3406,8 @@
     "adj_time": 1415.93,
     "time_min": 1297.45,
     "rnk_blnd": 341,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ASPEN NIEWENHUIS",
@@ -3075,7 +3416,8 @@
     "adj_time": 1418.26,
     "time_min": 1311,
     "rnk_blnd": 342,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "BROOKLYN REINERS",
@@ -3084,7 +3426,8 @@
     "adj_time": 1419.45,
     "time_min": 1326.84,
     "rnk_blnd": 343,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "HAILEY WOODWARD",
@@ -3093,7 +3436,8 @@
     "adj_time": 1416.34,
     "time_min": 1328.06,
     "rnk_blnd": 344,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "MICAIAH BRANTNER",
@@ -3102,7 +3446,8 @@
     "adj_time": 1424.42,
     "time_min": 1270.21,
     "rnk_blnd": 345,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "WILLOW ISBURG",
@@ -3111,7 +3456,8 @@
     "adj_time": 1420.47,
     "time_min": 1379.78,
     "rnk_blnd": 346,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "GABBIE EICHMANN",
@@ -3120,7 +3466,8 @@
     "adj_time": 1420.25,
     "time_min": 1337.52,
     "rnk_blnd": 347,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ALIYAH PETERS",
@@ -3129,7 +3476,8 @@
     "adj_time": 1421.63,
     "time_min": 1366.11,
     "rnk_blnd": 348,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "MYRA BROWN",
@@ -3138,7 +3486,8 @@
     "adj_time": 1422.62,
     "time_min": 1332.84,
     "rnk_blnd": 349,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LYNDSEY CHESSMORE",
@@ -3147,7 +3496,8 @@
     "adj_time": 1420.84,
     "time_min": 1336,
     "rnk_blnd": 350,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "HAILEY TIAHRT",
@@ -3156,7 +3506,8 @@
     "adj_time": 1423.41,
     "time_min": 1336.53,
     "rnk_blnd": 351,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "MIYA MUELLENBERG",
@@ -3165,7 +3516,8 @@
     "adj_time": 1423.45,
     "time_min": 1388.37,
     "rnk_blnd": 352,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "LENLEE MILLS",
@@ -3174,7 +3526,8 @@
     "adj_time": 1423.51,
     "time_min": 1338.84,
     "rnk_blnd": 353,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ALYVIA GEFFRE",
@@ -3183,7 +3536,8 @@
     "adj_time": 1423.72,
     "time_min": 1391.1,
     "rnk_blnd": 354,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "JAESHAWNIA IRON HAWK",
@@ -3192,7 +3546,8 @@
     "adj_time": 1422.62,
     "time_min": 1280.8,
     "rnk_blnd": 355,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "MYKELTI OLSON",
@@ -3201,7 +3556,8 @@
     "adj_time": 1423.74,
     "time_min": 1316.98,
     "rnk_blnd": 356,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "BRANDY MARSHALL",
@@ -3210,7 +3566,8 @@
     "adj_time": 1424.24,
     "time_min": 1271.4,
     "rnk_blnd": 357,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "EVERLY BLUM",
@@ -3219,7 +3576,8 @@
     "adj_time": 1424.02,
     "time_min": 1227.38,
     "rnk_blnd": 358,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "GABBY WERDEL",
@@ -3228,7 +3586,8 @@
     "adj_time": 1425.81,
     "time_min": 1330.7,
     "rnk_blnd": 359,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "JAYCIE RUSH",
@@ -3237,7 +3596,8 @@
     "adj_time": 1426.37,
     "time_min": 1365.98,
     "rnk_blnd": 360,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "CALISTA SAHR",
@@ -3246,7 +3606,8 @@
     "adj_time": 1426.92,
     "time_min": 1362.57,
     "rnk_blnd": 361,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "KENNADEE WAGNER",
@@ -3255,7 +3616,8 @@
     "adj_time": 1427.26,
     "time_min": 1355.54,
     "rnk_blnd": 362,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "LILY SWANSON",
@@ -3264,7 +3626,8 @@
     "adj_time": 1427.28,
     "time_min": 1349.29,
     "rnk_blnd": 363,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "GENESIS MARTINEZ SOTO",
@@ -3273,7 +3636,8 @@
     "adj_time": 1429.16,
     "time_min": 1353.55,
     "rnk_blnd": 364,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "PHOEBE BENTLEY-BUSCHUR",
@@ -3282,7 +3646,8 @@
     "adj_time": 1429.23,
     "time_min": 1341.58,
     "rnk_blnd": 365,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "AINE GRAESSER",
@@ -3291,7 +3656,8 @@
     "adj_time": 1429.32,
     "time_min": 1298.69,
     "rnk_blnd": 366,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "TABITHA MCFADEN",
@@ -3300,7 +3666,8 @@
     "adj_time": 1436.96,
     "time_min": 1354.87,
     "rnk_blnd": 367,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "HAYLEN SCHNECK",
@@ -3309,7 +3676,8 @@
     "adj_time": 1429.55,
     "time_min": 1379.67,
     "rnk_blnd": 368,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "BRYNNLY HUBER",
@@ -3318,7 +3686,8 @@
     "adj_time": 1430.81,
     "time_min": 1292.4,
     "rnk_blnd": 369,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "AUBRIE BRENDSEL",
@@ -3327,7 +3696,8 @@
     "adj_time": 1431.94,
     "time_min": 1344.18,
     "rnk_blnd": 370,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "SOFIA HANSON",
@@ -3336,7 +3706,8 @@
     "adj_time": 1430.13,
     "time_min": 1341.23,
     "rnk_blnd": 371,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CAMDEN PETERSON",
@@ -3345,7 +3716,8 @@
     "adj_time": 1432.96,
     "time_min": 1339.16,
     "rnk_blnd": 372,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "MEREDITH DECKER",
@@ -3354,7 +3726,8 @@
     "adj_time": 1433.19,
     "time_min": 1355.26,
     "rnk_blnd": 373,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "RHYANN ROSELAND",
@@ -3363,7 +3736,8 @@
     "adj_time": 1433.24,
     "time_min": 1345.2,
     "rnk_blnd": 374,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "ALLISON LOEWE",
@@ -3372,7 +3746,8 @@
     "adj_time": 1432.85,
     "time_min": 1313.44,
     "rnk_blnd": 375,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ALY GRUENWALD",
@@ -3381,7 +3756,8 @@
     "adj_time": 1433.95,
     "time_min": 1333.3,
     "rnk_blnd": 376,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "RAEGAN VERHULST",
@@ -3390,7 +3766,8 @@
     "adj_time": 1435.88,
     "time_min": 1373.37,
     "rnk_blnd": 377,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "LACEY EASTON",
@@ -3399,7 +3776,8 @@
     "adj_time": 1435.12,
     "time_min": 1352.78,
     "rnk_blnd": 378,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MOLLY ENGEBRETSON",
@@ -3408,7 +3786,8 @@
     "adj_time": 1437.01,
     "time_min": 1364.59,
     "rnk_blnd": 379,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ADDY IHNEN",
@@ -3417,7 +3796,8 @@
     "adj_time": 1437.08,
     "time_min": 1403.34,
     "rnk_blnd": 380,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "SEELEY VANOVERBEKE",
@@ -3426,7 +3806,8 @@
     "adj_time": 1437.59,
     "time_min": 1369,
     "rnk_blnd": 381,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "CORI CAMMACK",
@@ -3435,7 +3816,8 @@
     "adj_time": 1437.79,
     "time_min": 1402.36,
     "rnk_blnd": 382,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "JESSE FOSHEIM",
@@ -3444,7 +3826,8 @@
     "adj_time": 1438.95,
     "time_min": 1378.59,
     "rnk_blnd": 383,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "WHITLEY BALOUN",
@@ -3453,7 +3836,8 @@
     "adj_time": 1439.04,
     "time_min": 1275.4,
     "rnk_blnd": 384,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "NATALIE DREISKE",
@@ -3462,7 +3846,8 @@
     "adj_time": 1439.11,
     "time_min": 1381,
     "rnk_blnd": 385,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "HALLEY MILLER",
@@ -3471,7 +3856,8 @@
     "adj_time": 1439.14,
     "time_min": 1480.26,
     "rnk_blnd": 386,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "LIANA WISE",
@@ -3480,7 +3866,8 @@
     "adj_time": 1439.54,
     "time_min": 1315.92,
     "rnk_blnd": 387,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "NATALIE KAHLER",
@@ -3489,7 +3876,8 @@
     "adj_time": 1440.12,
     "time_min": 1432.56,
     "rnk_blnd": 388,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "GRETA ODENBACH",
@@ -3498,7 +3886,8 @@
     "adj_time": 1440.15,
     "time_min": 1360.21,
     "rnk_blnd": 389,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "OLIVIA SCHULTZ",
@@ -3507,7 +3896,8 @@
     "adj_time": 1441.22,
     "time_min": 1341.04,
     "rnk_blnd": 390,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "GRACE ROTH",
@@ -3516,7 +3906,8 @@
     "adj_time": 1442.32,
     "time_min": 1258.2,
     "rnk_blnd": 391,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "LUCY VARGAS",
@@ -3525,7 +3916,8 @@
     "adj_time": 1443.84,
     "time_min": 1376.69,
     "rnk_blnd": 392,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "SLOAN THOMPSON",
@@ -3534,7 +3926,8 @@
     "adj_time": 1448.3,
     "time_min": 1374.98,
     "rnk_blnd": 393,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "HARPER SCHADE",
@@ -3543,7 +3936,8 @@
     "adj_time": 1449.15,
     "time_min": 1382.2,
     "rnk_blnd": 394,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "AMYA PRUE",
@@ -3552,7 +3946,8 @@
     "adj_time": 1445.5,
     "time_min": 1272.69,
     "rnk_blnd": 395,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "KATIE BRETSCH",
@@ -3561,7 +3956,8 @@
     "adj_time": 1448.8,
     "time_min": 1365.3,
     "rnk_blnd": 396,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "ASHLYNN WARRINGTON",
@@ -3570,7 +3966,8 @@
     "adj_time": 1447.86,
     "time_min": 1347.36,
     "rnk_blnd": 397,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "ADELAIDE KLEINSCHMIDT",
@@ -3579,7 +3976,8 @@
     "adj_time": 1449.41,
     "time_min": 1373.33,
     "rnk_blnd": 398,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "WILLOW STEPHENS",
@@ -3588,7 +3986,8 @@
     "adj_time": 1449.43,
     "time_min": 1402.12,
     "rnk_blnd": 399,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "SDYNEY BRUNICK",
@@ -3597,7 +3996,8 @@
     "adj_time": 1449.84,
     "time_min": 1464.1,
     "rnk_blnd": 400,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ANNA MCKINLEY",
@@ -3606,7 +4006,8 @@
     "adj_time": 1450.78,
     "time_min": 1310.41,
     "rnk_blnd": 401,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ALLISON LEBER",
@@ -3615,7 +4016,8 @@
     "adj_time": 1452.72,
     "time_min": 1343.84,
     "rnk_blnd": 402,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ANDIE AUGHENBAUGH",
@@ -3624,7 +4026,8 @@
     "adj_time": 1453.95,
     "time_min": 1315.34,
     "rnk_blnd": 403,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "MINA BJORUM",
@@ -3633,7 +4036,8 @@
     "adj_time": 1454.34,
     "time_min": 1355,
     "rnk_blnd": 404,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "AUBRIANA RIELLY",
@@ -3642,7 +4046,8 @@
     "adj_time": 1455.78,
     "time_min": 1419.91,
     "rnk_blnd": 405,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "TANAEYA WANNA",
@@ -3651,7 +4056,8 @@
     "adj_time": 1455.8,
     "time_min": 1397.32,
     "rnk_blnd": 406,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ARIA PRASNICKI",
@@ -3660,7 +4066,8 @@
     "adj_time": 1458.15,
     "time_min": 1410.26,
     "rnk_blnd": 407,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "JORJA WEBER",
@@ -3669,7 +4076,8 @@
     "adj_time": 1460.5,
     "time_min": 1307.79,
     "rnk_blnd": 408,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "TYLER GIBSON",
@@ -3678,7 +4086,8 @@
     "adj_time": 1461.54,
     "time_min": 1350.57,
     "rnk_blnd": 409,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "MIKAELA MALSOM",
@@ -3687,7 +4096,8 @@
     "adj_time": 1463.73,
     "time_min": 1266,
     "rnk_blnd": 410,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "HARPER GIBSON",
@@ -3696,7 +4106,8 @@
     "adj_time": 1462.06,
     "time_min": 1372.57,
     "rnk_blnd": 411,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ALEXIS ROESLER",
@@ -3705,7 +4116,8 @@
     "adj_time": 1462.1,
     "time_min": 1314.4,
     "rnk_blnd": 412,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "LIVIA KNECHT",
@@ -3714,7 +4126,8 @@
     "adj_time": 1462.79,
     "time_min": 1403.05,
     "rnk_blnd": 413,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "JIMENA ARAIZA",
@@ -3723,7 +4136,8 @@
     "adj_time": 1463.3,
     "time_min": 1186.55,
     "rnk_blnd": 414,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CALLIE BOURNE",
@@ -3732,7 +4146,8 @@
     "adj_time": 1463.53,
     "time_min": 1408.82,
     "rnk_blnd": 415,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "PAIGE MENTELE",
@@ -3741,7 +4156,8 @@
     "adj_time": 1461.71,
     "time_min": 1353.76,
     "rnk_blnd": 416,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "LEXI WILKINS",
@@ -3750,7 +4166,8 @@
     "adj_time": 1463.98,
     "time_min": 1372.76,
     "rnk_blnd": 417,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "TRUEN BAST",
@@ -3759,7 +4176,8 @@
     "adj_time": 1464.27,
     "time_min": 1328.9,
     "rnk_blnd": 418,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "LOU SCHLADWEILER",
@@ -3768,7 +4186,8 @@
     "adj_time": 1464.63,
     "time_min": 1340.98,
     "rnk_blnd": 419,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KATIE SPATZ",
@@ -3777,7 +4196,8 @@
     "adj_time": 1472,
     "time_min": 1392.25,
     "rnk_blnd": 420,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "SAIGE JUNGWIRTH",
@@ -3786,7 +4206,8 @@
     "adj_time": 1464.81,
     "time_min": 1412.63,
     "rnk_blnd": 421,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ELSA SCHIFERL",
@@ -3795,7 +4216,8 @@
     "adj_time": 1465.25,
     "time_min": 1381.15,
     "rnk_blnd": 422,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "TAYLOR ZEISLER",
@@ -3804,7 +4226,8 @@
     "adj_time": 1465.71,
     "time_min": 1338.37,
     "rnk_blnd": 423,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "DULCIE VEURINK",
@@ -3813,7 +4236,8 @@
     "adj_time": 1465.03,
     "time_min": 1339.9,
     "rnk_blnd": 424,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "JAEL BURKHALTER",
@@ -3822,7 +4246,8 @@
     "adj_time": 1468.1,
     "time_min": 1382.01,
     "rnk_blnd": 425,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ALEXA NANNINGA",
@@ -3831,7 +4256,8 @@
     "adj_time": 1468.16,
     "time_min": 1356.14,
     "rnk_blnd": 426,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "MIA RIIBE",
@@ -3840,7 +4266,8 @@
     "adj_time": 1466.97,
     "time_min": 1443.28,
     "rnk_blnd": 427,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "KAELYN LEFORS",
@@ -3849,7 +4276,8 @@
     "adj_time": 1469.44,
     "time_min": 1441.24,
     "rnk_blnd": 428,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "KAYLA HARRIS",
@@ -3858,7 +4286,8 @@
     "adj_time": 1469.9,
     "time_min": 1418.5,
     "rnk_blnd": 429,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "MYA FLEMMING",
@@ -3867,7 +4296,8 @@
     "adj_time": 1469.96,
     "time_min": 1301.5,
     "rnk_blnd": 430,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "EMMA LINDAMAN",
@@ -3876,7 +4306,8 @@
     "adj_time": 1470.21,
     "time_min": 1490.2,
     "rnk_blnd": 431,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "ZAYDA TOWNSEND",
@@ -3885,7 +4316,8 @@
     "adj_time": 1468.27,
     "time_min": 1400.16,
     "rnk_blnd": 432,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "CHASTITY HAWK",
@@ -3894,7 +4326,8 @@
     "adj_time": 1471.28,
     "time_min": 1371.25,
     "rnk_blnd": 433,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "LARA OLOWU-DAVIES",
@@ -3903,7 +4336,8 @@
     "adj_time": 1472.14,
     "time_min": 1353.34,
     "rnk_blnd": 434,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ANNALISE RITER",
@@ -3912,7 +4346,8 @@
     "adj_time": 1472.35,
     "time_min": 1492.37,
     "rnk_blnd": 435,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "HADLEY GJERDE",
@@ -3921,7 +4356,8 @@
     "adj_time": 1472.39,
     "time_min": 1353.52,
     "rnk_blnd": 436,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "JASMINE MILLER",
@@ -3930,7 +4366,8 @@
     "adj_time": 1474.23,
     "time_min": 1437.9,
     "rnk_blnd": 437,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "LUCY DEVRIES",
@@ -3939,7 +4376,8 @@
     "adj_time": 1475.2,
     "time_min": 1495.26,
     "rnk_blnd": 438,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "TAYA STONE",
@@ -3948,7 +4386,8 @@
     "adj_time": 1475.48,
     "time_min": 1372.18,
     "rnk_blnd": 439,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "TESSA AUDISS",
@@ -3957,7 +4396,8 @@
     "adj_time": 1476.23,
     "time_min": 1392.8,
     "rnk_blnd": 440,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "TAYLOR BOEHNKE",
@@ -3966,7 +4406,8 @@
     "adj_time": 1476.59,
     "time_min": 1403.51,
     "rnk_blnd": 441,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ANNIAH RUSSELL",
@@ -3975,7 +4416,8 @@
     "adj_time": 1482.85,
     "time_min": 1310.3,
     "rnk_blnd": 442,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "DANNICA SHEETS",
@@ -3984,7 +4426,8 @@
     "adj_time": 1477.63,
     "time_min": 1371.23,
     "rnk_blnd": 443,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "BRYNN VOSS",
@@ -3993,7 +4436,8 @@
     "adj_time": 1477.98,
     "time_min": 1436.72,
     "rnk_blnd": 444,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "MACEY WIGG",
@@ -4002,7 +4446,8 @@
     "adj_time": 1478.57,
     "time_min": 1491.95,
     "rnk_blnd": 445,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "AVERY MARTINEZ",
@@ -4011,7 +4456,8 @@
     "adj_time": 1477.37,
     "time_min": 1350.45,
     "rnk_blnd": 446,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "EMMA KNUTSON",
@@ -4020,7 +4466,8 @@
     "adj_time": 1480.06,
     "time_min": 1430.53,
     "rnk_blnd": 447,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "LANDREE LAMONT",
@@ -4029,7 +4476,8 @@
     "adj_time": 1480.11,
     "time_min": 1365.1,
     "rnk_blnd": 448,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "JAYLYNN KNOX",
@@ -4038,7 +4486,8 @@
     "adj_time": 1482.89,
     "time_min": 1329.2,
     "rnk_blnd": 449,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "CAMBRY VOSS",
@@ -4047,7 +4496,8 @@
     "adj_time": 1483.32,
     "time_min": 1388.55,
     "rnk_blnd": 450,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "BRAELYNN HOLT",
@@ -4056,7 +4506,8 @@
     "adj_time": 1483.65,
     "time_min": 1418.7,
     "rnk_blnd": 451,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ADDISON REICHLING",
@@ -4065,7 +4516,8 @@
     "adj_time": 1484,
     "time_min": 1386.14,
     "rnk_blnd": 452,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "LAINEY GOERTZ",
@@ -4074,7 +4526,8 @@
     "adj_time": 1485.07,
     "time_min": 1253.12,
     "rnk_blnd": 453,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "RYLIN WIPF",
@@ -4083,7 +4536,8 @@
     "adj_time": 1485.12,
     "time_min": 1344.28,
     "rnk_blnd": 454,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "MADDIE NEBELSICK",
@@ -4092,7 +4546,8 @@
     "adj_time": 1486.79,
     "time_min": 1412.67,
     "rnk_blnd": 455,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AVERY BIRKEL",
@@ -4101,7 +4556,8 @@
     "adj_time": 1486.83,
     "time_min": 1354.25,
     "rnk_blnd": 456,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ESTHER BURKHALTER",
@@ -4110,7 +4566,8 @@
     "adj_time": 1487.31,
     "time_min": 1470,
     "rnk_blnd": 457,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "KIMI RAMA",
@@ -4119,7 +4576,8 @@
     "adj_time": 1488.38,
     "time_min": 1404.01,
     "rnk_blnd": 458,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ZOEY SUTER-MAIER",
@@ -4128,7 +4586,8 @@
     "adj_time": 1490.5,
     "time_min": 1472,
     "rnk_blnd": 459,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "RACHEL STEFFENSEN",
@@ -4137,7 +4596,8 @@
     "adj_time": 1490.57,
     "time_min": 1381.18,
     "rnk_blnd": 460,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "MORAH SWARTZENDRUBER",
@@ -4146,7 +4606,8 @@
     "adj_time": 1491.61,
     "time_min": 1336.3,
     "rnk_blnd": 461,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ALEXSIS RED BIRD",
@@ -4155,7 +4616,8 @@
     "adj_time": 1496.01,
     "time_min": 1388.03,
     "rnk_blnd": 462,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AVERY MANKE",
@@ -4164,7 +4626,8 @@
     "adj_time": 1491.99,
     "time_min": 1385.5,
     "rnk_blnd": 463,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "RUE KNUDSON",
@@ -4173,7 +4636,8 @@
     "adj_time": 1492.25,
     "time_min": 1384.4,
     "rnk_blnd": 464,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "MEREDITH LARSON",
@@ -4182,7 +4646,8 @@
     "adj_time": 1493.4,
     "time_min": 1364.4,
     "rnk_blnd": 465,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "NIKA FURNEY",
@@ -4191,7 +4656,8 @@
     "adj_time": 1495.37,
     "time_min": 1382,
     "rnk_blnd": 466,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "IVORY LABATTE",
@@ -4200,7 +4666,8 @@
     "adj_time": 1494.66,
     "time_min": 1448,
     "rnk_blnd": 467,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "JAY RIOS",
@@ -4209,7 +4676,8 @@
     "adj_time": 1496.05,
     "time_min": 1481.76,
     "rnk_blnd": 468,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "TAYA WETTLAUFER",
@@ -4218,7 +4686,8 @@
     "adj_time": 1496.18,
     "time_min": 1387.58,
     "rnk_blnd": 469,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "MCKENZIE RANS",
@@ -4227,7 +4696,8 @@
     "adj_time": 1496.44,
     "time_min": 1350.77,
     "rnk_blnd": 470,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "AUBRIELLA MAAS",
@@ -4236,7 +4706,8 @@
     "adj_time": 1497.07,
     "time_min": 1511.8,
     "rnk_blnd": 471,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "SOFIA GONZALEZ",
@@ -4245,7 +4716,8 @@
     "adj_time": 1498.29,
     "time_min": 1319.96,
     "rnk_blnd": 472,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "RAYONNA BRAVE BIRD",
@@ -4254,7 +4726,8 @@
     "adj_time": 1498.74,
     "time_min": 1373.01,
     "rnk_blnd": 473,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "EMMA HALVERSON",
@@ -4263,7 +4736,8 @@
     "adj_time": 1499.2,
     "time_min": 1376.13,
     "rnk_blnd": 474,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CHLOE LEE",
@@ -4272,7 +4746,8 @@
     "adj_time": 1500.64,
     "time_min": 1461.64,
     "rnk_blnd": 475,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AVA CARLEY",
@@ -4281,7 +4756,8 @@
     "adj_time": 1501.23,
     "time_min": 1444.41,
     "rnk_blnd": 476,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ADELIA GROHER",
@@ -4290,7 +4766,8 @@
     "adj_time": 1502.39,
     "time_min": 1522.82,
     "rnk_blnd": 477,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JACLYN RICHTER",
@@ -4299,7 +4776,8 @@
     "adj_time": 1503.16,
     "time_min": 1406.92,
     "rnk_blnd": 478,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "TYANN BALSDAN",
@@ -4308,7 +4786,8 @@
     "adj_time": 1505.35,
     "time_min": 1521.1,
     "rnk_blnd": 479,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "EMMA REIHE",
@@ -4317,7 +4796,8 @@
     "adj_time": 1506.21,
     "time_min": 1414.16,
     "rnk_blnd": 480,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "TENLY SLABA",
@@ -4326,7 +4806,8 @@
     "adj_time": 1507.01,
     "time_min": 1354.27,
     "rnk_blnd": 481,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "OLIVIA BOYLE",
@@ -4335,7 +4816,8 @@
     "adj_time": 1507.08,
     "time_min": 1355.02,
     "rnk_blnd": 482,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KATE BLAIR",
@@ -4344,7 +4826,8 @@
     "adj_time": 1507.99,
     "time_min": 1339.83,
     "rnk_blnd": 483,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "SHARON ZHANG",
@@ -4353,7 +4836,8 @@
     "adj_time": 1511.59,
     "time_min": 1435.48,
     "rnk_blnd": 484,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AMELIA GIESE",
@@ -4362,7 +4846,8 @@
     "adj_time": 1508.62,
     "time_min": 1280.28,
     "rnk_blnd": 485,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "SYDNIE PISCHEL",
@@ -4371,7 +4856,8 @@
     "adj_time": 1509.23,
     "time_min": 1427.97,
     "rnk_blnd": 486,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "ELLA FOX",
@@ -4380,7 +4866,8 @@
     "adj_time": 1509.13,
     "time_min": 1446.1,
     "rnk_blnd": 487,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "NEVAEH REITZ",
@@ -4389,7 +4876,8 @@
     "adj_time": 1511.26,
     "time_min": 1459.78,
     "rnk_blnd": 488,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "KENDRA THORP",
@@ -4398,7 +4886,8 @@
     "adj_time": 1511.29,
     "time_min": 1401.63,
     "rnk_blnd": 489,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "MASYNN MEBIUS",
@@ -4407,7 +4896,8 @@
     "adj_time": 1513.57,
     "time_min": 1327.4,
     "rnk_blnd": 490,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "NATALIE BOWAR",
@@ -4416,7 +4906,8 @@
     "adj_time": 1514.39,
     "time_min": 1425.8,
     "rnk_blnd": 491,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "BAILEY MINES",
@@ -4425,7 +4916,8 @@
     "adj_time": 1515.24,
     "time_min": 1387.82,
     "rnk_blnd": 492,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "MILLIE PATTERSON",
@@ -4434,7 +4926,8 @@
     "adj_time": 1516.69,
     "time_min": 1479.32,
     "rnk_blnd": 493,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "ANNIKA OLSON",
@@ -4443,7 +4936,8 @@
     "adj_time": 1518.01,
     "time_min": 1359.27,
     "rnk_blnd": 494,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "OHANNA SINCLAIR",
@@ -4452,7 +4946,8 @@
     "adj_time": 1518.46,
     "time_min": 1401.63,
     "rnk_blnd": 495,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ELLA KOLOUSEK",
@@ -4461,7 +4956,8 @@
     "adj_time": 1518.76,
     "time_min": 1440.01,
     "rnk_blnd": 496,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "JULIA KINSLEY",
@@ -4470,7 +4966,8 @@
     "adj_time": 1518.83,
     "time_min": 1335.7,
     "rnk_blnd": 497,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KYNSLEE MUSHITZ",
@@ -4479,7 +4976,8 @@
     "adj_time": 1519.19,
     "time_min": 1430.3,
     "rnk_blnd": 498,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "AVA MCMAHAN",
@@ -4488,7 +4986,8 @@
     "adj_time": 1519.21,
     "time_min": 1443.12,
     "rnk_blnd": 499,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "REBECCA HAICH",
@@ -4497,7 +4996,8 @@
     "adj_time": 1519.34,
     "time_min": 1394.06,
     "rnk_blnd": 500,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "EMILY KEHN",
@@ -4506,7 +5006,8 @@
     "adj_time": 1521.72,
     "time_min": 1396.59,
     "rnk_blnd": 501,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ABBY DOSE",
@@ -4515,7 +5016,8 @@
     "adj_time": 1521.87,
     "time_min": 1425.06,
     "rnk_blnd": 502,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "QUINN HURD",
@@ -4524,7 +5026,8 @@
     "adj_time": 1522.8,
     "time_min": 1412.6,
     "rnk_blnd": 503,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "VIOLET VYSKOCIL",
@@ -4533,7 +5036,8 @@
     "adj_time": 1524,
     "time_min": 1380.21,
     "rnk_blnd": 504,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CARSON ERNSTER",
@@ -4542,7 +5046,8 @@
     "adj_time": 1524.27,
     "time_min": 1545,
     "rnk_blnd": 505,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "BRYNN CLEMENTSON",
@@ -4551,7 +5056,8 @@
     "adj_time": 1526.1,
     "time_min": 1546.85,
     "rnk_blnd": 506,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "SIENNA NECK",
@@ -4560,7 +5066,8 @@
     "adj_time": 1526.23,
     "time_min": 1460.68,
     "rnk_blnd": 507,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": null
   },
   {
     "Name": "KENNEDI VANOVERBEKE",
@@ -4569,7 +5076,8 @@
     "adj_time": 1526.68,
     "time_min": 1435.01,
     "rnk_blnd": 508,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ELLA PERMAN",
@@ -4578,7 +5086,8 @@
     "adj_time": 1526.89,
     "time_min": 1341.7,
     "rnk_blnd": 509,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "HEIDI CARLSON",
@@ -4587,7 +5096,8 @@
     "adj_time": 1527.31,
     "time_min": 1418.5,
     "rnk_blnd": 510,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "QUINN WOLBERG",
@@ -4596,7 +5106,8 @@
     "adj_time": 1528.32,
     "time_min": 1423.1,
     "rnk_blnd": 511,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ADA MADDOX",
@@ -4605,7 +5116,8 @@
     "adj_time": 1529.03,
     "time_min": 1415.01,
     "rnk_blnd": 512,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "PAYTON LOGAN",
@@ -4614,7 +5126,8 @@
     "adj_time": 1529.56,
     "time_min": 1434.06,
     "rnk_blnd": 513,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "BREAW NETH",
@@ -4623,7 +5136,8 @@
     "adj_time": 1539.36,
     "time_min": 1452,
     "rnk_blnd": 514,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "MARLEE OLSEN",
@@ -4632,7 +5146,8 @@
     "adj_time": 1531,
     "time_min": 1440.2,
     "rnk_blnd": 515,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "PAYCEE LEE",
@@ -4641,7 +5156,8 @@
     "adj_time": 1537.22,
     "time_min": 1293.01,
     "rnk_blnd": 516,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ANDI IVERSON",
@@ -4650,7 +5166,8 @@
     "adj_time": 1532.5,
     "time_min": 1443.46,
     "rnk_blnd": 517,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ADDISON NYDAM",
@@ -4659,7 +5176,8 @@
     "adj_time": 1530.49,
     "time_min": 1379.49,
     "rnk_blnd": 518,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "SAMANTHA TROXELL",
@@ -4668,7 +5186,8 @@
     "adj_time": 1532.65,
     "time_min": 1479.55,
     "rnk_blnd": 519,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ANNA MARTINMAAS",
@@ -4677,7 +5196,8 @@
     "adj_time": 1532.7,
     "time_min": 1360.1,
     "rnk_blnd": 520,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "AMARA RINEHART",
@@ -4686,7 +5206,8 @@
     "adj_time": 1536.66,
     "time_min": 1452.08,
     "rnk_blnd": 521,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "EVELYN GARCIA",
@@ -4695,7 +5216,8 @@
     "adj_time": 1534.26,
     "time_min": 1520.49,
     "rnk_blnd": 522,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "EMMA SCOTT",
@@ -4704,7 +5226,8 @@
     "adj_time": 1537.31,
     "time_min": 1338.99,
     "rnk_blnd": 523,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ELIZABETH BOSCHEE",
@@ -4713,7 +5236,8 @@
     "adj_time": 1535.1,
     "time_min": 1352.82,
     "rnk_blnd": 524,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ISABEL GURNEY",
@@ -4722,7 +5246,8 @@
     "adj_time": 1537.7,
     "time_min": null,
     "rnk_blnd": 525,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JESSI BACHMAN",
@@ -4731,7 +5256,8 @@
     "adj_time": 1543.19,
     "time_min": 1328.13,
     "rnk_blnd": 526,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "SHELLY LARVIE",
@@ -4740,7 +5266,8 @@
     "adj_time": 1539.61,
     "time_min": 1395.33,
     "rnk_blnd": 527,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "KEIRA THORP",
@@ -4749,7 +5276,8 @@
     "adj_time": 1540,
     "time_min": 1547.89,
     "rnk_blnd": 528,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "KENDALL CLAYTON",
@@ -4758,7 +5286,8 @@
     "adj_time": 1540.34,
     "time_min": 1477.21,
     "rnk_blnd": 529,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "HARPER SPILDE",
@@ -4767,7 +5296,8 @@
     "adj_time": 1540.37,
     "time_min": 1548.74,
     "rnk_blnd": 530,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "KANYN PADDEN",
@@ -4776,7 +5306,8 @@
     "adj_time": 1537.55,
     "time_min": 1444.86,
     "rnk_blnd": 531,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "KATHERINE O'NEAL",
@@ -4785,7 +5316,8 @@
     "adj_time": 1542.54,
     "time_min": 1439.32,
     "rnk_blnd": 532,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "AMELIA THREE FINGERS",
@@ -4794,7 +5326,8 @@
     "adj_time": 1542.58,
     "time_min": 1417.49,
     "rnk_blnd": 533,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "ASHLYNN KRUGER",
@@ -4803,7 +5336,8 @@
     "adj_time": 1544.41,
     "time_min": 1466.41,
     "rnk_blnd": 534,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ESTIE KUCHTA",
@@ -4812,7 +5346,8 @@
     "adj_time": 1542.06,
     "time_min": 1427.11,
     "rnk_blnd": 535,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "HALEY CAHOY",
@@ -4821,7 +5356,8 @@
     "adj_time": 1543.69,
     "time_min": 1539,
     "rnk_blnd": 536,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ALEAH HETTICH",
@@ -4830,7 +5366,8 @@
     "adj_time": 1542.78,
     "time_min": 1453.7,
     "rnk_blnd": 537,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "CLARA HERREID",
@@ -4839,7 +5376,8 @@
     "adj_time": 1548.78,
     "time_min": 1445.3,
     "rnk_blnd": 538,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "JAYLEA MILLER",
@@ -4848,7 +5386,8 @@
     "adj_time": 1544.44,
     "time_min": 1554.5,
     "rnk_blnd": 539,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "MYLI WEISCHEDEL",
@@ -4857,7 +5396,8 @@
     "adj_time": 1543.81,
     "time_min": 1342,
     "rnk_blnd": 540,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "JOANNA GUMS",
@@ -4866,7 +5406,8 @@
     "adj_time": 1546.56,
     "time_min": 1329.37,
     "rnk_blnd": 541,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "PEYTON AHLEMEIER",
@@ -4875,7 +5416,8 @@
     "adj_time": 1546.12,
     "time_min": 1367.3,
     "rnk_blnd": 542,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ALEXA CHASE",
@@ -4884,7 +5426,8 @@
     "adj_time": 1546.84,
     "time_min": 1429.43,
     "rnk_blnd": 543,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "BAILEY NOLD",
@@ -4893,7 +5436,8 @@
     "adj_time": 1546.88,
     "time_min": 1442.4,
     "rnk_blnd": 544,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "KYLEE VANZANDBERGEN",
@@ -4902,7 +5446,8 @@
     "adj_time": 1547.84,
     "time_min": 1482.91,
     "rnk_blnd": 545,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AFFINITY IRON HAWK",
@@ -4911,7 +5456,8 @@
     "adj_time": 1546.71,
     "time_min": 1377.83,
     "rnk_blnd": 546,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "DAPHNE BROUWER",
@@ -4920,7 +5466,8 @@
     "adj_time": 1549.2,
     "time_min": 1512.14,
     "rnk_blnd": 547,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ADRIENNE WHITE LANCE",
@@ -4929,7 +5476,8 @@
     "adj_time": 1550.06,
     "time_min": 1459.2,
     "rnk_blnd": 548,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "LILLY FLOOD",
@@ -4938,7 +5486,8 @@
     "adj_time": 1550.35,
     "time_min": 1536.51,
     "rnk_blnd": 549,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "KADLIN HAMBCACHT",
@@ -4947,7 +5496,8 @@
     "adj_time": 1550.7,
     "time_min": 1464.1,
     "rnk_blnd": 550,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "SAVANAH WIELENGA",
@@ -4956,7 +5506,8 @@
     "adj_time": 1550.89,
     "time_min": 1392,
     "rnk_blnd": 551,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "IZABELL CEROLL",
@@ -4965,7 +5516,8 @@
     "adj_time": 1551.2,
     "time_min": 1497.21,
     "rnk_blnd": 552,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "LANDRIE HAHN",
@@ -4974,7 +5526,8 @@
     "adj_time": 1552.48,
     "time_min": 1464.21,
     "rnk_blnd": 553,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "FAITH PEKRON",
@@ -4983,7 +5536,8 @@
     "adj_time": 1554.3,
     "time_min": 1569.93,
     "rnk_blnd": 554,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ROSA AINSLIE",
@@ -4992,7 +5546,8 @@
     "adj_time": 1555.43,
     "time_min": 1376.18,
     "rnk_blnd": 555,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "LYDIA JUNGWIRTH",
@@ -5001,7 +5556,8 @@
     "adj_time": 1556.24,
     "time_min": 1513.73,
     "rnk_blnd": 556,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AMYA WARD",
@@ -5010,7 +5566,8 @@
     "adj_time": 1556.43,
     "time_min": 1399.17,
     "rnk_blnd": 557,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "DARABY BOERSMA",
@@ -5019,7 +5576,8 @@
     "adj_time": 1557.01,
     "time_min": 1370.9,
     "rnk_blnd": 558,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ABBIE ECKERT",
@@ -5028,7 +5586,8 @@
     "adj_time": 1557.16,
     "time_min": 1462.17,
     "rnk_blnd": 559,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "AUBREY GUY",
@@ -5037,7 +5596,8 @@
     "adj_time": 1557.48,
     "time_min": 1469.59,
     "rnk_blnd": 560,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "JALYN TYON",
@@ -5046,7 +5606,8 @@
     "adj_time": 1558.53,
     "time_min": 1449.8,
     "rnk_blnd": 561,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ALAINA ALBRECHT",
@@ -5055,7 +5616,8 @@
     "adj_time": 1559.6,
     "time_min": 1541.09,
     "rnk_blnd": 562,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ATHENA WHITE ELK",
@@ -5064,7 +5626,8 @@
     "adj_time": 1560.64,
     "time_min": 1430.64,
     "rnk_blnd": 563,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "KIRTI PICKARD",
@@ -5073,7 +5636,8 @@
     "adj_time": 1563.8,
     "time_min": 1520.68,
     "rnk_blnd": 564,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "SOPHIA SHUDAK",
@@ -5082,7 +5646,8 @@
     "adj_time": 1563.82,
     "time_min": 1441.02,
     "rnk_blnd": 565,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 11
   },
   {
     "Name": "BELLA WILLUWEIT",
@@ -5091,7 +5656,8 @@
     "adj_time": 1565.12,
     "time_min": 1526.55,
     "rnk_blnd": 566,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "GENTRIE BLASIUS",
@@ -5100,7 +5666,8 @@
     "adj_time": 1567.04,
     "time_min": 1463,
     "rnk_blnd": 567,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "BRIANNA NOBEL",
@@ -5109,7 +5676,8 @@
     "adj_time": 1567.46,
     "time_min": 1330.2,
     "rnk_blnd": 568,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "HANNAH RIGO",
@@ -5118,7 +5686,8 @@
     "adj_time": 1567.87,
     "time_min": 1469.19,
     "rnk_blnd": 569,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KAYDENCE GERRY",
@@ -5127,7 +5696,8 @@
     "adj_time": 1568.96,
     "time_min": 1562.34,
     "rnk_blnd": 570,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "LILYANNA WRIGHT",
@@ -5136,7 +5706,8 @@
     "adj_time": 1570.14,
     "time_min": 1591.49,
     "rnk_blnd": 571,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "GRACIE KRAMER",
@@ -5145,7 +5716,8 @@
     "adj_time": 1576.46,
     "time_min": 1555.75,
     "rnk_blnd": 572,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "EVELYN LEBER",
@@ -5154,7 +5726,8 @@
     "adj_time": 1573.22,
     "time_min": 1540.64,
     "rnk_blnd": 573,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "JORJA NELSEN",
@@ -5163,7 +5736,8 @@
     "adj_time": 1573.28,
     "time_min": 1504.91,
     "rnk_blnd": 574,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ALIZA ADDY",
@@ -5172,7 +5746,8 @@
     "adj_time": 1575.55,
     "time_min": 1416.08,
     "rnk_blnd": 575,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "SARAH MESSLER",
@@ -5181,7 +5756,8 @@
     "adj_time": 1573.49,
     "time_min": 1525.82,
     "rnk_blnd": 576,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "COURTNEY MATHIEU",
@@ -5190,7 +5766,8 @@
     "adj_time": 1574.85,
     "time_min": 1528.05,
     "rnk_blnd": 577,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ALEXIS DALEY",
@@ -5199,7 +5776,8 @@
     "adj_time": 1570.46,
     "time_min": 1423.67,
     "rnk_blnd": 578,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "KATHERINA MALSOM",
@@ -5208,7 +5786,8 @@
     "adj_time": 1585.04,
     "time_min": 1348.4,
     "rnk_blnd": 579,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "CHLOE FOLTZ",
@@ -5217,7 +5796,8 @@
     "adj_time": 1579.54,
     "time_min": 1498.6,
     "rnk_blnd": 580,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "NORAH GONSOR",
@@ -5226,7 +5806,8 @@
     "adj_time": 1579.8,
     "time_min": 1464.15,
     "rnk_blnd": 581,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "ANNIE BOURNE",
@@ -5235,7 +5816,8 @@
     "adj_time": 1580.28,
     "time_min": 1548.63,
     "rnk_blnd": 582,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ANNA NORBY",
@@ -5244,7 +5826,8 @@
     "adj_time": 1582.44,
     "time_min": 1547.16,
     "rnk_blnd": 583,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ABBY SCHMIDT",
@@ -5253,7 +5836,8 @@
     "adj_time": 1584.64,
     "time_min": 1541.35,
     "rnk_blnd": 584,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "NEVAEH O'ROURKE",
@@ -5262,7 +5846,8 @@
     "adj_time": 1584.79,
     "time_min": 1430.64,
     "rnk_blnd": 585,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MOLLY NIX",
@@ -5271,7 +5856,8 @@
     "adj_time": 1578.96,
     "time_min": 1405.5,
     "rnk_blnd": 586,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "JEWEL BORDEAUX",
@@ -5280,7 +5866,8 @@
     "adj_time": 1585.77,
     "time_min": 1489.17,
     "rnk_blnd": 587,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "DREAMER COURNOYER",
@@ -5289,7 +5876,8 @@
     "adj_time": 1586.14,
     "time_min": 1563.56,
     "rnk_blnd": 588,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "BRYSTAL WALLMAN",
@@ -5298,7 +5886,8 @@
     "adj_time": 1588.51,
     "time_min": 1460,
     "rnk_blnd": 589,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "SOPHIA BOOMSMA",
@@ -5307,7 +5896,8 @@
     "adj_time": 1590.64,
     "time_min": 1469.9,
     "rnk_blnd": 590,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ALEXIS MOORE",
@@ -5316,7 +5906,8 @@
     "adj_time": 1591.4,
     "time_min": 1486.77,
     "rnk_blnd": 591,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "KASSANDRA ABBAS",
@@ -5325,7 +5916,8 @@
     "adj_time": 1591.69,
     "time_min": 1576.38,
     "rnk_blnd": 592,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "KAY LEIGH VAN WYK",
@@ -5334,7 +5926,8 @@
     "adj_time": 1591.85,
     "time_min": 1412.1,
     "rnk_blnd": 593,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "KASHLEY GOEBEL",
@@ -5343,7 +5936,8 @@
     "adj_time": 1592.49,
     "time_min": 1580.61,
     "rnk_blnd": 594,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "M'KENZIE LAROCHE",
@@ -5352,7 +5946,8 @@
     "adj_time": 1593.5,
     "time_min": 1397,
     "rnk_blnd": 595,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "HAYDEN EAGLE",
@@ -5361,7 +5956,8 @@
     "adj_time": 1597,
     "time_min": 1517.49,
     "rnk_blnd": 596,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "KARA DOSE",
@@ -5370,7 +5966,8 @@
     "adj_time": 1597.23,
     "time_min": 1462.81,
     "rnk_blnd": 597,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "FAITH JOHNSON",
@@ -5379,7 +5976,8 @@
     "adj_time": 1601.53,
     "time_min": 1555.36,
     "rnk_blnd": 598,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "TESSA HINMAN",
@@ -5388,7 +5986,8 @@
     "adj_time": 1602.26,
     "time_min": 1386.9,
     "rnk_blnd": 599,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "GABRIELLE KENNY",
@@ -5397,7 +5996,8 @@
     "adj_time": 1602.81,
     "time_min": 1484.46,
     "rnk_blnd": 600,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "EMMA REMPFER",
@@ -5406,7 +6006,8 @@
     "adj_time": 1607.72,
     "time_min": 1472.27,
     "rnk_blnd": 601,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "RILEY RAYSOR",
@@ -5415,7 +6016,8 @@
     "adj_time": 1608.53,
     "time_min": 1536.2,
     "rnk_blnd": 602,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "CAROLINE HUBER",
@@ -5424,7 +6026,8 @@
     "adj_time": 1608.77,
     "time_min": 1630.65,
     "rnk_blnd": 603,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ANISTON WHITLEY",
@@ -5433,7 +6036,8 @@
     "adj_time": 1609.15,
     "time_min": 1559.36,
     "rnk_blnd": 604,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "ALLIE GORTMAKER",
@@ -5442,7 +6046,8 @@
     "adj_time": 1611.23,
     "time_min": 1469.2,
     "rnk_blnd": 605,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MARIA ADDY",
@@ -5451,7 +6056,8 @@
     "adj_time": 1612.52,
     "time_min": 1452.06,
     "rnk_blnd": 606,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ELLA KAMPS",
@@ -5460,7 +6066,8 @@
     "adj_time": 1613.06,
     "time_min": 1629.94,
     "rnk_blnd": 607,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "HAYDEN SWANSON",
@@ -5469,7 +6076,8 @@
     "adj_time": 1614.42,
     "time_min": 1574.64,
     "rnk_blnd": 608,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "DYSTINY LOSS",
@@ -5478,7 +6086,8 @@
     "adj_time": 1614.96,
     "time_min": 1546,
     "rnk_blnd": 609,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "SAMANTHA MONEKE",
@@ -5487,7 +6096,8 @@
     "adj_time": 1616.11,
     "time_min": 1638.09,
     "rnk_blnd": 610,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "MYA WARNKE",
@@ -5496,7 +6106,8 @@
     "adj_time": 1616.3,
     "time_min": 1450,
     "rnk_blnd": 611,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "GRACE CURTIS",
@@ -5505,7 +6116,8 @@
     "adj_time": 1616.53,
     "time_min": 1548.72,
     "rnk_blnd": 612,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "CORDELIA ADAMS",
@@ -5514,7 +6126,8 @@
     "adj_time": 1616.73,
     "time_min": 1574.86,
     "rnk_blnd": 613,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "NATALIE HYRONIMUS",
@@ -5523,7 +6136,8 @@
     "adj_time": 1618.57,
     "time_min": 1635.5,
     "rnk_blnd": 614,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ADDISYN HEINRICH",
@@ -5532,7 +6146,8 @@
     "adj_time": 1619.28,
     "time_min": 1534.18,
     "rnk_blnd": 615,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "BETHANY MAHAFFY",
@@ -5541,7 +6156,8 @@
     "adj_time": 1619.33,
     "time_min": 1558.37,
     "rnk_blnd": 616,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "TARA ENGELSON",
@@ -5550,7 +6166,8 @@
     "adj_time": 1622.69,
     "time_min": 1644.76,
     "rnk_blnd": 617,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "LILY SCHLUETER",
@@ -5559,7 +6176,8 @@
     "adj_time": 1623.66,
     "time_min": 1549.62,
     "rnk_blnd": 618,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KHLOE MACKEY",
@@ -5568,7 +6186,8 @@
     "adj_time": 1624.48,
     "time_min": 1542.33,
     "rnk_blnd": 619,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 8
   },
   {
     "Name": "ELYSSA TEDDER",
@@ -5577,7 +6196,8 @@
     "adj_time": 1628.07,
     "time_min": 1559.78,
     "rnk_blnd": 620,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CLAIRE VOGEL",
@@ -5586,7 +6206,8 @@
     "adj_time": 1628.3,
     "time_min": 1552.09,
     "rnk_blnd": 621,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "AMELIA LOBAN",
@@ -5595,7 +6216,8 @@
     "adj_time": 1629.84,
     "time_min": 1442.6,
     "rnk_blnd": 622,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "JAIDYNN GIEDD",
@@ -5604,7 +6226,8 @@
     "adj_time": 1630.82,
     "time_min": 1646.59,
     "rnk_blnd": 623,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "KATELYN BOND",
@@ -5613,7 +6236,8 @@
     "adj_time": 1631.06,
     "time_min": 1564.05,
     "rnk_blnd": 624,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "MAKENNA PRYOR",
@@ -5622,7 +6246,8 @@
     "adj_time": 1631.15,
     "time_min": 1525.81,
     "rnk_blnd": 625,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "HAILEY LAHR",
@@ -5631,7 +6256,8 @@
     "adj_time": 1634.69,
     "time_min": 1640.17,
     "rnk_blnd": 626,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "JORDYN RED WING",
@@ -5640,7 +6266,8 @@
     "adj_time": 1636.06,
     "time_min": 1653.18,
     "rnk_blnd": 627,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "MICHELLE HAS HORNS",
@@ -5649,7 +6276,8 @@
     "adj_time": 1636.19,
     "time_min": 1488.2,
     "rnk_blnd": 628,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "CLAIRE ROWLEY",
@@ -5658,7 +6286,8 @@
     "adj_time": 1636.39,
     "time_min": 1466.96,
     "rnk_blnd": 629,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CINDER HOFFMAN",
@@ -5667,7 +6296,8 @@
     "adj_time": 1642.52,
     "time_min": 1501.78,
     "rnk_blnd": 630,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "BRITNEY RUEB",
@@ -5676,7 +6306,8 @@
     "adj_time": 1643.43,
     "time_min": 1594,
     "rnk_blnd": 631,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "MAGGIE DOWLING",
@@ -5685,7 +6316,8 @@
     "adj_time": 1643.51,
     "time_min": 1441.6,
     "rnk_blnd": 632,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "TRE'ANN RISING SUN",
@@ -5694,7 +6326,8 @@
     "adj_time": 1644.95,
     "time_min": 1502.66,
     "rnk_blnd": 633,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "SAIGE LESSMAN",
@@ -5703,7 +6336,8 @@
     "adj_time": 1646.49,
     "time_min": 1559.06,
     "rnk_blnd": 634,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "AVAH NEWMAN",
@@ -5712,7 +6346,8 @@
     "adj_time": 1646.92,
     "time_min": 1512.64,
     "rnk_blnd": 635,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "ANNA ALVEY",
@@ -5721,7 +6356,8 @@
     "adj_time": 1647.88,
     "time_min": 1508.62,
     "rnk_blnd": 636,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "JADIS REDDY",
@@ -5730,7 +6366,8 @@
     "adj_time": 1651.05,
     "time_min": 1576.28,
     "rnk_blnd": 637,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "DEVRAH MEYER",
@@ -5739,7 +6376,8 @@
     "adj_time": 1651.51,
     "time_min": 1619.65,
     "rnk_blnd": 638,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "STELLA WARREN",
@@ -5748,7 +6386,8 @@
     "adj_time": 1653.34,
     "time_min": 1461.72,
     "rnk_blnd": 639,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "KAT MCMAHON",
@@ -5757,7 +6396,8 @@
     "adj_time": 1653.55,
     "time_min": 1551.56,
     "rnk_blnd": 640,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "AMBERLYN HOMER",
@@ -5766,7 +6406,8 @@
     "adj_time": 1656.05,
     "time_min": 1500.6,
     "rnk_blnd": 641,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "SADIE CARLSON",
@@ -5775,7 +6416,8 @@
     "adj_time": 1666.92,
     "time_min": 1530,
     "rnk_blnd": 642,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "RONA STREITZ",
@@ -5784,7 +6426,8 @@
     "adj_time": 1667.87,
     "time_min": 1673.46,
     "rnk_blnd": 643,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "CADENCE CAP",
@@ -5793,7 +6436,8 @@
     "adj_time": 1668.39,
     "time_min": 1532.3,
     "rnk_blnd": 644,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "ANASTASIA KIEFFER",
@@ -5802,7 +6446,8 @@
     "adj_time": 1669.29,
     "time_min": 1691.99,
     "rnk_blnd": 645,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "WINTER THUNDERHAWK",
@@ -5811,7 +6456,8 @@
     "adj_time": 1672.43,
     "time_min": 1637.8,
     "rnk_blnd": 646,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "ALYSSA RICHTERS",
@@ -5820,7 +6466,8 @@
     "adj_time": 1674.37,
     "time_min": 1633.11,
     "rnk_blnd": 647,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "KAMBRI CLAUSSEN",
@@ -5829,7 +6476,8 @@
     "adj_time": 1680.45,
     "time_min": 1462.48,
     "rnk_blnd": 648,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "BRYNN KIRK",
@@ -5838,7 +6486,8 @@
     "adj_time": 1681.29,
     "time_min": 1720.14,
     "rnk_blnd": 649,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "VANESSA ANDERSON",
@@ -5847,7 +6496,8 @@
     "adj_time": 1682.09,
     "time_min": 1691.23,
     "rnk_blnd": 650,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "DARLA BARNES",
@@ -5856,7 +6506,8 @@
     "adj_time": 1682.58,
     "time_min": 1656,
     "rnk_blnd": 651,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "TRUDIE HOFER",
@@ -5865,7 +6516,8 @@
     "adj_time": 1686.64,
     "time_min": 1598,
     "rnk_blnd": 652,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 11
   },
   {
     "Name": "ANDREA SANCHEZ",
@@ -5874,7 +6526,8 @@
     "adj_time": 1686.96,
     "time_min": 1522.65,
     "rnk_blnd": 653,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 8
   },
   {
     "Name": "MONICA GIAGO",
@@ -5883,7 +6536,8 @@
     "adj_time": 1688.74,
     "time_min": 1566.91,
     "rnk_blnd": 654,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "JOSLIN BORDEAUX",
@@ -5892,7 +6546,8 @@
     "adj_time": 1689.75,
     "time_min": 1522.41,
     "rnk_blnd": 655,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "IVANA SCHAEFFER",
@@ -5901,7 +6556,8 @@
     "adj_time": 1690.41,
     "time_min": 1518.75,
     "rnk_blnd": 656,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "LEAH CRICK",
@@ -5910,7 +6566,8 @@
     "adj_time": 1690.73,
     "time_min": 1516,
     "rnk_blnd": 657,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "KAIDENCE RUDE",
@@ -5919,7 +6576,8 @@
     "adj_time": 1692.63,
     "time_min": 1575.97,
     "rnk_blnd": 658,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "RYLEE ANDERSON",
@@ -5928,7 +6586,8 @@
     "adj_time": 1694.09,
     "time_min": 1701.07,
     "rnk_blnd": 659,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "DAKOTA OBERG",
@@ -5937,7 +6596,8 @@
     "adj_time": 1696.43,
     "time_min": 1598.4,
     "rnk_blnd": 660,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "CLAIR BAUMANN",
@@ -5946,7 +6606,8 @@
     "adj_time": 1697.51,
     "time_min": 1690.35,
     "rnk_blnd": 661,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "KRUE LUTTER",
@@ -5955,7 +6616,8 @@
     "adj_time": 1699.49,
     "time_min": 1585.81,
     "rnk_blnd": 662,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "LUCIA HOLSING",
@@ -5964,7 +6626,8 @@
     "adj_time": 1699.87,
     "time_min": 1611.84,
     "rnk_blnd": 663,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "CHESNIE GISSELBECK",
@@ -5973,7 +6636,8 @@
     "adj_time": 1700.8,
     "time_min": 1631,
     "rnk_blnd": 664,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "REGINA MEDINA",
@@ -5982,7 +6646,8 @@
     "adj_time": 1703.65,
     "time_min": 1635.15,
     "rnk_blnd": 665,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "KALA MAXON",
@@ -5991,7 +6656,8 @@
     "adj_time": 1704.68,
     "time_min": 1611.78,
     "rnk_blnd": 666,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AJ LINDNER",
@@ -6000,7 +6666,8 @@
     "adj_time": 1705.96,
     "time_min": 1684.99,
     "rnk_blnd": 667,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ANCORA GILKERSON",
@@ -6009,7 +6676,8 @@
     "adj_time": 1709.56,
     "time_min": 1365.79,
     "rnk_blnd": 668,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "AUBREY POWERS",
@@ -6018,7 +6686,8 @@
     "adj_time": 1714.73,
     "time_min": 1669.9,
     "rnk_blnd": 669,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "BREELYN DEMERY",
@@ -6027,7 +6696,8 @@
     "adj_time": 1715.33,
     "time_min": 1532,
     "rnk_blnd": 670,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "HARPER WATTIER",
@@ -6036,7 +6706,8 @@
     "adj_time": 1716.85,
     "time_min": 1612.65,
     "rnk_blnd": 671,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "JAYDE BAIRD",
@@ -6045,7 +6716,8 @@
     "adj_time": 1719.61,
     "time_min": 1743,
     "rnk_blnd": 672,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "MAYCIE KNUTSON",
@@ -6054,7 +6726,8 @@
     "adj_time": 1727.95,
     "time_min": 1751.45,
     "rnk_blnd": 673,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "ISABEL KULM",
@@ -6063,7 +6736,8 @@
     "adj_time": 1730.67,
     "time_min": 1736.47,
     "rnk_blnd": 674,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "LIVIA SCHULDT",
@@ -6072,7 +6746,8 @@
     "adj_time": 1739.24,
     "time_min": 1635.17,
     "rnk_blnd": 675,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "REYNA SANCHEZ",
@@ -6081,7 +6756,8 @@
     "adj_time": 1754.88,
     "time_min": 1620.23,
     "rnk_blnd": 676,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "DANIKA FLUTH",
@@ -6090,7 +6766,8 @@
     "adj_time": 1764.12,
     "time_min": 1709.26,
     "rnk_blnd": 677,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "GEORGIA ODENBACH",
@@ -6099,7 +6776,8 @@
     "adj_time": 1768.65,
     "time_min": 1503.6,
     "rnk_blnd": 678,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 10
   },
   {
     "Name": "BROOKE MELAND",
@@ -6108,7 +6786,8 @@
     "adj_time": 1769.28,
     "time_min": 1747.54,
     "rnk_blnd": 679,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "MARIN RHODE",
@@ -6117,7 +6796,8 @@
     "adj_time": 1773.94,
     "time_min": 1896.3,
     "rnk_blnd": 680,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "SHANNON LAVENDER",
@@ -6126,7 +6806,8 @@
     "adj_time": 1773.94,
     "time_min": 1576.52,
     "rnk_blnd": 681,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "MALYSSA FOUR HORNS",
@@ -6135,7 +6816,8 @@
     "adj_time": 1779.64,
     "time_min": 1751.74,
     "rnk_blnd": 682,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "LILY ANDERSON",
@@ -6144,7 +6826,8 @@
     "adj_time": 1785.64,
     "time_min": 1682.93,
     "rnk_blnd": 683,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "ISABELLA MACK",
@@ -6153,7 +6836,8 @@
     "adj_time": 1798.41,
     "time_min": 1759.48,
     "rnk_blnd": 684,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 12
   },
   {
     "Name": "HALEY HARKNESS",
@@ -6162,7 +6846,8 @@
     "adj_time": 1801.29,
     "time_min": 1718.36,
     "rnk_blnd": 685,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "DELAYNE RAINBOW",
@@ -6171,7 +6856,8 @@
     "adj_time": 1804.28,
     "time_min": 1714.31,
     "rnk_blnd": 686,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "ELLA BORDEAUX",
@@ -6180,7 +6866,8 @@
     "adj_time": 1807.51,
     "time_min": 1623.62,
     "rnk_blnd": 687,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 7
   },
   {
     "Name": "REMI HUBSCH",
@@ -6189,7 +6876,8 @@
     "adj_time": 1823.32,
     "time_min": 1737.58,
     "rnk_blnd": 688,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "SCARLETT COLE",
@@ -6198,7 +6886,8 @@
     "adj_time": 1828.4,
     "time_min": 1652,
     "rnk_blnd": 689,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 8
   },
   {
     "Name": "LILLIAN BOWAR",
@@ -6207,7 +6896,8 @@
     "adj_time": 1830.48,
     "time_min": 1700.4,
     "rnk_blnd": 690,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "ROWAN BROWN",
@@ -6216,7 +6906,8 @@
     "adj_time": 1843.16,
     "time_min": 1627.7,
     "rnk_blnd": 691,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 7
   },
   {
     "Name": "BRYNN TOWNSEND",
@@ -6225,7 +6916,8 @@
     "adj_time": 1855.74,
     "time_min": 1880.98,
     "rnk_blnd": 692,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "MAYA JANCA",
@@ -6234,7 +6926,8 @@
     "adj_time": 1862.65,
     "time_min": 1816.75,
     "rnk_blnd": 693,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "JOSALIN TURNBAUGH",
@@ -6243,7 +6936,8 @@
     "adj_time": 1862.84,
     "time_min": 1718.23,
     "rnk_blnd": 694,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "TAYTUM BANKS",
@@ -6252,7 +6946,8 @@
     "adj_time": 1863.7,
     "time_min": 1740.17,
     "rnk_blnd": 695,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ADDISON KROGSTAD",
@@ -6261,7 +6956,8 @@
     "adj_time": 1864.73,
     "time_min": 1760.94,
     "rnk_blnd": 696,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "ROYALE GHOST",
@@ -6270,7 +6966,8 @@
     "adj_time": 1968.79,
     "time_min": 2080.19,
     "rnk_blnd": 697,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "VANESSA GUTIERREZ",
@@ -6279,7 +6976,8 @@
     "adj_time": 1868.13,
     "time_min": 1699.97,
     "rnk_blnd": 698,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "EMERSON KURKIEREWICZ",
@@ -6288,7 +6986,8 @@
     "adj_time": 1884.15,
     "time_min": 1909.77,
     "rnk_blnd": 699,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 12
   },
   {
     "Name": "SIENNA DEKAM",
@@ -6297,7 +6996,8 @@
     "adj_time": 1889.86,
     "time_min": 1915.56,
     "rnk_blnd": 700,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "KENZI RED OWL",
@@ -6306,7 +7006,8 @@
     "adj_time": 1883.14,
     "time_min": 1806,
     "rnk_blnd": 701,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 11
   },
   {
     "Name": "AUDRINA ADAMS",
@@ -6315,7 +7016,8 @@
     "adj_time": 1929.68,
     "time_min": 1864.9,
     "rnk_blnd": 702,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 10
   },
   {
     "Name": "KEONDRA WILSON",
@@ -6324,7 +7026,8 @@
     "adj_time": 1966.69,
     "time_min": 1993.44,
     "rnk_blnd": 703,
-    "school_class": "AA"
+    "school_class": "AA",
+    "grade": 9
   },
   {
     "Name": "PHOENIX RED ELK",
@@ -6333,7 +7036,8 @@
     "adj_time": 1920.16,
     "time_min": 1999.38,
     "rnk_blnd": 704,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "JOEY SWARTZENDRUBER",
@@ -6342,7 +7046,8 @@
     "adj_time": 1992.39,
     "time_min": 1850.8,
     "rnk_blnd": 705,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "MARLEE HAYES",
@@ -6351,7 +7056,8 @@
     "adj_time": 1998.2,
     "time_min": null,
     "rnk_blnd": 706,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "ALYSSA KIRSCHENMAN",
@@ -6360,7 +7066,8 @@
     "adj_time": 2187.15,
     "time_min": 2124.09,
     "rnk_blnd": 707,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   },
   {
     "Name": "JOSIE WEIBE",
@@ -6369,7 +7076,8 @@
     "adj_time": 2215.06,
     "time_min": 2043.73,
     "rnk_blnd": 708,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 9
   },
   {
     "Name": "CADENCE GOOD SOLDIER",
@@ -6378,7 +7086,8 @@
     "adj_time": 2229,
     "time_min": 1921.46,
     "rnk_blnd": 709,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "PHOENIX RED OWL",
@@ -6387,7 +7096,8 @@
     "adj_time": 2311.05,
     "time_min": null,
     "rnk_blnd": 710,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 9
   },
   {
     "Name": "SEDONA BLUE COAT",
@@ -6396,7 +7106,8 @@
     "adj_time": 2376.59,
     "time_min": 2362.2,
     "rnk_blnd": 711,
-    "school_class": "A"
+    "school_class": "A",
+    "grade": 10
   },
   {
     "Name": "LEILIA PLENTY WOUNDS",
@@ -6405,6 +7116,7 @@
     "adj_time": 2569.48,
     "time_min": 2660.66,
     "rnk_blnd": 712,
-    "school_class": "B"
+    "school_class": "B",
+    "grade": 12
   }
 ]

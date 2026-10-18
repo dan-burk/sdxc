@@ -11,6 +11,7 @@ export interface Runner {
   time_min: number | null // 5K PR in seconds despite the name; null = no 5K time yet
   rnk_blnd: number // overall rank, unique per file
   school_class: SchoolClass
+  grade: number | null
 }
 
 export interface School {
@@ -26,10 +27,10 @@ export interface StateFinisher {
   School: string
   school_class: SchoolClass
   race: SchoolClass
-  place: number
+  place: number | null // null until results are in
   predicted: number | null // place predicted by the prior week's rankings; null = no race before state
   predicted_pr: number | null // place predicted by PRs going in; null = no 5K PR
-  state_time: number // seconds
+  state_time: number | null // seconds; null until results are in
   rnk_blnd: number | null // ranking going into state
   adj_time: number | null
   time_min: number | null
@@ -53,7 +54,7 @@ export interface RaceResult {
 export interface StateTeam {
   race: SchoolClass
   School: string
-  place: number
+  place: number | null // null until results are in; score and places are predicted until then
   predicted: number // from the rankings going in (adjusted time + head-to-head)
   predicted_pr: number // from each runner's PR going in
   score: number

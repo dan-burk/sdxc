@@ -35,7 +35,7 @@ export function StateTeams({ gender, year, cls, search }: TeamsProps) {
           key={`${gender}-${year}-${race}`}
           race={race}
           showClass={races.length > 1}
-          teams={data.filter(t => t.race === race).sort((a, b) => a.place - b.place)}
+          teams={data.filter(t => t.race === race).sort((a, b) => (a.place ?? a.predicted) - (b.place ?? b.predicted))}
           search={search.trim().toLowerCase()}
         />
       ))}
@@ -55,6 +55,7 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
       <div className="flex items-center gap-2 px-4 py-3 font-display text-lg font-semibold">
         {showClass && <ClassBadge cls={race} />}
         {teams.length} Teams
+        {teams.every(t => t.place === null) && <span className="ml-auto font-sans text-xs font-normal text-muted">Places and score are predicted</span>}
       </div>
       <div className="overflow-x-auto">
         <table className="w-full text-sm">
@@ -69,19 +70,19 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
           </thead>
           <tbody className="divide-y divide-border">
             {shown.map(t => {
-              const diff = t.predicted - t.place
+              const diff = t.place === null ? null : t.predicted - t.place
               return (
                 <tr key={t.School} className="transition-colors hover:bg-surface-2/60">
                   <td className="px-2 py-2 sm:px-4">
                     <div className="flex items-center gap-2">
-                      <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${MEDAL[t.place - 1] ?? ''}`} />
-                      <span className="w-6 text-right font-display text-lg font-semibold tabular-nums">{t.place}</span>
+                      <span className={`h-1.5 w-1.5 shrink-0 rounded-full ${t.place ? MEDAL[t.place - 1] ?? '' : ''}`} />
+                      <span className="w-6 text-right font-display text-lg font-semibold tabular-nums">{t.place ?? <span className="text-muted">—</span>}</span>
                     </div>
                   </td>
                   <td className="px-2 py-2">
                     <div className="flex items-center gap-2">
-                      <span className="w-6 text-right tabular-nums text-muted">{t.predicted}</span>
-                      <Delta value={diff} title={diff === 0 ? 'Finished exactly as predicted' : diff > 0 ? `Beat the prediction by ${diff}` : `${-diff} behind the prediction`} />
+                      <span className={`w-6 text-right tabular-nums ${diff === null ? 'font-semibold' : 'text-muted'}`}>{t.predicted}</span>
+                      {diff !== null && <Delta value={diff} title={diff === 0 ? 'Finished exactly as predicted' : diff > 0 ? `Beat the prediction by ${diff}` : `${-diff} behind the prediction`} />}
                     </div>
                   </td>
                   <td className="px-2 py-2 font-medium">{t.School}</td>
@@ -116,10 +117,10 @@ interface ErrorProps {
 }
 
 // Mean |predicted - place| over the rows that have a prediction
-function mae<T extends { place: number }>(rows: T[], predicted: (r: T) => number | null | undefined) {
+function mae<T extends { place: number | null }>(rows: T[], predicted: (r: T) => number | null) {
   const errors = rows.flatMap(r => {
     const p = predicted(r)
-    return p == null ? [] : [Math.abs(p - r.place)]
+    return p === null || r.place === null ? [] : [Math.abs(p - r.place)]
   })
   return errors.length ? errors.reduce((s, e) => s + e, 0) / errors.length : null
 }
@@ -147,7 +148,9 @@ export function PredictionError({ gender, year, cls, stateMeets }: ErrorProps) {
       teamAdj: mae(races, t => t.predicted),
     }
   })
+  // Before this year's meet, the bullets fall back to the last meet with results
   const current = rows.find(r => r.year === year)
+  const latest = [...rows].reverse().find(r => r.indAdj !== null)
 
   // Green marks the better metric on this year's row
   const cell = (v: number | null, other: number | null, isCurrent: boolean, divider = false) => (
@@ -194,13 +197,14 @@ export function PredictionError({ gender, year, cls, stateMeets }: ErrorProps) {
           </tbody>
         </table>
       </div>
-      {current && (
+      {latest && (
         <ul className="list-disc space-y-1 border-t border-border py-3 pl-8 pr-4 text-xs text-muted">
-          {current.indTime !== null && (
-            <li>Ranking on Time: runners finished on average within <b className="text-text">{fmt(current.indTime)}</b> places of their predicted finish.</li>
+          {latest !== current && <li>{year} fills in after the meet. Last year ({latest.year}):</li>}
+          {latest.indTime !== null && (
+            <li>Ranking on Time: runners finished on average within <b className="text-text">{fmt(latest.indTime)}</b> places of their predicted finish.</li>
           )}
-          {current.indAdj !== null && (
-            <li>Ranking on Adjusted Time: runners finished on average within <b className="text-text">{fmt(current.indAdj)}</b> places of their predicted finish.</li>
+          {latest.indAdj !== null && (
+            <li>Ranking on Adjusted Time: runners finished on average within <b className="text-text">{fmt(latest.indAdj)}</b> places of their predicted finish.</li>
           )}
         </ul>
       )}
