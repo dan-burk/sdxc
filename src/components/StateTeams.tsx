@@ -55,7 +55,6 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
       <div className="flex items-center gap-2 px-4 py-3 font-display text-lg font-semibold">
         {showClass && <ClassBadge cls={race} />}
         {teams.length} Teams
-        {teams.every(t => t.place === null) && <span className="ml-auto font-sans text-xs font-normal text-muted">Places and score are predicted</span>}
       </div>
       <div className="overflow-x-auto">
         <table className="w-full text-sm">
@@ -87,10 +86,10 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
                   </td>
                   <td className="px-2 py-2 font-medium">{t.School}</td>
                   <td className="whitespace-nowrap px-2 py-2 text-xs tabular-nums text-muted">
-                    {t.scorers.join('-')}
-                    {t.displacers.length > 0 && <span title="Displacers"> ({t.displacers.join(', ')})</span>}
+                    {t.scorers?.join('-')}
+                    {!!t.displacers?.length && <span title="Displacers"> ({t.displacers.join(', ')})</span>}
                   </td>
-                  <td className="px-2 py-2 text-right font-semibold tabular-nums sm:px-4">{t.score}</td>
+                  <td className="px-2 py-2 text-right font-semibold tabular-nums sm:px-4">{t.score ?? <span className="text-muted">—</span>}</td>
                 </tr>
               )
             })}

@@ -270,4 +270,4 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
 }
 
 const Grade = ({ grade }: { grade: number | null }) =>
-  grade === null ? null : <span className="text-xs font-normal text-muted">Gr {grade}</span>
+  grade === null ? null : <span className="text-xs font-normal text-muted">{grade}</span>

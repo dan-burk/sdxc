@@ -54,12 +54,12 @@ export interface RaceResult {
 export interface StateTeam {
   race: SchoolClass
   School: string
-  place: number | null // null until results are in; score and places are predicted until then
+  place: number | null // null until results are in
   predicted: number // from the rankings going in (adjusted time + head-to-head)
   predicted_pr: number // from each runner's PR going in
-  score: number
-  scorers: number[] // team places, numbered among scoring-team runners only
-  displacers: number[] // may be empty
+  score: number | null // null until results are in, like scorers and displacers
+  scorers: number[] | null // team places, numbered among scoring-team runners only
+  displacers: number[] | null // may be empty
 }
 
 export interface Manifest {

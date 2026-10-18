@@ -1,0 +1,512 @@
+[
+  {
+    "race": "A",
+    "School": "SF Christian",
+    "place": null,
+    "predicted": 1,
+    "predicted_pr": 1,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Custer",
+    "place": null,
+    "predicted": 2,
+    "predicted_pr": 4,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Vermillion",
+    "place": null,
+    "predicted": 3,
+    "predicted_pr": 2,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Cheyenne-Eagle Butte",
+    "place": null,
+    "predicted": 4,
+    "predicted_pr": 3,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "West Central",
+    "place": null,
+    "predicted": 5,
+    "predicted_pr": 6,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Belle Fourche",
+    "place": null,
+    "predicted": 6,
+    "predicted_pr": 8,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Lennox",
+    "place": null,
+    "predicted": 7,
+    "predicted_pr": 5,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Deuel",
+    "place": null,
+    "predicted": 8,
+    "predicted_pr": 11,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Elk Point-Jefferson",
+    "place": null,
+    "predicted": 9,
+    "predicted_pr": 7,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Hill City",
+    "place": null,
+    "predicted": 10,
+    "predicted_pr": 10,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Flandreau",
+    "place": null,
+    "predicted": 11,
+    "predicted_pr": 12,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Sisseton",
+    "place": null,
+    "predicted": 12,
+    "predicted_pr": 13,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Chamberlain",
+    "place": null,
+    "predicted": 13,
+    "predicted_pr": 9,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Aberdeen Roncalli",
+    "place": null,
+    "predicted": 14,
+    "predicted_pr": 15,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "A",
+    "School": "Platte-Geddes",
+    "place": null,
+    "predicted": 15,
+    "predicted_pr": 14,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "SF Lincoln",
+    "place": null,
+    "predicted": 1,
+    "predicted_pr": 2,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "SF Washington",
+    "place": null,
+    "predicted": 2,
+    "predicted_pr": 1,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Brandon Valley",
+    "place": null,
+    "predicted": 3,
+    "predicted_pr": 4,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Rapid City Stevens",
+    "place": null,
+    "predicted": 4,
+    "predicted_pr": 5,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Spearfish",
+    "place": null,
+    "predicted": 5,
+    "predicted_pr": 3,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Rapid City Central",
+    "place": null,
+    "predicted": 6,
+    "predicted_pr": 6,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Yankton",
+    "place": null,
+    "predicted": 7,
+    "predicted_pr": 10,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Harrisburg",
+    "place": null,
+    "predicted": 8,
+    "predicted_pr": 9,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "O'Gorman",
+    "place": null,
+    "predicted": 9,
+    "predicted_pr": 11,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "SF Roosevelt",
+    "place": null,
+    "predicted": 10,
+    "predicted_pr": 7,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Douglas",
+    "place": null,
+    "predicted": 11,
+    "predicted_pr": 8,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Brookings",
+    "place": null,
+    "predicted": 12,
+    "predicted_pr": 14,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Pierre T.F. Riggs",
+    "place": null,
+    "predicted": 13,
+    "predicted_pr": 16,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Tea Area",
+    "place": null,
+    "predicted": 14,
+    "predicted_pr": 13,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Aberdeen Central",
+    "place": null,
+    "predicted": 15,
+    "predicted_pr": 15,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Sturgis Brown",
+    "place": null,
+    "predicted": 16,
+    "predicted_pr": 12,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Watertown",
+    "place": null,
+    "predicted": 17,
+    "predicted_pr": 17,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "SF Jefferson",
+    "place": null,
+    "predicted": 18,
+    "predicted_pr": 18,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "AA",
+    "School": "Huron",
+    "place": null,
+    "predicted": 19,
+    "predicted_pr": 19,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Mitchell Christian",
+    "place": null,
+    "predicted": 1,
+    "predicted_pr": 1,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "James Valley Christian",
+    "place": null,
+    "predicted": 2,
+    "predicted_pr": 5,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Freeman",
+    "place": null,
+    "predicted": 3,
+    "predicted_pr": 4,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "White River",
+    "place": null,
+    "predicted": 4,
+    "predicted_pr": 3,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Lemmon",
+    "place": null,
+    "predicted": 5,
+    "predicted_pr": 7,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "North Central",
+    "place": null,
+    "predicted": 6,
+    "predicted_pr": 2,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Frederick Area",
+    "place": null,
+    "predicted": 7,
+    "predicted_pr": 11,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "SF Lutheran",
+    "place": null,
+    "predicted": 8,
+    "predicted_pr": 12,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Philip",
+    "place": null,
+    "predicted": 9,
+    "predicted_pr": 6,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Avon",
+    "place": null,
+    "predicted": 10,
+    "predicted_pr": 10,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Northwestern",
+    "place": null,
+    "predicted": 11,
+    "predicted_pr": 13,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Highmore-Harrold",
+    "place": null,
+    "predicted": 12,
+    "predicted_pr": 8,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "St. Mary's",
+    "place": null,
+    "predicted": 13,
+    "predicted_pr": 16,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Crow Creek",
+    "place": null,
+    "predicted": 14,
+    "predicted_pr": 9,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Irene-Wakonda",
+    "place": null,
+    "predicted": 15,
+    "predicted_pr": 17,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Arlington",
+    "place": null,
+    "predicted": 16,
+    "predicted_pr": 15,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  },
+  {
+    "race": "B",
+    "School": "Canistota",
+    "place": null,
+    "predicted": 17,
+    "predicted_pr": 14,
+    "score": null,
+    "scorers": null,
+    "displacers": null
+  }
+]
