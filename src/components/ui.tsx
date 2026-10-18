@@ -87,6 +87,11 @@ export function Delta({ value, title }: { value: number; title: string }) {
   )
 }
 
+// Small muted grade after a runner's name
+export function Grade({ grade }: { grade: number | null | undefined }) {
+  return grade == null ? null : <span className="text-xs font-normal text-muted">{grade}</span>
+}
+
 export function ErrorCard({ message, onRetry }: { message: string; onRetry: () => void }) {
   return (
     <div className="flex items-center justify-between gap-4 rounded border border-down/30 bg-down/5 p-4 text-sm text-down">

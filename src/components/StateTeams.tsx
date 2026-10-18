@@ -1,7 +1,8 @@
 import { useState } from 'react'
 import { getStateResults, getStateTeams } from '../data'
 import { useAsync } from '../hooks'
-import type { Gender, SchoolClass, StateFinisher, StateTeam } from '../types'
+import { simulateRace } from '../scoring'
+import type { Gender, Runner, SchoolClass, StateFinisher, StateTeam } from '../types'
 import type { ClassFilter } from './FilterBar'
 import { ClassBadge, Delta, ErrorCard } from './ui'
 
@@ -19,13 +20,24 @@ interface TeamsProps {
   year: number
   cls: ClassFilter
   search: string
+  finishers?: StateFinisher[] // the state meet file, already loaded by StateResults
 }
 
+// Simulated meet: score a race's entrants in their predicted order, as the race simulator does
+function simulate(finishers: StateFinisher[], race: SchoolClass) {
+  const entrants = finishers.filter(r => r.race === race)
+  // Runners with no prediction go last
+  const runners = entrants.map((r, i) => ({ ...r, rnk_blnd: r.predicted ?? entrants.length + i })) as unknown as Runner[]
+  const { standings } = simulateRace(runners, [...new Set(entrants.map(r => r.School))], race)
+  return new Map(standings.map(t => [t.school, t]))
+}
+type Simulated = ReturnType<typeof simulate>
+
 // Team places at state, one card per race shown
-export function StateTeams({ gender, year, cls, search }: TeamsProps) {
+export function StateTeams({ gender, year, cls, search, finishers }: TeamsProps) {
   const { data, loading, error, retry } = useAsync(() => getStateTeams(gender, year), [gender, year])
   if (error) return <ErrorCard message={`Couldn't load the ${year} ${gender} state team results.`} onRetry={retry} />
-  if (loading || !data) return <div className="card h-48 animate-pulse" />
+  if (loading || !data || !finishers) return <div className="card h-48 animate-pulse" />
 
   const races = RACES.filter(r => cls === 'All' || r === cls)
   return (
@@ -35,7 +47,8 @@ export function StateTeams({ gender, year, cls, search }: TeamsProps) {
           key={`${gender}-${year}-${race}`}
           race={race}
           showClass={races.length > 1}
-          teams={data.filter(t => t.race === race).sort((a, b) => (a.place ?? a.predicted) - (b.place ?? b.predicted))}
+          teams={data.filter(t => t.race === race)}
+          sim={simulate(finishers, race)}
           search={search.trim().toLowerCase()}
         />
       ))}
@@ -43,9 +56,12 @@ export function StateTeams({ gender, year, cls, search }: TeamsProps) {
   )
 }
 
-function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showClass: boolean; teams: StateTeam[]; search: string }) {
+function TeamCard({ race, showClass, teams: unsorted, sim, search }: { race: SchoolClass; showClass: boolean; teams: StateTeam[]; sim: Simulated; search: string }) {
   const [showAll, setShowAll] = useState(false)
-  if (!teams.length) return null
+  if (!unsorted.length) return null
+  // Actual order once results are in, predicted order before. Predicted rank comes from the file;
+  // the simulation only supplies predicted score and places
+  const teams = [...unsorted].sort((a, b) => (a.place ?? a.predicted) - (b.place ?? b.predicted))
   // A search shows every matching team; otherwise the top 8
   const matches = search ? teams.filter(t => t.School.toLowerCase().includes(search)) : teams
   const shown = showAll || search ? matches : matches.slice(0, TOP)
@@ -64,12 +80,15 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
               <th className="label w-20 px-2 py-2.5 text-left">Pred</th>
               <th className="label px-2 py-2.5 text-left">Team</th>
               <th className="label px-2 py-2.5 text-left">Places</th>
+              <th className="label px-2 py-2.5 text-right">Pred Score</th>
               <th className="label px-2 py-2.5 text-right sm:px-4">Score</th>
             </tr>
           </thead>
           <tbody className="divide-y divide-border">
             {shown.map(t => {
+              const s = sim.get(t.School)
               const diff = t.place === null ? null : t.predicted - t.place
+              const scorers = t.scorers ?? s?.scorers, displacers = t.displacers ?? s?.displacers
               return (
                 <tr key={t.School} className="transition-colors hover:bg-surface-2/60">
                   <td className="px-2 py-2 sm:px-4">
@@ -86,15 +105,16 @@ function TeamCard({ race, showClass, teams, search }: { race: SchoolClass; showC
                   </td>
                   <td className="px-2 py-2 font-medium">{t.School}</td>
                   <td className="whitespace-nowrap px-2 py-2 text-xs tabular-nums text-muted">
-                    {t.scorers?.join('-')}
-                    {!!t.displacers?.length && <span title="Displacers"> ({t.displacers.join(', ')})</span>}
+                    {scorers?.join('-')}
+                    {!!displacers?.length && <span title="Displacers"> ({displacers.join(', ')})</span>}
                   </td>
+                  <td className="px-2 py-2 text-right tabular-nums text-muted">{s?.score ?? '—'}</td>
                   <td className="px-2 py-2 text-right font-semibold tabular-nums sm:px-4">{t.score ?? <span className="text-muted">—</span>}</td>
                 </tr>
               )
             })}
             {shown.length === 0 && (
-              <tr><td colSpan={5} className="px-4 py-8 text-center text-muted">No teams match.</td></tr>
+              <tr><td colSpan={6} className="px-4 py-8 text-center text-muted">No teams match.</td></tr>
             )}
           </tbody>
         </table>

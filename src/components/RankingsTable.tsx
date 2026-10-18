@@ -4,7 +4,7 @@ import { formatTime, ordinal, titleCase } from '../format'
 import { useAsync } from '../hooks'
 import type { Gender, RaceResult, Runner } from '../types'
 import type { ClassFilter } from './FilterBar'
-import { ClassBadge, Delta, ErrorCard } from './ui'
+import { ClassBadge, Delta, ErrorCard, Grade } from './ui'
 
 type SortKey = 'rank' | 'name' | 'school' | 'class' | 'time' | 'score'
 type Move = number | 'new' | null // null when there's no previous week to compare
@@ -268,6 +268,3 @@ export function RankingsTable({ gender, year, week, cls }: Props) {
     </section>
   )
 }
-
-const Grade = ({ grade }: { grade: number | null }) =>
-  grade === null ? null : <span className="text-xs font-normal text-muted">{grade}</span>

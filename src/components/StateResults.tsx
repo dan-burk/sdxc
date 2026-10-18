@@ -1,11 +1,11 @@
 import { useMemo, useState } from 'react'
-import { getStateResults } from '../data'
+import { getRankings, getStateResults } from '../data'
 import { formatTime, titleCase } from '../format'
 import { useAsync } from '../hooks'
 import type { Gender, StateFinisher } from '../types'
 import type { ClassFilter } from './FilterBar'
 import { PredictionError, StateTeams, type StateMeet } from './StateTeams'
-import { ClassBadge, Delta, ErrorCard } from './ui'
+import { ClassBadge, Delta, ErrorCard, Grade } from './ui'
 
 const RACE_ORDER = { AA: 0, A: 1, B: 2 }
 const TOP = 25 // finishers shown per race until "Show all"
@@ -33,7 +33,13 @@ interface Props {
 export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
   const [search, setSearch] = useState('')
   const [showAll, setShowAll] = useState(false)
-  const { data, loading, error, retry } = useAsync(() => getStateResults(gender, year, week), [gender, year, week])
+  // The week before state has each runner's grade; ids are stable within a season
+  const { data: loaded, loading, error, retry } = useAsync(
+    () => Promise.all([getStateResults(gender, year, week), getRankings(gender, year, week - 1)]),
+    [gender, year, week],
+  )
+  const data = loaded?.[0]
+  const grades = useMemo(() => new Map(loaded?.[1].map(r => [r.id, r.grade])), [loaded])
 
   const rows = useMemo(() => {
     const q = search.trim().toLowerCase()
@@ -72,7 +78,7 @@ export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
 
       <h2 className="font-display text-xl font-semibold">Teams</h2>
       <div className="grid items-start gap-4 lg:grid-cols-[1.1fr_1fr]">
-        <StateTeams gender={gender} year={year} cls={cls} search={search} />
+        <StateTeams gender={gender} year={year} cls={cls} search={search} finishers={data} />
         <PredictionError gender={gender} year={year} cls={cls} stateMeets={stateMeets} />
       </div>
 
@@ -130,7 +136,7 @@ export function StateResults({ gender, year, week, cls, stateMeets }: Props) {
                     )}
                   </td>
                   <td className="px-2 py-2.5 sm:px-4">
-                    <div className="font-medium">{titleCase(r.Name)}</div>
+                    <div className="font-medium">{titleCase(r.Name)} <Grade grade={grades.get(r.id)} /></div>
                     <div className="text-xs text-muted sm:hidden">{r.School} · {r.race}</div>
                   </td>
                   <td className="hidden px-3 py-2.5 sm:table-cell sm:px-4">{r.School}</td>
