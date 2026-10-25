@@ -2,521 +2,511 @@
   {
     "race": "A",
     "School": "SF Christian",
-    "place": null,
+    "place": 1,
     "predicted": 1,
     "predicted_pr": 1,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 22,
+    "scorers": [1, 4, 5, 12],
+    "displacers": [13, 37]
   },
   {
     "race": "A",
     "School": "West Central",
-    "place": null,
+    "place": 2,
     "predicted": 2,
     "predicted_pr": 2,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "A",
-    "School": "Lennox",
-    "place": null,
-    "predicted": 3,
-    "predicted_pr": 3,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 61,
+    "scorers": [6, 8, 18, 29],
+    "displacers": [71, 78]
   },
   {
     "race": "A",
     "School": "Belle Fourche",
-    "place": null,
+    "place": 3,
     "predicted": 4,
     "predicted_pr": 5,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 80,
+    "scorers": [14, 15, 19, 32],
+    "displacers": [48, 73]
   },
   {
     "race": "A",
     "School": "Aberdeen Roncalli",
-    "place": null,
+    "place": 4,
     "predicted": 5,
     "predicted_pr": 9,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 87,
+    "scorers": [10, 22, 24, 31],
+    "displacers": [75, 80]
   },
   {
     "race": "A",
     "School": "Chamberlain",
-    "place": null,
+    "place": 5,
     "predicted": 6,
     "predicted_pr": 4,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 108,
+    "scorers": [3, 26, 39, 40],
+    "displacers": [44, 57]
+  },
+  {
+    "race": "A",
+    "School": "Lennox",
+    "place": 6,
+    "predicted": 3,
+    "predicted_pr": 3,
+    "score": 114,
+    "scorers": [20, 25, 28, 41],
+    "displacers": [59, 61]
   },
   {
     "race": "A",
     "School": "Milbank",
-    "place": null,
+    "place": 7,
     "predicted": 7,
     "predicted_pr": 6,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "A",
-    "School": "Hill City",
-    "place": null,
-    "predicted": 8,
-    "predicted_pr": 12,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "A",
-    "School": "Dakota Valley",
-    "place": null,
-    "predicted": 9,
-    "predicted_pr": 8,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "A",
-    "School": "Custer",
-    "place": null,
-    "predicted": 10,
-    "predicted_pr": 11,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "A",
-    "School": "Beresford",
-    "place": null,
-    "predicted": 11,
-    "predicted_pr": 7,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 122,
+    "scorers": [9, 17, 47, 49],
+    "displacers": [65, 66]
   },
   {
     "race": "A",
     "School": "Sioux Valley",
-    "place": null,
+    "place": 8,
     "predicted": 12,
     "predicted_pr": 10,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 130,
+    "scorers": [11, 34, 35, 50],
+    "displacers": [56, 62]
+  },
+  {
+    "race": "A",
+    "School": "Hill City",
+    "place": 9,
+    "predicted": 8,
+    "predicted_pr": 12,
+    "score": 140,
+    "scorers": [27, 33, 38, 42],
+    "displacers": [51, 54]
   },
   {
     "race": "A",
     "School": "Platte-Geddes",
-    "place": null,
+    "place": 10,
     "predicted": 13,
     "predicted_pr": 13,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 149,
+    "scorers": [21, 30, 46, 52],
+    "displacers": [63, 76]
   },
   {
     "race": "A",
-    "School": "Florence/Henry",
-    "place": null,
-    "predicted": 14,
-    "predicted_pr": 14,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "School": "Dakota Valley",
+    "place": 11,
+    "predicted": 9,
+    "predicted_pr": 8,
+    "score": 149,
+    "scorers": [2, 23, 60, 64],
+    "displacers": [69, 70]
+  },
+  {
+    "race": "A",
+    "School": "Beresford",
+    "place": 12,
+    "predicted": 11,
+    "predicted_pr": 7,
+    "score": 150,
+    "scorers": [16, 36, 43, 55],
+    "displacers": [67, 83]
+  },
+  {
+    "race": "A",
+    "School": "Custer",
+    "place": 13,
+    "predicted": 10,
+    "predicted_pr": 11,
+    "score": 177,
+    "scorers": [7, 45, 53, 72],
+    "displacers": [74, 77]
   },
   {
     "race": "A",
     "School": "Mount Vernon/Plankinton",
-    "place": null,
-    "predicted": 15,
-    "predicted_pr": 15,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "place": 14,
+    "predicted": 14,
+    "predicted_pr": 14,
+    "score": 286,
+    "scorers": [58, 68, 79, 81],
+    "displacers": [82, 84]
   },
   {
     "race": "AA",
     "School": "Harrisburg",
-    "place": null,
+    "place": 1,
     "predicted": 1,
     "predicted_pr": 1,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Rapid City Stevens",
-    "place": null,
-    "predicted": 2,
-    "predicted_pr": 3,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 41,
+    "scorers": [1, 2, 9, 13, 16],
+    "displacers": [38, 55]
   },
   {
     "race": "AA",
     "School": "SF Lincoln",
-    "place": null,
-    "predicted": 3,
+    "place": 2,
+    "predicted": 2,
     "predicted_pr": 2,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Brookings",
-    "place": null,
-    "predicted": 4,
-    "predicted_pr": 4,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Yankton",
-    "place": null,
-    "predicted": 5,
-    "predicted_pr": 8,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Rapid City Central",
-    "place": null,
-    "predicted": 6,
-    "predicted_pr": 6,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 71,
+    "scorers": [5, 8, 14, 19, 25],
+    "displacers": [36, 39]
   },
   {
     "race": "AA",
     "School": "O'Gorman",
-    "place": null,
-    "predicted": 7,
+    "place": 3,
+    "predicted": 6,
     "predicted_pr": 5,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 144,
+    "scorers": [12, 18, 20, 44, 50],
+    "displacers": [59, 112]
+  },
+  {
+    "race": "AA",
+    "School": "Yankton",
+    "place": 4,
+    "predicted": 8,
+    "predicted_pr": 8,
+    "score": 145,
+    "scorers": [7, 15, 17, 42, 64],
+    "displacers": [100]
+  },
+  {
+    "race": "AA",
+    "School": "Brookings",
+    "place": 5,
+    "predicted": 4,
+    "predicted_pr": 4,
+    "score": 148,
+    "scorers": [6, 23, 28, 31, 60],
+    "displacers": [67]
   },
   {
     "race": "AA",
     "School": "Watertown",
-    "place": null,
-    "predicted": 8,
+    "place": 6,
+    "predicted": 7,
     "predicted_pr": 7,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 155,
+    "scorers": [10, 21, 27, 34, 63],
+    "displacers": [66, 74]
+  },
+  {
+    "race": "AA",
+    "School": "Rapid City Stevens",
+    "place": 7,
+    "predicted": 3,
+    "predicted_pr": 3,
+    "score": 167,
+    "scorers": [3, 26, 40, 45, 53],
+    "displacers": [107]
+  },
+  {
+    "race": "AA",
+    "School": "Rapid City Central",
+    "place": 8,
+    "predicted": 5,
+    "predicted_pr": 6,
+    "score": 175,
+    "scorers": [24, 29, 33, 41, 48],
+    "displacers": [77, 81]
   },
   {
     "race": "AA",
     "School": "SF Washington",
-    "place": null,
+    "place": 9,
     "predicted": 9,
     "predicted_pr": 9,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 253,
+    "scorers": [22, 35, 37, 75, 84],
+    "displacers": [88, 89]
   },
   {
     "race": "AA",
     "School": "Spearfish",
-    "place": null,
+    "place": 10,
     "predicted": 10,
     "predicted_pr": 10,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Aberdeen Central",
-    "place": null,
-    "predicted": 11,
-    "predicted_pr": 12,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "Tea Area",
-    "place": null,
-    "predicted": 12,
-    "predicted_pr": 11,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 260,
+    "scorers": [4, 43, 46, 70, 97],
+    "displacers": [103, 108]
   },
   {
     "race": "AA",
     "School": "Brandon Valley",
-    "place": null,
+    "place": 11,
     "predicted": 13,
     "predicted_pr": 13,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 304,
+    "scorers": [30, 47, 72, 76, 79],
+    "displacers": [90, 98]
+  },
+  {
+    "race": "AA",
+    "School": "Aberdeen Central",
+    "place": 12,
+    "predicted": 11,
+    "predicted_pr": 12,
+    "score": 304,
+    "scorers": [11, 56, 65, 80, 92],
+    "displacers": [94, 96]
+  },
+  {
+    "race": "AA",
+    "School": "Tea Area",
+    "place": 13,
+    "predicted": 12,
+    "predicted_pr": 11,
+    "score": 309,
+    "scorers": [49, 54, 57, 71, 78],
+    "displacers": [91, 99]
   },
   {
     "race": "AA",
     "School": "Pierre T.F. Riggs",
-    "place": null,
+    "place": 14,
     "predicted": 14,
     "predicted_pr": 14,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 314,
+    "scorers": [32, 62, 68, 69, 83],
+    "displacers": [93, 101]
   },
   {
     "race": "AA",
     "School": "Mitchell",
-    "place": null,
+    "place": 15,
     "predicted": 15,
     "predicted_pr": 16,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "AA",
-    "School": "SF Roosevelt",
-    "place": null,
-    "predicted": 16,
-    "predicted_pr": 15,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 400,
+    "scorers": [51, 52, 82, 106, 109],
+    "displacers": []
   },
   {
     "race": "AA",
     "School": "Douglas",
-    "place": null,
+    "place": 16,
     "predicted": 17,
     "predicted_pr": 17,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 429,
+    "scorers": [61, 85, 86, 87, 110],
+    "displacers": []
+  },
+  {
+    "race": "AA",
+    "School": "SF Roosevelt",
+    "place": 17,
+    "predicted": 16,
+    "predicted_pr": 15,
+    "score": 432,
+    "scorers": [58, 73, 95, 102, 104],
+    "displacers": [105, 111]
   },
   {
     "race": "B",
     "School": "Ipswich",
-    "place": null,
+    "place": 1,
     "predicted": 1,
     "predicted_pr": 1,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Deubrook Area",
-    "place": null,
-    "predicted": 2,
-    "predicted_pr": 3,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 10,
+    "scorers": [2, 3, 5],
+    "displacers": [9, 14]
   },
   {
     "race": "B",
     "School": "Northwestern",
-    "place": null,
+    "place": 2,
     "predicted": 3,
     "predicted_pr": 5,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 33,
+    "scorers": [6, 8, 19],
+    "displacers": [78]
+  },
+  {
+    "race": "B",
+    "School": "Deubrook Area",
+    "place": 3,
+    "predicted": 2,
+    "predicted_pr": 3,
+    "score": 42,
+    "scorers": [1, 10, 31],
+    "displacers": [39, 53]
   },
   {
     "race": "B",
     "School": "Herreid/Selby Area",
-    "place": null,
+    "place": 4,
     "predicted": 4,
     "predicted_pr": 2,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Irene-Wakonda",
-    "place": null,
-    "predicted": 5,
-    "predicted_pr": 6,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Kimball/White Lake",
-    "place": null,
-    "predicted": 6,
-    "predicted_pr": 4,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Lemmon",
-    "place": null,
-    "predicted": 7,
-    "predicted_pr": 11,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Mitchell Christian",
-    "place": null,
-    "predicted": 8,
-    "predicted_pr": 8,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 63,
+    "scorers": [4, 16, 43],
+    "displacers": [52, 61]
   },
   {
     "race": "B",
     "School": "Philip",
-    "place": null,
+    "place": 5,
     "predicted": 9,
     "predicted_pr": 7,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 64,
+    "scorers": [13, 15, 36],
+    "displacers": [76, 86]
+  },
+  {
+    "race": "B",
+    "School": "Kimball/White Lake",
+    "place": 6,
+    "predicted": 6,
+    "predicted_pr": 4,
+    "score": 65,
+    "scorers": [11, 26, 28],
+    "displacers": [34, 68]
+  },
+  {
+    "race": "B",
+    "School": "Irene-Wakonda",
+    "place": 7,
+    "predicted": 5,
+    "predicted_pr": 6,
+    "score": 69,
+    "scorers": [12, 22, 35],
+    "displacers": [64, 87]
+  },
+  {
+    "race": "B",
+    "School": "Lemmon",
+    "place": 8,
+    "predicted": 7,
+    "predicted_pr": 11,
+    "score": 70,
+    "scorers": [17, 24, 29],
+    "displacers": [32, 46]
+  },
+  {
+    "race": "B",
+    "School": "Mitchell Christian",
+    "place": 9,
+    "predicted": 8,
+    "predicted_pr": 8,
+    "score": 76,
+    "scorers": [7, 21, 48],
+    "displacers": [74, 81]
   },
   {
     "race": "B",
     "School": "Warner",
-    "place": null,
+    "place": 10,
     "predicted": 10,
     "predicted_pr": 10,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 80,
+    "scorers": [20, 23, 37],
+    "displacers": []
   },
   {
     "race": "B",
     "School": "Burke",
-    "place": null,
+    "place": 11,
     "predicted": 11,
     "predicted_pr": 12,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Gettysburg",
-    "place": null,
-    "predicted": 12,
-    "predicted_pr": 9,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Colman-Egan",
-    "place": null,
-    "predicted": 13,
-    "predicted_pr": 19,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Centerville",
-    "place": null,
-    "predicted": 14,
-    "predicted_pr": 18,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Newell",
-    "place": null,
-    "predicted": 15,
-    "predicted_pr": 16,
-    "score": null,
-    "scorers": null,
-    "displacers": null
-  },
-  {
-    "race": "B",
-    "School": "Arlington",
-    "place": null,
-    "predicted": 16,
-    "predicted_pr": 17,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 109,
+    "scorers": [30, 38, 41],
+    "displacers": [45, 59]
   },
   {
     "race": "B",
     "School": "Miller",
-    "place": null,
+    "place": 12,
     "predicted": 17,
     "predicted_pr": 14,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 127,
+    "scorers": [27, 44, 56],
+    "displacers": []
   },
   {
     "race": "B",
-    "School": "Jones County",
-    "place": null,
-    "predicted": 18,
-    "predicted_pr": 20,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "School": "Newell",
+    "place": 13,
+    "predicted": 15,
+    "predicted_pr": 16,
+    "score": 131,
+    "scorers": [18, 33, 80],
+    "displacers": [84]
+  },
+  {
+    "race": "B",
+    "School": "Centerville",
+    "place": 14,
+    "predicted": 14,
+    "predicted_pr": 18,
+    "score": 162,
+    "scorers": [50, 54, 58],
+    "displacers": [63, 77]
+  },
+  {
+    "race": "B",
+    "School": "Colman-Egan",
+    "place": 15,
+    "predicted": 13,
+    "predicted_pr": 19,
+    "score": 163,
+    "scorers": [40, 57, 66],
+    "displacers": [82]
+  },
+  {
+    "race": "B",
+    "School": "Gettysburg",
+    "place": 16,
+    "predicted": 12,
+    "predicted_pr": 9,
+    "score": 168,
+    "scorers": [42, 55, 71],
+    "displacers": [75, 85]
   },
   {
     "race": "B",
     "School": "North Central",
-    "place": null,
+    "place": 17,
     "predicted": 19,
     "predicted_pr": 13,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 169,
+    "scorers": [49, 51, 69],
+    "displacers": [72, 79]
+  },
+  {
+    "race": "B",
+    "School": "Arlington",
+    "place": 18,
+    "predicted": 16,
+    "predicted_pr": 17,
+    "score": 173,
+    "scorers": [25, 65, 83],
+    "displacers": []
+  },
+  {
+    "race": "B",
+    "School": "Jones County",
+    "place": 19,
+    "predicted": 18,
+    "predicted_pr": 20,
+    "score": 184,
+    "scorers": [47, 67, 70],
+    "displacers": []
   },
   {
     "race": "B",
     "School": "Highmore-Harrold",
-    "place": null,
+    "place": 20,
     "predicted": 20,
     "predicted_pr": 15,
-    "score": null,
-    "scorers": null,
-    "displacers": null
+    "score": 195,
+    "scorers": [60, 62, 73],
+    "displacers": []
   }
 ]
